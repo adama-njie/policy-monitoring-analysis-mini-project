@@ -16,6 +16,7 @@ import plotly.graph_objects as go
 # Added this code because I want to use the dashboard in Streamlit Cloud,
 # which requires all imports to be at the top level.
 #---------------------------------------------------------------------------
+""" 
 import subprocess
 import sys
 
@@ -29,6 +30,7 @@ def download_spacy_model():
 
 # Run on startup
 download_spacy_model()
+"""
 #---------------------------------------------------------------------------
 
 # Page configuration
