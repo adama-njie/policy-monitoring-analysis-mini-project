@@ -1,0 +1,85 @@
+NAMED ENTITY RECOGNITION SUMMARY
+================================================================================
+
+OVERALL STATISTICS
+--------------------------------------------------------------------------------
+Total Entities Extracted: 16272
+Documents Processed: 20
+Average Entities per Document: 813.6
+
+ENTITY TYPES
+--------------------------------------------------------------------------------
+  ORG: 4237 (1559 unique)
+  CARDINAL: 3982 (1043 unique)
+  DATE: 2693 (805 unique)
+  PERSON: 1707 (904 unique)
+  GPE: 1206 (412 unique)
+  LAW: 467 (221 unique)
+  PERCENT: 466 (272 unique)
+  NORP: 350 (91 unique)
+  ORDINAL: 298 (19 unique)
+  PRODUCT: 259 (132 unique)
+  LOC: 215 (43 unique)
+  QUANTITY: 111 (91 unique)
+  WORK_OF_ART: 96 (84 unique)
+  MONEY: 90 (77 unique)
+  EVENT: 43 (17 unique)
+  TIME: 26 (10 unique)
+  FAC: 22 (19 unique)
+  LANGUAGE: 4 (1 unique)
+
+
+TOP ORGANIZATIONS
+--------------------------------------------------------------------------------
+  EU: 720
+  Commission: 201
+  GHG: 162
+  the European Parliament: 105
+  EC: 91
+  Council: 59
+  Union: 54
+  CBAM: 49
+  European Commission: 43
+  PtL: 38
+
+
+TOP LOCATIONS
+--------------------------------------------------------------------------------
+  Germany: 173
+  Member States: 57
+  China: 36
+  France: 30
+  Norway: 22
+  Denmark: 22
+  Spain: 22
+  Portugal: 21
+  UK: 19
+  Paris: 17
+
+
+POLICY INSTRUMENTS
+--------------------------------------------------------------------------------
+  regulation: 16
+  target: 16
+  standard: 15
+  incentive: 13
+  directive: 9
+  compliance: 8
+  legislation: 7
+  emissions trading: 6
+  carbon tax: 4
+  mandate: 4
+
+
+ENERGY CARRIERS
+--------------------------------------------------------------------------------
+  power: 20
+  renewable: 18
+  hydrogen: 16
+  fossil fuel: 15
+  coal: 15
+  oil: 14
+  solar: 13
+  wind: 13
+  electricity: 12
+  grid: 12

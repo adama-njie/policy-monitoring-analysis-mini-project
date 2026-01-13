@@ -1,0 +1,465 @@
+{
+  "summary": {
+    "total_documents": 20,
+    "avg_similarity": 0.5766454421578947,
+    "std_similarity": 0.11482287346419999,
+    "most_similar_score": 0.89161164,
+    "least_similar_score": 0.25559637,
+    "potential_conflicts": 3
+  },
+  "top_similar_pairs": [
+    {
+      "doc1": "EU Hydrogen Strategy",
+      "doc2": "WWF Hydrogen Recommendation",
+      "similarity": 0.89161164,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "EU Hydrogen Strategy",
+      "doc2": "EU_Hydrogen_Strategy.pdf",
+      "similarity": 0.884636,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "EU Hydrogen Strategy",
+      "doc2": "Power - X - Energy Policy",
+      "similarity": 0.85254484,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Power - X - Energy Policy",
+      "doc2": "WWF Hydrogen Recommendation",
+      "similarity": 0.84382296,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "EU Green Deal",
+      "doc2": "The-EU-Chemical-Industry",
+      "similarity": 0.82779926,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "EU_Hydrogen_Strategy.pdf",
+      "doc2": "WWF Hydrogen Recommendation",
+      "similarity": 0.8119885,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Climate Framework Laws in Europe",
+      "doc2": "EU Green Deal",
+      "similarity": 0.8095077,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Renewable Energy Directive",
+      "doc2": "Renewable Fuels of Non-Biological Origins",
+      "similarity": 0.781255,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "EU_Hydrogen_Strategy.pdf",
+      "doc2": "Power - X - Energy Policy",
+      "similarity": 0.7803494,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Cost-Benefits of Climate Change",
+      "doc2": "Policies Affecting Carbon Emissions",
+      "similarity": 0.771051,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Carbon Border Adjustment Mechanism",
+      "doc2": "EU Green Deal",
+      "similarity": 0.7443659,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Cost-Benefits of Climate Change",
+      "doc2": "IPCC Report",
+      "similarity": 0.7432203,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Power - X - Energy Policy",
+      "doc2": "The-EU-Chemical-Industry",
+      "similarity": 0.7282692,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Carbon Capture in Industry - Policy Brief",
+      "doc2": "The-EU-Chemical-Industry",
+      "similarity": 0.7168683,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Carbon Capture in Industry - Policy Brief",
+      "doc2": "WWF Hydrogen Recommendation",
+      "similarity": 0.7138721,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Renewable Energy Directive",
+      "doc2": "WWF Hydrogen Recommendation",
+      "similarity": 0.71208125,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Ammonia White Paper",
+      "doc2": "WWF Hydrogen Recommendation",
+      "similarity": 0.709392,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "EU Green Deal",
+      "doc2": "Power - X - Energy Policy",
+      "similarity": 0.70938337,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Climate Adaptation and Mitigation",
+      "doc2": "IPCC Report",
+      "similarity": 0.70456195,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Climate Framework Laws in Europe",
+      "doc2": "IPCC Report",
+      "similarity": 0.70421255,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "EU Green Deal",
+      "doc2": "Renewable Energy Directive",
+      "similarity": 0.7024716,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Carbon Capture in Industry - Policy Brief",
+      "doc2": "Policies Affecting Carbon Emissions",
+      "similarity": 0.7011115,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Carbon Capture in Industry - Policy Brief",
+      "doc2": "EU Hydrogen Strategy",
+      "similarity": 0.69939435,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Countries Leading Energy Transition",
+      "doc2": "EU Green Deal",
+      "similarity": 0.69904995,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "IPCC Report",
+      "doc2": "Policies Affecting Carbon Emissions",
+      "similarity": 0.6989145,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Carbon Capture in Industry - Policy Brief",
+      "doc2": "EU Green Deal",
+      "similarity": 0.69868314,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Carbon Border Adjustment Mechanism",
+      "doc2": "The-EU-Chemical-Industry",
+      "similarity": 0.6978634,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "EU Green Deal",
+      "doc2": "EU Hydrogen Strategy",
+      "similarity": 0.6971623,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Power - X - Energy Policy",
+      "doc2": "Renewable Energy Directive",
+      "similarity": 0.6944805,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Carbon Border Adjustment Mechanism",
+      "doc2": "Carbon Capture in Industry - Policy Brief",
+      "similarity": 0.6938741,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    }
+  ],
+  "top_divergent_pairs": [
+    {
+      "doc1": "Ammonia White Paper",
+      "doc2": "Economics of Transition Pathways",
+      "similarity": 0.25559637,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Ammonia White Paper",
+      "doc2": "Cost-Benefits of Climate Change",
+      "similarity": 0.2590509,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Ammonia White Paper",
+      "doc2": "Climate Framework Laws in Europe",
+      "similarity": 0.2903896,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Ammonia White Paper",
+      "doc2": "Climate Adaptation and Mitigation",
+      "similarity": 0.30573866,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Economics of Transition Pathways",
+      "doc2": "EU_Hydrogen_Strategy.pdf",
+      "similarity": 0.32674557,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Ammonia White Paper",
+      "doc2": "IPCC Report",
+      "similarity": 0.3509578,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Ammonia White Paper",
+      "doc2": "Policies Affecting Carbon Emissions",
+      "similarity": 0.3524912,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Climate Adaptation and Mitigation",
+      "doc2": "EU_Hydrogen_Strategy.pdf",
+      "similarity": 0.35498083,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Ammonia White Paper",
+      "doc2": "Carbon Border Adjustment Mechanism",
+      "similarity": 0.38351604,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Climate Framework Laws in Europe",
+      "doc2": "Economics of Transition Pathways",
+      "similarity": 0.41605723,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Cost-Benefits of Climate Change",
+      "doc2": "EU_Hydrogen_Strategy.pdf",
+      "similarity": 0.4167563,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Ammonia White Paper",
+      "doc2": "EU Green Deal",
+      "similarity": 0.41870314,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Economics of Transition Pathways",
+      "doc2": "Renewable Fuels of Non-Biological Origins",
+      "similarity": 0.4209911,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Economics of Transition Pathways",
+      "doc2": "EU Hydrogen Strategy",
+      "similarity": 0.42570218,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Climate Adaptation and Mitigation",
+      "doc2": "EU Hydrogen Strategy",
+      "similarity": 0.42729938,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Ammonia White Paper",
+      "doc2": "Energy Transitions in China and Germany",
+      "similarity": 0.43131375,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Energy Transitions in China and Germany",
+      "doc2": "EU_Hydrogen_Strategy.pdf",
+      "similarity": 0.4360705,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Economics of Transition Pathways",
+      "doc2": "WWF Hydrogen Recommendation",
+      "similarity": 0.44009906,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Ammonia White Paper",
+      "doc2": "Countries Leading Energy Transition",
+      "similarity": 0.44062734,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Economics of Transition Pathways",
+      "doc2": "sustainable-aviation-fuels",
+      "similarity": 0.44148797,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Carbon Border Adjustment Mechanism",
+      "doc2": "Economics of Transition Pathways",
+      "similarity": 0.44429573,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Cost-Benefits of Climate Change",
+      "doc2": "Renewable Fuels of Non-Biological Origins",
+      "similarity": 0.44787845,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Carbon Capture in Industry - Policy Brief",
+      "doc2": "Economics of Transition Pathways",
+      "similarity": 0.4494714,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Climate Adaptation and Mitigation",
+      "doc2": "Economics of Transition Pathways",
+      "similarity": 0.45330673,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Renewable Fuels of Non-Biological Origins",
+      "doc2": "sustainable-aviation-fuels",
+      "similarity": 0.45496976,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Climate Framework Laws in Europe",
+      "doc2": "Energy Transitions in China and Germany",
+      "similarity": 0.45581686,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "IPCC Report",
+      "doc2": "Renewable Fuels of Non-Biological Origins",
+      "similarity": 0.4566539,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Economics of Transition Pathways",
+      "doc2": "Power - X - Energy Policy",
+      "similarity": 0.46002614,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "EU_Hydrogen_Strategy.pdf",
+      "doc2": "IPCC Report",
+      "similarity": 0.46070623,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Energy Transitions in China and Germany",
+      "doc2": "sustainable-aviation-fuels",
+      "similarity": 0.46075323,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    }
+  ],
+  "potential_conflicts": [
+    {
+      "doc1": "Ammonia White Paper",
+      "doc2": "Climate Framework Laws in Europe",
+      "similarity": 0.2903896,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Ammonia White Paper",
+      "doc2": "Cost-Benefits of Climate Change",
+      "similarity": 0.2590509,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    },
+    {
+      "doc1": "Ammonia White Paper",
+      "doc2": "Economics of Transition Pathways",
+      "similarity": 0.25559637,
+      "doc1_type": "unknown",
+      "doc2_type": "unknown"
+    }
+  ],
+  "coherence_analysis": {
+    "within_type": {},
+    "across_type": {}
+  },
+  "temporal_analysis": {
+    "year_statistics": {},
+    "year_transitions": []
+  }
+}

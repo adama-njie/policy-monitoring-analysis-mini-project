@@ -1,0 +1,2475 @@
+Contents lists available at ScienceDirect
+Energy
+journal homepage: 
+Germany’s Power-to-X policy for climate-neutral transport
+Ali Ebadi Torkayesha,∗,Sandra Venghausa,b
+aDecision Analysis and Socio-economic Assessment, School of Business and Economics, RWTH Aachen University, 52072 Aachen, Germany
+bInstitute of Energy and Climate Research - Systems Analysis and Technology Evaluation (IEK-STE), Forschungszentrum Jülich,
+Wilhelm-Johnen-Straße, 52428 Jülich, Germany
+A R T I C L E I N F O
+Keywords:
+Power-to-X
+Policy analysis
+Sustainable transport
+Policy review
+GermanyA B S T R A C T
+Germany, aligned with the European Union, has set important targets for decreasing greenhouse gas emissions
+by 65% by 2030 and achieving climate neutrality by 2045. In this context, Power-to-X fuels have emerged
+as promising solutions for defossilizing transport modes less suitable for electrification. However, a significant
+challenge in developing Power-to-X fuels is the lack of a well-defined regulatory framework for their production
+and utilization. Thus, this study investigates the regulatory landscapes of the EU and Germany, aiming to
+comprehend objectives, support schemes, and advancements. A total of 25 legal frameworks from the EU and
+Germany with direct or indirect effects on Power-to-X fuels were identified. For a detailed and comprehensive
+policy analysis, a qualitative inductive approach based on a coding scheme and policy content analysis, was
+implemented. Findings indicate that several updates in the German and EU regulatory frameworks addressed
+Power-to-X fuels in the 2010s and 2020s. The RED III, the REFuelEU Aviation and the FuelEU Maritime have
+shown to be turning points for Power-to-X fuels in the EU. In Germany, the most relevant policies are the 37.
+BImSchV, the National Hydrogen Strategy, and the PtL Roadmap. Key challenges are identified related to the
+limited coherence among policies supporting the sustainable use of resources for the fuel production.
+1. Introduction
+Climate change is one of the most critical challenges of our time [1,
+2]. Fossil fuels and their derivatives continue to be the main drivers
+of climate change [3,4]. Shifting to renewable energies stands as the
+primary strategy in the European Union (EU) for reducing greenhouse
+gas (GHG) emissions [5,6]. To address climate change and reduce GHG
+emissions, there has been a significant growth in policies concerning
+renewable energy technologies at the EU level. The EU intensified its
+regulatory measures with the introduction of the EU Green Deal in
+2020 [7] and the Fit for 55 package in 2021 [8]. Both policy packages
+aim to reduce GHG emissions, by 55% by 2030 and achieve the status
+of climate neutrality by 2050.
+Under the existing regulatory frameworks, the European Environ-
+ment Agency (EEA) reported a reduction in total GHG emissions within
+the EU-27 from approximately 4.65 million kt ofCO2equivalent in
+1990 to almost 3.24 million kt ofCO2equivalent in 2021 [9]. During
+this period, most sectors, such as industry, agriculture, and the building
+sector, have made progress in reducing their GHG emissions. However,
+efforts to reduce GHG emissions in the EU’s transport sector have not
+led to significant reduction over the last three decades [9]. Domestic
+transport, which emitted 672.476 million tons ofCO2equivalent in
+1990, experienced a 16.3% increase in its GHG emissions by 2021,
+∗Corresponding author.
+E-mail address:  (A.E. Torkayesh) .accounting for over one-fifth of the total EU emissions [9]. International
+aviation and shipping follow the same trend, with emissions rising sig-
+nificantly: international aviation increased from 54,632 to 109,723 kt
+ofCO2equivalent (over 100% increase) (1990 to 2022), while shipping
+emissions increased from 102,176 to 130,645 kt ofCO2equivalent (a
+27.86% increase) for the same period [9].
+In the EU and globally, Germany has often been recognized as a
+pioneer in climate and sustainability endeavors. This acknowledgment
+stems from its ambitious climate policies and its advanced renewable
+energy technologies. Unlike the increase in GHG emissions in the EU’s
+transport, Germany has been able to slightly decrease its emissions from
+163 million tons ofCO2equivalent in 1990 to 148 million tons ofCO2
+equivalent in 2022, accounting for roughly one-fifth of the total emis-
+sions [10]. Despite this reduction in the transport sector, Germany still
+faces clear challenges in meeting the climate targets set by the EU Green
+Deal and Fit for 55. Most recently, the German government intensified
+the country’s climate policies by updating the Climate Action Plan,
+establishing even more ambitious goals for reducing GHG emissions
+by 65% by 2030 and achieving GHG neutrality by 2045. Within the
+current regulatory frameworks with challenges posed by the dominance
+of lobbies for fossil fuels in the energy market in the German transport
+
+Received 18 June 2024; Received in revised form 25 November 2024; Accepted 26 November 2024Energy 313 (2024) 134020 
+Available online 2 December 2024 
+0360-5442/© 2024 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license (  
+nc-nd/4.0/ ). 
+A.E. Torkayesh and S. Venghaus
+sector, and along with growing transport demand, there is a significant
+risk of failing to meet these targets.
+The shift from fossil fuels to renewable sources is a key precondi-
+tion for success in meeting the climate targets in transport [11-13].
+Electrification is considered the most effective strategy for meeting
+the GHG emission reduction targets for the transport sector [14-16].
+While the German government maintains its focus on electrification, it
+is important to note that certain transport modes pose challenges for
+electrification given their specific technical characteristics. For these
+transport modes, Power-to-X (PtX) fuels have emerged as promising
+solutions, notably in maritime and aviation, requiring minimal engine
+modifications [17,18]. Nevertheless, achieving maximum capacities in
+utilizing PtX fuels necessitates the development of new infrastructure,
+onboard fuel storage, and suitable propulsion systems. In this regard,
+the broader acceptance and usage of PtX fuels faces obstacles stemming
+from the dominance of lobbies for fossil fuels in the energy market,
+limited regulatory support, insufficient electrolysis capacity in the EU,
+and their high costs [19-21]. As a consequence, although there is signif-
+icant market demand for alternatives to fossil fuels, the expectation for
+these alternatives to be priced similarly to fossil fuels poses challenges
+to further investments in PtX fuels.
+The current literature has addressed strategic questions regarding
+the utilization of PtX fuels in the transport sector. An important study in
+this field was conducted by Chehade et al. [22], who presented a review
+of global PtX projects. Their research revealed a total of 192 projects
+distributed across 32 countries. Among these projects, 154 were located
+in Europe, 18 in North America, 13 in Asia, five in Oceania, and two in
+South America. Notably, hydrogen-to-power and hydrogen-to-fuel were
+the primary products in 59% of these projects. For Europe, a compre-
+hensive overview of PtX demonstration projects was provided by Wulf
+et al. [23], in which the historical development of PtX projects was
+part of the main discussion. Findings highlight various developments
+of PtX projects in Germany, dating back to 2003, as one of the first
+pioneers in the field. Similarly, several studies have been conducted
+to investigate a PtX economy in different countries, including Den-
+mark [24], the United Kingdom [25], Italy [26], South Korea [27], and
+Germany [28,29]. Considering the various challenges and processes
+that accompany PtX projects, several studies have been conducted ad-
+dressing regulatory frameworks [19,30,31], power-to-gas (PtG) [32,33]
+and power-to-liquid (PtL) [34,35], or energy modeling [36,37].
+The successful production, adoption, and market diffusion of PtX
+fuels necessitate strong policy support within a robust regulatory frame-
+work to ensure a sustained supply based on the defined quotas and
+targets [38-41]. While numerous studies explore various challenges
+associated with PtX projects, there remains a scarcity in the literature
+specifically addressing regulatory and market challenges in Germany.
+A key question is whether PtX fuels are the best alternatives to be used
+in aviation and maritime from a sustainability perspective. To answer
+this question, a policy analysis of PtX fuels is essential to investigate
+whether policies effectively support their large-scale deployments and
+market integration, to identify and address barriers, to detect sus-
+tainability (economic, environmental, and social) challenges, and to
+enhance national, continental, and international competitiveness and
+cooperation. Thus, exploring the regulatory frameworks and legislation
+governing PtX fuels in Germany and the EU is crucial for considering
+their transformative potential in achieving GHG neutrality.
+Although previous studies have examined PtX fuels and technolo-
+gies in the EU and Germany [19,20], none have addressed the regu-
+latory and legal aspects in Germany. Therefore, this study scrutinizes
+both national and EU policies, using a qualitative inductive approach
+through a coding scheme and a policy content analysis (policy review).
+This study primarily draws on policy documents, the official web-
+sites of ministries, the EU, and reports from well-known governmental
+and non-governmental organizations (NGOs) as key data sources. The
+main objectives of the study can be summarized as (I) identifying
+national and EU policies that directly or indirectly affect PtX fuels;(II) identifying support schemes and instruments within the selected
+policies; (III) conducting a thematic analysis of the policies to detect the
+relations between PtX fuels and relevant components in a cross-sectoral
+framework; (IV) presenting an overview of the current status of PtX
+projects in Germany and the EU in order to understand the progress of
+existing policies; (V) evaluating the significance of European and global
+partnerships to improve value chain of PtX fuels; (VI) highlighting the
+necessity for enhancing a focused and reliable regulatory framework
+favoring PtX fuels; and (VI) deriving insights to propose recommen-
+dations based on policy implications to accelerate the transition. In
+accordance with the defined objectives, this study aims to address the
+following research questions:
+•Which policy areas influence the development of PtX fuels in
+Germany?
+•Which specific laws, regulations, directives, initiatives and strate-
+gies govern the production and use of PtX fuels in Germany?
+•What are the main quantitative and qualitative policy targets
+regulating PtX fuels?
+•Which policy implications can be drawn for designing future
+roadmaps aimed at the sustainable transition of Germany’s trans-
+port sector using PtX fuels?
+In order to do so, a policy analysis approach was pursued as outlined
+in Section 2. The main legal frameworks in the EU and Germany as
+well as corresponding support schemes are presented in Section 3.
+Current developments in Germany are reviewed in Section 4. Policy
+implications for the regulatory frameworks supporting PtX fuels in the
+German transport sector are discussed in Section 5. Concluding remarks
+and future directions are presented in Section 6.
+2. Methodology: A qualitative policy analysis
+To examine the PtX policy landscape in Germany and the EU, a
+qualitative inductive approach based on a coding scheme and a content
+analysis was used for this study. A qualitative inductive approach
+enables the systematic analysis of policy documents and reports from
+ministries, governmental organizations, and NGOs to derive meaning-
+ful insights, themes and patterns with respect to policy objectives,
+measures, and trends [42-44].
+A crucial first step in this regard is to understand the production
+pathways of PtX fuels, required resources for these production path-
+ways, and common terminology. As PtX fuels emerge as renewable fuel
+alternatives, various definitions have been proposed for them, often
+leading to confusion with other sustainable fuels [20,45,51,52]. The
+distinction is important considering their production processes, feed-
+stocks, and environmental impacts. Misunderstandings in terminology
+can lead to policy and market confusion, thus making it mandatory
+to clearly define and differentiate PtX fuels from other renewable
+and sustainable alternatives. In this context, Table 1summarizes the
+descriptions of the main terminologies in order to establish the required
+fundamental background for the policy review and analysis. Similarly,
+Fig. A.1illustrates a schematic overview of the value chain of PtX fuels.
+2.1. Data collection
+In a qualitative content-driven approach, selecting the proper policy
+documents is a crucial step that significantly impacts outcomes. Given
+the complexity of PtX fuels and the transport sector, along with their
+numerous interdependencies with other sectors, establishing clear and
+relevant selection criteria for including policies is essential for ensuring
+a thorough and meaningful analysis.
+An initial goal was to identify the policy areas most relevant to
+driving PtX fuels within the transport sector. The official websites of
+German ministries and the Council of the EU were used as key sources
+for understanding the current landscape of PtX-related policies and
+identifying potential policy areas relevant to the defossilization of theEnergy 313 (2024) 134020 
+
+A.E. Torkayesh and S. Venghaus
+Table 1
+Relevant definitions for PtX terminology.
+Term Description References
+PtX fuels PtX refers to pathways that use electricity, preferably renewable electricity, to produce hydrogen
+(green hydrogen) using electrolysis.
+It synthesizes hydrogen with carbon from biogenic or non-biogenic sources. These sources include
+industry-based carbon and direct air capture (DAC). The process is performed by means of
+Fischer-Tropsch (FT) or methanol synthesis.
+[19,20,38,45-50]Sustainable fuels Sustainable fuels refer to energy sources derived from renewable resources that minimize
+environmental impact and GHG emissions.
+Alternative fuels Alternative fuels are sustainable fuels that include PtX fuels as well as biofuels, CNG and LNG.
+Synthetic fuels Synthetic fuels are sustainable fuels produced by converting biomass, gas, coal or waste into different
+fuels substituting diesel, petrol or jet fuel.
+PBtX Power-Biomass-to-X (PBtX) fuels, also known as e-biofuels, are produced jointly by utilizing green
+hydrogen from renewable electricity with bio-based feedstock.
+PtL PtL refers to PtX fuels in liquid form, which are specifically used in the transport and industry
+sectors, with end products such as e-kerosene.
+PtG PtG is the gaseous form of PtX fuels, which are usually available in the form of hydrogen and
+methane.
+PtC PtC refers to a process of converting renewable electrical energy into chemical products through
+electrolysis and subsequent chemical synthesis.
+FT synthesis FT synthesis is a chemical process used to convert synthesis gas (syngas), a mixture ofCOandH2,
+into liquid hydrocarbons, such as PtX fuels.
+Methanol synthesis Methanol synthesis involves converting renewable hydrogen and carbon into methanol through a
+catalytic process. A mixture of hydrogen andCO, known as syngas, is produced. In the catalytic
+reactor, syngas is transformed into methanol.
+RFNBO Renewable fuels of non-biological origin (RFNBO) refer to fuels in gaseous or liquid forms that are
+produced from electricity. They are produced by the synthesis using biogenic carbon or DAC and
+hydrogen. On the other hand, renewable fuels of biological origin are generally referred to biofuels.
+Green ammonia Green ammonia or e-ammonia refers to a fuel that is produced using green hydrogen through the
+Haber-Bosch process.
+Haber-Bosch synthesis The Haber-Bosch process is a means for synthesizing ammonia from nitrogen and hydrogen. It
+involves a high-pressure, high-temperature catalytic reaction, enabling the production of ammonia on
+an industrial scale.
+E-methane E-methane, or electro-methane, is a synthetic methane produced through the conversion of renewable
+electricity, e.g., wind or solar, into hydrogen via electrolysis, which is then combined with CO2in a
+process called methanation.
+E-methanol E-methanol, or electro-methanol, is a synthetic alcohol produced by combining renewable hydrogen
+with CO2through chemical reaction.
+transport sector using renewable fuels. The focus was placed on the
+EU Green Deal and the Fit for 55 packages, the two primary legal
+frameworks addressing climate change in the EU. The concerns outlined
+in the EU Green Deal and the Fit for 55 packages regarding emissions
+in the transport sector underscore the importance of policies in the
+energy, fiscal, agriculture, and infrastructure sectors for the adoption
+and diffusion of PtX fuels. As a result, the selection framework not
+only focuses on transport policies but also includes policies from these
+key areas-namely energy and fuel, climate change and environment,
+agriculture and land-use as well as infrastructural and physical systems.
+A structured search framework was developed and implemented
+to identify and select relevant policies. Policies across the identified
+areas were systematically collected and underwent a thorough content
+analysis. This rigorous review ensured that each policy was analyzed
+with regard to either its direct or indirect influence on the development
+and progress of the transport sector. As with the initial search for policy
+fields, the official websites of German ministries and the EU Council
+were used as the primary sources for selecting policy documents.
+For German policies, all relevant documents were gathered through
+ministry databases. For EU policies, the official website of the European
+Commission was utilized for document collection. This process involved
+an in-depth examination of policies within each sector, with a focus on
+identifying those that demonstrate logical relevance and connectivity
+to PtX fuels. Following the procedure, a total of 25 policies were
+identified, including laws, regulations, directives, stakeholder-based
+processes, initiatives, and proposals (Table A.1). For further analysis ofindustrial projects and current developments in Germany and the EU,
+the search procedure was correspondingly adopted by using the offi-
+cial websites of the key industrial organizations. Moreover, hydrogen
+strategies in different federal states were identified and considered for
+a regional analysis in order to explore policy trends and targets. Other
+sources used in this study relate to open-access data from governmental
+organizations, NGOs, and research institutes.
+2.2. Policy analysis framework
+To systematically examine policies within a multi-sector, multi-
+perspective system, using a thorough content analysis framework is
+essential. This framework acts as a key tool for evaluating policies,
+with the main goal of identifying interconnections that can support PtX
+fuels. Using this approach, the analysis can uncover interrelationships
+and synergies across sustainable fuel alternatives, measuring synergies
+between support schemes and PtX fuels, and helping to develop a more
+coherent and effective policy landscape for these fuels.
+For this purpose, we utilize a well-established data analysis ap-
+proach that involves developing and assigning codes to text within the
+identified policy documents [53]. This method enables the identifica-
+tion and comparison of key features and findings in scientific research
+through a combination of qualitative and quantitative techniques. In
+our case, the research questions outlined in Section 1are translated
+into the coding procedure. The objectives for reviewing the collected
+policies using a coding scheme can be divided into understandingEnergy 313 (2024) 134020 
+
+A.E. Torkayesh and S. Venghaus
+Fig. 1.A flowchart of the applied approach.
+Table 2
+The coding scheme developed for the policy analysis.
+Terminology Resources & technologies Indirect challenges Market development
+PtX, PtL, PtG, E-fuels, electrofuels,
+electricity-based fuels, RFNBOs,
+carbon-based fuels, synthetic fuels,
+alternative fuels, sustainable aviation
+fuels, ammonia, e-ammonia, sustainable
+fuels, sustainable marine fuels,
+e-methane, e-methanolWater, carbon (DAC, biogenic, industry,
+point source, bio-based), solar power,
+wind power, renewable electricity,
+hydrogen, green hydrogen, electrolysis,
+Haber-Bosch, FT synthesis, methanol
+synthesisLand-use, agriculture,
+bio-based feedstock,
+climateIncentives, subsidies, tax
+programs, innovation, R&D
+the terminology, interconnections with other terminologies for sustain-
+able fuel alternatives, the role of different resources and technologies,
+market instruments e.g., incentives, subsidies, and taxes, as well as
+innovation and R&D support. To operationalize these questions for the
+content analysis, MAXQDA software was used.
+MAXQDA is a software designed for qualitative and mixed-methods
+research, facilitating systematic organization, analysis, and visualiza-
+tion of diverse data types, including policy documents. In the field
+of policy analysis, the software is used to code segments of text in
+order to systematically categorize themes for rigorous analysis, such
+as network mapping and frequency analysis. In our case, within the
+software, suitable codes were established for the policy review and
+analysis. Using the defined codes inTable 2, a frequency analysis
+would be conducted to facilitate network mapping of the identified
+codes, based on their occurrence frequency across similar policy docu-
+ments.
+Fig. 1provides a summary of the methodology employed in this
+study, including the coding scheme derived for the policy analysis.3. Policies in the EU and Germany
+3.1. The policy framework in the EU
+The regulatory framework governing PtX fuels in the EU consists
+of a complex set of policies, directives, initiatives, and proposals.
+According to the qualitative policy analysis approach, introduced in the
+previous section, the EU databases, including the European Commission
+directory for the EU Green Deal and Fit for 55 packages, along with
+the European Hydrogen Observatory (EHO), were identified as the
+main sources for the PtX-relevant policies. In this context, policies were
+scrutinized on the basis of the terminology defined in the previous
+section. In this way, 18 policies exerting direct or indirect effects on
+PtX fuels were identified for the EU (Table 3).
+To provide an overview of the policies directly and significantly
+affecting PtX fuels at the EU level, Table 4presents a summary of the
+corresponding support schemes. Further in-depth content analysis of
+the identified policies is presented below.Energy 313 (2024) 134020 
+
+A.E. Torkayesh and S. Venghaus
+Table 3
+Identified EU policy areas and sub-policies.
+Emission & Fuel Renewable energy Hydrogen Resource utilization
+EU Emission Trading System (ETS),
+Energy Taxation Directive (ETD), Energy
+Efficiency Directive (EED), Effort Sharing
+Regulation (ESR), Carbon Border
+Adjustment Mechanism (CBAM)Renewable Energy Directive III (RED
+III), ReFuelEU Aviation, FuelEU
+Maritime, REPowerEUEU Hydrogen Strategy,
+Hydrogen Bank, Hydrogen
+and Decarbonized Gas
+Market PackageNet Zero Industry Act
+under Green Deal
+Industrial Plan
+Fiscal Transport Agriculture & Land-use Infrastructure
+Social Climate Fund (SCF) Sustainable and Smart Mobility Strategy
+(SSMS)EU Common Agriculture
+Policy (CAP), LULUCFAlternative Fuels
+Infrastructure Directive
+(AFIR)
+In the early 2010s, PtX fuels only received indirect support through
+EU policies such as the AFIR in 2014. This directive incentivized EU
+member states to develop national policies to address challenges related
+to the refueling and recharging of vehicles and vessels powered by
+alternative fuels. Notably, the AFIR refers to various PtX fuels such
+as synthetic jet fuel, synthetic paraffinic diesel, hydrogen, and FT
+diesel under the category of ‘‘alternative fuels’’ [54]. Recognizing the
+significance of the AFIR in supporting alternative fuels, a proposal
+for its revision was put forth under the Fit for 55 package. The aim
+was to align with the latest climate targets in the EU and enhance
+collaboration among member states to strengthen their infrastructures
+for alternative fuels [55].
+In 2018, the RED II was the first EU policy to consider RFNBOs for
+defossilizing the EU transport sector [56]. Increasing its previous 20%
+target for 2020 [57] to 32% for 2030 was one of the main reasons for
+the emergence of PtX fuels as potential pathways to achieving this goal.
+Given the ongoing discussions about accelerating efforts to combat
+climate challenges, the RED III was introduced as part of the Fit for 55
+package in 2021. The RED III increased the previous target to an even
+more ambitious target, namely a minimum share of 42.5% renewables
+by 2030. In this regard, the RED III specifies a 29% share of renewables
+in the transport sector, paying close attention to advanced biofuels and
+RFNBOs (+5.5% share) with at least a 1% share of RFNBOs in the form
+of hydrogen [58]. Next to the RED III and the AFIR, the Fit for 55
+introduced the ReFuelEU Aviation and FuelEU Maritime [59,60]. Both
+policies emphasize the significant contributions of the aviation and
+maritime sectors to the EU’s transport emissions, accounting for approx-
+imately 28%. They focus in particular on renewable fuels, specifically
+jet e-fuels (e-kerosene produced through PtL) and sustainable marine
+fuels. The ReFuelEU Aviation set specific quotas for the share of SAFs
+as well as PtL fuels by 2050. Similarly, the FuelEU Maritime focused
+on setting strict carbon intensity reductions by 2050.
+Among policies addressing emission reduction and fuel develop-
+ment, the EU ETS is one of the most important policies affecting
+PtX fuels. The revision of the EU ETS within the Fit for 55 package
+addresses PtX fuels with terms such as RFNBOs, carbon-based fuels,
+alternative fuels, hydrogen and ammonia [65]. The revised ETS pri-
+oritizes binding targets for reducing GHG emissions across all sectors,
+with a heightened emphasis on the transport sector. Among the various
+sustainable alternatives, PtX fuels, RFNBOs and hydrogen, are subject
+to strict regulation within the ETS framework. Moreover, the revised
+ETS now encompasses all hydrogen production pathways exceeding
+five tons per day, including electrolyzers, making renewable and low-
+carbon hydrogen facilities eligible for free allowances. The support for
+using hydrogen and other RFNBOs is supposed to be increased in the
+future within the maritime and aviation sectors via new certification
+standards. Conversely, the ETD is a key policy at the intersection of
+emission reduction and fiscal measures. It proposes a zero-tax rate
+on SAFs during a ten-year introductory phase. This initiative will
+significantly contribute to achieving price parity for PtX fuels in the
+aviation sector [66].
+Another crucial policy in this area is the CBAM, which plays a
+significant role for non-EU producers where the ETS does not apply.Hydrogen, as one of the key components for PtX fuels, is one of the pri-
+mary products that the CBAM seeks to regulate by granting certificates
+based on low-emission production processes. As a result, it indirectly
+incentivizes non-EU countries to invest in cleaner technologies and
+sustainable practices for producing PtX fuels, which will ultimately help
+to meet EU demand [67].
+Recognizing the critical role of hydrogen in the development of
+PtX fuels, the EU Hydrogen Strategy emphasizes its significance as a
+cornerstone of the Union’s sustainable energy transition, which was
+introduced under the EU Green Deal [61]. The EU Hydrogen Strategy
+proposes 20 key actions in four categories: increasing investments
+in hydrogen projects, boosting demand and scaling up production,
+enabling physical and regulatory frameworks, and enhancing interna-
+tional collaborations. The primary quantitative targets of the strategy
+entail a minimum of 40 GW of renewable hydrogen electrolyzers and
+an increase in production capacity to 10 million tons of renewable
+hydrogen in the EU by 2030 [19,61]. While the hydrogen strategy
+does not explicitly employ the term ‘‘PtX’’, it broadly covers sustainable
+renewable and low-carbon fuels, including hydrogen-based synthetic
+fuels such as ammonia and e-kerosene. Based on the role of hydrogen
+for synthetic and e-fuels, the strategy establishes robust coherence to
+the AFIR, ReFuelEU Aviation, and FuelEU Maritime. In order support
+the EU strategy, several countries have adopted national strategies
+that codify specific measures for hydrogen value chains. According
+to the European Hydrogen Observatory, as of 2024, countries with
+published hydrogen strategies include Austria, Belgium, Bulgaria, Croa-
+tia, the Czech Republic, Denmark, Estonia, Finland, France, Germany,
+Hungary, Ireland, Lithuania, Luxembourg, the Netherlands, Norway,
+Poland, Portugal, Slovakia, Spain, and the United Kingdom. In contrast,
+the countries without strategies are Cyprus, Greece, Iceland, Latvia,
+
+Switzerland.
+Following the growing focus on a hydrogen economy in the EU,
+in December 2022, a political agreement was reached regarding the
+revision of the ETS. This agreement established free allowances for
+electrolyzers producing hydrogen, increased the number of allowances
+allocated to the Innovation Fund, and enabled EU-wide auctions to
+be conducted under the Innovation Fund [68]. Through legislative
+developments, European industry is rapidly building a robust pipeline
+of hydrogen projects. The European Clean Hydrogen Alliance has iden-
+tified numerous projects across the entire value chain. Sixteen EU
+member states have adopted national hydrogen strategies, targeting
+a minimum electrolyzer capacity of 40 GW by 2030, translating into
+5.6 million tons of renewable hydrogen. Moreover, Europe is a global
+leader in electrolyzer manufacturing, with a joint declaration to scale
+up production capacity showcasing EU industry’s readiness to deliver.
+These competitive advantages, combined with the early establishment
+of regulatory frameworks, have attracted numerous hydrogen project
+developers to invest in the region.
+Currently, Europe accounts for over 30% of proposed hydrogen
+investments worldwide. Thus, in order to facilitate investment and
+financial incetives, in 2022, the EU established the Hydrogen Bank
+with two new financing mechanisms to support renewable hydrogenEnergy 313 (2024) 134020 
+
+A.E. Torkayesh and S. Venghaus
+Table 4
+A summary of support schemes within the EU policies on PtX fuels.
+Policy Targets & Support Schemes References
+RED III - A minimum share of 42.5% of renewables in total energy consumption.
+- An additional 2.5% top-up share of renewables.
+- A minimum share of 29% of renewables in the transport sector.
+- A minimum share of 5.5% of RFNBOs and advanced biofuels.
+- A minimum of a 1% increase in the share of RFNBOs by 2030.
+- A minimum indicative share of 1.2% of RFNBOs in maritime transport.
+- Significant support for the supply of renewable electricity for RFNBOs, and hydrogen market ramp-up.
+- A minimum of 42% of hydrogen use should be from RFNBOs.[58]
+AFIR - Ensuring required infrastructures for PtX fuels with final products in the form of hydrogen including
+refueling.
+- Improving monetary aspects such as payment methods, price transparency, and availability of stations.
+- Providing required infrastructures to supply renewable electricity at ports and airports.[55]
+ReFuelEU Aviation - Ensuring a minimum SAF share of 2% of SAFs by 2025, 6% by 2030, 20% by 2035, 34% by 2040, 42%
+by 2045, and 70% by 2050.
+- A minimum RFNBOs (PtL-based e-kerosene) share of 1.2% by 2030, 5% by 2035, 10% by 2040, 15% by
+2045, and 35% by 2050 of the SAF.
+- Providing required infrastructure for SAF in the EU airports.[60]
+FuelEU Maritime - Ensuring a minimum share of 6%-9% in 2030 and 86%-88% by 2050 of renewable and low-carbon fuels
+in maritime transport.
+- A minimum share of 2% of RFNBOs apply as of 2034 if RFNBOs’ share remains less than 1% by 2031.
+- Providing necessary infrastructures for refueling in ports.[59]
+EU Hydrogen Strategy - Developing an investment agenda to support green hydrogen production.
+- A minimum hydrogen production capacity of 6 GW and 40 GW by 2024 and 2030.
+- A minimum of 10 million tons of domestic green hydrogen production.
+- Supporting the use of green hydrogen in the transport sector.
+- Presenting demand-side policies for green hydrogen utilization according to the RED III and AFIR.
+- Enhancing cooperation for green hydrogen production and utilization.[61]
+Sustainable and Smart
+Mobility Strategy (SSMS)- Ensuring zero-emission vessels by 2030.
+- Ensuring zero-emission aircraft by 2035.
+- Supporting the RED III by supplying renewable and low-carbon fuels.
+- Supporting ReFuelEU and FuelEU initiatives to defossilize aviation and maritime transport.
+- Enhancing fuel efficiency for aviation and maritime transport.
+- Supporting AFIR by ensuring the development of required infrastructures.
+- Putting an end to fossil fuels subsidies.
+- Making zero-emission ocean-going vessels and large zero-emission aircraft market ready by 2030 and 2035,
+respectively.
+- Increasing share of transport by inland waterways and short sea shipping.[62]
+Hydrogen and
+Decarbonized
+Gas Market Package- Proposing revisions on the regulation on natural gas transmission networks, the Directive on common rules
+for the internal market on natural gas, and gas security of supply regulation.
+- Enabling a higher proportion of renewable and low-carbon gases in the energy system, to reduce reliance
+on fossil natural gas.
+- Setting the stage for market participants, facilitating the development of a Europe-wide market for
+renewable and low-carbon gases thorough a certification scheme.
+- Facilitating the integration and accessibility of renewable and low-carbon gases into the current gas grid.
+- Promoting coordinated network planning across electricity, gas, and hydrogen infrastructure.
+- Establishing the European Network of Network Operators for Hydrogen, to facilitate the development of
+hydrogen infrastructure.[63]
+Net Zero Industry Act - Creating an environment conducive to expanding the production capacity of net-zero technologies for
+ensuring a secure supply of net-zero technologies to enhance the resilience of the EU’s energy system.
+- Enhancing investment certainty, policy alignment, and coordination by establishing monitoring mechanisms.
+- Facilitating and enabling carbon capture and storage projects, including improving the accessibility of
+carbon storage sites.
+- Leveraging the strength of the single market through promoting investments in various technologies such as
+renewable energy, electricity and heat storage, heat pumps, grid infrastructure, RFNBOs, electrolyzers, fuel
+cells, advanced fuels onshore and offshore renewable technologies, and sustainable biogas and biomethane.[64]
+EU ETS - Extending the ETS to cover maritime applications and providing new ETS for road transport.
+- Regulating European aviation allowances, allocating certificates, and auctioning.
+- From 2024 to 2026, the allocation of free certificates under the ETS is set to significantly decrease.
+- Ensuring a just green transition in all sectors, including transport, through the SCF.[65]
+production both within the EU and internationally [68]. The Bank
+primarily works on four key areas: creating a domestic market, im-
+porting to the EU, improving transparency, and coordination in the
+hydrogen supply chain, and uses existing European and international
+financial instruments to facilitate previous actions [68]. In order to
+support the development of a strong hydrogen economy in the EU,
+the hydrogen and gas decarbonization package was adopted in 2024,
+focusing specifically on infrastructure improvements [63].
+Consequently, two key policies-namely the CAP and the LULUCF-
+serve as regulatory frameworks with indirect effects on PtX fuels. These
+policies address key challenges such as land use, sustainable biomasssourcing, and carbon sequestration [69,70]. Another relevant policy is
+the Net-Zero Industry Act, which aims to enhance the manufacturing
+of clean energy technologies in the EU. This act focuses on scaling up
+the production of several clean energies, including electrolyzers, carbon
+capture and storage, and renewable power generation [64].
+3.2. The policy framework in Germany
+Germany’s recognition of PtX fuels as one of potential contributions
+to the energy transition, known as ‘‘Energiewende’’, dates back toEnergy 313 (2024) 134020 
+
+A.E. Torkayesh and S. Venghaus
+the early 2000s. However, the initial official discussions concerning
+PtX fuels in political debates emerged with the introduction of the
+stakeholder-based consultation process entitled ‘‘Mobility and Fuels
+Strategy’’ (MFS) in 2013 [71]. The MFS addresses a broad range of fuels
+such as hydrogen, biomass-to-liquid, SNG, alternative fuels, renewable
+fuels, and implicitly discusses PtX fuels by electricity-to-kerosene, and
+PtG. In order to support alternative fuels and electrification in road
+transport, the Federal Ministry of Transport and Digital Infrastructure
+launched the 2030 Federal Transport Infrastructure Plan (FTIP) in
+2016 [72]. The FTIP 2030 primarily emphasized the bolstering physical
+infrastructures necessary for transitioning to a sustainable transport
+sector. The discussion on PtX in the FTIP is limited to hydrogen,
+highlighting support from the MFS and the AFIR to aid in infrastructure
+development for alternative fuels. In this context, a summary of support
+schemes by the national legal frameworks is presented inTable 5. A
+further in-depth content analysis of the identified policies is presented
+below.
+The most important step by the German government in favor of PtX
+fuels was the introduction of the GHG Reduction Quota (Treibhausgas-
+Minderungsquote) in 2015 [73]. Replacing the Biofuel Quota (Biokraft-
+stoffquotengesetz), this policy aims to improve the integration of re-
+newable energies into the national transport sector. Acting closely
+with the Federal Immission Control Act, the quota applies several
+ordinances, including the ordinance on requirements for the sustainable
+production of biofuels (Biofuels Sustainability Ordinance - Biokraft-
+NachV), the ordinance on the crediting of upstream emission reductions
+to the GHG Quota as well as other ordinances. A significant ordinance
+regulating renewable fuels, specifically PtX fuels, is the 37th ordinance
+on the implementation of the Federal Immission Control Act (ordinance
+on the crediting of electricity-based fuels and co-processed biogenic oils
+into the GHG Quota - 37th BImSchV). The GHG Reduction Quota can
+be considered one of the crucial regulatory frameworks with a high
+coherence with the RED II considering the inclusion of RFNBOs.
+Moreover, the German government’s recognition of alternative and
+sustainable fuels beyond electrification and biofuels was a gradual
+process, culminating with the introduction of the MFS and the FTIP.
+A significant step was taken by the German government for transform-
+ing the National Platform for Electromobility (NPE) into the National
+Platform for Future Mobility (NPM), a stakeholder-based consultation
+process emphasizing alternative fuels in the transport sector. The NPM
+specifically explored PtX and biomass-to-X (BtX) fuels for heavy-duty
+road, maritime, and aviation transport. According to NPM reports, a
+considerable portion of Germany’s current alternative fuels portfolio
+is comprised by biofuels. Thus, reports emphasize the central role of
+projects supporting PtX fuels to increase their contribution by 2030,
+aiming to meet 21% of the overall demand through alternative fuels.
+Notably, the NPM suggests that by 2030, Germany plans to elevate
+its electrolyzer capacity to a minimum of 20 GW, with an additional
+demand expected to be imported from other nations, underscoring a
+fundamental aspect of Germany’s domestic PtX economy [78]. How-
+ever, this creates a significant conflict with the EU Hydrogen Strategy,
+which aims for a minimum capacity of 40 GW by 2030 for all member
+states.
+In 2021, the NPM released the Roadmap ‘‘Market ramp-ups of alter-
+native drive systems and fuels from a technological perspective’’ [79].
+The NPM’s roadmap presents three scenarios detailing potential market
+uptakes of alternative fuels in Germany. This comprehensive plan
+outlines both EU and German measures for alternative fuels. In Scenario
+I, biofuels, including first-generation and advanced types, comprise a
+major share of alternative fuels, with a minimal allocation for e-fuels,
+primarily targeted at aviation towards the period’s conclusion. Scenario
+II predicts an increased share of biofuels, alongside a slightly increased
+share of e-fuels, especially earmarked for maritime use. To meet the e-
+fuels quota proposed in this scenario, Germany would need to construct
+three plants annually producing 100,000 tons by 2028, expanding to
+five plants per year with the same capacity by 2030 [79]. Scenario IIIpresents an ambitious e-fuel plan, envisioning Germany’s establishment
+of five plants by 2028, each with an annual capacity of 100,000 tons,
+followed by an additional 10 plants by 2030, producing 250,000 tons
+annually [79].
+The Climate Action Plan is the cornerstone of Germany’s legal
+framework in addressing GHG emissions. Introduced in 2016, its pri-
+mary objective is to establish the necessary regulations to reduce emis-
+sions across various sectors, aiming for GHG neutrality by 2050 [75]. In
+addition to the focus on electrification to reduce the transport sector’s
+emissions, the Climate Action Plan recognizes hydrogen as a potential
+alternative for Germany’s future transport. After the transition to a
+new government in 2021, Germany revised its emission reduction goals
+from 55% to 65% by 2030 and currently aims for GHG neutrality
+by 2045. As a result, this led to a revision of the Climate Action
+Plan, which includes new and updated measures to enhance Germany’s
+response to climate challenges [76]. The updated revision highlighted
+robust measures, particularly in the production and utilization of green
+hydrogen, renewable power and zero-emission fuels.
+Following the timeline of the German legal framework, in 2020, the
+Federal Ministry for Economic Affairs and Climate Action of Germany
+(BMWK) launched the National Hydrogen Strategy, which marks an
+important moment for PtX fuels [74]. As green hydrogen production is
+integral to PtX, this strategy profoundly shapes PtX’s future in Germany
+with a target of reaching a minimum capacity of 5 GW electrolysis
+by 2030. It aims to foster a robust, sustainable domestic market for
+hydrogen production and usage. Anticipating a demand of 90-110 TWh
+of hydrogen by 2030, and the Federal Government acknowledges the
+need for renewable power in green hydrogen production. However,
+due to capacity constraints, Germany acknowledges that it might not
+meet all demand domestically and emphasizes the creation of platforms
+for imports. The strategy emphasizes hydrogen applications in German
+aviation and maritime, particularly in synthetic fuels, to drive GHG
+neutrality in these sectors. To address the existing challenges and adjust
+to the obstacles presented by external political events, the strategy was
+most recently updated in 2023. The updated strategy aims to increase
+the electrolyzer’s capacity to at least 10 GW. Moreover, other new
+targets are focused on developing an efficient hydrogen infrastructure,
+facilitating their use in different applications, and becoming the leading
+provider of hydrogen technologies by 2030 [80].
+Finally, most recently, Germany introduced the PtL roadmap to
+support sustainable aviation fuels [77]. The roadmap set a target of
+a minimum of 200,000 tons of PtL kerosene in German aviation by
+2030. The market ramp-up is intended to meet 50,000 tons of PtL by
+2026, 100,000 tons by 2028, and finally 200,000 tons by 2030. The
+roadmap aims to support its target by improving its coherence with the
+RED III, the National Hydrogen Strategy, the EU ETS, and the RefuelEU
+Aviation.
+3.3. Results of policy review & analysis
+Understanding the impacts of current policies on the German trans-
+port sector and the use of PtX fuels in hard-to-abate transport modes
+is crucial. This understanding will play a significant role in shaping
+future strategies and ensuring the effective implementation of measures
+aimed at the sustainable scaling up of PtX fuels. Although Tables 4and
+5present a summary of the policies, based on the content analysis,
+and their support schemes, an in-depth analysis is required to under-
+stand the relationships among PtX fuels, their production processes,
+resources, and market instruments. In this regard, based on the coding
+scheme represented inFig. 1, interrelationships between PtX fuels (in
+their terminology) and other sustainable fuels and sustainable trans-
+port, market instruments, innovation and R&D, different resources,
+land-use and agricultural activities are analyzed.
+The primary analysis was based on the data analysis approach,
+introduced in the previous section. The identified policies can be dis-
+sected and analyzed according to several distinct terminologies. TheEnergy 313 (2024) 134020 
+
+A.E. Torkayesh and S. Venghaus
+Table 5
+Summary of the PtX-related support schemes in Germany.
+Policy Targets & Support Schemes References
+FTIP - Providing financial support for hydrogen projects.
+- Allocating required financial budgets to the establishment of hydrogen production and refueling facilities.[72]
+National Hydrogen
+Strategy- The electrolysis target for producing green hydrogen is a minimum of 10 GW by 2030.
+- Efficient use of renewable electricity, fair design of the energy price, possibility of exempting
+renewable electricity from taxes and surcharges for green hydrogen production.
+- Developing proper business and cooperation models for electrolyzers and the grid.
+- Supporting off-shore wind power for the production of green hydrogen and PtX fuels.
+- Suggesting to add a new target to the Federal Immission Control Act to increase share of hydrogen in the transport
+sector.
+- Presenting clear investments for electrolyzers to fulfill the target of having 2 GW installed hydrogen production
+facilities by 2030.
+-Recommending to improve collaboration between Germany and other EU member states in preparing to use
+e-kerosene for aviation.
+- Financial support will be continued via the National Innovation Programme for Hydrogen and Fuel Cell Technology
+as well as the Energy and Climate Fund (ECF) to boost investments in hydrogen-using vehicles.
+-e1.1 billion from the ECF has been earmarked to produce PtX fuels, specifically e-kerosene until 2023.
+- The ECF will also provide e3.4 billion in grants to support the infrastructural developments required for alternative
+fuels.
+- Urging to develop an international framework to harmonize the refueling standards, hydrogen quality, calibration,
+and licensing.
+- Extending the research into demonstration projects on green hydrogen and PtX fuels.
+- Integrating hydrogen in current energy partnerships, where Germany will be willing to have an additional investment
+ofe2 billion.
+- Establishing a European hydrogen company to promote and develop joint international production capacities and
+infrastructure.[74]
+Climate Action Plan - Proposing proper financial support for hydrogen by electrolysis and producing synthetic methane as
+well as PtL fuels.
+- Developing national structures for the additional production of hydrogen from offshore wind.
+- The Hydrogen Global (H2Global) funding instrument is included given its importance for hydrogen in global supply
+chains. Further investments are discussed for maritime and aviation to support infrastructures as well as
+hydrogen-based fuels with low or zero emissions.[75,76]
+GHG Reduction Quota - Defining targets to reduce GHG emissions in energy, industry, transport, agriculture and waste sectors
+or to purchase emission allowance.
+- Replaced the Biofuel Quota (BioKraftQuG) and is supported by the Federal Immission Control Act and Energy Tax
+Act.
+- Establishing a Federal Immission Protection Decree (in German: BImSchV), called 37. BImSchV, for regulating the
+crediting of electricity-based fuels and processing biogenic oils on the GHG quota.
+- Gradual increase in the GHG quota to 25% by 2030.
+- Reducing share of first-generation biofuels, and gradually increasing the minimum share of advanced biofuels in the
+quota to 2.6% by 2030.[73]
+PtL Roadmap - Defining a sustainability standard based on various criteria to ensure the sustainable production of PtL fuels.
+- Suggesting several sustainability criteria considering ecological, economic and social aspects as follows:
+(I) Ecological: additionality of renewable energy sources, avoiding local water scarcity, land use and land rights, and
+sustainable carbon sourcing.
+(II) Economic: economic viability, contribution to local value chain, inclusion of local actors, and international
+networking.
+(III) Social: working condition, protecting legal security and against corruption, capacity building, and transparency.
+- Urging to transpose the EU requirements into German law in terms of GHG quota within the Federal Immission
+Control Act.
+- Pointing out the possibility of cutting costs through several credits for by-products such as green hydrogen from the
+production of PtL kerosene.
+- Highlighting the fuel quota introduced by the RED II to ensure 50,000 PtL tons in 2026, and 200,000 PtL tons by
+2030.
+- As PtL fuels would not be available everywhere at first, the stakeholders involved in the roadmap are looking into
+the possibility of developing trustworthy accounting guidelines that would allow airlines to buy PtL kerosene beyond
+their route network and use it as an emissions offset within the framework of suitable accounting systems.
+- Several national funding opportunities arise through different ministries and institutions such as the ECF accounting
+fore1.3 billion for the production of PtX fuels.
+- The Federal Ministry for Economic Affairs and Energy proposed providing e87 million for the production and use of
+PtX fuels.[77]
+frequency of occurrence of the defined terminologies is as follows: PtX
+(181 occurrences, including PtG and PtL), PtL (161), PtG (7), RFNBOs
+(53), carbon-based fuels (10), e-fuels (66), and ammonia (50). Addi-
+tionally, the occurrence frequency of related terms, such as alternative
+fuels, synthetic fuels, SAFs, hydrogen, and green hydrogen, is recorded
+as 227, 24, 264, 3166, and 239, respectively. The analysis of the
+frequency of occurrence of various key terms provides valuable insights
+into the focus areas within the discourse on sustainable fuels. Notably,
+PtL has received more attention compared to the general term of PtX in
+the transition towards sustainable transport. The frequency of related
+terms, including alternative fuels, synthetic fuels, and hydrogen, furtheremphasizes the growing interest in PtX fuels. However, while these
+insights are informative, they underscore the need for further analysis.
+A deeper exploration of these terms and their interrelations with key
+challenges is essential to fully understand the implications for policy
+development in a climate-neutral transport sector.
+Understanding the interrelationship between PtX fuels and the re-
+sources required for their production is crucial for optimizing their
+implementation and ensuring sustainable energy transitions against a
+backdrop of robust regulatory support. In this regard, Fig. 2(a) visu-
+alizes the interrelationship between various elements in the context
+of policy documents, highlighting the roles of solar and wind power,Energy 313 (2024) 134020 
+
+A.E. Torkayesh and S. Venghaus
+Fig. 2.Interrelationships between PtX fuels and the relevant resources within the regulatory frameworks.
+water, carbon, bio-based feedstock, and DAC in the production of PtX
+fuels. The size of each node reflects the frequency of each term’s
+occurrence, while the thickness of the edges between connected nodes
+indicates how often those terms co-occur within the same policy doc-
+uments. The distance between nodes signifies the overall frequency of
+co-occurrence across all policy documents. The findings indicate that
+carbon and wind power are the most frequently mentioned terms in
+the policy documents. A significant observation is the large distance
+of DAC from other resources, suggesting a lack of support for it as a
+viable carbon capture pathway. Most importantly, all resources exhibit
+a relatively large distance from PtX fuels, highlighting potential gaps
+in integration and focus within the current policies. Using the findings
+of the content analysis from the previous section to complement the in-
+terrelationships between resources and PtX fuels, renewable electricity
+generated from solar and wind power, along with carbon utilization,
+are extensively addressed in regulatory discussions concerning PtX
+fuels. In contrast, water systems emerged as one of the resources least
+discussed in a cohesive manner alongside other policies supporting PtX
+fuels. This lack of emphasis on water resources highlights a significant
+oversight, as the effective management of water systems is essential for
+the sustainable production of PtX fuels.
+Considering the key role of green hydrogen in the production of PtX
+fuels, Fig. 2(b)illustrates the interrelationships between various termi-
+nologies related to PtX fuels (E-fuels and RFNBOs) and hydrogen as well
+as green hydrogen. This visualization helps to clarify how these terms
+connect and emphasizes the significance of green hydrogen within thebroader context of sustainable energy solutions for transport sector.
+Considering the intermediary role of PtX fuels between resources and
+sustainable transport in the graph, hydrogen appears as a key element
+highlighted in the policy documents, closely linked to green hydrogen
+and ammonia. The analysis indicates relatively short distances between
+hydrogen and PtX fuels, and its interchangeable term, ‘‘e-fuels’’. How-
+ever, RFNBOs, as introduced in RED II, are positioned further away,
+indicating a lesser focus or integration in current discussions. The lesser
+focus on RFNBOs may indicate a gap in understanding their potential
+role or significance in the broader context of energy transition strategies
+as well as low relevancy to the previous defossilization strategies. This
+highlights the need for further exploration and consideration of these
+renewable fuels in future analyses. In addition, the emphasis on e-fuels
+and its close connection with hydrogen and green hydrogen can be
+attributed to ongoing discussions in German policies, mainly focused
+on the terms ‘‘e-fuels’’ and ‘‘electricity-based fuels’’. This focus reflects
+the strategic importance placed on integrating e-fuels into the energy
+landscape, positioning them as crucial components in the transition to
+sustainable transport.
+The current emphasis on green hydrogen relies on the availability
+and supply of renewable electricity for electrolysis. To advance the
+analysis, we examined various PtX terminologies and their intercon-
+nections with renewable electricity, electrolysis, hydrogen, and other
+sustainable fuels, such as SAFs, synthetic fuels, alternative fuels, and
+carbon-based fuels. Fig. 2(c), similar toFig. 2(b), shows that RFNBOs
+and carbon-based fuels exhibit less integration within the policiesEnergy 313 (2024) 134020 
+
+A.E. Torkayesh and S. Venghaus
+connected to hydrogen and renewable electricity. This low coherence
+arises from the lack of in-depth mechanisms for supporting hydrogen
+production within the RED III and other fuel-based EU policies. Support
+for hydrogen, particularly green hydrogen, is primarily derived from
+the hydrogen strategies in the EU and Germany, which tend to address
+general technical issues rather than focusing on future hydrogen pro-
+jections tied to specific fuel alternatives. This gap highlights the need
+for more targeted policy measures to effectively support the sustainable
+development of hydrogen as a fuel source or part of the production
+process for PtX fuels.
+Another key but often overlooked topic in the field is the impact of
+sustainable transport practices, such as the use of PtX fuels, on land-use
+change and agriculture. This aspect is crucial for understanding how
+the transition to alternative fuels may affect land resources, agricultural
+practices, and environmental sustainability. Based on the content anal-
+ysis in the previous sections, there is limited scope in current EU and
+German policies regarding the regulation of bio-based feedstock, such
+as bio-based carbon feedstock, for PtX fuels. In this regard, Fig. 2(d)dis-
+plays low coherence between these elements with sustainable transport,
+particularly highlighted by thin edges that indicate a low co-occurrence
+in the same policies.
+Moving from the lower to the upper layers of the PtX value chain,
+the analysis of policy documents was expanded to examine the market
+development of these fuels. This includes evaluating the roles of key
+regulatory instruments such as subsidies, incentives as well as financial
+supports for innovation and R&D. Understanding these factors is crucial
+for fostering a supportive environment for the growth and integration
+of PtX fuels in the current competitive energy market with numerous
+fuel alternatives. First, an analysis was made based on potential in-
+terrelationships between PtX fuels and market mechanisms. Fig. 3(a)
+highlights key roles of incentives and innovation programs and funds
+as market mechanisms for the market diffusion of PtX fuels. On the
+other hand, subsidies appear to play a less significant role among mar-
+ket mechanisms, as validated by the content analysis in the previous
+section.
+Addressing the challenges within the PtX supply chain and fostering
+technical, social, and environmental innovations are essential concepts
+that necessitate investments in R&D projects. Fig. 3(b) illustrates the
+strong role of R&D as an intermediary between PtX fuels and green
+hydrogen, highlighting R&D’s critical contributions in the areas of elec-
+trolysis and fuel synthesis, and emphasizing how advancements in these
+technologies can enhance the efficiency and effectiveness of hydrogen
+production and PtX fuel development. Similarly, Fig. 3(c)extends this
+analysis by including innovation and R&D as two key mechanisms
+for market development. It highlights a triangular interrelationship
+between innovation, the market, and R&D, emphasizing their combined
+role in enhancing the PtX fuel supply chain.
+To further explore these interrelationships, connections between
+various policies were investigated. After investigating the interrela-
+tionships between these policies, we analyzed policy documents and
+mapped them using a simple matching method, focusing on the cov-
+erage rate of specific fuel alternatives. In this method, matches were
+defined based on the number of codes or variable values that are
+identical in both documents (a) and those that do not exist in either
+document (d). The calculation accounts for codes that only exist in one
+document (b and c), allowing us to derive a ratio match by using the
+following formula: Simple match =(a+d)/(a +b+c+d). This method
+enables a comprehensive comparison of how different policies address
+various fuel alternatives.
+The initial analysis centers on two commonly used terminologies
+for PtX fuels: e-fuels and RFNBOs. According to the results, policies
+are categorized into six groups: (I) the ReFuelEU Aviation, FuelEU
+Maritime, RED III and REPowerEU with a major focus on RFNBOs
+and e-fuels; (II) the AFIR, Climate Action Plan, EED, EU H2 Strategy,
+and Hydrogen Bank with a focus on only e-fuels; (III) the MFS, PtL
+Roadmap, SSMS, and 37. BImSchv covering e-fuels and PtX fuels; (IV)the ETS, FTIP and Hydrogen and Decarbonized Gas Market Package
+only mentioning PtX fuels; (V) German H2 Strategy, as the only strategy
+covering all three terminologies; (VI) no mention of three terminologies
+in the rest of the policies.
+In the second step, an analysis was carried out on the basis of the
+resources needed to produce PtX fuels. The analysis covers DAC, renew-
+able electricity from solar and wind power, water, and hydrogen as well
+as green hydrogen. Based on the coding scheme, only two policies-the
+PtL Roadmap and ReFuelEU Aviation-explicitly address and regulate
+DAC as a carbon source for PtX fuels. While other policies do not
+provide clear support for DAC facilities, carbon capture and storage
+is addressed in a significant number of policies (e.g., the RED III).
+The second resource analyzed is renewable electricity from solar and
+wind power. According to the coding scheme, policies can be evaluated
+in different ways. First, based on the frequency of the occurrence of
+the codes, the RED III and EEG emerge as the key policies with the
+highest frequency values. On the other hand, based on the occurrence
+of the codes, policies are categorized into six groups: (I) the Climate
+Action Plan, EED, EU H2 Strategy, GDIP, FuelEU Maritime, MFS, NZIA,
+RED III, REPowerEU and SCF are key policies extensively addressing
+all three terminologies; (II) the CBAM, 37. BImSchv and German H2
+strategy are other policies that address three terminologies for renew-
+able electricity with lower rates of occurrence; (III) the EEG, ETD, and
+Hydrogen and Decarbonized Gas Market Package are additional policies
+that primarily address this issue by focusing on the terminology of
+solar and wind power, rather than specifically referring to renewable
+electricity; (IV) the FTIP and SSMS exclusively reference wind power,
+whereas the AFIR, Hydrogen Bank, PtL Roadmap, and ReFuelEU focus
+solely on renewable electricity.
+Water and hydrogen are other resources needed for producing PtX
+fuels. Although water is highlighted in most of the identified policies
+as a key element, no policy specifically regulates its utilization for hy-
+drogen production within the context of renewable fuels. On the other
+hand, hydrogen itself, especially green hydrogen, has been discussed
+in most of the identified policies as well. In contrast to water, hydro-
+gen is regulated through multiple policies that focus on its technical,
+economic, social, environmental, and political dimensions. Notably,
+the EEG, EU CAP, and LULUCF are the only policies that do not
+mention hydrogen at all. On the other hand, the 37th BImSchv, AFIR,
+Climate Action Plan, EED, ESR, FTIP, FuelEU Maritime, MFS, SCF, and
+SSMS only address hydrogen in general scope. The remaining policies
+consider green hydrogen within their frameworks or discussions.
+4. Current initiatives and deployments in Germany
+To transition from policy analysis to the current status and devel-
+opments of PtX fuels, it is essential to recognize how these policies
+translate into practical applications. Understanding the current land-
+scape of PtX fuels requires an examination of recent advancements,
+ongoing projects, and market dynamics. This exploration could provide
+useful insights into the progress of policy measures and their impact on
+the growth and integration of PtX fuels in the transport sector.
+4.1. Status quo of Germany
+Beyond the regulatory and legal institutions, industrial organiza-
+tions as well as R&D institutions have shown strong interest in the
+development of PtX. For instance, the Forschungsvereinigung Verbren-
+nungskraftmaschinen (FVV) (Research Association for Internal Combus-
+tion Engines) [81], Deutsche Energie-Agentur (DENA) (German Energy
+Agency) [82], Fraunhofer Institute for Solar Energy Systems (Fraun-
+hofer ISE) [83], and Fuel Science Center [84] have conducted extensive
+research into PtX fuels. The International PtX Hub is another key
+institution addressing PtX fuels [85], which is implemented by the
+German Development Cooperation (Deutsche Gesellschaft für Interna-
+tionale Zusammenarbeit, GIZ) on behalf of the BMWK. The PtX HubEnergy 313 (2024) 134020 
+
+A.E. Torkayesh and S. Venghaus
+Fig. 3.PtX fuels, market and R&D within the regulatory frameworks.
+is funded through the International Climate Initiative (Internationale
+Klimaschutzinitiative) as a pivot for the National Hydrogen Strategy.
+The International PtX Hub has become a fundamental organization,
+providing platforms for the knowledge diffusion and accelerating the
+market development of PtX fuels on a global scale. Similarly, in 2021,
+the PtX Lab Lausitz, another BMWK-funded project, was officially
+established as a business unit of Zukunft - Umwelt - Gesellschaft (ZUG)
+gGmbH [86]. The PtX Lab Lausitz is dedicated to PtX fuels, with a
+specific focus on PtL fuels. Moreover, the Technology Platform PtL
+Fuels (TPP) project is another initiative funded by the Federal Ministry
+for Digital and Transport (BMDV) and is planned to be cooperatively
+implemented by the German Aerospace Center (DLR), NOW GmbH and
+VDI/VDE Innovation +Technik GmbH [87].
+As discussed earlier, Germany is one of the leading countries to
+explore the development of PtX fuels for transport and industry [19,
+23]. In this regard, Table A.2presents an overview of PtX plants
+in Germany, pointing out their location, final product, capacity, and
+the beginning of the operating period [88]. A summary of current
+developments in Germany is illustrated inFig. 4. In this regard, North
+Rhine-Westphalia, Lower Saxony, and Schleswig-Holstein are the states
+with the highest production capacity of 2276, 2121 and 1758 MW,
+followed by Saxony-Anhalt, Mecklenburg-Vorpommern, Brandenburg,
+and Hamburg, respectively. Based onTable A.2andFig. 4(a), hydrogen
+serves as a primary component or an integral part of the final products
+in the majority of the plants (127 plants), followed byCH4in 37 plants,
+NH3in four plants, MeOH in 12 plants, and synthetic hydrocarbons in
+19 plants. 89 of these plants were established before 2020, while 85
+were either established after this date or are planned to be established
+subsequently. Currently, 35 out of the 85 plants are undergoing feasi-
+bility analysis. Moreover, in total, 650 carbon sources are in operation,
+in the planning phase, or decommissioned in Germany. In Germany,the energy sector, waste and wastewater treatment, biomethanol pro-
+cessing facilities, and mining are the primary sectors serving as sources
+ofCO2emissions, with 155, 74, 243, and 62 facilities, respectively. Of
+these states, North Rhine-Westphalia has the highest carbon potential
+at 168 Mt per year, followed by Brandenburg with 50 Mt (Fig. 4(b)).
+Hydrogen consumption in Germany is primarily observed in hydrogen
+filling stations, the chemical industry, the steel industry, and ammonia
+production. The highest hydrogen consumption is recorded in North
+Rhine-Westphalia (Fig. 4(c)). Saxony, Thuringia, and Bavaria stand out
+as leading states with a significant number of R&D projects focused on
+PtX (Fig. 4(d)).
+Considering the importance of PtL fuels for the aviation and mar-
+itime sectors and its prominence in the identified national and EU
+policies, several R&D projects have been established in recent years,
+or are being planned. Table A.3presents R&D projects supported
+by Germany’s government in different federal states. Bavaria and
+Baden-Württemberg, each with eight projects, emerge as key states
+spearheading the development of PtL-based projects and plants. Ad-
+ditionally, Saxony and Lower Saxony, collectively boasting 11 projects,
+also play pivotal roles in this endeavor. There is a significant emphasis
+on leveraging PtL fuels for aviation purposes. E-kerosene, also known
+as PtL-based kerosene, is the main or part of the final products of
+several projects, including eFuels Kraftstoffe neu denken, Ineratec, Iner-
+atec/SCHWENK, Projekt  OMV Burghausen, PtX Lab Lausitz,
+HyEast, KEROSyN100, Jangada, Concrete Chemicals, Technologie-
+Plattform, Kompetenzzentrum für Klima-und ärmschutz im Luftverkehr,
+E-Kerosin-aus-der-Luft, GG2L, Solarbelt, PtL Shell, DAWN, Elektroly-
+seanlage für Wasserstoff aus regenerativen Energien, EDL Anlagenbau
+GmbH, TU Bergakademie Freiberg, and Green Fuels Lausitz. EWiK,
+Hy2Lausitz, Technologie-Plattform, and DOW Stade - Green MeOH are
+the only projects explicitly dedicated to producing PtL-based maritime
+fuels.Energy 313 (2024) 134020 
+
+A.E. Torkayesh and S. Venghaus
+Fig. 4.An overview of the PtX economy in Germany [88].
+4.2. National and international initiatives
+Exploring national and regional initiatives provides valuable in-
+sights into the potential of PtX fuels, especially considering hydrogen’s
+significant role, particularly green hydrogen, in their production. The
+national hydrogen strategy and the EU’s hydrogen strategy have en-
+couraged federal states in Germany to focus on establishing laws that
+support the development of the hydrogen economy. Fig. 5illustrates
+the federal states of Germany categorized into three groups: those witha specific hydrogen strategy, those with a joint strategy, and those with
+only discussion documents on key actions for hydrogen development.
+Berlin, Bremen, Bavaria, Hessen, North Rhine-Westphalia, Saarland,
+Baden-Württemberg, and Thuringia are the states with a hydrogen
+strategy. Northern states mainly share a joint hydrogen strategy, while
+states in the east of Germany have formalized their efforts with respect
+to the hydrogen economy to a lesser degree. Hamburg has its own
+strategy for importing hydrogen, but it is also part of a joint hydrogen
+strategy with other northern states. Rhineland-Palatinate is the onlyEnergy 313 (2024) 134020 
+
+A.E. Torkayesh and S. Venghaus
+Fig. 5.Hydrogen strategies of the federal states [89].
+state without a specific regulatory plan for hydrogen development.
+Fig. A.2demonstrates the timeline for development of hydrogen-related
+legal frameworks in all states. The initial efforts regarding hydrogen
+initiatives emerged in May 2019 in North Rhine-Westphalia. The first
+comprehensive hydrogen strategy was launched jointly by the Northern
+German states (Bremen, Hamburg, Mecklenburg-Western Pomerania,
+Lower Saxony, and Schleswig-Holstein) in November 2019. Soon there-
+after, other states also decided to adopt hydrogen strategies to regulate
+the development of hydrogen projects in accordance with federal laws
+and targets. The most recent state to unveil its hydrogen strategy was
+Saxony, introduced in December 2021 [89]. This was followed by an
+import-oriented strategy for Hamburg and a roadmap for Bavaria.
+According to the recent update of the national hydrogen strat-
+egy, the German government estimates that around 50%-70% of the
+projected demand for hydrogen in 2030 will need to be met through im-
+ports [80]. Therefore, encouraging and supporting international part-
+nerships and collaborations between Germany and other countries
+is essential for the large-scale use of PtX fuels. As a leader in the
+production and export of PtX technologies and hydrogen, Germany
+aims to establish solid partnerships with countries that have significant
+potential for producing PtX fuels. For this purpose, a specific strategy
+entitled, ‘‘Import Strategy for Hydrogen and Hydrogen Derivatives’’ was
+adopted in July 2024 to support Germany’s hydrogen policy and the
+government’s commitment to developing the domestic market [90].
+This strategy aims to create investment security for hydrogen produc-
+tion in partner countries and foster the development of the necessary
+import infrastructure. Moreover, it ensures that Germany’s demand for
+hydrogen and its derivatives is met while maintaining a resilient supply
+chain, providing reliance for the German industry as a key actor inthe hydrogen market. The strategy is supposed to be implemented with
+consideration to five policy dimensions: (I) climate and environmental
+policy to meet international, European and German climate and energy
+targets; (II) energy and economic policy for securing hydrogen and
+its derivatives across various end-uses, particularly in industry and
+transport; (III) European and neighborhood policy to enable pipeline-
+based imports from the EU and countries neighboring the EU; (IV)
+foreign and security policy to construct diversified, resilient import
+routes for hydrogen and its derivatives; (V) development policy to
+advance an energy transition in developing countries and emerging
+economies that is both socially equitable and sustainable.
+The strategy identifies various hydrogen derivatives, including am-
+monia, methanol, and FT products. To meet current and future de-
+mands of these derivatives, the strategy proposes a framework based
+on measures and instruments to support a ramp-up of their imports.
+The proposed measures and instruments are categorized as follows:
+•Fostering the demand side: ETS, ReFuelEU Aviation, FuelEU Mar-
+itime, RED III, Carbon Contracts for Difference, Federal Funding
+for Industry and Climate Action, H2Global, Power Plant Strat-
+egy, Innovation Fund, Important Projects of Common European
+Interest, and Funding for R&D and transport market activation.
+•Creation of sustainable import infrastructure: Hydrogen core net-
+work, Hydrogen Acceleration Act, Hydrogen Storage Strategy, EU
+Gas and Hydrogen Internal Market Package, LNG Acceleration
+Act, National Port Strategy, and the National Action Plan for
+Climate-Friendly Shipping.
+•Product requirements and certification processes: EU Gas and
+Hydrogen Internal Market Package, RED III, Supply Chain Due
+Diligence Act, and NHS monitoring.Energy 313 (2024) 134020 
+
+A.E. Torkayesh and S. Venghaus
+Fig. 6.Germany’s global energy partnerships [91,92].
+•Funding of the international supply of hydrogen and derivatives:
+Hydrogen Bank, H2Global, EIB Green Hydrogen Fund, funding
+guidelines for international hydrogen projects, PtX Development
+Fund, and climate policy sector guidelines.
+•International cooperation: Partner countries in the EU/EFTA, cli-
+mate and energy/hydrogen partnerships, Just Energy Transition
+Partnerships, Hydrogen research partnerships, International Cli-
+mate Initiative, and H2-diplo.
+•R&D: Feasibility studies, applied research projects, basic research
+projects, demonstration projects, and Hydrogen Technology and
+Innovation Roadmap.
+In this context, the German Federal Ministry for Economic Coop-
+eration and Development established the PtX Development Fund in
+2022 with a budget ofe270 million to initiate large-scale hydrogen
+projects in partner countries. Its objective is to create local value
+chains and foster a supportive economic environment for developing
+green hydrogen economies. In its first call for project applications, the
+PtX development fund considers Brazil, Egypt, Georgia, India, Kenya,
+Morocco, and South Africa as eligible countries. However, in order
+to conduct an in-depth analysis of current and future projects, it is
+essential to understand Germany’s partnerships and collaborations. This
+understanding will provide valuable insights into the strategic frame-
+works and initiatives shaping the development of PtX and hydrogen
+projects globally.
+For this purpose, Fig. 6represents an overview of Germany’s global
+energy partnerships according to the most recent energy and climate
+partnerships and energy dialogues [91,92]. Countries marked in green
+represent those whose partnership with Germany is fully or partially
+based on hydrogen projects. Since 2022, bilateral hydrogen partner-
+ships have been made with Australia, Chile, Canada, Morocco, Namibia,
+and Saudi Arabia. In the same manner, countries highlighted in or-
+ange are those with explicit projects on PtX or other synthetic fuels
+within their partnership with Germany. Countries marked in blue do
+not address hydrogen or PtX but still have energy partnership with
+Germany. Following the Russia-Ukraine war, the decision to become
+energy-independent from Russian oil, encouraged Germany to enhance
+its strong partnerships for renewable energy expansion, including hy-
+drogen and PtX, aiming to improve market ramp-up toward 2030 and
+2045. Currently, Japan, Saudi Arabia, Namibia, the United Arab Emi-
+rates, Oman, and Qatar have directly specified PtX in their partnerships
+with Germany.For hydrogen, Germany follows initiatives and partnerships with
+different countries. Four of the most recent partnerships are
+the Germany-Denmark Hydrogen Network, the Germany-Namibia co-
+operation for green hydrogen, the Canada-Germany Energy Partnership
+with a specific focus on instruments for hydrogen development, and
+the German-Australia Hydrogen Alliance. Considering the Denmark’s
+PtX potential, as well as its political and economic role among Ger-
+many’s neighboring countries, an agreement has been reached to build
+a green hydrogen pipeline by 2028. Moreover, Denmark has been
+actively planning the North Sea Energy Island project, which aims
+to create a large-scale renewable energy hub in the North Sea. The
+project is designed to have a capacity of up to 10 GW of wind power,
+enabling the production of significant amounts of e-fuels for aviation
+and maritime. Australia is another key partner for Germany in meeting
+its future projected demand for hydrogen, particularly green hydrogen.
+The country boasts abundant renewable energy resources, including
+wind and solar power, which can be used to produce green hydrogen.
+Recently in 2024, a new agreement deepened the cooperation on new
+green hydrogen supply chains viae400 million (e660 million) H2
+Global funding window to guarantee European buyers for Australia’s
+renewable hydrogen producers.
+To strengthen the collaborations and highlight the potential of
+partner countries in PtX projects, Hank et al. [83] conducted a cost
+analysis study using an optimization-based genetic algorithm, a techno-
+economic model, and Geographic Information System to analyze poten-
+tial PtX pathways and products in developing and emerging countries.
+For this purpose, 12 countries including Brazil, South Africa, Ukraine,
+Colombia, India, Namibia, Tunisia, Algeria, Morocco, Mexico, Spain,
+and Australia were considered. The four main PtX products to be
+analyzed were ammonia, methanol, e-kerosene, gaseous and liquid
+hydrogen. In order to achieve the promised targets within the PtX
+dialogues between Germany and partner countries, Hank et al. [83]
+presented country-specific discussions on the production pathways, PtX
+products, and supply chain costs. Among all the countries analyzed,
+Brazil, Australia, and Spain emerge as standouts. Several investigated
+regions exhibit PtX production costs below 200 EUR/MWh for the year
+2030, enabling production volumes of up to 4 TWh per year per project.
+Moreover, in many instances, favorable conditions that combine wind
+and PV power generation can prove more beneficial than locations with
+exceptionally good conditions for either wind or PV alone. Such decent
+hybrid renewable energy sites contribute to increased utilization andEnergy 313 (2024) 134020 
+
+A.E. Torkayesh and S. Venghaus
+Fig. 7.Overview of the existing and planned PtX projects for aviation and shipping.
+reduced reliance on intermediate hydrogen storage. Hank et al. [83]
+also highlight the importance of infrastructural networks and process
+chains downstream from the import stage in order to optimize the
+supply chain. A more in-depth analysis of countries in terms of their po-
+tential for producing PtX fuels-considering relevant production areas,
+potential generation volumes, socio-economic support, fuel production
+costs, and transportation expenses-can significantly aid in identifying
+and prioritizing the leading exporting countries [93].
+4.3. European PtX projects for aviation and maritime
+In the transport sector, there is a considerable need for PtL-derived
+kerosene (e-kerosene) to reduce aviation emissions, as well as e-fuels
+derivatives for maritime emissions. In aviation, in order to meet the Re-
+FuelEU’s synthetic fuel blending requirements of 1.2% in 2030, the pro-
+duction capacity needs to be over one million tons. To achieve the bind-
+ing targets, several projects are going on in the EU (Fig. 7(a)). In 2024,
+the European Federation for Transport and Environment identified 45
+e-kerosene projects in several countries, including Germany, France,Spain, Portugal, Denmark, Norway, the UK, Iceland, and Greece, as well
+as 18 pilot demonstration projects [50].
+Fig. 7(a)shows that Norway leads with a total production capacity
+reaching 420,000 tons of e-kerosene by 2030, approximately a quarter
+of the total projections. Two companies, Nordic Electrofuel and Norsk
+e-Fuel, have ambitious plans to capture a substantial portion of the
+European market. Norway’s advantage lies in its stable access to re-
+newable energy from hydropower at a comparatively low cost, which
+explains its current leadership in the e-kerosene sector, given that
+electricity represents a significant cost factor in e-fuel production [50].
+Next, the collective production capacity of all six identified full-scale in-
+dustrial projects in France is projected to reach approximately 300,000
+tons of e-kerosene by 2030 [50]. With an anticipated production ca-
+pacity of around 300,000 tons in 2030 and three significant projects,
+Germany is experiencing the benefits of its proactive PtL roadmap in
+promoting e-kerosene production [50]. Conversely, Sweden is taking a
+distinctly different approach compared to other European countries, as
+all of their projects are centered around PBtX. Given Germany’s plan to
+incorporate at least 0.5%, 1%, and 2% of e-kerosene in German airportsEnergy 313 (2024) 134020 
+
+A.E. Torkayesh and S. Venghaus
+by 2026, 2028, and 2030, respectively, it is crucial to prioritize the
+forging of partnerships with other European countries.
+Following the targets introduced by the FuelEU Maritime to de-
+crease GHG intensity by 80% by 2050, e-fuels such as e-ammonia,
+e-methanol, and e-diesel are expected to play key roles in the sec-
+tor [94]. In this regard, 17 projects with a capacity of 1.06 million
+tons of oil equivalent are fully dedicated to shipping, while another 25
+projects with a capacity of 1.9 million tons of oil equivalent include
+shipping as one of the end-users [94].Fig. 7(b) illustrates existing
+(or confirmed) and planned projects within the EU. Considering all
+potential e-fuels, including green hydrogen, Denmark plays a key role,
+with a total capacity of 3.61 million tons of oil equivalent, followed
+by Spain and Portugal. However, for projects specifically dedicated to
+shipping, Spain and Finland emerge as the leading countries. Finland
+has one project, Kokkola Renewable Ammonia, with a capacity of
+780,000 tons of e-ammonia per year. After Finland, Spain has two
+projects totaling 357,000 tons, Norway has five projects with a capacity
+of 178,000 tons, Sweden has three projects with 119,000 tons, Germany
+has two projects with 47,000 tons, and the UK has one project with
+9750 tons [94].
+5. Discussions: Lessons learned & policy implications
+Transitioning Germany’s transport sector to cleaner, low-carbon
+energy sources is essential for meeting the country’s climate targets for
+2030 and 2045. Despite numerous policies being introduced in Ger-
+many and the EU aimed at defossilizing the sector, minimal emission
+reductions have been achieved since the 1990s. Increased transport de-
+mand and the introduction of new regulatory frameworks have created
+uncertainty regarding whether current instruments will be sufficient to
+meet future targets while contributing to sustained high GHG emissions
+in the sector. Although PtX fuels offer promises for emission reduction,
+their demand remains low due to their high production costs, inefficient
+production processes as well as the dominance of the lobbies for fossil
+fuels in the market [38,95]. In this regard, the key challenges of
+developing PtX fuels, along with the policy implications derived from
+the results of the coding scheme and content analysis, are presented as
+follows.
+5.1. Key challenges
+Important challenges related to the utilization of PtX fuels in the
+current transport sector are caused by the lack of infrastructure, in-
+sufficient policies for supporting PtX technologies and the required
+production capacity, as well as an insufficient understanding of the
+sustainability implications. Based on the findings, the key challenges in
+this regard include difficulties in securing the necessary resources for
+producing PtX fuels, challenges in meeting projected demand and the
+potential role of imports from other countries, and the lack of adequate
+regulatory support, which is often either insufficient or still in early
+stages of development.
+A critical issue was identified regarding the volatility in the avail-
+ability of renewable electricity, carbon, and water as the essential
+elements to produce PtX fuels. In the case of renewable electricity,
+further development of PtX projects is strongly influenced by the EEG
+feed-in tariff and the national renewable electricity capacity. Thus,
+reaching a minimum share of 80% in electricity generation by renew-
+able sources, as the main goal of the EEG, could play a significant
+role for PtX production with economic costs in Germany and the
+EU. Currently, carbon is primarily sourced from biogenic materials,
+industrial processes, and point sources, while DAC facilities are not
+yet economically viable. Therefore, the German government should
+consider the economic feasibility of DAC facilities when developing
+future policies on carbon capture and storage. Moreover, water utiliza-
+tion requires more targeted regulatory support to effectively manage
+its demand in large-scale plants. The complexity of PtX productionreflects a water-energy-carbon nexus, highlighting the need for a robust
+policy framework for effective management. Given its vital role in
+hydrogen production, water should be regulated within this nexus.
+Ensuring sustainable water use is essential not only for maximizing
+hydrogen yield but also for preventing potential conflicts over water
+resources, particularly in regions where water scarcity may become
+an issue as demand for hydrogen grows. In the long term and with
+increased demand for hydrogen and PtX fuels, the existence of specified
+legislation on water systems could optimize the process and prevent
+potential conflicts. Another challenge concerning key resources is the
+availability of bio-based carbon feedstock for PBtX fuels, which poses
+constraints on their production and scalability. The RED III labels
+RFNBOs according to their non-biological feedstock; however, it does
+not address potential challenges, such as the limited availability of bio-
+based feedstock from non-biological sources in light of the increasing
+fuel demand.
+Fulfilling the demand for PtX fuels, particularly in the aviation and
+maritime sectors, is likely to surpass projected national production
+capacities. Considering the potential regions for producing PtX fuels
+in the Global PtX Atlas [93], importing PtX fuels will be essential for
+Germany to meet future demand. An important sustainability principle
+is the CBAM, which plays a key role in PtX importing within the various
+inter-governmental partnerships outlined in the previous sections. Par-
+ticularly for carbon, the CBAM obliges other countries seeking to invest
+in PtX fuels for the purpose of export to Germany in order to follow
+the EU mandates on import countries on specific criteria regarding
+carbon sources in the production of PtX fuels. The EU aims to ensure
+that the utilization of carbon for renewable fuels does not lead to
+lock-in effects concerning existing CO2emissions and protects national
+producers under an effective national carbon pricing system similar to
+the EU ETS. Ensuring compliance with such regulations is crucial for
+realizing the effective mitigation of climate change, particularly in the
+medium and long terms. However, implementing the necessary legal
+regulations will require time and careful consideration. This indicates
+that investments being made for the European market from outside the
+EU that adhere to the regulatory targets will ensure the immediate and
+crucial import of these fuels in a sustainable way [96].
+The development of PtX projects plays a significant role in improv-
+ing the integration of several sectors in favor of renewable energy
+production, aligned with the RED III targets. In Germany, prior to
+the PtL roadmap, binding PtL subquotas for aviation were introduced
+within the 37. BImSchV of the GHG reduction quota. While the PtL
+roadmap provides exclusive regulatory support and defines specific
+targets for the aviation sector, Germany requires more comprehensive
+roadmaps or policies to specify targets for various PtX end products
+across different end-uses. AsFig. 6shows, Germany has a complex
+and inter-governmental global supply chain for hydrogen and PtX.
+Presently, numerous projects are in the planning phase, and a limited
+number are in the operating phase in countries that aim to export end
+products to Germany. To meet its targets for aviation, Germany can
+expand its partnerships with other European countries that face fewer
+challenges regarding renewable electricity generation with ongoing
+or planned projects (Fig. 7(a)). On the other hand, the demand for
+PtX fuels in maritime transport has encountered significant challenges.
+Unlike aviation, the maritime transport sector and its energy market
+have historically been distinct from other sectors, offering a variety
+of fuel alternatives to replace fossil fuels, including e-ammonia, e-
+diesel, and e-methanol [94]. A key regulatory challenge in this regard
+is the absence of national policies, like the PtL Roadmap for Aviation,
+within the maritime sector to effectively regulate the deployment and
+utilization of e-fuels.
+5.2. Policy implications
+Building on the discussions outlined above, this section presents rec-
+ommendations for a mixed policy framework that incorporates cross-
+sectoral policies to effectively address the challenges to deploying andEnergy 313 (2024) 134020 
+
+A.E. Torkayesh and S. Venghaus
+developing PtX fuels in Germany. To effectively understand the key
+challenges, it is crucial to have a clear understanding of the risks and
+benefits associated with PtX fuels. This understanding is crucial for
+shaping sound future policies that ensure the adoption and diffusion
+of these fuels in aviation and maritime transport. A comprehensive
+analysis is essential to evaluating all potential components within the
+PtX value chain, promoting these fuels in the future energy system, and
+identifying their most suitable applications.
+Starting with regulatory challenges, a significant issue with the
+current framework is the unclear definition of the steps needed to
+meet the established target quotas for PtX fuels by 2030 and 2045.
+A comprehensive analysis of the PtX value chain could yield valuable
+insights for developing effective roadmaps to achieving these target
+quotas. This is due to the fact that the production process of PtX
+fuels involves multiple complex steps, requiring a reliable supply of
+renewable electricity, water, carbon, and bio-based feedstock (for PBtX
+fuels and carbon).
+At the bottom of the value chain, as discussed earlier, the lack of
+proper policies regulating water use in electrolyzers is a key insuffi-
+ciency in the EU and Germany’s policy frameworks. One of the key
+policies regulating water sources is the Water Framework Directive,
+which primarily focuses on protecting and improving the quality of
+water resources across member states [97]. Its main objectives include
+preventing and reducing pollution, promoting sustainable water use,
+protecting aquatic ecosystems, and ensuring the long-term availabil-
+ity of sufficient water of good quality. Therefore, updating previous
+relevant policies or introducing a specified policy on water use for
+hydrogen production could facilitate optimized pathways for water use
+and prevent potential conflicts with other sectors.
+Continuing with the previous discussion derived from the content
+analysis on regulatory challenges related to water use in electrolyzers,
+the necessity for certification in the hydrogen sector has become in-
+creasingly apparent. As the demand for hydrogen grows, establishing
+robust certification systems is essential to ensuring the sustainability
+and environmental integrity of its production. Certification can pro-
+vide a framework for verifying the origin and quality of hydrogen,
+particularly in distinguishing between green hydrogen produced from
+renewable sources and hydrogen derived from fossil fuels. In this
+regard, drawing from the lessons of hastily ramping up the biofuels
+market at the expense of sustainability standards, it is beneficial to
+create a level playing field across different sectors by implementing
+certification principles that apply to all markets and products in avia-
+tion and maritime transport. The certification systems should meet key
+requirements, including simplicity, transparency, coherence with other
+policies, and alignment with stakeholders’ opinions. Ensuring that the
+certification process is straightforward will facilitate broader adoption
+and understanding among producers and consumers of PtX fuels. In
+addition, transparency is essential for building trust in the certification
+systems, allowing stakeholders to easily verify the sustainability claims
+associated with hydrogen production and its integration into PtX fuels.
+Moreover, the certification should be coherent with existing policies
+governing PtX fuels to avoid conflicts and ensure a unified regulatory
+framework. Finally, engaging stakeholders in the development of the
+certification criteria has been suggested as a possibility for ensuring
+that the system addresses their concerns and incorporates their insights,
+fostering greater acceptance and compliance for PtX fuels [98]. Ex-
+isting certificates currently regulate hydrogen through hydrogen from
+renewable energy resources (International Sustainability & Carbon Cer-
+tification), TÜV SÜD Green Hydrogen, and CertifHy. Certification could
+also be extended to specific PtX end-products, ensuring that not only
+the hydrogen used in their production meets sustainability criteria but
+also the final fuels themselves. This would involve establishing clear
+standards for various PtX fuels, such as e-kerosene, e-ammonia, e-
+diesel, and e-methanol, focusing on their production processes, carbon
+footprint, and overall environmental impact.Another resource with uncertain regulations for use in PtX fu-
+els is carbon sourced from biogenic materials, industrial processes,
+point sources, and bio-based carbon feedstock. Carbon capture through
+DAC facilities has been suggested as a sustainable method for utiliz-
+ing carbon in the production of PtX fuels. However, high costs and
+the early-stage readiness of technology pose significant challenges in
+this regard. Extending existing policies to support sustainable carbon
+utilization in PtX fuels can increasingly reduce emissions across the
+value chain. Moreover, the next challenge relates to bio-based carbon
+feedstock for PBtX fuels, which must be sourced exclusively from non-
+biological origins, as defined by the RFNBOs in the RED II. Given the
+rising demand for PtX and PBtX (e-biofuels) as sustainable marine fuels
+and SAFs, the regulatory framework should establish clear regulations
+to support the supply of bio-based carbon feedstock sourced from non-
+biological origins. Given the limitations of bio-based feedstock and
+concerns regarding land-use change, the regulatory framework could
+enhance coherence between fuel policies, the EU CAP, and the LULUCF.
+Moreover, a serious challenge remains in the acceptability of re-
+covering fossil carbon and its recycling into fuel (e.g., carbon-based
+fuels). The question of whether the recycling of fossil carbon should be
+rewarded in the ETS is a debatable and controversial subject. Recycling
+carbon for additional use could be incentivized to promote circular
+economy principles and reduce the reliance on fossil resources. On
+the other hand, it may be argued that as the carbon will ultimately
+be emitted in any case, rewarding this practice could undermine the
+effectiveness of emissions reduction strategies. Therefore, establishing
+clear guidelines for the treatment of recycled carbon within the ETS is
+a key challenge that requires an in-depth policy analysis.
+The next potential challenge among resources is related to re-
+newable electricity supply in Germany based on the variable nature
+of renewable energy sources (known as variability), e.g., wind and
+solar, which can cause changes in energy availability [99]. Considering
+the potential of Nordic countries for generating renewable electricity
+through wind and Southern European countries through solar power,
+forming further partnerships could enhance the availability of renew-
+able energy and reduce the risk of volatility in supply. Within Germany,
+the EEG is aiming to increase the share of renewable electricity, ex-
+panding on-shore and off-shore wind, and solar power. Currently,
+Germany applies the EEG feed-in tariff. Given the projected scenarios
+for the adoption of PtX fuels, modifying the existing tariff or intro-
+ducing a new green tariff could be advantageous for enhancing energy
+security considering the high dependency of PtX production processes
+on renewable electricity.
+As mentioned earlier in the content analysis section, the high cost
+of PtX fuels compared to fossil ones is one of the major challenges
+hindering their adoption and diffusion in the transport sector. A sig-
+nificant portion of the capital costs associated with PtX fuels is related
+to their production facilities, encompassing electrolyzers, DAC, storage,
+as well as FT, methanol, and Haber-Bosch synthesizers, providing favor-
+able conditions for incentivizing the establishment of fuel production
+plants to accelerate the adoption and diffusion of these fuels. However,
+ambiguous fiscal policies governing PtX fuels are important obstacles to
+their market ramp-up. Frequent changes in political conditions could
+also undermine investment security. The identified EU fiscal policies,
+such as the Hydrogen Bank and SCF, could be expanded to encompass
+green hydrogen and PtX fuels. Furthermore, revising the Energy Tax-
+ation Directive and CBAM could incentivize the adoption of PtX fuels.
+Similarly, recognizing the potential effective role of fiscal policies in
+the adoption and diffusion of PtX fuels, a part of the revenue generated
+by the EU ETS could be dedicated to supporting the production of e-
+kerosene and sustainable marine fuels. Prioritizing these fuels or green
+hydrogen in aviation and maritime can be addressed through various
+channels, including categorizing them within net-zero technologies
+within the EU policies. Moreover, the SCF, Innovation Fund, and State
+Aid mechanisms can serve as effective tools for reducing the costs of
+PtX fuels in aviation and sustainable marine fuels.Energy 313 (2024) 134020 
+
+A.E. Torkayesh and S. Venghaus
+Finally, importing PtX fuels will likely play a significant role in
+meeting the targets. Considering the Global PtX Atlas [83], Germany
+could re-evaluate its energy partnerships to enhance the capacities
+for the import of green hydrogen and PtX fuels. Furthermore, hydro-
+gen partnerships with other European countries could be intensified,
+particularly given the volatility of renewable electricity generation in
+Germany. Therefore, countries with an abundance of potential sites
+for renewable electricity and other feedstock could play a crucial
+role in meeting the future demand for PtX fuels in Germany through
+imports. One of the main challenges regarding the importing of PtX
+fuels is the capital investment required for transport and distribution
+infrastructures. Boosting infrastructural support through the AFIR and
+the Trans-European Transport Network will play an important role in
+the adoption and use of these fuels. A significant share of Germany’s
+demand for green hydrogen or PtX is expected to be met through im-
+ports from other countries, many of which are located at considerable
+distances. Hence, sustainability optimized imports are essential. A new
+and revised version of the FTIP can help address the gaps in current
+infrastructural capacities. The specific design and implementation of
+such revisions and changes mandate sound in-depth analyses.
+5.3. Limitations & future directions
+While there is an increasing body of research on policies aimed
+at sustainable transition in the EU transport sector, many questions
+remain. Although the proposed approach for policy review and analysis
+helped us explore the current regulatory framework and understand
+the dynamics influencing PtX fuels in the transport sector, several
+limitations were identified.
+The main focus of this study is the comprehensive selection, review,
+and analysis of policies across various sectors with direct and indirect
+effects on PtX fuels. As discussed in the previous two sections, policies
+governing water and carbon for producing PtX fuels are highly relevant
+to policy analysis, particularly in terms of assessing policy coherence
+within a cross-sectoral framework. In February 2024, the EU introduced
+the Industrial Carbon Management Strategy as a comprehensive ap-
+proach for scaling up carbon management. The proposed strategy holds
+significant potential for facilitating the transition of the transport sector
+by not only tackling emissions from fossil fuels but also leveraging
+stored carbon resources to produce PtX fuels. This is accomplished
+through the support and development of DAC infrastructures, as well
+as securing carbon supply from various sources. On the other hand,
+no strategy or initiative is considered for regulating water sources for
+green hydrogen production. Therefore, potential trade-offs (conflicts
+and synergies) can be identified by examining the existing policies
+within the policy analysis framework.
+Currently, several countries in the EU and around the world have
+developed their national strategies for supporting the deployment of
+hydrogen projects. Considering the need for energy and hydrogen part-
+nerships to meet Germany’s high hydrogen demand, a policy analysis
+can be conducted on various hydrogen strategies to identify conflicts
+and synergies between Germany’s targets and those of other countries.
+The same applies to analyzing federal strategies within Germany in
+order to understand regulatory directions across different federal states,
+future targets, the potential for producing renewable electricity, and
+the possibility of partnership between federal states, such as the Joint
+Hydrogen Strategy in Northern Germany.
+From a methodological perspective, this study took a mixed-method
+qualitative approach, which includes analyzing policy documents using
+a framework developed from a coding scheme and a content analysis.
+This approach yields valuable insights into policy review and analysis,
+conflicts, synergies, and insufficiency in the regulatory framework ded-
+icated to the promotion of PtX fuels. Two key limitations in this context
+are the lack of qualitative or quantitative policy coherence analysis
+and policy impact assessment, as well as the absence of prospective
+modeling of their value chain using predictive policy generation tools.In future studies, the design and implementation of subsidies and
+incentives for the adoption and diffusion of PtX fuels could be further
+examined. In another direction, a policy coherence analysis could be
+conducted to investigate the nexus of renewable electricity, carbon
+capture and storage, biomass feedstock, and water systems in terms
+of regulatory frameworks to support the production and use of PtX
+fuels. Another study may be conducted to examine the environmental
+and economic impacts of PtX fuels in aviation and maritime transport
+under different policy scenarios. Finally, the impacts of different blend
+mandates can be studied to understand potential consumption of PtX
+fuels in aviation and maritime transport.
+6. Conclusions
+The EU’s targets for reducing GHG emissions by 55% by 2030 and
+achieving climate neutrality by 2050 have been mirrored in Germany’s
+national climate goals, which aim for a 65% reduction in emissions
+by 2030 and climate neutrality by 2045. The transport sector, both
+in Germany and the EU, has failed previous emission reduction mile-
+stones, staying at the same emission levels in most cases. Despite
+the predominant electrification policies, there exist parts of transport,
+such as aviation and maritime, that are difficult to electrify. In this
+regard, PtX fuels are promising solutions that have shown potential
+for addressing GHG emissions. With numerous production plants and
+projects, Germany is one of the leading countries in the EU in the
+production of PtX fuels. Currently, PtX fuels in Germany are regulated
+by the EU’s RED III, REFuelEU Aviation, and FuelEU Maritime, as well
+as the GHG reduction quota (37. BImSchV), Germany’s PtL roadmap,
+national and federal hydrogen strategies, and industrial roadmaps.
+In summary, the overall findings indicate complex and cross-sectoral
+policies with direct and indirect effects on PtX fuels. Through the
+identified policies, policy content analysis reveals specific qualitative
+and quantitative targets that govern future projections for PtX fuels.
+Using the developed coding scheme, policy analysis also reveals useful
+insights into the role of different resources as well as market adoption
+and diffusion processes. In this regard, the main findings are as follows:
+•A high coherence was identified between policies dealing with
+generating renewable electricity in the EU and Germany, indi-
+cating a unified approach towards increasing renewable energy
+capacity. However, low coherence exists between policies ad-
+dressing PtX fuels, such as the ReFuelEU Aviation, and those
+addressing renewable electricity generation. Considering the key
+role of renewable electricity for PtX production and their lev-
+elized costs, the low coherence suggests potential barriers to
+the effective integration of PtX technologies into the broader
+energy system. This results in limited support for incentivizing
+the development and adoption of PtX fuels, as most relevant
+policies currently concentrate on defining quotas rather than
+implementing essential financial instruments.
+•A similar shortcoming is also evident in policies that have the
+potential to address the utilization of DAC for PtX production. Ac-
+cording to the results of the content analysis and policy analysis,
+carbon remains as one of the key resources for PtX fuels with an
+unclear regulatory framework. Considering the long technological
+maturity of DAC, carbon from point sources as well as recycled
+carbon are currently favored due to their lower costs in Ger-
+many. However, in the long term, the existing policy framework
+needs to be reconsidered in order to regulate carbon capture and
+utilization through DAC in the content of PtX fuels.
+•The results of the coding scheme highlight low coherence between
+policies supporting sustainable transport and those supporting
+agriculture, land-use and bio-based feedstock. Taking the key role
+of bio-based feedstock for PBtX fuels, such as a low coherence,
+presents a significant challenge for the integration of these fu-
+els into the transport sector considering their growing demand
+projections.Energy 313 (2024) 134020 
+
+A.E. Torkayesh and S. Venghaus
+•High coherence is detected between policies addressing hydrogen
+in Germany and the EU. Outlining ambitious goals for hydro-
+gen production, infrastructure development, and utilization, the
+National Hydrogen Strategy is playing a key role in mirroring
+the EU’s efforts to build a strong hydrogen economy. Individual
+federal states have complemented this strategy through their own
+strategies or joint strategies with other federal states in order
+to foster localized innovation and investment. Germany’s import
+strategy as well as its energy partnerships have provided a solid
+regulatory framework to secure a stable supply.
+•The results indicate notable coherence between policies support-
+ing R&D for green hydrogen and PtX fuels. As PtX and PBtX
+fuels are in their early development and marketability stages,
+policies have successfully considered various instruments in order
+to support R&D projects, placing a special emphasis on hydrogen
+production as a key resource in the value chain.
+•Another low degree of coherence among policies is observed
+between those supporting PtX fuels and fiscal policies. Unlike
+the SCF that supports vulnerable individuals and businesses in
+road transport, there is no specific regulatory framework to pro-
+vide a similar support scheme for PtX fuels in aviation and
+maritime transport. Accordingly, a similar policy should be de-
+veloped to support vulnerable individuals, such as air travelers,
+and businesses, including airlines and shipping companies.CRediT authorship contribution statement
+Ali Ebadi Torkayesh: Writing - review & editing, Writing - original
+
+vestigation, Formal analysis, Data curation, Conceptualization. Sandra
+Venghaus: Writing - review & editing, Validation, Supervision, Project
+administration, Funding acquisition.
+Declaration of competing interest
+The authors declare that they have no known competing finan-
+cial interests or personal relationships that could have appeared to
+influence the work reported in this paper.
+Acknowledgment
+Funded by the Deutsche Forschungsgemeinschaft (DFG, German
+Research Foundation), Germany under Germany’s Excellence Strategy -
+Cluster of Excellence 2186 ‘‘The Fuel Science Center’’ - ID: 390919832.
+Appendix
+SeeTables A.1-A.3,Figs. A.1andA.2.
+Table A.1
+Identified policies and corresponding number of documents.
+Policy # documents Policy # documents Policy # documents
+RED III 1 Hydrogen and Decarbonized
+Gas Market Package2 CBAM 1
+AFIR 1 FTIP 1 EU ETS 1
+EU H2 Strategy 1 Climate Action Plan 2 ESR 1
+FuelEU Maritime 1 37. BImSchv 1 EED 1
+ReFuelEu Aviation 1 PtL Roadmap 1 EEG 1
+Germany H2 Strategy 1 Social Climate Fund 1 ETD 1
+SSMS 1 REPowerEU 2 MFS 1
+NZIA 1 Hydrogen Bank 1 EU CAP 1
+LULUCF 1
+Table A.2
+An overview of PtX plants in Germany [88].
+Plant name Location Year Capacity
+(MW)Product Plant Name Location Year Capacity
+(MW)Product
+Aqua Ventus Nordsee,
+Doggerbank2035 10 000 H2 Grünes Methanol
+ErlangenErlangen 2019 - Synthetic
+hydrocarbons,
+MeOH
+Green
+WilhelmshavenWilhelmshaven 2030 410 H2 Elektrolyse
+Windpark EllhöftEllhöft 2019 - H2
+H2morrow Duisburg 2030 1400 H2 bioCO2nvert Dörentrup 2019 0.1 -
+Elektrolyseur für
+MeerwasserBremerhaven 2030 1 H2 STORE&GO Falkenhagen 2018 1 CH4
+HH2E Lubmin 2030 Lubmin 2030 900 H2 eFarm Bosbüll 2018 0.5 H2
+HH2E Borna 2030 Thierbach 2030 900 H2 AsH2Gas Weilheim-
+Schongau2018 0.3 CH4
+AquaSector Deutsche Bucht 2028 290 H2 eFarm Reußenköge 2018 0.2 H2
+Wilhelmshaven
+Green Energy HubWilhelmshaven 2028 500 H2 eFarm Dörpum 2018 0.2 H2
+Jangada Jänschwalde 2028 123 H2 C3-Mobility (Closed
+Carbon Cycle)Freiberg 2018 - Synthetic
+hydrocarbons
+Elektrolyseanlage
+YARA Brunsbüttel
+GmbH 1Brunsbüttel 2027 250 NH3 Methanolsynthese
+(E2Fuel)Haßfurt 2018 - Synthetic
+hydrocarbons,
+MeOH
+Elektrolyseanlage
+YARA Brunsbüttel
+GmbH 2Brunsbüttel 2027 250 NH3 H&R Ölwerke
+SchindlerHamburg-
+Neuhof2017 5 H2
+HydroHub Fenne Völklingen 2027 52.5 H2, O2 Carbon2Chem Duisburg 2017 2 H2, chemicals
+Lingen Green
+Hydrogen (Green
+Refinery)Lingen 2027 500 H2 INFINITY I Pfaffenhofen 2017 1 CH4
+doing Hydrogen
+PrignitzPrignitz 2027 - H2 eFarm Langenhorn 2017 0.2 H2
+(continued on next page)Energy 313 (2024) 134020 
+
+A.E. Torkayesh and S. Venghaus
+Table A.2(continued ).
+HydrOxy Hub
+WalsumDuisburg 2027 520 H2 sunfire
+Power-to-Liquids
+(Phase 1)Dresden 2017 0.1 Synthetic
+hydrocarbons, crude
+oil
+Eletrolysekorridor
+OstdeutschlandRostock 2026 210 H2 ORBIT 1st site Regensburg 2017 - CH4
+GreenHydroChem Leuna 2026 100 H2 Wasserstofftankstelle
+KarlsruheKarlsruhe 2017 - H2
+HyTechHafen (doing
+hydrogen)Rostock 2026 100 H2 ORBIT 2nd site Ibbenbüren 2017 - CH4
+Clean Hydrogen
+Coastline (IPCEI)Emden 2026 300 H2 Tankstelle Fürholzen
+WestFürholzen 2017 - H2
+Hamburg Green
+Hydrogen Hub
+(HGHH)Hamburg-
+Moorburg2026 100 H2 greenfuel Essen 2017 - Synthetic
+hydrocarbons,
+MeOH
+HyKero Böhlen-
+Lippendorf2026 86.5 Synthetic hy-
+drocarbons,
+keroseneWindGas Haßfurt Haßfurt 2016 1.3 H2
+Clean Hydrogen
+Coastline (IPCEI)Bremen 2026 50 H2 BioPower2Gas-
+ErweiterungAllendorf
+(Eder)2016 1.2 CH4
+HySCALE100 Dithmarschen 2026 500 H2 H2ORIZON Lampold-
+shausen2016 1 H2
+Lingen Green
+Hydrogen (Green
+Refinery)Lingen 2025 100 H2 Wasserstofftankstelle
+Stuttgart TalstraßeStuttgart 2016 0.4 H2
+Get H2
+(Erweiterung)Lingen 2025 100 H2 Power to Mobility
+AltenstadtAltenstadt 2016 0.3 CH4
+HySynGas Brunsbüttel 2025 50 H2, CH4 HPEM2GAS Emden 2016 0.2 -
+Westküste 100 Hemmingstedt 2025 670 H2, synthetic
+hydrocar-
+bons,
+benzeneLaborreaktor am
+Fraunhofer IWESKassel 2016 0.1 H2
+Aqua Primus 2 Helgoland 2025 28 H2 Direkt-
+methanisierung von
+BiogasBad Hersfeld 2016 0.1 CH4
+RHYME Bavaria Burghausen 2025 20 H2, MeOH bioCONNECT Lemgo 2016 - CH4
+Referenzkraftwerk
+Lausitz (RefLau)
+Phase ISpremberg 2025 10 H2 Energiepark Mainz Mainz 2015 6 H2
+H2-Wyhlen Grenzach-
+Wyhlen2025 5 H2 Energiepark
+Pirmasens-WinzelnPirmasens 2015 2.5 CH4
+Hy4Chem Ludwigshafen 2025 54 H2 Power-to-Gas-
+PilotanlageHamburg-
+Reitbrook2015 1.5 H2
+HH2E Borna Thierbach 2025 100 H2 Hamburg -
+SchnackenburgalleeHamburg 2015 0.2 H2
+HH2E Lubmin Lubmin 2025 - H2 Power-2-Hydrogen-
+TankstelleHamburg 2015 0.2 H2
+GreenMotionSteel Duisburg 2024 120 H2 GrInHy Salzgitter 2015 0.1 H2
+Get H2 Lingen 2024 100 H2 Smart Grid Solar Arzberg 2015 0.1 H2
+GreenHydroChem Bad Lauchstädt 2024 30 H2 localhy Sonneberg 2015 0.1 H2
+Energiepark
+WunsiedelWunsiedel 2024 8.8 H2 Exytron Zero-
+Emission-WohnparkAlzey 2015 0.1 CH4
+Wasserelektrolyse
+Windpark KremsdorfGöhl 2024 4 H2 Power-to-Fuel-
+Anlage LünenLünen 2015 - Synthetic
+hydrocarbons,
+MeOH
+Power-to-Gas-Anlage
+MetelenMetelen 2024 20 - GICON-
+GroßtechnikumCottbus 2015 - CH4
+Green MeOH Stade 2024 - MeOH MEFCO2 Niederaußem 2014 1 Synthetic
+hydrocarbons,
+MeOH
+H2NORD Emden 2024 50 H2 Energy Lab 2.0 Karlsruhe 2014 0.3 H2, CH4
+H2art of Lower
+SaxonySteyerberg 2024 - H2 Biogasbooster Straubing 2014 0.3 CH4
+Bosch SOEC Stuttgart 2024 1 H2 HELMETH Karlsruhe 2014 <0.1 CH4
+HyBit Bremen Bremen 2024 10 H2 PtG
+Berlin-SchönebergBerlin 2014 <0.1 H2
+Green Motion Steel Duisburg 2024 120 H2 Forschungsanlage
+der
+DVGW-Forsch.-stelle
+am EBIKarlsruhe 2014 - CH4
+Elektrolysetest- und
+-versuchsplattform
+Leuna (ELP)Leuna 2023 24 H2 Audi e-gas Werlte 2013 6 CH4
+HY.Waiblingen Waiblingen 2023 2 H2 PtG-Etzel Etzel 2013 6 H2
+HY.City Bremerhaven 2023 2 H2 WindGas
+FalkenhagenFalkenhagen 2013 2 H2
+Hydrogen Lab
+BremerhavenBremerhaven 2023 2 H2 RH2-WKA Grapzow 2013 1 H2
+(continued on next page)Energy 313 (2024) 134020 
+
+A.E. Torkayesh and S. Venghaus
+Table A.2(continued ).
+Energiewende im
+Kleinen (EwiK)Großräschen 2023 - H2 PtG-Emden Emden 2013 0.3 CH4
+Hy2B Pfeffenhausen Pfeffenhausen 2023 5 H2 CO2RRECT Niederaußem 2013 0.3 CH4, chemicals
+SeWAGE PLANT H Hannover 2023 17 H2, O2 BioPower2Gas Allendorf
+(Eder)2013 0.3 CH4
+H2Move Cuxhafen 2023 2 H2 Mikrobielle
+MethanisierungSchwandorf 2013 0.3 CH4
+KRUH2 Krummhörn 2023 1 H2 Stromlückenfüller 1 Reußenköge 2013 0.2 H2
+Reverion-Anlage Nr.
+1Waldmünchen 2023 0.3 H2 designetz
+Pilotanlage
+IbbenbürenIbbenbüren 2013 0.1 H2
+MariSynFuel Bremerhaven 2023 - MeOH Kommunaler
+Energieverbund
+FreiburgFreiburg 2013 0.1 H2
+Hydrogen Lab
+BremerhavenBremerhaven 2023 2 H2 WindGas Hamburg Hamburg 2012 1 H2
+AEM Multicore
+BioenergieparkSaerbeck 2023 1 H2 H2BER Multi-
+Energie-TankstelleBerlin 2012 0.5 H2
+bioFarm Straubing 2023 0.1 CH4 P2G-Elektrolyse zur
+AEL-ErforschungStuttgart 2012 0.4 H2
+AWG Wuppertal Wuppertal 2023 2 H2 Thüga Strom zu Gas
+PlattformFrankfurt 2012 0.3 H2
+REFHYNE 2 Wesseling 2023 100 H2 PtG am Eucolino Schwandorf 2012 0.1 CH4
+RWE
+Elektrolysetestanlage
+LingenLingen 2022 14 H2 Methanisierung am
+Eichhof,
+SolarFuel-Alpha 4th
+siteBad Hersfeld 2012 <0.1 CH4
+CEC Haren Haren 2022 2 H2 Windgas Haurup Haurup 2011 1 H2
+Hensoldt Green
+BuildingKiel 2022 <0.1 H2 REG-Technikum Stuttgart 2011 0.3 CH4
+GrinHy 2.0 Salzgitter 2022 0.7 H2 H2Herten Herten 2011 0.2 H2
+Green Hydrogen
+HubLeuna 2022 100 H2 DemoSNG
+(follow-up plant,
+2nd site)Karlsruhe 2011 <0.1 CH4
+Energiepark Zerbst Zerbst 2022 - H2 H2-Tankstelle
+HafenCityHamburg 2010 1 H2
+Green Hydrogen @
+Blue DanubeErlangen 2022 - H2 H2
+Forschungszentrum
+CottbusCottbus 2010 0.1 H2
+Green Electrolyzer Frankfurt 2022 5 H2 H2Move Freiburg 2010 <0.1 H2
+REFHYNE Wesseling 2021 10 H2 SolarFuel-Alpha 3rd
+siteMorbach 2010 <0.1 CH4
+WindH2 Salzgitter 2021 2.5 H2 SolarFuel-Alpha 2nd
+siteWerlte 2009 <0.1 CH4
+Fairfuels Atmosfair Werlte 2021 1.3 Synthetic hy-
+drocarbons,
+keroseneSolarFuel-Alpha 1st
+siteStuttgart 2008 <0.1 CH4
+Green Hydrogen
+EsslingenEsslingen 2021 1 H2 EXYTRON Demon-
+strationsanlageRostock 2008 <0.1 CH4
+E-CO2MET
+Raffinerie
+MitteldeutschlandLeuna 2021 0.7 Synthetic hy-
+drocarbons,
+MeOHHyFLEET:CUTE Hamburg 2006 0.4 H2
+Fuel Cell Microgrid Friedrichshafen 2021 0.3 H2 HyWindBalance Oldenburg 2006 <0.1 H2
+Elektrolyseur
+HuntorfHuntorf 2020 <0.1 H2 Test-Elektrolyseur
+SolviCoreHanau 2006 - H2
+sunfire
+Power-to-Liquids
+(Phase 2)Dresden 2020 0.2 Synthetic hy-
+drocarbons,
+crude oilHybridkraftwerk
+PrenzlauPrenzlau 2005 0.5 H2
+Stromlückenfüller
+2nd phaseReußenköge 2020 0.2 H2 Demonstrationsan-
+lage HanauHanau 2005 <0.1 H2
+Nachhaltige
+Energieversorgung
+für Bestands-und
+Neubauten im
+Natur-und
+Freizeitgebiet
+BernsteinseeSassenburg
+Stüde2020 0.1 CH4 n.n. (FH Stralsund) Stralsund 2005 <0.1 H2
+PtG-MSE Duisburg 2020 0.1 H2 PHOEBUS Jülich 1993 <0.1 H2
+FlexMethanol
+AnlageStralsund 2020 - Synthetic hy-
+drocarbons,
+MeOHSolar-Wasserstoff-
+ProjektNeunburg
+vorm Wald1986 0.3 H2
+Nachhaltige
+Energieversorgung
+am BernsteinSeeBernsteinsee 2020 - CH4 E-Fuels/Grünes
+Methanol vivevo
+energy GmbHBrunsbüttel - 60 H2
+Reallabor Westküste
+100Lägerdorf 2020 30 H2, O2 CCU P2C Salzbergen Salzbergen - - CH4, chemicals,
+synthetic
+hydrocarbons
+(continued on next page)Energy 313 (2024) 134020 
+
+A.E. Torkayesh and S. Venghaus
+Table A.2(continued ).
+Wind to Gas
+BrunsbüttelBrunsbüttel 2019 2.4 H2 KEROSyN100 Hemmingstedt - - Synthetic
+hydrocarbons
+PtG-Anlage
+Grenzach-WyhlenGrenzach-
+Wyhlen2019 5 H2 Demonstrationsan-
+lage des
+PtX-
+KompetenzzentrumsCottbus - - Synthetic
+hydrocarbons
+Kopernikus 2.0 Karlsruhe 2019 0.3 Synthetic
+hydrocarbonsCHESS Huntorf - 30 H2
+HYPOS: rSOC Frankfurt am
+Main2019 0.2 H2 ChemCH2ange Köln - 100 H2, MeOH, NH3
+Klimafreundliches
+Wohnen in
+AugsburgAugsburg 2019 0.1 H2, CH4 Grüner Wasserstoff
+für grünen Stahl
+DuisburgDuisburg - - H2
+Kopernikus 1.0 Karlsruhe 2019 <0.1 Synthetic
+hydrocarbonsH2goesRail Tübingen - - H2, NH3
+PtM - Miniplant Freiburg 2019 - Synthetic hy-
+drocarbons,
+MeOHBayH2 Vohburg - 128 H2
+Table A.3
+R&D projects and plants for PtL fuels [77,86].
+Plants & Projects Federal State Remarks Plants & Projects Federal State Remarks
+eFuels-
+Kraftstoffe neu
+denkenBaden-
+Württemberg(1) Planning a FT plant to
+produce 50,000 tons of kerosene,
+diesel and naphtha per year by
+2027.Kompetenzzentrum für
+Klima-und Lärmschutz
+im LuftverkehrHessen (1) Producing Kerosene.
+(2) Organizing the market
+ramp-up of PtL fuels.
+Ineratec Baden-
+Württemberg(1) Producing 3500 tons of
+kerosene per year using the FT.
+(2) Using carbon from biogas
+source for the synthesis.Industriepark Hoechst Hessen (1) Acting as an innovation hub
+for sustainable fuels and
+chemicals.
+(2) Planning a plant for PBtL
+fuels.
+(3) Practical testing of PtL
+production with different
+renewable electricity sources.
+CI4C Baden-
+Württemberg(1) Collaboration of several
+cement companies on producing
+OXY-fuel.Koordinierung der
+Bundesländer und
+Aufbau eines Dialogs
+zu SAFHessen (1) Organizing the information
+exchange and stakeholders
+involved in the relevant projects.
+Ineratec/
+SCHWENKBaden-
+Württemberg(1) Planning a PtL pilot plant to
+produce kerosene in collaboration
+with cement industry.Wasserstoff-
+Leistungszentrum
+NorddeutschlandMecklenburg-
+Vorpommern(1) Building a 2 MW hydrogen
+plant for aviation.
+Projekt
+
+Württemberg(1) Planning to produce 120,000
+tons per year of kerosene for
+Stuttgart airport.
+(2) Using carbon from cement
+industry.
+(3) Production technology and
+starting date are not available yet.E-Kerosin-aus-der-Luft Mecklenburg-
+Vorpommern(1) Production of 750 kg/day PtL
+kerosene, 405 kg/day green
+naphtha and 265 kg/day green
+hydrogen (274 tons per year in
+general).
+(2) No information is available
+about the starting date and
+carbon source.
+KIT Baden-
+Württemberg(1) Investigating pathways to use
+DAC for production of PtX fuels.CCU P2C Salzbergen Lower Saxony (1) Extraction of carbon from
+local waste for production of PtL
+fuels and PtC using green
+hydrogen.
+Viridi RE GmbH Baden-
+Württemberg(1) Transporting renewable power
+and green hydrogen from Spain
+to produce PtL fuels.DOW Stade - Green
+MeOHLower Saxony (1) Extraction of carbon from
+exhaust gases of gas power plant.
+(2) Producing 200,000 tons of
+methanol per year by the
+methanol synthesis.
+(3) Starting date is not available
+yet.
+ZSW Baden-
+Württemberg(1) Delivering strategic actions of
+related projects, supported by the
+micro- and macro-economic
+insights and political
+recommendations.GG2L Lower Saxony (1) Setting up a production plant
+for kerosene and hydrogen (1000
+liters per day) based on the FT.
+TUM Bavaria (1) Developing and promoting
+new technologies for
+carbon-neutral fuels.CUTEC Lower Saxony (1) R&D on renewable fuels, with
+a focus on PtX fuels.
+OMV
+BurghausenBavaria (1) Producing 20,000 tons of
+kerosene, starting at the end of
+2020s.
+(2) No information is available on
+the synthesis process and carbon
+sources.Solarbelt Lower Saxony (1) Producing 360 tons of
+kerosene per year by the FT.
+(2) Using biomethane as a source
+for carbon feedstock.
+(continued on next page)Energy 313 (2024) 134020 
+
+A.E. Torkayesh and S. Venghaus
+Table A.3(continued ).
+Straubing Bavaria (1) Building a pilot plant for bio-
+and e-fuels considering the
+scalability of bio-based chemicals.PtL Shell North Rhine-Westphalia (1) Feasibility analysis of PtL
+production (kerosene) for
+aviation.
+(2) Clarification of regulatory
+framework and economic viability
+of PtL production.
+(3) Potential production of
+kerosene by 100,000 tons per
+year starting from 2025.
+Hy2Lausitz Bavaria (1) Producing green hydrogen,
+PtX, and green methanol fuel
+with a capacity of70 + 5MW.DLR-Institut Future
+FuelsNorth Rhine-Westphalia (1) Analyzing economic
+efficiency, performance, security
+of supply and social acceptance
+of PtL fuels.
+PtX Lab Lausitz Bavaria (1) Locating a PtL demonstration
+system through involving
+potential stakeholders.
+(2) Producing 10,000 tons of
+kerosene per year by the FT.
+(3) Using carbon from biogenic
+sources or DAC.Center for Vertical
+MobilityNorth Rhine-Westphalia (1) R&D on projects to use wind
+power and hydrogen to produce
+PtL fuels.
+HyEast Bavaria (1) Construction of a 50 MW
+electrolysis facility and
+production and use of green
+hydrogen for kerosene.DAWN North Rhine-Westphalia (1) Producing 3500 tons of
+kerosene per year by the FT.
+(2) Starting point is not agreed
+on yet.
+(3) Carbon is supposed to be
+produced from sun-to-liquid
+process.
+EWiK Bavaria (1) Demonstration and research
+of decentralized PtX fuels
+production for aviation and
+maritime transport.Elektrolyseanlage für
+Wasserstoff aus
+regenerativen EnergienRhineland-Palatinate (1) Using hydrogen to produce
+Kerosene.
+GG2L Bavaria (1) Producing carbon-neutral fuels
+for aviation.Speyer Rhineland-Palatinate (1) Planning annual production of
+60,000 tons of renewable
+hydrocarbons, advanced biofuels
+and SAF from sugary agricultural
+residues.
+KEROSyN100 Bremen (1) Developing a kerosene plant
+based on the methanol synthesis.EDL Anlagenbau GmbH Saxony (1) Planning to build a PtL plant
+to produce 42,000 tons per year
+by 2025 (kerosene), 11,000 tons
+of naphtha, 1500 tons of green
+hydrogen.
+(2) Planning to build a PtL plant
+to produce 750 kg/day kerosene.
+Bremerhaven Bremen (1) Construction of an electrolysis
+plant.
+(2) Testing the implementation of
+PtL processes.Sunfire GmbH Saxony (1) Building plants to produce
+capacities of up to 10 million
+liters of PtX fuels per year in
+Norway, France and Germany and
+another in the medium term
+scaling level up to 100 million
+liters per year.
+‘‘BLANCAIR to X
+- Kraftstoffe aus
+Wasser & Luft’’Hamburg (1) Producing PtX fuels using
+carbon form DAC.Fraunhofer-Institut für
+Keramische
+Technologien und
+SystemeSaxony (1) R&D on green ammonia.
+NextGate Hamburg (1) Producing 200 tons of PtX
+fuels per year using the FT.
+(1) Using biogenic sources for
+supplying carbon feedstock.TU Bergakademie
+FreibergSaxony (1) Production of kerosene for
+Leipzig airport.
+(2) Thermo-chemical use of waste
+to produce kerosene for aviation.
+Jangada Brandenburg (1) Producing 34,000 tons of
+kerosene per year using the FT,
+starting from 2027.
+(2) Using biogenic sources for
+carbon in the FT.Hykero Saxony (1) Producing 42,000 tons of
+kerosene per year using the FT,
+starting from 20206.
+(2) Using point source carbon
+from biomethane for the FT.
+Concrete
+ChemicalsBrandenburg (1) Producing 30,000 tons of
+kerosene per year starting from
+2028 using the FT.
+(2) Carbon from cement industry
+will be supplied.Green Fuels Lausitz Saxony (1) Producing 200,000 tons of
+methanol and kerosene per year
+using the FT and methanol.
+(2) Starting date is not
+determined.
+(3) Waste recycling will be used
+as the main source for carbon.
+(continued on next page)Energy 313 (2024) 134020 
+
+A.E. Torkayesh and S. Venghaus
+Table A.3(continued ).
+Elektrolysetest-
+und -
+versuchsplatt-
+form ELPSachsen-Anhalt (1) Planning a pilot plant for
+production of green hydrogen.Raffinerie Heide Schleswig-Holstein (1) Using offshore wind power
+for producing 600 tons of
+kerosene per year using the
+methanol synthesis.
+(2) Using point source carbon
+from cement industry for the
+methanol synthesis.
+(3) Expanding the production to
+20,000 tons per year by 2027.
+Technologie-
+PlattformSachsen-Anhalt (1) Producing 10,000 tons of
+kerosene and methanol per year,
+starting from 2024.
+(2) Production technologies will
+vary between the FT and
+methanol.
+(3) No information is available on
+carbon source.
+Fig. A.1. Schematic of PtX fuels value chain.
+Fig. A.2. Timeline of Hydrogen-related strategies in the federal states.Energy 313 (2024) 134020 
+
+A.E. Torkayesh and S. Venghaus
+Data availability
+Data will be made available on request.
+References
+[1]Jakučionyt ̇e-Skodien ̇e M, Krikštolaitis R, Liobikien ̇e G. The contribution of
+changes in climate-friendly behaviour, climate change concern and personal
+responsibility to household greenhouse gas emissions: Heating/cooling and
+transport activities in the European Union. Energy 2022;246:123387.
+[2]Berrang-Ford L, Ford JD, Paterson J. Are we adapting to climate change? Glob
+Environ Change 2011;21(1):25-33.
+[3]Lümmen N, Røstbø EV. Biowaste to hydrogen or Fischer-Tropsch fuels by
+gasification-a Gibbs energy minimisation study for finding carbon capture
+potential and fossil carbon displacement on the road. Energy 2020;211:118996.
+[4]Monasterolo I, Raberto M. The impact of phasing out fossil fuel subsidies on the
+low-carbon transition. Energy Policy 2019;124:355-70.
+[5]Panarello D, Gatto A. Decarbonising Europe-EU citizens’ perception of re-
+newable energy transition amidst the European Green Deal. Energy Policy
+2023;172:113272.
+[6]Wang Z, Yen-Ku K, Li Z, An NB, Abdul-Samad Z. The transition of renewable
+energy and ecological sustainability through environmental policy stringency:
+Estimations from advance panel estimators. Renew Energy 2022;188:70-80.
+[7]European Commission. European green deal - Delivering on our targets.
+Publications Office of the European Union; 2021, 
+373022 .
+[8]European Commission. ‘Fit for 55’: delivering the EU’s 2030 climate target on
+the way to climate neutrality. In: Communication from the commission to the
+European parliament, the European council, the council, the European economic
+and social committee and the committee of the regions. Brussels, Belgium:
+European Commission; 2021.
+[9]EEA. Greenhouse gas emissions. 2023, 
+maps/data/data-viewers/greenhouse-gases-viewer/ .
+[10] Umweltbundesamt. Greenhouse gas emissions. 2022, 
+umweltbundesamt.de/en/data/environmental-indicators/indicator-greenhouse-
+gas-emissions#at-a-glance/ .
+[11] Rosendal MB, Münster M, Bramstoft R. Renewable fuel production and the
+impact of hydrogen infrastructure-A case study of the Nordics. Energy
+2024;131234.
+[12] Hansen K, Mathiesen BV, Skov IR. Full energy system transition towards
+100% renewable energy in Germany in 2050. Renew Sustain Energy Rev
+2019;102:1-13.
+[13] Hake J-F, Fischer W, Venghaus S, Weckenbrock C. The German Energiewende-
+history and status quo. Energy 2015;92:532-46.
+[14] Peiseler L, Serrenho AC. How can current German and EU policies be improved
+to enhance the reduction of CO2 emissions of road transport? Revising policies
+on electric vehicles informed by stakeholder and technical assessments. Energy
+Policy 2022;168:113124.
+[15] Bellocchi S, Manno M, Noussan M, Prina MG, Vellini M. Electrification of
+transport and residential heating sectors in support of renewable penetration:
+Scenarios for the Italian energy system. Energy 2020;196:117062.
+[16] Ruhnau O, Bannik S, Otten S, Praktiknjo A, Robinius M. Direct or indirect
+electrification? A review of heat generation and road transport decarbonisation
+scenarios for Germany 2050. Energy 2019;166:989-99.
+[17] Pastore LM, Basso GL, Ricciardi G, de Santoli L. Smart energy systems for
+renewable energy communities: A comparative analysis of power-to-X strategies
+for improving energy self-consumption. Energy 2023;280:128205.
+[18] Torkayesh AE, Venghaus S. Decoding the transport policy maze towards cli-
+mate neutrality: Cross-sectoral policy landscapes. Renew Sustain Energy Rev
+2024;206:114865.
+[19] Skov IR, Schneider N. Incentive structures for power-to-X and e-fuel pathways
+for transport in EU and member states. Energy Policy 2022;168:113121.
+[20] Sterner M, Specht M. Power-to-gas and power-to-X-The history and results of
+developing a new storage concept. Energies 2021;14(20):6594.
+[21] Decourt B. Weaknesses and drivers for power-to-X diffusion in Europe. In-
+sights from technological innovation system analysis. Int J Hydrog Energy
+2019;44(33):17411-30.
+[22] Chehade Z, Mansilla C, Lucchese P, Hilliard S, Proost J. Review and analysis
+of demonstration projects on power-to-X pathways in the world. Int J Hydrog
+Energy 2019;44(51):27637-55.
+[23] Wulf C, Zapp P, Schreiber A. Review of power-to-X demonstration projects in
+Europe. Front Energy Res 2020;8:191.
+[24] Skov IR, Schneider N, Schweiger G, Schöggl J-P, Posch A. Power-to-X in Den-
+mark: an analysis of strengths, weaknesses, opportunities and threats. Energies
+2021;14(4):913.
+[25] Edwards RL, Font-Palma C, Howe J. The status of hydrogen technologies in the
+UK: A multi-disciplinary review. Sustain Energy Technol Assess 2021;43:100901.[26] Saccani C, Pellegrini M, Guzzini A. Analysis of the existing barriers for the market
+development of power to hydrogen (P2H) in Italy. Energies 2020;13(18):4835.
+[27] Lim JY, Safder U, How BS, Ifaei P, Yoo CK. Nationwide sustainable renewable
+energy and Power-to-X deployment planning in South Korea assisted with
+forecasting model. Appl Energy 2021;283:116302.
+[28] Schnuelle C, Thoeming J, Wassermann T, Thier P, von Gleich A, Goessling-
+Reisemann S. Socio-technical-economic assessment of power-to-X: Potentials and
+limitations for an integration into the German energy system. Energy Res Soc
+Sci 2019;51:187-97.
+[29] Incer-Valverde J, Patiño-Arévalo LJ, Tsatsaronis G, Morosuk T. Hydrogen-driven
+Power-to-X: State of the art and multicriteria evaluation of a study case. Energy
+Convers Manage 2022;266:115814.
+[30] Clark II WW, Rifkin J. A green hydrogen economy. Energy Policy
+2006;34(17):2630-9.
+[31] Galimova T, Satymov R, Keiner D, Breyer C. Sustainable energy transition of
+Greenland and its prospects as a potential Arctic e-fuel and e-chemical export
+hub for Europe and East Asia. Energy 2024;286:129605.
+[32] Götz M, Lefebvre J, Mörs F, Koch AM, Graf F, Bajohr S, Reimert R, Kolb T.
+Renewable Power-to-Gas: A technological and economic review. Renew Energy
+2016;85:1371-90.
+[33] Thema M, Bauer F, Sterner M. Power-to-Gas: Electrolysis and methanation status
+review. Renew Sustain Energy Rev 2019;112:775-87.
+[34] Drünert S, Neuling U, Zitscher T, Kaltschmitt M. Power-to-Liquid fuels for
+aviation-Processes, resources and supply potential under German conditions.
+Appl Energy 2020;277:115578.
+[35] Zhao J, Yu Y, Ren H, Makowski M, Granat J, Nahorski Z, Ma T. How the power-
+to-liquid technology can contribute to reaching carbon neutrality of the China’s
+transportation sector? Energy 2022;261:125058.
+[36] Varone A, Ferrari M. Power to liquid and power to gas: An option for the German
+Energiewende. Renew Sustain Energy Rev 2015;45:207-18.
+[37] Tiwari S, Singh JG, Garg A. A static robust energy management approach for
+modelling low emission multi-vectored energy hub including emission markets
+and power-to-gas units. Energy 2024;130827.
+[38] Ueckerdt F, Bauer C, Dirnaichner A, Everall J, Sacchi R, Luderer G. Potential
+and risks of hydrogen-based e-fuels in climate change mitigation. Nature Clim
+Change 2021;11(5):384-93.
+[39] Ballal V, Cavalett O, Cherubini F, Watanabe MDB. Climate change impacts of
+e-fuels for aviation in Europe under present-day conditions and future policy
+scenarios. Fuel 2023;338:127316.
+[40] Cames M, Böttcher H, Fuentes Hutfilter U, Wilson R. Options for multilateral
+initiatives to close the global 2030 climate ambition and action gap. Policy field
+synthetic e-fuels. Technical Report, Umweltbundesamt (UBA); 2021.
+[41] Oyewo AS, Lopez G, ElSayed M, Galimova T, Breyer C. Power-to-X Economy:
+Green e-hydrogen, e-fuels, e-chemicals, and e-materials opportunities in Africa.
+Energy Rep 2024;12:2026-48.
+[42] Mayring P. Qualitative inhaltsanalyse: Grundlagen und techniken. Dt.
+Studien-Verlag; 1997.
+[43] Hecker S, Wicke N, Haklay M, Bonn A. How does policy conceptualise citizen
+science? A qualitative content analysis of international policy documents. Citiz
+Sci: Theory Pract 2019;4(1).
+[44] Hall DM, Steiner R. Policy content analysis: Qualitative method for analyzing
+sub-national insect pollinator legislation. MethodsX 2020;7:100787.
+[45] Burre J, Bongartz D, Brée L, Roh K, Mitsos A. Power-to-X: between elec-
+tricity storage, e-production, and demand side management. Chem Ing Tech
+2020;92(1-2):74-84.
+[46] Ausfelder F, Wagemann K. Power-to-fuels: E-fuels as an important option for a
+climate-friendly mobility of the future. Chem Ing Tech 2020;92(1-2):21-30.
+[47] Hillestad M, Ostadi M, Serrano GA, Rytter E, Austbø B, Pharoah J, Burheim OS.
+Improving carbon efficiency and profitability of the biomass to liquid process
+with hydrogen from renewable power. Fuel 2018;234:1431-51.
+[48] European Parliament. Council of the European Union Directive (EU) 2018/2001
+of the European Parliament and of the Council of 11 December 2018 on the
+promotion of the use of energy from renewable sources. Off J Eur Union
+2018;328(82):1-128.
+[49] Agora Verkehrswende. E-fuels zwischen wunsch und wirklichkeit. 2023,
+
+wunsch-und-wirklichkeit .
+[50] European Federation for Transport and Environment. E-fuels for planes:
+with 45 projects, is the EU on track to meet its targets? 2024,
+
+projects-is-the-eu-on-track-to-meet-its-targets .
+[51] Ridjan I, Mathiesen BV, Connolly D. Terminology used for renewable liquid and
+gaseous fuels based on the conversion of electricity: a review. J Clean Prod
+2016;112:3709-20.
+[52] Palys MJ, Daoutidis P. Power-to-X: A review and perspective. Comput Chem Eng
+2022;107948.
+[53] Kuckartz U, Rädiker S. Analyzing qualitative data with MAXQDA. Springer; 2019.
+[54] European Commission. Directive 2014/94/EU of the European Parliament and
+of the Council of 22 October 2014 on the deployment of alternative fuels
+infrastructure Text with EEA relevance. 2014, 
+content/EN/TXT/?uri=celex%3A32014L0094/ .Energy 313 (2024) 134020 
+
+A.E. Torkayesh and S. Venghaus
+[55] European Commission. Proposal for a Regulation of the European Parliament and
+of the Council on the deployment of alternative fuels infrastructure, and repeal-
+ing Directive 2014/94/EU of the European Parliament and of the Council. 2021,
+ .
+[56] European Commission. Directive (EU) 2018/2001 of the European Parlia-
+ment and of the Council of 11 December 2018 on the promotion of the
+use of energy from renewable sources (recast) (Text with EEA relevance).
+2018, 
+328.01.0082.01.ENG&toc=OJ:L:2018:328:TOC/ .
+[57] European Commission. Directive 2009/28/EC of the European Parliament and
+of the Council of 23 April 2009 on the promotion of the use of energy
+from renewable sources and amending and subsequently repealing Directives
+2001/77/EC and 2003/30/EC (Text with EEA relevance). 2009, 
+lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32009L0028/ .
+[58] European Commission. Directive of the European Parliament and of the
+Council amending Directive (EU) 2018/2001, Regulation (EU) 2018/1999 and
+Directive 98/70/EC as regards the promotion of energy from renewable
+sources, and repealing Council Directive (EU) 2015/652. 2021, https:
+//
+energy-council-adopts-new-rules// .
+[59] European Commission. Proposal for a Regulation of the European
+Parliament and of the Council on the use of renewable and low-carbon
+fuels in maritime transport and amending Directive 2009/16/EC. 2021,
+
+maritime-initiative-provisional-agreement-to-decarbonise-the-maritime-sector// .
+[60] European Commission. Proposal for a Regulation of the European Parliament
+and of the Council on ensuring a level playing field for sustainable air trans-
+port. 2021, 
+25/council-and-parliament-agree-to-decarbonise-the-aviation-sector/ .
+[61] European Commission. Communication from the commission to the European
+Parliament, the Council, the European economic and social committee and the
+committee of the regions a hydrogen strategy for a climate-neutral Europe. 2020,
+ .
+[62] European Commission. Sustainable and smart mobility strategy. 2020, https:
+//ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12438-
+Sustainable-and-Smart-Mobility-Strategy_en .
+[63] European Commission. Hydrogen and decarbonised gas market package.
+2021, 
+legislation/hydrogen-and-decarbonised-gas-market-package_en .
+[64] European Commission. Net zero industry act. 2023, 
+economy.ec.europa.eu/publications/net-zero-industry-act_en .
+[65] European Commission. Directive 2003/87/EC of the European Parliament and
+of the Council of 13 October 2003 establishing a system for greenhouse gas
+emission allowance trading within the Union and amending Council Directive
+96/61/EC (Text with EEA relevance)Text with EEA relevance. 2023, 
+lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02003L0087-20230605/ .
+[66] European Commission. EU taxonomy for sustainable activities. 2021, https:
+//ec.europa.eu/commission/presscorner/detail/en/qanda_21_3662/ .
+[67] European Commission. Carbon border adjustment mechanism. 2021, 
+europa.eu/commission/presscorner/detail/en/qanda_21_3661/ .
+[68] European Commission. European hydrogen bank. 2022, 
+lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52023DC0156&qid=
+1682349760946/ .
+[69] European Commission. Land use, land-use change and forestry (LULUCF). 2018,
+
+20230511/ .
+[70] European Commission. The common agricultural policy. 2021, https:
+//agriculture.ec.europa.eu/common-agricultural-policy/cap-overview/cap-
+glance_en/ .
+[71] BMDV. The mobility and fuels strategy of the German government (MFS).
+2013, 
+Mobilitaets-und-Kraftstoffstrategie/mobilitaets-und-kraftstoffstrategie.html/ .
+[72] BMDV. The 2030 federal transport infrastructure plan. 2016, https:
+//bmdv.bund.de/SharedDocs/EN/publications/2030-federal-transport-
+infrastructure-plan.pdf?__blob=publicationFile/ .
+[73] Bundesamt für Justiz. Siebenunddreißigste verordnung zur durchführung
+des bundes-immissionsschutzgesetzes (verordnung zur anrechnung von strom-
+basierten kraftstoffen und mitverarbeiteten biogenen ölen auf die treibhaus-
+gasquote) (37. BImSchV). 2017, 
+37/BJNR119500017.html .[74] BMWK. The national hydrogen strategy. 2020, 
+Redaktion/EN/Publikationen/Energie/the-national-hydrogen-strategy.pdf?__
+blob=publicationFile&v=1/ .
+[75] BMUV. Climate action plan 2050. 2016, 
+climate-action-plan-2050-en/ .
+[76] BMF. Immediate climate action programme for 2022. 2021, https:
+//
+immediate-climate-action-programme-for-2022.pdf?__blob=publicationFile&v=
+4/.
+[77] BMDV. PtL roadmap: Sustainable aviation fuel from renewable energy sources
+for aviation in Germany. 2021, 
+G/ptl-roadmap-englisch.pdf?__blob=publicationFile/ .
+[78] NPM. Elektromobilität. Brennstoffzelle. Alternative Kraftstoffe -
+Einsatzmöglichkeiten aus technologischer Sicht. 2019, 
+plattform-zukunft-mobilitaet.de/wp-content/uploads/2019/11/NPM-AG-2-
+Elektromobilit%C3%A4t-Brennstoffzelle-Alternative-Kraftstoffe-Einsatzm%C3%
+B6glichkeiten-aus-technologischer-Sicht.pdf/ .
+[79] NPM. Roadmap - Markthochläufe alternativer Antriebe und Kraftstoffe aus tech-
+nologischer Perspektive. 2021, 
+content/uploads/2021/04/NPM_AG2_Technologie_Roadmap.pdf/ .
+[80] BMWK. National hydrogen strategy update. 2023, 
+Redaktion/EN/Hydrogen/Dossiers/national-hydrogen-strategy.html .
+[81] FVV. Future fuels: FVV fuels study IV. 2021, 
+fileadmin/Storys/020.50_Sechs_Thesen_zur_Klimaneutralitaet_des_europaeischen_
+Verkehrssektors/FVV__Future_Fuels__StudyIV_The_Transformation_of_Mobility_
+_H1269_2021-10__EN.pdf .
+[82] DENA. E-Fuels - The potential of electricity-based fuels for low emission
+transport in the EU. 2017, 
+fuels-sind-notwendig-um-eu-klimaschutzziele-des-verkehrssektors-zu-erreichen/ .
+[83] Hank C, Holst M, Thelen C, Kost C, Längle S, Schaadt A, Smolinka T. Site-
+specific, comparative analysis for suitable Power-to-X pathways and products
+in developing and emerging countries. 2023, 
+publications/studies/power-to-x-country-analyses.html .
+[84] FSC. The fuel science center - adaptive conversion systems for renewable energy
+and carbon sources. 2021, 
+?lidx=1/ .
+[85] International PtX Hub. 2024,  .
+[86] PtX Lab Lausitz. 2023,  .
+[87] DLR. PtL technology platform - looking to the future. 2023, 
+de/en/latest/news/2023/04/ptl-technology-platform-looking-to-the-future .
+[88] Schumm L, Birett F, Hofrichter A, Heusgen V, Rahim S. Wasserstoffatlas
+(hydrogen map) dataset (v1.0.3). Zenodo; 2023.
+[89] DENA. DENA H2-report: Wasserstoffstrategien der bundesländer. 2022, https:
+//h2-dialog.info/fileadmin/dena/Publikationen/PDFs/2022/dena-H2_Nr_3.pdf .
+[90] BMWK. Import Strategy for hydrogen and hydrogen derivatives. 2024,
+
+import-strategy-hydrogen.html .
+[91] BMWK. Energy and climate partnerships and energy dialogues. 2023,
+
+policy-2.html/ .
+[92] ewi. Data basis for the E.ON H2 balance sheet 2023 2nd half. 2023, https:
+// .
+[93] Global PtX Atlas. 2024,  .
+[94] European Federation for Transport and Environment. Shipping e-fuels
+observatory. 2024,  .
+[95] Brynolf S, Taljegard M, Grahn M, Hansson J. Electrofuels for the transport sector:
+A review of production costs. Renew Sustain Energy Rev 2018;81:1887-905.
+[96] VDMA. Synthetic fuels: Import impossible? 2024, 
+viewer/-/v2article/render/85651355 .
+[97] European Commission. Water framework directive. 2000, 
+ec.europa.eu/topics/water/water-framework-directive_en .
+[98] Goodwin D, Gale F, Lovell H, Beasy K, Murphy H, Schoen M. Sustainability certi-
+fication for renewable hydrogen: An international survey of energy professionals.
+Energy Policy 2024;192:114231.
+[99] Frank C, Fiedler S, Crewell S. Balancing potential of natural variability and
+extremes in photovoltaic and wind energy production for European countries.
+Renew Energy 2021;163:674-84.Energy 313 (2024) 134020

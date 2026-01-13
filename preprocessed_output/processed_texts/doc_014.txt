@@ -1,0 +1,645 @@
+202 1 
+October 2021 
+ 
+Effects of Carbon Pricing and 
+Other Climate Policies on CO 2 
+Emissions 
+Emanuel Kohlscheen, Richhild Moessner, El őd Takáts 
+Impressum: 
+ 
+CESifo Working Papers 
+ISSN 2364- 1428 (electronic version) 
+Publisher and distributor: Munich Society for the Promotion of Economic Research - CESifo 
+GmbH 
+The international platform of Ludwigs -Maximilians University’s Center for Economic Studies 
+and the ifo Institute 
+Poschingerstr. 5, 81679 Munich, Germany 
+Telephone +49 (0)89 2180 -2740, Telefax +49 (0)89 2180 -17845, email  
+Editor: Clemens Fuest 
+ 
+An electronic version of the paper may be downloaded 
+· from the SSRN website:  
+· from the RePEc website:  
+· from the CESifo website:  
+CESifo Working Paper No. 9347 
+Effects of Carbon Pricing and Other Climate 
+Policies on CO 2 Emissions 
+Ab
+stract 
+We provide ex -post empirical analysis of the effects of climate policies on carbon dioxide 
+emissions at the aggregate national level. Our results are based on a comprehensive database of 
+121 countries. As climate policies we examine carbon taxes and emissions trading systems (ETS), as well as the overall stringency of climate policies. We use dynamic panel regressions, controlling for macroeconomic factors such as economic development, GDP growth, urbanisation, as well as the energy mix. We find that higher carbon taxes and prices of permits in ETS reduce carbon emissions. An increase in carbon taxes by $10 per ton of CO
+2 reduces CO 2 
+emissions per capita by 1.3% in the short run and by 4.6% in the long run. 
+JEL-Codes : O440, Q000, Q480, Q580, Q400, Q500. 
+Keywords: climate policies, carbon tax , carbon emission trading system, carbon dioxide, climate 
+change, emissions, ener gy, environment, growth. 
+Emanuel Kohlscheen 
+Bank for International Settlements 
+Centralbahnplatz 2 
+Switzerland - 4051 Basel 
+ Richhild Moessner 
+Bank for International Settlements 
+Centralbahnplatz 2 
+Switzerland - 4051 Basel 
+ 
+Előd Takáts 
+Corvinus University 
+Fővám tér 8 
+Hungary - 1093 Budapest 
+ 
+O
+ctober 2021 
+The views expressed in this paper are those of the authors and do not necessarily reflect those of 
+the Bank for International S ettlements . 
+
+ 1. Introduction 
+ 
+Emissions of carbon dioxide (CO 2), a key driver of global warming and climate change, have 
+continued to increase globally in recent years . If current climate policies are unchanged, standard 
+climate change scenarios predict a n increase of 3 degrees Celsius (°C) in global temperatures 
+compared with pre-industrial levels by the end of the c entury (IPCC, 2014; Group of 30, 2020) . 
+This could have catastrophic consequences. To avoid such a scenario, climate policies need to be 
+expanded in order to reduce the emission of carbon dioxide and other g reenhouse gases . Such 
+policies include carbon taxes and emissions trading systems (ETS), but also broader changes in 
+regulation (Stern, 2007 , 2008 ). 
+To be consistent with global emission s that limit an overshoot of the goal from the Paris 
+agreement of 1.5°C global warming above pre -industrial levels , global net anthropogenic CO 2 
+emissions need to decline by about 45 % from the ir 2010 level by 2030, reaching net zero around 
+2050. To cap global warming at 2°C, CO2 emissions need to decrease by about 25 % from the 2010 
+level by 2030 and reach net zero around 2070 (United Nations, 2021). Yet, according to latest 
+estimates, t he total global greenhouse gas emission level in 2030 is expected to be 16 % above the 
+2010 level (United Nations, 2021) . 
+Carbon pricing can be an effective policy to reduce emissions. Higher c arbon prices make low -
+carbon energy more competitive , provide incentives to reduce emissions , and reduce demand for 
+carb on-intensive fuels (OECD, 2021; Arlinghaus, 2015; Martin et al., 2016 ). Moreover , a strong 
+commitment to higher carbon prices by governments provides incentives for investors to invest 
+in the expansion and development of low-carbon technologies (OECD, 2021 ). Yet, the aggregate 
+impact of these regulations remains unclear. 
+This paper analyses the effects of climate policies on CO 2 emissions. We provid e ex-post 
+empirical analysis of the effects of carbon pricing on carbon emissions at the aggregate national 
+level, based on a comprehensive database of 121 countries . We rely on carbon emissions data and 
+macroeconomic variables over the 1971 -2016 period , as well as data on climate policies. As 
+climate policies we consider national and supranational carbon taxes and emissions trading 
+systems (ETS ). We also consider a broad index that measures the overall stringency of climate 
+policies for OECD and major emerging economies . This index captures regulatory responses that 
+go beyond carbon pricing . We use dynamic panel regressions, to account for the large degree of 
+persistence in emission s, and control for macroeconomic factors such as economic development , 
+GDP growth, urbanis ation , as well as the composition of the e lectricity mix based on Kohlscheen 
+et al (2021) . 
+Overall, w e find that higher carbon taxes and prices of permits in ETS have significantly 
+reduced carbon emissions . An increase in carbon taxes by $10 per ton of CO 2 equivalents (tCO 2) 
+reduces CO 2 emissions per capita by 1 .3% in the short run and by 4.6% in the long run . This effect 
+is statistically significant in all econometric specifications, with p-values that are always below 
+0.01. The same increase in the prices of ETS permits also reduces CO 2 emissions per capita by 
+1.4% in the short run and 5.0% in the long run . The magnitude of this effect however varies more 
+across specifications and is statistically significant in five out of nine specifications ( with p-values 
+below 0.05). Further, m ore stringent climate policies as measured by a broad index for OECD and 
+major emerging economies also significantly reduce s carbon emissions, with a standard deviation 
+increase in the index reducing CO 2 emissions per capita by around 1 .5% in the short run and 6% 
+in the long run (p-values below 0.05 in five out of six specifications). The estimates are robust to 
+inclusion of controls for the overall quality of governance in the respective countries, as proxied 
+by an index for control of corruption. 
+
+ The paper adds to the growing literature that examines the impact of carbon taxes and ETS 
+on CO 2 emissions - reviewed recently in Green (2021). As she notes, r elatively few papers analyse 
+the ex-post effects of carbon pricing on carbon emissions at the aggregate national level. And those 
+papers that do, focus on a few specific countries and then extrapolate the results to a broader set 
+of countries. We contribute to this literature by analysing a wide range of countries. This allows 
+us to obtain more precise estimates o f the impact of policies . 
+Our findings are relevant for future climate policies . More specifically, the finding s that higher 
+carbon taxes and prices of permits in ETS have reduced carbon emissions provide evidence that 
+such tools could speed up the necessary transition to a world with much lower emissions. 
+Additionally, our findings suggest that policymakers can rely on a wider range of climate policies 
+to speed up the transition to lower carbon emissions , ideally to net zero emissions. 
+The remainder of the paper proceeds as follows. Section 2 discusses the related literature. 
+Section 3 summaris es th e data. Section 4 presents the methodology. Section 5 pres ents our 
+empirical estimates. Section 6 conclud es. 
+ 
+2. Literature 
+ 
+The paper mainly builds on two strands of the literature. First, it builds on the literature 
+examining the effects of climate policies, such as carbon taxes and ETS, on carbon emissions. 
+Second, it builds on the literature studying macroeconomic determinants of carbon emissions. 
+The effects of climate policies, such as carbon taxes and ETS, on carbon emissions have been 
+studied in several papers. A comprehensive recent review of th e literature on the effects of carbon 
+pricing on carbon emissions is Green (2021). She highlights that surprisingly few papers have 
+conduct ed an ex-post empirical analysis of how carbon pricing has actually affected CO 2 
+emissions ,1 and that the vast majority of these papers are focused on Europe. She notes that i n 
+most cases, studies have estimated emissions reductions in the sectors covered by the carbon 
+pricing policy, although some extrapolate to broader jurisdictional effects (eg Murray and 
+Maniloff , 2015 ; Bayer and Aklin , 2020 ; and Rafaty et al, 2020).2 She concludes that the majority 
+of the studies suggest that the aggregate reductions from carbon pricing on emissions are limite d, 
+generally between 0% and 2% per year , with considerable variation across sectors. She also 
+concludes that in general carbon taxes perform better than ETS ; and that studies of the European 
+Union’s ETS indicate limited average annual reductions in carbon emissions of 0% to 1.5%. 
+Our paper contributes to filling this gap in the literature by providing ex-post empirical 
+analysis of the effects of carbon pricing on carbon emissions at the aggregate national level, for a 
+very broad sample of countries . There is also little empirical literature on the effects of broader 
+climate policies, and we contribute to fill this gap by studying the e ffects of an index of broad 
+climate policies on CO 2 emissions. 
+ 
+1 She notes that this is despite a large theoretical literature on carbon pricing, often using model 
+simulations , predictive models or theoretical assessments of reductions , with these prospective analyses 
+constituting the vast majority of the quantitative literature on carbon pricing (Green, 2021) . 
+2 Rafaty et al (202 0) stud y the effects of carbon prices in five sectors for a large number of countries since 
+the 1990s. They find that the introduction of carbon pricing reduced growth in total CO 2 emissions b y 1% -
+2.5% on average relative to imputed counterfactuals, with the greatest reduction in the electricity and heat 
+sector. 
+
+ There is limited empirical evidence that higher carbon prices reduce carbon emissions 
+(OECD, 2021; Arlinghaus, 2015; Martin et al., 2016 ). Sen and Vollebergh (2018 ) find that for OECD 
+economies an increase in a broad -based tax on energy consumption of €10/t CO 2 is expected to 
+lead to a 7.3% reduction in carbon emissions from fossil fuel consumption in the long run . Metcalf 
+and Stock (2020) find that Europe’s carbon taxes led to a cumu lative reduction of around 4% to 
+6% for a $40/tCO 2 tax covering 30% of emissions. They argue that emissions reductions would 
+likely be larger for a broa d-based US carbon tax , since European carbon taxes do not include 
+sectors with the lowest marginal costs of carbon pollution abatement in the tax base. Based on 
+sectoral analysis, Rafaty et al (2020 ) find an imprecisely estimated semi -elasticity of a 0.5% 
+reduction in carbon em issions growth per average $10/tCO 2 carbon price.3 
+The effects of macroeconomic variables on carbon emissions have been studied in Raupach 
+et al (2007 , 2012 ), Sadorsky (2014) , Kasman and Duman (2015) , Menyah and Wolde -Rufael 
+(2010) , Gonzalez -Sanchez and Martin -Ortega (2020) , Feng et al (2015) , Peters et al (2012) , Doda 
+(2014) , Wang (2012) and International Energy Agency ( 2020) among others . Our approach for 
+controlling for macroeconomic determinants of carbon emissions follows Kohlsch een et al 
+(2021). For a review of the literature studying the macroeconomic determinants of carbon 
+emissions readers are referred to that study . 
+Ellis et al (2019) review ex -post empirical assessments on the impact of carbon pricing on 
+competitiveness in OECD and G20 countries in the electricity and industrial sectors , concluding 
+that there are no significant effects on competitiveness . In turn, Lilliestam et al (2020) review the 
+empirical evidence available in academic ex -post analyses of the effectiveness of carbon pricing 
+schemes in promoting technological change necessary for full decarboni sation in the cases of the 
+European Union, New Zealand and Scandinavia. They find that there is little empirica l evidence 
+s o f a r , w i t h m o s t o f t h e p a p e r s o n t h e t o p i c b e i n g t h e o r e t i c a l . Recent papers studying the 
+macroeconomic effects of carbon taxes include Metcalf and Stock (2020 , 2020b ). 
+ 
+3. Data 
+ 
+In order t o assess the empirical drivers of carbon dioxide emissions , we collect data from 
+several sources. Data on carbon dioxide (CO 2) emission per capita, measured in metric tons , are 
+from the Carbon Dioxide Information Analysis Center (CDIAC) at the U.S. Department of Energy’s 
+Oak Ridge National Laboratory. Demographic, economic and energy use data are from the World 
+Bank (GDP per capita, GDP growth, the urbanisation rate, the share of manufacturing in GDP and 
+the share of coal, oil and renewables in electricity generation) .4 Our database spans the 1971 -
+2016 period and 121 countries. The country selection is based solely on data availability. 
+Our main variable s of interest are CO 2 emissions and climate policies . 
+Carbon emissions emanate mostly from the burning of fossil fuels (to heat, transport goods 
+and peo ple or generate electricity) and the manufacture of steel and cement. The level of carbon 
+emission s, following that of economic development, is highly uneven across countries. Highly 
+developed advanced economies tend to emit large quantities of carbon per capita, while less 
+developed economies, particularly in Africa, tend to emit less (Figure 1). However, there is no 
+definite advanced -emerging economy divide: due to fast economic development many emerging 
+ 
+3 See the review of Green (2021) for further references . 
+4 Note that we include only the respective shares of the energy mix, and not the intensity of use. 
+
+ market economies (including energy producers and fa st developing East Asian economies) 
+already have high carbon emission levels per capita. Besides, given their larger populations, their 
+contribution to global CO 2 emissions has grown very rapidly. 
+Carbon emissions per capita in 2016 Figure 1 
+
+Primary climate policies are carbon taxes and ETS. The first carbon tax was introduced in 
+Finland in 1990 . In turn, e missions trading has been considered a possible tool for mitigating 
+greenhouse gas emissions since the early 1990s and formed a key part of the Kyoto Protocol 
+agreement (Philibert and Reinaud , 2004) . Our database contains information on carbon taxes and 
+ETS implemented at the national and supranational level s since 1990 from the World Bank 
+(World Bank, 2021) . Country c overage and p rices of these policies are shown in Figures 2 and 3 
+separately for carbon taxes and ETS , for the end of our sample period in 2016 . The share of global 
+greenhouse gas emissions covered by the carbon taxes and ETS at the national level is shown in 
+Figure 4. As the Figure show s, there has been a large increase in th is proportion .5 
+In the case of carbon taxes, governments set the price of carbon emissions, and let private 
+agents determine emissions reductions. ETS have two main forms, cap-and-trade and baseline -
+and-credit ETS . For cap -and-trade ETS , government s set a limit on emissio ns, and allowances up 
+to this limit are auctioned or allocated according to certain criteria . These permits are then traded 
+and carbon prices are determine d by supply and demand in the market . For baseline -and-credit 
+ETS, baselines for emissions are set for regulated emitters . Emitters with emissions above their 
+designated baseline need to give up credits to make up for these emissions, while those with 
+emissions below their baseline receive credits for these reductions, which they can sell to other 
+emitters (World Bank, 2021) . 
+ 
+5 Coverage and prices for the latest available data in 2020 are shown in Appendix Figures A1 and A2, from 
+which we can see that the coverage of these policies across countries has increased further u p to 2020. 7.79 - 38.9
+4.11 - 7.79
+1.82 - 4.11
+0.53 - 1.82
+0.03 - 0.53
+No dataCO2 emissions
+(metric tons per capita)
+
+ Prices of carbon taxes implemented at t he national level as of 2016 Figure 2 
+
+Notes: Nominal prices as of 1 April 2016 in $/tCO 2 equivalents . Ukraine has had a carbon tax since 2011, which was above $ 0.01/tCO 2 
+equivalents from 2011 -2015 and 2017- 2020, but data on it was not available for 2016 in the World Bank dataset . Iceland is not included in 
+our sample. 
+Source: World Bank. 
+
+Prices of carbon ETS implemented at the national and supranat ional levels as of 
+2016 Figure 3 
+
+Notes: Nominal prices as of 1 April 2016 in USD/tCO 2 equivalents . EU: European Union. 
+Source: World Bank. 
+
+ Share of global greenhouse gas emissions covered by carbon taxes and ETS at 
+the national and supranat ional level s Figure 4 
+
+Notes: Only the introduction or removal of an ETS or carbon tax is shown. The coverage of each carbon pricing initiative is presente d as a 
+share of annual global GHG emissions for 1990 -2015 based on data from the Emission Database for Global Atmospheric Research (EDGAR) 
+version 5.0 including biofuels emissions. From 2015 onwards, the share of global GHG emissions is based on 2015 emissions fro m EDGAR. 
+The GHG emissions coverage for each jurisdiction is based on official government sources and/or estimates. If emis sions that are covered by 
+multiple carbon pricing initiatives shown in the Figure , these are attributed to the carbon pricing initiative that was introduced first. The 
+information on the China national ETS represents early unofficial estimates based on the announcement of China’s National Development 
+and Reform Commission on the launch of the national ETS of December 2017. 
+Source: World Bank. 
+ 
+Besides carbon taxes and ETS, w e also evaluate the effectiveness of climate policies by using 
+a broader index for the overall stringency of climate policies for OECD member countries and 
+major emerging economies. Th is is based on the Environmental Policy Stringency Index (EPS) , 
+which is compiled by the OECD and available from 1990 to 2015. The index covers a much wider 
+range of climate policies, also considering other regulatory policies (Botta and Kozluk, 2014) . 
+Generally , stringency is defined as the degree to which environmental policies pu t an explicit or 
+implicit price on polluting or , more generally, on environmentally harmful behaviour.6 
+ 
+6 The index ranges from 0 (not stringent) to 6 (highest degree of stringency). It covers 28 OECD and 6 
+BRIICS countries (Brazil, China, India, Indonesia, Russia, South Africa) for the period 1990 -2012, and has 
+been extended for a subset of these countries until 2015 (France, Germany, Italy, Japan, Korea, United 
+Kingdom, United States, Brazil, China, India, Indonesia, Russia, South Africa). The EPS index is based on the 
+degree of stringency of 14 environmental policy instruments, primarily related to climate and air pollution. 
+
+ We conduct several checks of the robustness of our baseline results . In particular, t o contr ol 
+for the quality of governance in a country, we use a measure of the control of corruption from the 
+World Bank. It reflects perceptions of the extent to which public power is exercised for private 
+gain, including both petty and grand forms of corruption, as well as "capture" of the sta te by elites 
+and private interests.7 
+
+4. Methodology 
+ 
+We quantify the effects of climate policies on carbon emissions through a dynamic panel 
+model . The dynamic specification accounts for the high degree of persistence in CO 2 emissions. 
+Throughout, w e control for macroeconomic factors, such as economic development (GDP per 
+capita , GDP growth, urbanis ation , the share of manufacturing in total output, as well as the energy 
+mix used in electricity production. Formally, we explore the effects of climate policies (denoted 
+by CP) on the logarithm of carbon- dioxide emissions per capita (denoted by lnCO2) according to : 
+ 
+lnCO2i,t=αi+β𝑡𝑡+ρ lnCO2i,t−1+λ CPi,t−1+γ GDPpc i,t+θ growth i,t
++ω urbanisation i,t+ϑ manufacturing i,t+μ1shareoil,i,t
++μ2 sharecoal ,i,t+μ3 sharerenewables ,i,t+𝜀𝜀𝑖𝑖,𝑡𝑡 (1) 
+ 
+Besides the lagged dependent variable, we include climate policies as key explanatory 
+variables of interest . To address potential endogeneity concerns, w e use lagged climate policy 
+variables , which minimis e the risk of reverse causality . As climate po licies we consider carbon 
+taxes and prices of permits in ETS implemented at the national level, as well as the broader index 
+for the stringency of climate policies described in Section 2. We also include a number of 
+macroeconomic variables as controls . 
+Throughout, our models include country fixed effects to capture unobserved heterogeneities 
+across countr ies that might affect t he rate of carbon dioxide emissions. These include fixed 
+institutional factors like enforcement of environmental laws as well as natural factors such as 
+average median temperatures , which tend to correlat e with heating or cooling needs . We also 
+include the full set of yearly time dummies to control for the effects of global factors. These 
+subsume for instance technological advances that may reduce environmental effects , as well as 
+other global trends or global shocks . 
+Throughout we use fixed effe ct panel estimations and base inference on cluster robust 
+standard errors . As a robustness check , we contr ol additionally for the quality of governance in a 
+country, using the measure of the control of corruption as described in Section 3. 
+
+7 This indicator range s from approximately -2.5 (weak) to 2.5 (strong) governance performance. 
+
+ 5. Estimation results 
+5.1 Effects of climate policies 
+We first present baseline estimates of our dynamic panel equation (1). The estimation s for 
+the effects of carbon taxes, prices of permits in the ETS and the EPS policy index separately are 
+shown in columns I, II and IV of Table 1, respectively. The results when including carbon taxes 
+and prices of permits of ETS together are shown in column III, and when including all three 
+climate policies together in column V. 
+Overall, the specification s describe the country -specific evolution of carbon emissions quite 
+well . Our model s with climate policies are able to explain 97−98% of the variation in per capita 
+CO 2 emissions across countries and across time (Table 1). Importantly, this is driven by variation 
+both within and between countries, as the R2 within ranges from 0.8 2 to 0.88, and the R2 between 
+ranges from 0.97 to 0.9 9. The lagged dependent variable has a coefficient of just above 0.7 and is 
+clearly statistically significant - which confirms that a dynamic panel specification is indeed 
+appropriate. Put differently , more that 70% of CO 2 emissions can be explained by previous year 
+emissions alone.8 Most of the macroeconomic control variables are statistically significant with 
+the expected signs . 
+ Consistently we find that higher carbon taxes significantly reduce carbon emissions (p-values 
+always below 0.01) . On average, an increase in carbon taxes by $10 per ton of CO 2 (tCO 2) reduces 
+CO 2 emissions per capita by 1 .3% in the short run and by 4.6% in the long run ( baseline model in 
+column III of Table 1).9 Importantly, t his result is robust to controlling for ETS prices ( see column 
+III). 
+We also find that higher prices of ETS permits reduce carbon emissions (p-values below 0.01 
+in columns I and III of Table 1) . An increase in prices of ETS p ermits by $10/tCO 2 reduces CO 2 
+emissions per capita by 1.4% in the short run and by 5.0% in the long run , when carbon taxes are 
+controlled for (column III). 
+Moreover, we find that the broad EPS index of climate policy stringency has a negative effect 
+on carbon emissions at the 10% significance level (column IV of Table 1) . A one st andard 
+deviation increase in the EPS index reduces CO 2 emissions per capita by 1.6% in the short run and 
+6.2% in the long run . It is striking that these results are broadly similar to the result s we obtain 
+for carbon taxes, for which a standard deviation increase leads to a reduction in carbon emissions 
+of 1.1% in the short run and 3.9% in the long run . 
+ 
+8 Of course, the high fraction of variation that is explained by the model is partly related to th is high degree 
+of persistence in CO 2 emissions. This could be a result of strong habit persistence of consumers, or the 
+persistent nature of many industrial production processes. 
+9 The long -run effect is λ/(1-ρ). 
+
+When we include all three measures together, the coefficients on carbon taxes and the EPS 
+index remain significantly negative and have a somewhat smaller magnitude (column V). While 
+the coefficient on the prices of ETS permits remains negative, it loses signif icance. This is most 
+likely due to the much smaller sample size , as we lose more than 80% of the sample when 
+including the EPS index . Further , the EPS index also reflects carbon prices, which introduces the 
+problem of multicollinearity of the variables − which is particularly acute for small sample sizes . 
+5.2 Robustness 
+We perform several robustness checks. First , we also control for the quality of govern ance in 
+a country, proxied by a measure of control of corruption described in Section 3 (Table 2).10 We 
+find that higher carbon taxes and more stringent climate policy based on the broader EPS policy 
+index significantly reduce carbon emissions when controlling for governance in all specifications 
+(Table 2). By contrast , the coefficient on the prices of ETS permits remains significant only in one 
+specification (column II) . T h e s e r e s u l t s i m p l y t h a t t h e e f f e c t s o f c a r b o n t a x e s a n d t h e b r o a d 
+climate policy index on carbon emissions are generally more robust than those for t he effects of 
+ETS permit prices. 
+ 
+10 Note that corruption could for instance undermine the effectiveness of environmental regulations. Table 1
+Effects of climate policies on CO2 emissions
+Dependent variable: lnCO2 emissions per capita (in metric tons, log)
+(I) (II) (III) (IV) (V)
+previous year lnCO2 per capita 0.7206*** 0.7231*** 0.7192*** 0.7471*** 0.7334***
+0.0541 0.0538 0.0542 0.0598 0.0627
+carbon tax (lagged) -0.0014*** -0.0013*** -0.0006***
+0.0003 0.0003 0.0002
+ETS (lagged) -0.0019*** -0.0014*** -0.0003
+0.0005 0.0005 0.0004
+EPS (lagged) -0.0164** -0.0135**
+0.0064 0.0066
+GDP per capita (log) 0.1877*** 0.1854*** 0.1893*** 0.1712*** 0.1801***
+0.0436 0.0432 0.04 0.0575 0.0616
+GDP growth 0.4050*** 0.3982*** 0.3946*** 0.5099*** 0.5012***
+0.0982 0.0979 0.0977 0.1334 0.1334
+urbanisation rate 0.3615** 0.3643** 0.3519** 0.2500* 0.2086
+0.1632 0.1622 0.1623 0.1396 0.1352
+manufacturing / GDP 0.5435*** 0.5450*** 0.5445*** 0.1661 0.1036
+0.1401 0.1404 0.14 0.1875 0.2038
+share of electricity from oil 0.1571*** 0.1530*** 0.1565*** 0.1387** 0.1614**
+0.0396 0.0392 0.0396 0.0564 0.0592
+share of electricity from coal 0.2415*** 0.2348*** 0.2334*** 0.2331*** 0.2640***
+0.0734 0.0720 0.0719 0.0642 0.0747
+share of electricity from renewables -0.1836** -0.1831** -0.1589** -0.2361** -0.1975**
+0.0782 0.0792 0.075 0.0858 0.0852
+observations 3881 3881 3881 653 653
+number of countries 121 121 121 30 30
+R2 within 0.822 0.822 0.822 0.879 0.881
+R2 between 0.989 0.989 0.989 0.971 0.971
+Note: Sample period: from 1971 to2016, annual data. Cluster-robust standard errors reported inbrackets are clustered atthe country level. ***/**/* denote statistical
+significance at the 1%/5%/10% level. (I): nominal price of first carbon tax in USD/tCO2 equivalents; (II): nominal price of ETS in USD/tCO2 equivalents; (IV): EPS index.model with EPS model with carbon tax, ETS 
+and EPSmodel with carbon tax 
+and ETS model
+model with carbon tax model with ETS
+
+Further more , we also estimate the effects of carbon policies when using real carbon prices 
+instead of nominal ones . That is, we consider prices obtained by deflating the nominal USD carbon 
+price by the US consumer price index (Table 3). The results for the significantly negative effects 
+of higher carbon taxes , of higher price s of ETS permits and of more stringent climate policy based 
+on the EPS i ndex on CO 2 emissions are robust to using these alternative measures . Table 2
+Effects of climate policies on CO2 emissions: with control of corruption
+Dependent variable: lnCO2 emissions per capita (in metric tons, log)
+(I) (II) (III) (IV) (V)
+previous year lnCO2 per capita 0.7300*** 0.7328*** 0.7297*** 0.6265*** 0.6110***
+0.0257 0.0255 0.0257 0.0627 0.0643
+carbon tax (lagged) -0.0011*** -0.0011*** -0.0007***
+0.0003 0.0003 0.0003
+ETS (lagged) -0.0006** -0.0004 -0.0002
+0.0003 0.0003 0.0005
+EPS (lagged) -0.0168** -0.0154*
+0.0072 0.0077
+GDP per capita (log) 0.2006*** 0.2030*** 0.2007*** 0.2954*** 0.3060***
+0.0357 0.0360 0.0358 0.0568 0.0590
+GDP growth 0.4738*** 0.4646*** 0.4677*** 0.3402*** 0.3258***
+0.1068 0.1061 0.1064 0.1015 0.1013
+urbanisation rate 0.2689 0.2754 0.2595 0.2527 0.1735
+0.1778 0.1767 0.1778 0.2147 0.2092
+manufacturing / GDP 0.2968* 0.3068* 0.2927* 0.3496 0.1882
+0.1582 0.1595 0.1591 0.2908 0.2917
+share of electricity from oil 0.1299*** 0.1272*** 0.1297*** 0.2410*** 0.2711***
+0.0430 0.0428 0.0431 0.0812 0.0862
+share of electricity from coal 0.2848*** 0.2779*** 0.2816*** 0.3427*** 0.3767***
+0.0637 0.0642 0.0643 0.0949 0.1047
+share of electricity from renewables -0.2730*** -0.2833*** -0.2669*** -0.2210** -0.1984*
+0.0801 0.0830 0.0797 0.1018 0.0980
+control of corruption (lagged) -0.0032 -0.0035 -0.0032 0.0149 0.0179
+0.0185 0.0184 0.0185 0.0173 0.0170
+observations 1845 1845 1845 441 441
+number of countries 119 119 119 30 30
+R2 within 0.778 0.778 0.778 0.855 0.858
+R2 between 0.988 0.987 0.988 0.902 0.901
+Note: Sample period: from 1971 to2016, annual data. Cluster-robust standard errors reported inbrackets are clustered atthecountry level. ***/**/* denote statistical
+significance atthe 1%/5%/10% level. (I): nominal price offirst carbon tax inUSD/tCO2 equivalents; (II): nominal price ofETS inUSD/tCO2 equivalents; (IV): EPS
+index. model
+model with carbon tax model with ETS model with carbon tax 
+and ETSmodel with EPS model with carbon 
+tax, ETS and EPS
+
+Finally, we exclude countries whose economic development, as measured by GDP per capita, 
+is below that of the country with the lowest GDP per capita among those that have implemented 
+carbon taxes or ETS. We do so by restrict ing GDP per capita to above $1500 in constant 2010 
+dollar s in columns I to III of Appendix Table A1 . Very similar results are obtained when this 
+restriction is imposed . 
+ 
+6 Conclu sion 
+ 
+We use a comprehensive database of 121 countries to study how climate policies have 
+affect ed carbon dioxide emissions ex-post , with data on carbon emissions and macroeconomic 
+variables over the 1971 -2016 period and data on climate policies . As climate policies we consider 
+carbon taxes and emissions trading systems, as well as a broad index for the stringency of climate 
+policies. Overall, w e find that higher carbon taxes and prices of permits in the ETS are associated 
+with reduced carbon emissions. Further, m ore stringent climate policies as measured by a 
+broader index for OECD and major emerging economies, have also significantly reduced carbon 
+emissions. 
+Overall, an increase in carbon taxes by $10/tCO 2 reduce s CO 2 emissions per capita by 1 .3% in 
+the short run and by 4.6% in the long run . This negative effect on emissions is statistically Table 3
+Effects of climate policies on CO2 emissions: using real carbon prices
+Dependent variable: lnCO2 emissions per capita (in metric tons, log)
+(I) (II) (III) (IV) (V)
+previous year lnCO2 per capita 0.7205*** 0.7233*** 0.7191*** 0.7471*** 0.7320***
+0.0542 0.0538 0.0543 0.0598 0.0635
+carbon tax (real, lagged) -0.0013*** -0.0012*** -0.0007***
+0.0003 0.0003 0.0002
+ETS (real, lagged) -0.0017*** -0.0014*** -0.0003
+0.0005 0.0005 0.0004
+EPS (lagged) -0.0164** -0.0137**
+0.0064 0.0066
+GDP per capita (log) 0.1884*** 0.1853*** 0.1899*** 0.1712*** 0.1824***
+0.0438 0.0432 0.0440 0.0575 0.0622
+GDP growth 0.4051*** 0.3994*** 0.3952*** 0.5099*** 0.5063***
+0.0983 0.0980 0.0977 0.1334 0.1332
+urbanisation rate 0.3609** 0.3655** 0.3517** 0.2500* 0.2127
+0.1633 0.1623 0.1624 0.1396 0.1353
+manufacturing / GDP 0.5452*** 0.5447*** 0.5440*** 0.1661 0.1144
+0.1400 0.1405 0.1396 0.1875 0.2002
+share of electricity from oil 0.1571*** 0.1529*** 0.1565*** 0.1387** 0.1575**
+0.0397 0.0392 0.0397 0.0564 0.0587
+share of electricity from coal 0.2414*** 0.2355*** 0.2335*** 0.2331*** 0.2618***
+0.0734 0.0721 0.0720 0.0642 0.0740
+share of electricity from renewables -0.1872** -0.1874** -0.1640** -0.2361** -0.2020**
+0.0788 0.0796 0.0758 0.0858 0.0848
+observations 3881 3881 3881 653 653
+number of countries 121 121 121 30 30
+R2 within 0.822 0.822 0.822 0.879 0.882
+R2 between 0.989 0.989 0.989 0.971 0.97
+Note: Sample period: from 1971 to2016, annual data. Cluster-robust standard errors reported inbrackets are clustered atthecountry level. ***/**/* denote statistical
+significance atthe 1%/5%/10% level. (I):real price offirst carbon taxinUSD/tCO2 equivalents (deflated byUSCPI); (II): real price ofETS inUSD/tCO2 equivalents
+(deflated by US CPI); (IV): EPS index. model
+model with carbon tax model with ETS model with carbon tax 
+and ETSmodel with EPS model with carbon 
+tax, ETS and EPS
+
+ significant for all nine specifications th at were used, with p-values that are always below 0.01. The 
+same increase in the prices of ETS permits reduce s CO 2 emissions per capita by 1 .4% in the short 
+run and 5.0 % i n t h e l o n g r u n , although this effect is found to be less robust to alternative 
+specifications. More stringent climate policies as measured by a broad index for OECD and major 
+emerging economies also significantly reduce carbon emissions, with an increase of one standard 
+deviation in the index reducing CO 2 emissions per ca pita by around 1 .5% in the short run and 
+6.0% in the long run . 
+Our findings are relevant for the design of climate policies . The fact that higher carbon tax 
+rates and prices of permits in the ETS rates have reduced carbon emissions suggest s that further 
+increases in these and expansion to more countries, thus covering a greater share of global carbon 
+emissions, are promising avenues to speed up the necessary transition towards much lower 
+carbon emissions economies . Further, the finding that more broadly, stringent climate policies 
+have reduced carbon emissions , indicate s that future enhancements in a wider range of climate 
+policies can also be helpful for a speedy transition towards much lower carbon emissions , ideally 
+to net zero emissions . 
+
+References 
+ 
+Arlinghaus, J (2015) “Impacts of Carbon Prices on Indicators of Competitiveness: A 
+Review of Empirical Findings”, OECD Environment Working Papers, No. 87, OECD 
+Publishing, Paris . 
+Bartram, S, Hou, K and S Kim (2021) “Real effects of climate policy: Financial constraints 
+and spillovers”, CEPR Discussion Paper No. 15986. 
+Bayer P and M Aklin (2020) “The European Union Emissions Trading System reduced CO 2 
+emissions despite low prices ”, Proc eedings of the Nationa l Acad emy of Sci ences , 117, 
+8804-12. 
+Botta, E and T Kozluk (2014) "Measuring Environmental Policy Stringency in OECD 
+Countries: A Composite Index Approach", OECD Economics Department Working Papers 
+No. 1177, OECD Publishing, Paris. Doda, B (2014) “Evidence on business cycles and CO2 
+emissions” Journal of Macroeconomics , vol. 40, pp. 214- 227. 
+Ellis, J, Nachtigall, D and F Venmans (2019) “Carbon Pricing and Competitiveness: Are 
+They at Odds? ”, OECD Environment Working Papers No. 152, O ECD Publishing, Paris. 
+Feng, K, S J Davis, L Sun and K Hubacek (2015) “Drivers of the US CO2 emissions 1997 -
+2013” Nature Communications , vol. 6, 7714, doi : 10.1038/ncomms8714. 
+Gonzalez -Sanchez, M and J L Martin- Ortega (2020) “Greenhouse gas emissions growth in 
+Europe: a comparative analysis of determinants” Sustainability , vol. 12, 1012, 
+doi:10.3390/su12031012. 
+Green, J (2021) “Does carbon pricing reduce emissions? A review of ex -post analyses” 
+Environ mental Research Lett ers, vol. 16, 043004. 
+Group of 30 (2020) “Mainstreaming the transition to a net -zero economy” , 
+
+_to_a_Net -Zero_Economy.pdf 
+Holtz -Eakin, D and T M Selden (1995) “Stoking the fires? CO2 emissions and economic 
+growth” Journal of Public Economics , vol . 57, pp. 85- 101. 
+International Energy Agency (2020) “Global Energy Review 2020 : The impacts of the 
+Covid -19 crisis on global energy demand and CO2 emissions ”, April. 
+Intergovernmental Panel on Climate Change (IPCC) (2014): Climate Change 2014: 
+Synthesis Report , contribution of Working Groups I, II and III to the Fifth Assessment 
+Report of the Intergovernmental Panel on Climate Change, Core Writing Team, 
+R Pachauri and L Meyer (eds), IPCC, Geneva, Switzerland. 
+Kasman, A and Y S Duman (2015) “CO2 emissions, economic growth, energy 
+consumption, trade and urbanization in new EU member and candidate countries: a panel data analysis” Economic Modelling , vol. 44, pp. 97 -103. 
+
+ Kohlscheen , E, Moessner, R and E Takats (2021) “ Growth, Coal and Carbon Emissions: 
+Economic Overheating and Climate Change’”, BIS Working Paper No. 937. 
+Lilliestam, J, Patt, A and G Bersalli (2021) “ The effect of carbon pricing on technological 
+change for full energy decarbonization: A review of empirical ex -post evidence”, Wiley 
+Interdisciplinary Reviews: Climate Change , 12(1) . 
+Marcu, A, Vangenechten, D, Alberola, E, Olsen, J, Caneill, J -Y, Schleicher , S and R de Rafael 
+(2020), 2020 State of the EU ETS Report, ERCST, Wegener Center, BloombergNEF and 
+Ecoact. 
+Martin, R, Muûls , M and U Wagner (2016) “The Impact of the European Union Emissions 
+Trading Scheme on Regulated Firms: What Is the Evidence after Ten Years?” Review of 
+Environmental Economics and Policy , Vol. 10( 1), pp. 129- 148. 
+Menyah, K and Y Wolde -Rufael (2010) “CO2 emissions, nuclear energy, renewable energy 
+and economic growth in the US” Energy Policy , vol. 38, pp. 2911- 2915. 
+Metcalf, G and J Stock (2020) “The Macroeconomic Impact of Europe’s Carbon Taxes”, 
+NBER Working Paper No. 27488. 
+Metcalf, G and J Stock (2020 b) “Measuring the macroeconomic impacts of carbon taxes”, 
+AEA Papers and Proceedings 110, 101- 06. 
+Murray, B and P Manilof f (2015 ) “Why have greenhouse emissions in RGGI states 
+declined? An econometric attribution to economic, energy market, and policy factors ” 
+Energy Econ omics , 51, 581-9 . 
+OECD (2021) “ Effective Carbon Rates 2021 : Pricing Carbon Emissions through Taxes and 
+Emissions Trading ”, 5 May, available at  -policy/effective-
+carbon -rates -2021- 0e8e24f5- en.htm (accessed on 21 June 2021). 
+Peters, G P, G Marland, C L Quere, T Boden, J G Canadell and M R Raupach (2012) “Rapid 
+growth in CO2 emissions after the 2008 -2009 global financial crisis” Nature Climate 
+Change , vol . 2, pp. 2 -4. 
+Philibert, C and J Reinaud (2004 ) “Emissions trading: Taking stock and looking forward”, 
+OECD and IEA information paper No. COM/ENV/EPOC/IEA /SLT(2004)3 for the Annex I 
+Expert Group on the UNFCCC . 
+Rafaty, R, Dolphin, G and F Pretis (202 0) “Carbon pricing and the elasticity of CO 2 
+emissions ”, Institute for New Economic Thinking Working Paper No 140 . 
+Raupach, M R, G Marland, P Ciais, C l Quere, J G Canadell, G Klepper and C B Field (2007) 
+“Global and regional drivers of accelerating CO 2 emissions” PNAS, vol . 104, 24, pp. 10288-
+10293. 
+Sadorsky, P (2014) “The effect of urbanization on CO 2 emissions in emerging economies” 
+Energy Economics , vol . 41, pp . 147- 153. 
+Sen, S and H Vollebergh (2018) “The effectiveness of taxing the carbon content of energy 
+consumption” Journal of Environmental Economics and Management , vol. 92, pp. 74- 99. 
+
+ Stern, N (2007) The Economics of Climate Change: The Stern Review , Cambridge: 
+Cambridge University Press. 
+Stern, N (2008) “The Economics of Climate Change” American Economic Review , vol . 98, 
+2, pp. 1-37. 
+United Nations (2021) “Nationally determined contributions under the Paris 
+Agreement”, Conference of the parties serving as the meeting of the parties to the Paris 
+Agreement, t hird session , Glasgow, 31 October to 12 November, Synthesis report by the 
+secretariat, advance version. 
+Wang, K (2012) “Modelling the nonlinear relationship between CO2 emissions from oil 
+and economic growth” Economic Modelling , vol. 29, pp. 1537- 1547. 
+World Bank (2021) “Carbon Pricing Dashboard”, 
+ (acces sed on 29 January 2021). 
+
+ Appendix 
+
+ Table A1
+Effects of climate policies on CO2 emissions: restricted sample
+Dependent variable: lnCO2 emissions per capita (in metric tons, log)
+(I) (II) (III) (IV) (V)
+previous year lnCO2 per capita 0.6963*** 0.7010*** 0.6948*** 0.7471*** 0.7334***
+0.0769 0.0762 0.0769 0.0598 0.0627
+carbon tax (lagged) -0.0012*** -0.0011*** -0.0006***
+0.0003 0.0003 0.0002
+ETS (lagged) -0.0014*** -0.0010** -0.0003
+0.0005 0.0005 0.0004
+EPS (lagged) -0.0164** -0.0135**
+0.0064 0.0066
+GDP per capita (log) 0.1479*** 0.1444*** 0.1493*** 0.1712*** 0.1801***
+0.0446 0.0438 0.0449 0.0575 0.0616
+GDP growth 0.3347*** 0.3285*** 0.3253*** 0.5099*** 0.5012***
+0.0968 0.0976 0.0969 0.1334 0.1334
+urbanisation rate 0.4650** 0.4695** 0.4566** 0.2500* 0.2086
+0.2168 0.2171 0.2158 0.1396 0.1352
+manufacturing / GDP 0.3376** 0.3320** 0.3396** 0.1661 0.1036
+0.1419 0.1410 0.1424 0.1875 0.2038
+share of electricity from oil 0.1547*** 0.1477*** 0.1547*** 0.1387** 0.1614**
+0.0502 0.0490 0.0502 0.0564 0.0592
+share of electricity from coal 0.3375*** 0.3276*** 0.3300*** 0.2331*** 0.2640***
+0.0989 0.0972 0.0976 0.0642 0.0747
+share of electricity from renewables -0.1006 -0.1054 -0.0816 -0.2361** -0.1975**
+0.0861 0.0858 0.0848 0.0858 0.0852
+observations 2875 2875 2875 653 653
+number of countries 102 102 102 30 30
+R2 within 0.842 0.841 0.842 0.879 0.881
+R2 between 0.978 0.979 0.978 0.971 0.971
+Note: Sample period: from 1971 to2016, annual data. Cluster-robust standard errors reported inbrackets are clustered atthecountry level. ***/**/* denote statistical
+significance atthe 1%/5%/10% level. (I): nominal price offirst carbon tax inUSD/tCO2 equivalents; (II): nominal price ofETS inUSD/tCO2 equivalents; (IV): EPS
+index; for (I) to (III): restricted to GDP per capita in constant 2010 dollars of above 1500.model with carbon 
+tax, ETS and EPSmodel with EPS model
+model with carbon tax model with ETS model with carbon tax 
+and ETS
+
+ Prices of carbon taxes implemented at the national level as of 2020 Figure A1 
+
+Notes: Nominal prices as of 1 April 20 20 in USD/tCO2 equivalents . 
+Source: World Bank. 
+
+ Prices of carbon ETS implemented at the national and supranational levels as of 
+2020 Figure A2 
+
+Notes: Nominal prices as of 1 April 2020 in USD/tCO 2 equivalents . 
+Source: World Bank.

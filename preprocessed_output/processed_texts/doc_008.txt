@@ -1,0 +1,1517 @@
+Contents lists available at ScienceDirect
+Environmental Innovation and Societal Transitions
+journal homepage: 
+Original Research Paper
+The economics of transition pathways: A proposed taxonomy and a
+policy experiment
+Kerstin Hötte*
+Universität Bielefeld, Fakultät für Wirtschaftswissenschaften, ETACE, Postfach 10 01 31, 33501, Bielefeld
+ARTICLE INFO
+JEL classification:
+O11D83
+O33
+Q55
+Q58
+C63
+Keywords:
+Technological transitionMulti-level perspective
+Technological knowledge
+Learning
+Climate policy
+Agent-based modelABSTRACT
+Pathwaysoftransition differ acrosscountries, industrial sectors,firms andtechnologies, butlittle
+is known about the reasons for these differences and macroeconomic consequences. I show
+theoretically how differences in transition patterns and macroeconomic side effects can be ex-plained by the characteristics of competing technologies. Competing technologies are char-acterized by their relative superiority in an exogenous socio-technical landscape, their relative
+maturity and cross-technology interactions in the process of specialization. These characteristics
+are linked to the multi-layer perspective of transition theory and build the conceptual basis oftechnology in the macroeconomic agent-based model  It is shown that the
+characteristicscanbeanexplanationforheterogeneoustransitionpathways.Policymayaltertheexogenous landscape conditions that surround technological competition. It is shown how dif-ferent market-based instruments can be used to accelerate and stabilize a transition process.
+Taxes and subsidies perform differently conditional on the characteristics of competing tech-
+nologies.
+1. Introduction
+The transition to carbon-neutral technologies is needed to reduce the risk of crossing irreversible tipping points in the climate
+system (cf. IPCC, 2018; Steffen et al., 2018), but little is known about possible transition pathways and potential (macro)economic
+consequences. Technology transitions are processes in which an emergent, entrant technology diffuses and replaces the prevalent
+technological solution (Geels, 2002). Empirically observed diffusion and transition patterns are diverse and differ across technology
+types, countries, industries and firms (Comin et al., 2006; Geels and Schot, 2007; Adner and Kapoor, 2016; Vona et al., 2015; Geels
+etal.,2016).Purposeofthispaperistoexplainthesedifferencesusing acharacterizationofcompetingtechnologiesandasimulation
+experiment with the macroeconomic agent-based model (ABM) 
+The characterization is based on the multi-level perspective (MLP) (Lachman, 2013; Köhler et al., 2019) and the typology for
+differenttransitionpathwaysproposedby GeelsandSchot(2007).MLPdecomposesasocio-technicalsystemintoalandscape,regime
+andnichelevel.Thelandscapecapturesexternalconditionssuchasresourceprices,regulationorpreferences.Atechnologicalregimeis determined by the dominant technological solution to fulfill a societal function. It is dynamicall stabilized by incremental in-
+novation and co-evolving norms, institutions, infrastructure and know-how. If the landscape changes, the regime may come under
+pressure. This opens windows of opportunities for emergent niche technologies to challenge the regime if they are sufficiently
+superior given the new landscape conditions. Geels and Schot (2007) elaborated conceptually how the shape of transition pathways
+
+Received 15 November 2019; Received in revised form 29 April 2020; Accepted 9 May 2020⁎Corresponding author.
+E-mail address:  Innovation and Societal Transitions 36 (2020) 94-113
+Available online 17 June 2020
+2210-4224/ © 2020 Elsevier B.V. All rights reserved.
+T
+depends on the timing and nature of cross-layer interactions.
+In this paper, I introduce an economic operationalization of these concepts that links MLP to formal economic modeling. I focus
+on the economic dimension of transitions which enables the study of broader (macro)economic consequences (e.g. transition costs
+and disruptions in the market structure).
+Competing technologies are characterized by cumulative stockvariables, exogenous andinteractive properties. The entrant tech-
+nology is a radical innovation that is technically superior because it allows its users to overcome a technical limitation of the
+incumbent technology. The economic valuation of superiority is an exogenous property because it is beyond the direct influence of
+technology adopters and users. It is an inherent feature of a specific technology type but whether it is economically valuable dependson the landscape. Stockvariables reflect the relative maturity of a technology. The incumbent technology benefits from larger
+endowments of supporting factors accumulated by research, learning-by-doing and investments. If technologies are similar, accu-mulated supporting factors needed to operate the incumbent are transferable to the utilization of the entrant technology (cf. Boehm
+et al., 2016; Jaffe and De Rassenfosse, 2017). Transferability is an interactive property because it affects the relativepace of tech-
+nological specialization. It is related the disruptiveness of technological change (Tushman and Anderson, 1986).
+These characteristics are reflected in the representation of technology in the macroeconomic ABM  (Hötte,
+2019b). The model is used to simulate a technology race between an incumbent conventional and a green entrant technology.
+Transitions are driven by the adoption and learning behavior of heterogeneous firms. It is shown that the shape of transition
+pathwayscan be explained bythe characteristics of technologies. Macroeconomicside effects and disruptions inthe market structure
+differ across pathways.
+Policy can change the external landscape conditions in favor of the entrant. In an experiment, three market-based policies are
+tested. A tax on the use of conventional technology (e.g. a carbon tax) makes the utilization of the entrant technology relatively
+cheaper. An investment subsidy reduces the price of green capital. A price support reduces the price for consumer goods produced
+with green machinery. Capital and input prices are exogenous to users and reflect landscape conditions associated with the avail-
+ability of resources. The price support is analog to consumers’ higher willingness to pay for green products.
+It is shown that policy may reinforce and stabilize an ongoing transition process, but increase technological uncertainty if the
+economy is locked in. Interactions between policies and technological characteristics reveal qualitative differences in the way how
+instruments operate. For example, the consumption subsidy is only effective if the two technologies are sufficiently similar. In
+contrast, the tax works well for dissimilar technologies and the investment subsidy is least sensitive to the similarity.
+The proposed model offers an explicit, formal representation of economic dynamics that underly transition processes. Modeling
+sustainability transitions makes it possible to draw inferences from complex dynamics, to execute systematic (policy) experiments
+and to facilitate the societal and scientific discourse (Holtz et al., 2015; Moallemi and de Haan, 2019). This study may improve the
+economic understanding of transition pathways, their drivers and side effects. This is crucial for the development of policies con-
+ditional on available technology options. The evaluation of economic side effects may facilitate an informed debate about sustain-
+ability transitions (Rosenbloom, 2017; Holtz et al., 2015) and to address resistance to change (Watson, 1971). Moreover, the
+characterization of competing technologies offers a theoretical basis for empirical work. This study is limited to diffusion at the
+production side and focused on the economic dimension of transitions.
+Thisworkcontributesmainlytothreebranchesofliterature.First,itisatheoreticalapproachtoformalizeconceptsofMLPwithin
+a comprehensive macroeconomic model. MLP is one of the key analytical frameworks of transition theory (Lachman 2013; Köhler
+et al., 2019). Existing modeling approaches to MLP are largely conceptual or very application-specific, partial models (see Köhler
+et al., 2018, for a review). Interactions between transition research and economics were limited (Köhler et al., 2019). In this paper, I
+introduce a macroeconomic approach to MLP.
+The proposed model exceeds existing evolutionary economic models by its macroeconomic coverage. Itcaptures feedbacks across
+different groups of agents and markets that represent a whole macroeconomy including a financial system. Moreover, the model
+explicitly accounts for non-linear complex dynamics with self-reinforcing feedback loops between technology supply and demand
+which are difficult to capture by existing macroeconomic approaches used to study energy transitions (see e.g. Köhler et al., 2018;
+Moallemi and de Haan, 2019), for reviews of existing modeling approaches). This study is aimed at advancing the theoretical
+understanding and modeling of large-scale transitions to improve the understanding of broader (macroeconomic) side effects.
+Second,thispaperalsocontributestotheliteratureontechnologicalcompetitionandlearningfeedbacks.Themodelbuildsonthe
+theoretical framework of competing technologies in the presence of increasing returns (cf. Arthur, 1989; Cowan, 1991). It expands
+this framework to the macroeconomic level of analysis and allows a systematic distinction between technology types.
+Third, the paper contributes methodologically and theoretically a new perspective to the macroeconomic literature on directed
+technological change. It allows distinguishing competing technologies systematically and aims to open the black box of long runsubstitutability. This is critical for the pace, costs and distributional consequences of directed technological change (cf. Acemoglu,
+2002; Nijkamp et al., 2005; Lemoine, 2018). In the majority of existing studies, substitution elasticities are estimated or taken fromthe literature but a consistent microeconomic explanation based on observable properties of technologies and adopters is lacking.
+This paper proposes a microeconomic explanation of evolving substitution behavior and provides a consistent link to emerging
+macroeconomic patterns.
+This paper is structured as follows. First, based on a literature review, empirical stylized facts of technology diffusion are ela-
+borated.InSection3,theseinsightsaresynthesizedascharacterizationofcompetingtechnologies.ThemodelisintroducedinSection
+4.InSection5,simulationexperimentsareusedtostudytheinterplaybetweenthecharacteristicsoftechnology,policyandemerging
+transition pathways. Section 6 concludes.K. Hötte Environmental Innovation and Societal Transitions 36 (2020) 94-113
+
+2. Diverse pathways of transition - empirical stylized facts
+Here, I introduce four stylized facts (SF) about the techno-economic dimension of transitions based on the empirical literature.
+At the country-level, Dechezleprêtre et al. (2011) illustrated differences in the cross-country diffusion of green innovations
+measuredbypatentapplications. Cominetal.(2006) haveshownthathistoricaltechnologydiffusionratesdifferacrosscountriesand
+technology types. They disproved the general validity of s-shaped diffusion patterns (cf. Allan et al., 2014) and explained cross-
+country heterogeneity by different stages of economic development. Adner and Kapoor (2016) have shown that the characteristics of
+both (the entrant and incumbent) and cross-technology interactions in the innovation process need to be considered to understand
+the heterogeneity of diffusion patterns.
+Theadoptionofelectricvehicles(EV)andrenewableenergytechnologies(RET)isanexampleofcountry-levelheterogeneity.The
+energy sector and automotive industry in India and China are rapid adopters of green technologies (Fu and Zhang, 2011; Lema and
+Lema, 2012; Jiang and Lu, 2018). Firms and the government are aware that it is more difficult to compete with Western market
+leadersinmature,highly specializedincumbent technologies(Jiangand Lu,2018). Supportedbynationalpolicy, IndianandChinese
+carmanufacturersbeganearlytoswitchtoEV(LemaandLema,2012;TyfieldandZuev,2018).AnotherexampleisRETinSouthAsia
+and Africa. The lacking availability and reliability of fossil fuel-based electricity systems are positively related to the diffusion of
+(decentralized)RET(Lemaand Lema,2012; PfeifferandMulder,2013). Thelowmaturity oftheincumbentis partoftheexplanation
+for the rapid take-off of entrant technologies.
+In contrast, major developed countries struggle with path dependence. Accumulated infrastructure and technological knowledge
+is built upon a fossil fuel dominated technological paradigm (Unruh, 2000). Driven by effective policies, Germany became one of the
+technological leaders in the development solar PV and wind technologies (Quitzow, 2015; Pan et al., 2017) but a profound transition
+of the domestic energy sector is long in coming (Geels et al., 2016; Kemfert et al., 2018). The reasons are accumulated infrastructure
+but also cultural rules, societal resistance and inappropriate institutional frameworks to integrate RET into the market (Pahle, 2010;
+Nordensvärd and Urban, 2015; Geels et al., 2016; Herrmann and Savin, 2017).
+A similar observation applies to the German automobile industry. The industry is highly innovative and globally competitive in
+the production of vehicles with internal combustion engines (ICE). This specialization is deeply entrenched in the domestic pro-
+duction network. The industry and the government failed to initiate the transition to low carbon technologies in time (Altenburg
+et al., 2015).
+These observations indicate that a low-carbon transition is more challenging if firms accumulated high technological expertise in
+carbon-intensive incumbent technologies in relation to green alternatives. Accumulated knowledge and supporting infrastructure
+required for the effective use of the green entrant technology in relation to those required for the incumbent describe the relative
+maturity of the entrant (Geels and Schot, 2007).
+These observations motivate SF1:
+SF 1.The relative endowment with technology-specific knowledge and tangible assets (“relative maturity”) influences individual
+adoption behavior.
+This SF is also reflected in the history of EV and RET. During the formative phase, both were fair competitors. Cumulative
+learning, infrastructural, regulatory adjustments and the evolution of consumer habits and norms contributed to the emergence of a
+fossil fuel-based technological regime (e.g. Geels, 2005; Høyer, 2008; Jones and Bouamane, 2011, 2012). Spillovers within the
+techno-institutional complex built upon fossil fuel energy contributed to the realized cost-effectiveness and reinforced path de-
+pendencies (Unruh, 2000).1Therelativeendowment with technology-specific knowledge relates to the diffusing technology (and its
+suppliers) and the absorbing market. This is one explanation why diffusion patterns of the same technology may differ across
+industriesandfirms.Fortheautomobilesector, Aghionetal.(2016), WellsandNieuwenhuis(2012) andWesselingetal.(2015) have
+shown that the type of pre-existing specialization may influence firms’ choice among different low-carbon technology options. Usinginput-outputdata, CarvalhoandVoigtländer(2014) haveshownthattheadoptionofproductioninputsispositivelydependentonthe
+technological similarity between the input producing sector and absorbing firms. Boehm et al. (2016), Acemoglu et al. (2016),
+Oikawa (2017), Huang et al. (2018) made similar observations. The similarity is positively related to knowledge spillovers across
+sectors and technology fields in learning processes (Jaffe and De Rassenfosse, 2017; Korzinov and Savin, 2018).
+Adner and Kapoor (2016) studied interactions between the incumbent and entrant technology in the innovation process. They
+focused on the characteristics of an innovation, its interaction with pre-existing technology and the (co)evolution complementaryfactors.Theyshowedthatthepaceofdiffusionisretardedifaninnovationiscompetence-destroying(TushmanandAnderson,1986),
+if technological bottlenecks in the supportive innovation system arise or if external developments improve the realized performance
+of the incumbent. The authors emphasize the importance of dynamic interactions between competitors. This leads to SF2:
+SF 2.Cross-technology interactions in the accumulation of supporting factors influence the pace of technological specialization
+reflected in the relative realizedperformance of competing technologies.
+Many basic (green) technologies have their origins in the late 19th century. Examples are RET, EVs and organic food (Belz, 2004;
+1Unruh (2000) andGrübler (1991) elaborate these spillovers further. Spillovers arise from overlaps in supply chains and networks, applications
+andendogenousinnovationincomplementaryindustries(e.g.inthepetrochemicalindustry),institutionalandpoliticalsupportandsocietalinterest
+groups that contribute to the formation of norms and values and from education systems that shape the type of available skills at the labor market.K. Hötte Environmental Innovation and Societal Transitions 36 (2020) 94-113
+
+Ma and Sauerborn, 2006; Høyer, 2008; Neukirch, 2009; Jones and Bouamane, 2011, 2012; Behera et al., 2012).2Early deployment
+took place in niche markets characterized by very specific consumer preferences or governmental procurement. These niches pro-
+vided a protected space that allowed these technologies to mature free from the pressure of price and performance competition with
+technologies that provide a similar output (e.g. electricity, propulsion technology, food in the examples above). External shocks (e.g.
+preference shifts, regulation, price shocks) allowed these innovations to challenge the dominant position of the incumbent. The
+interest to commercialize RET and EV at the mass market rose in the aftermath of the oil price shock in the 70s. The oil crisis
+coincided with an increasing awareness for the finiteness of resources and the environment, that became part of the political agenda.
+Prices, political support and regulation were key drivers of a new surge of entrepreneurial and innovative activities in RET and EV
+technology (Høyer, 2008; Popp et al., 2010; Geels et al., 2011, 2016; Jones and Bouamane, 2011, 2012; Popp, 2019). The dynamics
+in the organic food market were to a larger extent driven by changing consumer preferences reflected in a higher willingness to pay,
+incremental regulation, support policies, labels and standardization (Belz, 2004; Ma and Sauerborn, 2006; Lockeretz, 2007; Behera
+et al., 2012; Reganold and Wachter, 2016).
+Other technologies gained momentum through a technological breakthrough even though it took time until the incumbent was
+replaced (cf. Geels and Schot, 2007; Malerba et al., 1999). These observations lead to SF3:
+SF 3.External shocks may trigger the market entry of a technology that competes to replace the incumbent solution.
+Transitionscanbeaccompaniedbychanges inthemarketstructureandtheredistributionofincomeandwealth.Theseeffectsare
+observable at the labor market, across firms within the same industry and across industries. Whether and to which extent these side
+effects occur is dependent on the capacity of employees, firms and industries to cope with new technology.
+Vona et al. (2015) andConsoli et al. (2016) empirically documented that the adoption of green technologies can be associated
+with structural change in the labor market. Occupations and skills needed for the operation of green technologies differ from those
+demanded for the incumbent. Skill-biased technological change may be associated with a redistribution of income when relative
+wages for skills required for the entrant technology increase at the expense of the incumbent (e.g. Acemoglu, 2002; Autor et al.,
+2003).Vonaetal.(2015) didalsofindthatthepre-existingskill-profileofindustriesdeterminesthepaceandeaseatwhichindustries
+adopt green technologies in response to environmental regulations. Industries that are characterized by a high share of employees
+with “green skills” adopt green technologies more effectively.
+Tushman and Anderson (1986) have shown that the compatibility of pre-existing knowledge with the utilization of new tech-
+nologiescanexplainchangesinthemarketstructure.Competencedestroyinginnovations,thatrequireradicallydifferentknowledge,
+tend to be introduced by entrant and not by incumbent firms. This leads to a reallocation of market shares within the same product
+group.Wesseling et al. (2015) adopted the framework of competence-destroying innovations and investigated the responses of
+automobile firms to technology-forcing regulation. They illustrated that firms’ with the least compatible competences exhibited the
+most opposing behavior and missed the entry to the low-emission vehicle market.
+Breschi et al. (2000) linked the properties of technological learning processes to emerging Schumpeterian patterns of innovation,
+i.e. whether innovative activity deepens pre-existing hierarchies among incumbent firms (creative accumulation) or whether it isassociated with a widening allowing market entering firms to become technological leaders (creativedestruction). If new technologies
+are compatible with firms’ existing competences, firm hierarchies tend to be stable and innovative activities are concentrated among
+the incumbents. In contrast, if new technologies require different types of knowledge and if the pre-requisites to acquire the relevant
+knowledge are low, the market is characterized volatile entry-exit dynamics.
+Changes in the market structure and transition costs can be used to describe the degree of disruption of a transition process.
+Disruptionislowifincumbentdominantfirms(regimeactors)successfullyadaptatlowcoststonewcircumstancesandpreservetheir
+dominant position in the market. Transition costs are low when pre-existing knowledge can be transferred to the use of the new
+technology. The degree of disruption is high if transition costs are high and/ or the hierarchies of dominant actors are changed.
+These observations lead to SF4:
+SF 4.The degree of disruption of a transition depends on regime actors’ capacity to cope with the new technology.
+Note that these SFs and all concepts introduced in this paper refer to the dimensions of transitions that are measurable by
+economic indicators such as diffusion rates, market concentration, entry-exit dynamics, progress rates and measures for the tech-
+nological relatedness.
+3. MLP and a dynamic characterization of competing technologies
+3.1. Pathways of transition - theory
+A common theoretical framework to study technology transitions is the multi-level perspective (MLP) (Smith et al., 2010;
+Lachman, 2013; Köhler et al., 2019). In MLP, socio-technical systems are decomposed into three interacting levels, called landscape,
+regime and niche.
+Theregimedescribesadominanttechnical solutiontofulfillasocietalfunction(Kemp,1994; Geels,2002;GeelsandSchot, 2007).
+2Here, I refer to organicfood as a product innovation that is explicitly labeled as distinct from conventional agriculture (cf. Reganold and Wachter,
+2016).K. Hötte Environmental Innovation and Societal Transitions 36 (2020) 94-113
+
+It is associated with a technological paradigm that determines how technology users and developers define technological problems
+and search for solutions (Nelson and Winter, 1977; Dosi, 1982). A regime is stabilized dynamically by incremental technical im-
+provements, the accumulation of experience, the built-up of supporting infrastructure, regulation and the deepening societal and
+economic entrenchment (“endogenous renewal”).
+Thelandscape-level reflects externalconditions into which a technologicalregime is embedded. Internal problems ofthe regimeor
+changes in the landscape may put the regime under pressure. This creates windows of opportunity for emerging nichetechnologies to
+replace the existing regime. Transitions from niche to the regime are driven by the enactment of different societal groups andinteractions among different levels (Geels, 2002).
+MLP provides a framework for the systematic, empirical and theoretical study of technology transitions. It was used to study
+historical and current transitions in different technology fields and countries (Kemp, 1994; Geels, 2002; Geels et al., 2011;
+Safarzyńska et al., 2012; Yuan et al., 2012; Wells and Nieuwenhuis, 2012; Berkeley et al., 2017; Köhler et al., 2019; Geels et al.,
+2016).
+Geels and Schot (2007) proposed a typology to distinguish different transition pathways. Their typology is dependent on the
+timingandnatureofmulti-levelinteraction.Thetimingreferstothetimely coincidenceofsufficientlymaturenichetechnologiesand
+landscape pressure. The nature of interaction describes the ability of regime actors to cope with emerging niche technologies and to
+adapt to landscape pressure. Regime actors are e.g. firms, consumers and interest groups who have vested interests in preserving the
+incumbent technology. The authors show how the timing and nature of multi-level interactions may be associated with different
+transition pathways.
+Different pathways have implications for the power relations and degree of disruption of technological change. In this paper, I
+subsumethebehaviorofsocietalgroupsandactorstotheadoptionbehavioroffirms.Incontrasttothemajorityofexisting transition
+modeling studies based on MLP (cf. Köhler et al., 2018; Moallemi and de Haan, 2019), this is a purely economic approach.
+The technological regime is defined by the type of production technology that is used by firms. Firms are regime actors. A
+transition is disruptive if the hierarchies among firms change throughout the process of technological change, i.e. if those firms that
+are dominant under the incumbent technological regime lose market share to entrants or exit the market. It is also disruptive when
+the switch from the incumbent to the entrant technology is costly. The degree of disruption is low if firms that are successful under
+the incumbent regime can adopt the new technology at low costs and/ or preserve their market position.
+Firms are neutral regarding the type of technology but have endogenously accumulated vested interests that are embodied in
+physicalcapitalandintangibleknowledge.Thetechnologychoiceisconditionalontherelative,realizedperformanceofatechnology
+given existing stocks of tangible and intangible assets and the market environment provided by the landscape.
+3.2. A characterization of competing technologies
+Competing technologies can be described by three groups of properties that have different implications for the evolutionary
+transition dynamics.Stock variablesare cumulative technology-specific knowledge and supporting factors. Stock variables can be
+used to describe the maturity of technologies used at the niche and regime level. Agents (e.g. firms, consumers, interest groups)
+accumulate stock-variables by intended research and investment and, unintendedly, as a byproduct of learning by using.
+Accumulating stocks stabilize the regime (Geels, 2002).The ratio of technology-specific stocks accumulated by the agents describes
+the relative maturity of the entrant compared to the incumbent. This ratio is a measure for the timing of regime-niche interaction
+(Geels and Schot, 2007). The relative maturity has an impact on the adoption behavior of individual agents active at the niche and
+regime level (SF1).For example, the stabilization of ICE-based automobility as dominant technology for passenger transportation
+arose from the accumulation of supporting factors (e.g. regulatory adjustments, complementary infrastructure, performance im-
+provements, skills of manufacturers) (Geels, 2005). Alternative transportation technologies that might possibly replace ICE mobility
+have to compete with these evolving stocks of technological knowledge. After the oil price shock in the 70s, the low initial technical
+maturity, lack of supporting infrastructure and adaptive innovations of ICEs (fuel efficiency, exhaust filters) dampened optimism in
+emerging EV projects (Høyer, 2008; Geels et al., 2011; Wells and Nieuwenhuis, 2012).Interactive propertiesinfluence the relative
+pace of accumulation of stock variables (pace of specialization). This is reflected in the relative realized performance of competingtechnologies(SF2).Technologicaltrajectoriesdivergeiftherelativematuritydiverges.Thisoccursiftheaccumulationprocessinone
+technology is faster compared to the other. Interactive properties describe how easily agents can switch from the regime to niche
+technology and vice versa. Path dependence is weaker if it is easier for agents to switch.Interactive properties can be operationalized
+as technological similarity and difficulty. The similarity has implications for the cross-technology transferability of accumulated
+stocks. The technological difficulty (or complexity) describes how easily stock variable can be accumulated (Cohen and Levinthal,
+1990; Lema and Lema, 2012). A higher difficulty is associated with higher returns to specialization. Both properties affect the
+capacityofagents(firms)intheincumbentregimetoadapttoanemergentnichetechnology(cf. TushmanandAnderson,1986;Geels
+and Schot, 2007).For example, the production of both electric and ICE vehicles is technically very difficult. It requires a high level oftechnology-specific capabilities and a large number of technology-specific intermediate inputs. Both technologies are also very
+dissimilar. For example, the production of batteries for EV and combustion engines requires different technological skills and dif-
+ferent material inputs (Høyer, 2008; Wells and Nieuwenhuis, 2012). This makes it difficult for companies to specialize in both
+technologies simultaneously. Empirically, it was observed that technological leaders in the ICE sector struggle with the adoption of
+EVtechnologyandexplored(withlimitedsuccess)fuelcellsorbiofuelsasclimate-friendlyalternativesthataremorecompatiblewith
+thepre-existing ICE specialization. Early adoptersof EV technologies are either market entrantsor do not operateat the performance
+frontier of ICE technology (Ehret and Dignum, 2012; Wells and Nieuwenhuis, 2012; Altenburg et al., 2015; Wesseling et al., 2015;K. Hötte Environmental Innovation and Societal Transitions 36 (2020) 94-113
+
+Berkeley et al., 2017).Exogenous propertiesare landscape conditions that surround the evolution of technological competition
+between the regime and the emergent niche. These conditions determine the economic valuation of specific properties of a tech-
+nology. Exogenous shocks in the landscape conditions can trigger the market entry of a new technology (SF3). Exogenous properties
+haveanimpactonthemarket performance ofnicheandregime technologies.For example,afuel-savingtechnology isnot valuableif
+fuel is for free. Organic food is not superior in the market if consumers do not have a specific preference or if production is un-
+regulated.Theseconditionsarebeyondthecontrolofindividualagentsandfollowdynamicsthatareindependentoftechnologyrace.
+They are considered as given in daily decision making of technology users and developers (Geels, 2002). These concepts are em-
+bodied in the  model. It will be shown that the model offers a link between the characteristics of competing
+technologies to emergent transition pathways and their degree of disruption (SF4).
+4. A macroeconomic ABM of technology transitions
+Here, I give only a concise conceptual introduction to the model. A comprehensive formal documentation is available in Hötte
+(2019b).4.1. The model
+The model is an extended version of the macroeconomic ABM  (Dawid et al., 2019a). The extended model is illu-
+stratedin Fig.1.Itcan beused tosimulate awhole macroeconomy coveringmarketsforconsumptionand capitalgoods,labor, credit
+and finance. Agents interact on these markets and exchange goods, labor and information.
+Heterogeneous firms produce a final consumption good that is offered on the goods market. Households supply labor to firms.
+Their wage income is spent for consumption and saving or invested in risky assets. Capital producers offer capital goods to firms and
+invest in R&D to increase the productivity of supplied capital. The model is financially stock-flow consistent, i.e. financial flows
+between agents are mutually settled. Private banks manage households’ and firms’ deposits and give credit to firms if firms’ financial
+means are insufficient to finance current expenditures and investment. Agents’ routines are executed stepwise. One iteration cor-
+responds to one working day. Some routines are executed on a regular frequency, e.g. daily or monthly, others are event-based. For
+example, firms only demand credit if their financial means are insufficient.
+The modelisempiricallyvalidated,i.e.itisabletoreproducea numberofmicro- andmacroeconomicempirical stylizedfacts.
+3In
+previous studies, the baseline model had been used to study economic policies (e.g. Dawid and Gemkow, 2013; van der Hoog and
+Dawid, 2017; Dawid et al., 2018, 2019a,b; Harting, 2019). The model extension was used to study technology diffusion barriers andlearning spillovers (Hötte 2020; Hötte 2019d).
+Fig. 1.Macroeconomic structure of  Blocks represent a group of agents and their role in the economy. Circles in the middle
+between show the markets as places where agents interact. Gray (magenta) arrays indicate monetary or physical (immaterial) flows. The block on
+the right-hand side shows the main macroeconomic indicators that have been studied. This flowchart is taken from Hötte (2019c) and based on
+Dawid et al. (2011).
+3The model reproduces auto- and cross-correlation patterns of e.g. price-sets, mark-ups, unemployment, output, Phillips and Beveridge curves,
+aggregate growth rates and business cycle volatility patterns.K. Hötte Environmental Innovation and Societal Transitions 36 (2020) 94-113
+
+In this study, the most relevant agents arefirms, capital producers and households.Firms produce final goods using capital
+K and
+labor
+Lasinputs.Capitalisheterogeneousbytechnologytype
+ andsuppliedbytwocompetingcapitalproducers
+=c g, .Producer
+c
+is incumbent in the market and offers conventional capital goods that require costly natural resource inputs in use. The other
+producer
+g is a green entrant that offers a resource-saving alternative.
+Final goods fulfill a societal function and can be equally well produced by the use of
+c or
+g. The incumbent technology type
+c
+dominatesfirms’productiontechnology.Itrepresentsthetechnologicalregime. Theentranttechnology
+g isanemergentnichethatis
+possibly adopted by firms. In this model, the role of agency is reduced to the role of firms that can (gradually) switch between the
+regime and niche technology through capital investments.
+Firms behavior follows aneconomic rationale. Itis goal-oriented, but constrained by imperfect foresight and limited information-
+processingcapacity.Routinessimplifyfirms’decision-makingincomplex,uncertainanddynamicallychangingenvironments(Simon,
+1957; Nelson and Winter, 1982). Firms are active on a competitive market that can be affected by landscape shocks. For example,
+resource scarcity or stringent policy might affect the price of the resource input required to operate the regime technology (
+Firms, indexed by
+i , invest in capital that is accumulated as stock. Firms’ capital stock is composed of a range of (possibly)
+different capital goods. It depreciates over time and is maintained or expanded through investment. Single capital goods (“vintages”
+v
+) differ by technology type
+ and productivity level
+Av . Each capital producer offers a range of vintages differing by
+Av . If the
+producer in sector
+ successfully innovates in time
+t , it brings a new and more productive vintage to the market. The sectoral
+productivity frontier
+AtV
+, is shifted upwards. The probability of innovation success depends on R&D expenditures. Capital producers
+invest a fraction of profits in R&D. This is a source of increasing returns in sectoral innovation. The capital producer with better
+market performance innovates relatively faster. Capital producers set prices according to an adaptive pricing rule. This reflects the
+market response and scarcity in capital supply. It partly counterbalances increasing returns.
+Labor
+Li t, is required by firm
+i to operate capital. It is hired at the labor market. Heterogeneous employees
+l L i t, are endowed
+withtechnology-specificskills
+bl t, .Theseskillsareneededtoexploittheproductivityofcapital.Employeesneedtoknowhowtowork
+with green or conventional machinery. They learn technology-specific know-how when working with capital type
+ (“learning by
+doing”, LBD). If employees of a given firm work more intensively with green (conventional) capital, they accumulate green (con-
+ventional) skills relatively faster.
+Technology-specific skills
+=B bi tL l L l t ,1
+,i t i t , , aggregated across the whole workforce
+Li t, determine the
+i ’seffectivetechnology-
+specific productivity. Skills are a source of evolving, heterogeneity of firms’ technology-specific adoption benefits. When investing in
+newcapital,firmsestimateandcomparethenetpresentvalue(NPV)ofdifferentoptions.Theydecideaboutthequantity,technology
+type
+and productivity level
+Av . They form expectations about future prices, wages, demand and the evolution of employees’ skills.
+TheprocessofLBDdependsontheinteractivepropertiesofcompetingtechnologies.Thetechnologicaldistance
+[0, 1]dist isanTable 1
+Glossary of parameters and variables in 
+Capital producers/technology types
+=c g,
+A tV
+,
+Technological frontier productivity in sector
+pt
+Supply price of capital goods in sector
+Firm
+i
+Ki t,
+Capital stock of type
+ in time
+t
+Ai t,
+Average productivity of capital stock items in
+Ki t,
+Li t,
+Stock of employees at firm
+i in
+t
+Bi t,
+Firm-level aggregate technology-specific knowledge of type
+i t,
+Share of conventional capital in
+i 's capital stock
+pi t,
+Supply price of final goods produced by
+i
+Households/employees
+l
+bl ttau
+,
+Household
+l 's skill level for technology
+Macroeconomic landscape/policy
+pteco
+Price for the environmental resource
+Tax on the environmental resource
+inv
+Investment subsidy
+cons
+Consumption subsidy
+Technology characteristics
+dist
+Technological distance (inverse measure of spillover intensity)
+int
+Technological difficulty (measure of returns to specialization)
+A
+Initial productivity gap of green capital
+b
+Initial skill gap for green technology use
+Aggregate indicators
+t
+Aggregate diffusion curve/ share of capital goods of type
+ used in
+t
+=tAg tV
+Ac tV,
+,
+Relative productivity of supplied green capital
+=tBtg
+Btc
+Relative endowment with green skillsK. Hötte Environmental Innovation and Societal Transitions 36 (2020) 94-113
+
+inverse measure for the cross-technology knowledge transferability. If the distance is small, technologies are similar. Acquired skills
+that are useful to operate conventional technology are also useful for the operation of green capital and vice versa.
+The second interactive property is the technological difficulty
+int . It describes the effectiveness of relative effort
+i t, in LBD.
+=K K/i t i t i t , , ,
+is the share of capital
+Ki t, of type
+ that is used in firm
+i in
+twith
+= +K K Ki t i tc
+i tg
+, , , . It measures the relative time of
+working with
+ .
+intis a measure for the returns to technological specialization. If
+0int , both technologies are very easy to learn,
+i.e.LBDisindependentof
+i t, .Thismayreducethecostsoftransitionbecausetwotechnologytypescanbeusedsimultaneously.If
+int
+is high, the technology is difficult to learn and LBD is inefficient if both technologies are used at the same time. If
+>1int , returns to
+specialization are increasing in
+i t, . More detail is available in A.
+Macroeconomically, the technological evolution is driven by two learning processes. The productivity of supplied capital
+AtV
+, is
+interpreted as codifiedknowledge. Its evolution is driven by a process of intended “learning by (re-)searching” reflected in R&D
+investments. Technology-specific skills of employees
+Bi t, are interpreted as tacitknowledge (cf. Cowan et al., 2000). In contrast to
+codified, tacit knowledge is not explicitly traded on the market and needs to be learned at the firm.4
+Both learning processes are subject to increasing returns dependent on the technological state of the economy. The state at the
+macroeconomic level is evaluated by the share of conventional capital
+tc that is used in current aggregate production. If
+0tc , a
+transition to green technology has occurred.
+4.2. The characteristics of competing technologies in 
+The characteristics of competing technologies are operationalized as follows:
+Stock variables are embodied in the accumulated codified knowledge (productivity)
+AtV
+, of capital producers and tacit
+knowledge
+Bi t, of firms. Both stocks affect the realized performance and have an impact on green technology adoption behavior of
+individual firms (SF1).
+The ratio between the technology-specific stock variables
+=tA
+Ag tV
+c tV,
+, and
+=tB
+Btg
+tc determines the relative maturity of the entrant.
+Increasing divergence in the relative endowment with technology-specific stocks drives the process of convergence to the final
+regime.
+Interactive properties describe interactions in the accumulation of knowledge. This is leads to the divergence of relative stocks.
+Interactive variables are given by the spillover intensity
+dist and returns to specialization
+int in LBD. Both affect the pace of
+specialization reflected in the effective productivity of a technology type (SF2).
+Exogenousproperties are landscape conditions that influence the valuation ofinputs and outputs. These properties are reflected
+in the price for the natural resource input, in relative production costs of capital goods and consumer preferences that determine the
+relative willingness to pay for final goods produced with a specific technology type. These properties determine the relative su-
+periority of the green technology in the landscape.
+In a baseline simulation, landscape pressure on the incumbent comes from the costs of resource inputs. A breakthrough enables
+the production of green capital that allows adopters to save input costs. The price for the resource is sufficiently high that the green
+technology can challenge the incumbent (cf. SF3). In a policy experiment in Section 5.3, I show how market-based policies may
+influence the type and strength of landscape pressure.
+5. Simulations and experiments
+The model is used to simulate a competitive race between two technologies. The simulations are run over a time horizon of
+=T 15, 000
+iterations that correspond to roughly
+60 years.
+5.1. Baseline and calibration
+At the beginning of the simulations, the conventional technology dominates the market and is entrenched in the production
+system. The capital stock of firms consists only of conventional capital. Firms and employees have accumulated the matching skill
+type
+bl tc
+,needed tooperate thesemachines. The conventional capitalproducer invests afraction ofprofits toimprove theproductivity
+of supplied capital incrementally. Learning and innovation dynamics are “aligned”, i.e. both are directed to the improvement of
+conventional capital. This stabilizes the regime. Permanent pressure from the landscape is reflected in the price of the resourcerequired to operate conventional capital. But a sufficiently mature alternative technology to challenge the regime is lacking.
+
+Enabled by a technological breakthrough, the green capital producer enters the market in
+=t600 (after
+2.5 years). The green
+technology is technically superior because it allows firms to get rid of the costly resource inputs.6But it suffers from lower maturity.
+This is operationalized by lower endowments of accumulated knowledge. Employees have not yet worked with green capital and the
+4Tacitknowledgehasasimilareffectassupportiveinfrastructure,routinesandhabits.Itisasupportingfactorthatfacilitateseffective technology
+use.
+5In the simulations, the price for the resource input is set to
+10% of real labor costs. Over time, this cost-share is held constant, i.e. the price
+evolves proportionally to average wages.
+6Alternative interpretations are the costs of environmental regulations or other inputs that are relatively more costly than those required to
+operate the entrant technology.K. Hötte Environmental Innovation and Societal Transitions 36 (2020) 94-113
+
+technicalmaturityofsuppliedcapitalislower.Lowerinitialmaturity,reflectedinemployeesskillsandtheproductivityofcapital,isa
+barrier to diffusion (cf. Arundel and Kemp, 2009; Triguero et al., 2013).
+Diffusion barriers are implemented as a factor
+A (
+b) that scales down the initial productivity (skill level) of the entrant, i.e.
+= A A (1 )g tV Ac tV
+, , 0 0
+and
+= b b (1 )h tg bh tc
+, , 0 0 with
+, [0, 1)A b .Thedynamicsofcompetitiondependontheratiobetweentechnical
+superiority (resource cost savings) and the technological disadvantage (lower maturity). The green technology has the chance to
+diffuseifitissufficientlysuperiorgivenitsrelativematurity.Otherwise,theregimecanpreserveitself.Monte-Carlo(MC)simulations
+serve as benchmark for a policy experiment, i.e. diffusion barriers (
+A ,
+b) and learning parameters (
+dist ,
+int) are drawn in-
+dependently at random from predetermined intervals summarized in Table 2. The intervals had been identified in an iterative
+procedure. They are determined such that trivial patterns of monotone diffusion or lock-in are avoided and a well-mixed sample of
+transitionand lock-in regimes is obtained. This offers a large variety of transition pathways that are statistically analyzed. The model
+complexity and non-linearities prevent the analytical derivation of parameters.7In the benchmark simulations, the green technology
+“wins” in about 30% of runs.
+The outcome of the technology race depends on competitive dynamics and stochastic elements in microlevel functions. For
+example, innovative success is probabilistic and may shift the relative productivity critically in favor of one technology. Alsohouseholds’ purchasing behavior and matching processes on the labor market have stochastic elements. This may critically affect the
+performance and investment behavior of firms. These small events may tip the technological evolution into one direction that is
+stabilized by increasing returns.
+The technological dimension ofthemodel is designed alonga seriesofstylized facts documentedin theinnovation literature. The
+simulations are not aimed at reproducing technological trajectories of any specific example of green or brown technology. Instead, it
+is a theoretical model aimed at identifying sources of heterogeneity in transition pathways and the qualitative link between tran-
+sitions and potential macroeconomic consequences. The design and validation criteria of the model are summarized in Table 3.
+The model is used to generate a sample of simulated transition curves as illustrated in Fig. 2a where each line represents a single
+run. The transition process is measured by evolution of share of conventional capital
+=K K/tc
+tc
+t
+. Single curves exhibit very diverse
+patterns.Insomecases,theeconomyislockedinandthegreentechnologydoesnotdiffuseatall,i.e.
+1Tc .Inothercases,thegreen
+technology is quickly taken up and the green regime stabilizes at
+0Tc . The process can be very unstable. This occurs if the green
+technology is taken up initially, but path dependence in the accumulation process of knowledge is high. Initial diffusion is reversed.Sometimes, a change in the direction of the process occurs multiple times and the economy switches between lock-in and green
+transition.
+The standard deviation
+t
+of
+tcis a measure to operationalize the stability of the transition. It is illustrated in Fig. 2b. The
+switching behavior is costly because learning and R&D resources are wasted for a technology type that is obsolete in the long run.8
+5.2. Market-based diffusion policies
+Political instruments can be used to accelerate a transition. In an experiment, I evaluate three policies that alter the market
+conditions. These instruments are (1) a resource tax that penalizes the use of conventional capital, (2) an investment subsidy thatmakes investments in green capital cheaper and (3) a price support for green products that stimulates the creation of green product
+markets.
+The policies are operationalized as follows:Table 2
+Initialization (baseline).
+eco conv
+Mean (Std) Mean (Std) Mean (Std)
+p -value
+A
+.0495 (.0306) .0358 (.0266) .0564 (.0301) 6.4e-6
+b
+.0482 (.0283) .0323 (.0231) .0561 (.0274) 8.9e-9
+int
+.9942 (.5563) 1.044 (.5635) .9694 (.5531) .3715
+dist
+.4878 (.2916) .4075 (.2866) .5279 (.2868) .0041
+The column at the left hand side shows the mean (standard deviation) of initial conditions across all runs. The other two columns show the initialconditions computed as averages within the subset of green and conventional regimes. The
+p
+-value indicates whether the technological regimes
+significantly differ by initial conditions.
+7More information is available in B and a comprehensive working paper (Hötte, 2019c). Code and data are available to ensure transparency and
+reproducibility (Hötte, 2019a).
+8The coefficient of correlation between annual output growth and
+t is
+4.466% . An OLS regression with two-way clustered standard errors
+confirms the significance, i.e.
+= + %growth 1. 89 *** .0085· *** .t t tK. Hötte Environmental Innovation and Societal Transitions 36 (2020) 94-113
+
+1. The tax
+ is imposed on the resource input price
+pteco , i.e.
+= + p p (1 )·t teco eco .
+1 The investment subsidy
+inv reduces the price of green capital goods
+ptg , i.e.
+=p p (1 )·tg
+tg inv .
+2.
+consis a price support that reduces consumer prices
+pi t, for products produced with green capital. The level of support is pro-
+portional tothe share of green capital
+i tg
+, at firm
+i, i.e.
+=p p ·(1 ( · ))i t i t i tg
+, , ,cons . Firms with a higher
+i tg
+, receive a relatively higher
+subsidy on sales.
+The budget of the government is balanced in the long run. Net expenditures of policies are settled by adaptive income and corporate
+taxes. Taxes are increased (decreased) if smoothed net financial inflows of the government are negative (positive).
+Moregenerally,theseinstrumentsreflect landscapeconditions whenignoringthebudgetaryimplications. Thetax isanalogtothe
+price for the natural resource. The investment subsidy reflects the availability of resources required for the production and in-
+stallation of green capital goods. The consumption subsidy is analog to a shift in consumer attitudes reflected in a higher willingness
+to pay for green products.Table 3
+Stylized facts as design and validation criteria.
+Macroeconomicstylizedfacts:
+Growth rates: Quantitative matching of aggregate output growth rate.
+Business cycle volatility: Evaluated by the variance of cyclical component of bandpass filtered time series data of aggregate output.
+Persistence of fluctuations: Autocorrelation of output fluctuations.
+Cross-correlation of economic key indicators with output fluctuations: Pro-cyclical consumption, investment, employment and vacancies. Anti-cyclical wages, mark-
+ups and unemployment.
+Relative magnitude of fluctuations: Investment is more volatile than output, output is more volatile than consumption. Vacancies are more volatile than
+unemployment, unemployment is more volatile than output.
+Phillips curve: Negative relationship between unemployment and inflation.
+Beveridge curve: Negative relationship between unemployment and vacancies.
+Stylizedfactsofinnovation:
+Uncertainty: Probabilistic technological progress and uncertain market success (cf. Nelson and Winter, 1977; Dosi, 1988; Windrum, 1999).
+Incremental nature of innovation: Incremental upwards shift in the technological frontier within a technological trajectory (cf. Dosi, 1988).
+Embodied technology: Technology is intangible, but embodied in physical capital goods and skill sets of labor (cf. Romer, 1990; Windrum, 1999).
+Tacit knowledge: Technology has a tacit dimension that is not tradable and determines the absorptive capacity of firms (cf. Dosi, 1991; Windrum, 1999; Dawid,
+2006; Di Stefano et al., 2012).
+Heterogeneousbenefitsofadoption: Firms areheterogeneous in their capabilitytomake productive use of newtechnology (cf. Nelson andWinter,1977; Allanet al.,
+2014).
+Knowledge spillovers: Learning spillovers from accumulated knowledge (“standing on the shoulders of giants”) and spillovers across technology types in learning
+(transferable skills) (cf. Gillingham et al., 2008; Pizer and Popp, 2008; Allan et al., 2014).
+Creativedestructionandobsolescence: Technology-specific knowledge of the long-term inferior technology is obsolete and worthless (cf. Köhler et al., 2006; Klimek
+et al., 2012).
+Vintagestructureasadoptionbarrier: Pre-existingcapitalinhibitstheadoptionofradicalinnovation(cf. Metcalfe,1988;KempandVolpi,2008;Ambecetal.,2013).
+This table is taken from Hötte (2020). The macroeconomic validation scenario are a selection of criteria used and described in more detail in Dawid
+et al. (2018). In the more comprehensive model documentation in Hötte (2019b), it is shown how the model matches these stylized facts.
+Fig. 2.Simulated pathways of transition. These figures show the characteristics of simulated transition pathways. Each line represents a single
+simulation run
+r out of a set of
+210 runs. Green (red) lines indicate that the transition was (not) successful. The standard deviation
+t is computed
+over a moving time window of 2.5 years.K. Hötte Environmental Innovation and Societal Transitions 36 (2020) 94-113
+
+In the following, I describe first the impact of different policies on the technological evolution and discuss interactions between
+the instruments and the characteristics of technologies. Thereafter, I illustrate the policy effects on macroeconomic indicators within
+ economy.
+5.3. Technological learning and the effectiveness of diffusion policy
+To analyze the effectiveness of policies, another Monte-Carlo experiment with 210 simulations à 15,000 iterations is run. The
+levels of diffusion barriers, learning parameters and policy rates are drawn independently at random from uniform distributions of
+predetermined intervals (see discussion above). All three instruments are used simultaneously. The impact of single instruments and
+its dependence on initial conditions can be statistically isolated. The initialization is summarized in Table 6in B.
+Theoutcomeofthepolicyexperimentiscompareddescriptivelytothebenchmarkwiththesameaveragelevelsofinitialmaturity
+and learning parameters.
+5.3.1. The impact on the technological evolution
+A descriptive comparison suggests that policies stimulate a transition. In the benchmark scenario, the economy converges to a
+green technological regime in 30% of all runs. This is much lower compared to the policy experiment with a transition frequency of
+70%. This is reflected in Fig. 3a showing
+tc as aggregate across runs.9The black (gray) line indicates the experiment (benchmark).
+Fig. 3b shows the diffusion curve disaggregated by regime (green transition or lock-in). In the lock-in regimes, green technology
+take-up is higher until the reversal to conventional technology occurs. This suggests that the policies accelerate diffusion in-dependently of the emerging regime. The higher uptake of green technology is reflected in a higher volatility
+t
+in the beginning. It
+jumps up early after the market entry and approaches zero when the economy converges to one of the two technological regimes (cf.Fig. 3c).
+The impact of the policies on the transition probability can be presented as a shift in the transition boundary. The probability is
+dependent on the initial maturity of the entrant. The transition boundary is a dividing line in the two-dimensional space of initial
+relativeknowledgestocks
+t0
+and
+t0.Higherlevelsof
+t0 and
+t0indicatelessfavorablestartingconditionsfortheentrant,i.e.alower
+relative maturity in
+t0 .Fig. 4a (4 b) shows the transition boundary in the benchmark (policy) scenario. An upward shift of the
+transition boundary is observed. Hence, policies may effectively compensate for initial technological disadvantages.
+Regression analyses reveal structural relationships between different policies, the characteristics of technologies and their impact
+onthetransitionprobabilityandpathway.Thetransitionprobabilityisapproximatedbythediffusionmeasure
+i Tc
+, atthefirmlevelin
+T
+= 15,000. Until
+T ,
+i tc
+,has converged to one (zero) if the economy is locked in (a transitionoccurred).10The shape of the transition
+pathwayisdescribed byaset ofdifferentindicators. The timeuntil stabilization
+t*i measures theperiod whenthelast switchbetween
+differenttechnologytypeswasobserved.After
+t*i ,theadoptionbehaviorbecomesmonotoneandfirm
+i investsinonlyonetechnology
+type.
+Long-lasting switching behavior between technologies is associated with higher diffusion volatility. The volatility is measured by
+the variance
+( )i2 of
+i tc
+,computed across the whole simulation horizon.11The degree of technological divergence is described by
+Fig. 3.Transition patterns in policy experiment. These figures show time series patterns of the diffusion curve and its volatility over time. Gray
+curves represent the experiment without policy. In Fig. 3b, the red (green) curve shows the aggregate diffusion curve within the subset of runs that
+converge to the conventional (green) regime. In Fig. 3c,
+t is the standard deviation of
+tc computed over 2.5 years.
+9An aggregate value of 0.30 means that, on average, 30% of capital goods that are used for production at time
+t are conventional and the
+remaining 70% are green. Due to the convergence to a value of
+0 or
+1,
+=1Tg
+Tc measured at the end of simulations
+T and aggregated across runs
+approximates the transition probability.
+10The variation of
+i Tc
+, across firms in
+T is negligibly small. Its average (across runs) standard deviation accounts for.0064.
+11The variance is computed firm-wise across the full time horizon, i.e.
+==( ) ( ¯ )iT tT
+i tc
+ic 2 1
+0 ,2 with
+==¯ic
+T tT
+i tc 1
+0 , .K. Hötte Environmental Innovation and Societal Transitions 36 (2020) 94-113
+
+relative knowledge stocks
+=+( )**
+iA
+Ai
+i ,
+=+( )**
+iB
+Bi
+i in
+t*i. The superscript
++ (
+) indicates the technology type that wins (loses) the
+technology race. A high
+*i and
+*iindicate a high degree of divergence in
+t*i .
+These indicators are used as dependent variables and regressed on policies (
+ ,
+inv,
+cons), initial barriers (
+A ,
+b), learning con-
+ditions (
+int ,
+dist), interaction terms of these parameters and a set of micro- and macroeconomic controls. A binary Probit regression
+is used to explain the transition probability. The other regressions are OLS.
+The shape of the pathway and its interaction with explanatory variables may exhibit systematic differences across regimes. These
+differences are captured by the inclusion of interaction terms with a regime-dummy
+(eco) that equals one if the emerging regime is
+green. An extract of the regression results is shown in Table 4.12Explanatory variables are scaled by their standard deviation and
+demeaned to make the coefficients comparable.
+Column (1) and (2) represent the results of the transition probability. Column (3) illustrates the effect on the duration until
+stabilization. Column (4) and (5) describe the technological divergence. The last column (6) shows the relation of policies with the
+diffusion volatility.
+The core qualitative observations are the following:
+Allpolicyinstrumentsareeffective andareassociatedwithahighertransitionprobability.Theeffect onthediffusionvolatility
+and on the time until stabilization
+t* differs across instruments.
+Theeffectiveness of the consumption subsidy
+cons as transitionstimulus is undermined by the distanceand increasing returnsto
+specialization(row(11)-(12)).Its effectcan beeven reversedif
+dist and/or
+int arelarge. Incontrast, theeffectiveness ofthetax
+ is
+reinforced by
+dist and weakened by
+int . The investment subsidy
+inv is least sensitive to cross-technology interactions in LBD.
+The distance
+dist increases the diffusion volatility
+( )i2 and the duration until stabilization
+t*i if a transition occurs, i.e. if
+= (eco) 1
+. If the economy is locked in, it has the opposite effect and stabilizes the technological evolution because it reinforces the
+specialization in conventional technology (cf. rows (2) and (17)).
+The duration until stabilization
+t*i is differently affected by different policies and the effect differs across regimes. If the
+economy is locked in,
+t*i is increasing in
+ but decreasing in the level of subsidies (rows (4)-(6)). The opposite is true if a transition is
+successful. Taxes accelerate (subsidies postpone)
+t*i (rows (18)-(20)).
+The diffusion volatility
+( )i T,2 is negatively associated with
+ and
+inv if a transition occurs, i.e.
+= (eco) 1 . Both instruments
+stabilize a successful diffusion process but increase uncertainty if the economy is locked in.
+cons has no significant effect in the
+transition regime and a negative one in the lock-in case.
+cons is paid proportionally to the share of green capital use. Hence, the
+strength of support is dependent on
+i tg
+, . The support stabilizes an ongoing diffusion process but diminishes if green technology is not
+used.In contrast, thestrength ofsupport of
+inv is independent of the technological state.The strength ofthe relationship between the
+volatility and policies is conditional on the technological distance. The interaction of
+dist with all policy instruments increases the
+volatility. The policies and
+dist operate in opposite directions. Policies favor green technology uptake. Lacking learning spillovers
+reinforce path dependence. This operates in favor of the incumbent.
+Fig. 4.Policy-induced shift in transition boundaries. These figures illustrate the shift in the transition boundary. The vertical (horizontal) axis
+represent the relative technological frontier
+= =tAtc
+Atg A 00
+
+1 (relative skill level
+= =tbtc
+btg b 00
+
+1 ) at the day of market entry
+t0 . Each dot represents
+asimulationrun,itscolorindicatestheresultingregimeandthepositionthebarriercombinationatthedayofmarketentry.Theboundaryseparates
+green from conventional regimes. The transition boundary is derived with a k-nearest neighbors clustering algorithm that is trained to predict the
+regime using
+t0 and
+t0as input. Technical detail on the algorithm is available in Appendix II.
+12To take account of possible endogeneity, the dummies are included through an instrumental variable regression. Technical details about the
+dataprocessing,modelselection,robustnesschecksandalternativespecificationsareprovidedinII.Here,Idiscussonlyeffectsthataresignificantat
+a
+<. 1%level if not explicitly mentioned differently.K. Hötte Environmental Innovation and Societal Transitions 36 (2020) 94-113
+
+The technologicaldivergenceandthevolatility tend to be negatively correlated. Explanatory variables that lead to a stronger
+divergence,i.e.higher
++A A( / )*i i and
++B B( / )*i i ,tendtobe associatedwithlowervolatility.Thisqualifiesrelativeknowledge asdriver
+of stabilization.
+Diffusion barriers may inhibit diffusion, but their effect is dependent on learning spillovers. The negative effect of the technical
+barrier
+A isdecreasingin
+dist .Ifthecompetingtechnologiesaresufficientlydissimilar,productivityperformancebecomesrelatively
+less important for diffusion compared to other factors.In contrast, the inhibiting effect of
+b is stronger if
+dist is large. Lacking
+spillovers in LBD make it more challenging to reduce the skill gap. If
+dist is high, firms are challenged by the incompatibility of pre-
+existing know-how when adopting green technology. External factors that are not related to productivity, e.g. variable input costs,Table 4
+Regression of transition pathways on technology characteristics.
+Dependent variable
+ic
+ic
+t*i
++* Ai
+Ai
++* Bi
+Bi
+( )i2
+OLS Probit IV IV IV IV
+(1) (Intercept) .3381*** -.4684*** 3794*** 1.099*** 1.097*** 6.548***
+(.0043) (.0144) (70.63) (.0031) (.0029) (.1399)
+(2)
+dist -.0130** -.0898*** −471.0*** .0141*** .0213*** -.9603***
+(.0044) (.0151) (65.99) (.0041) (.0031) (.1172)
+(3)
+int .0081. -.0161 −117.2*** .0085*** .0078*** -.0240
+(.0043) (.0145) (31.42) (.0017) (.0012) (.0535)
+(4)
+ -.0300*** -.1119*** 788.9*** -.0297*** -.0296*** 2.267***
+(.0043) (.0145) (70.37) (.0037) (.0029) (.1218)
+(5)
+cons -.0401*** -.1730*** −318.1*** .0085*** -.0065* -.1806***
+(.0044) (.0151) (77.99) (.0018) (.0032) (.0536)
+(6)
+inv -.0205*** -.0763*** −310.8*** -.0369*** -.0286*** 1.506***
+(.0045) (.0149) (58.73) (.0037) (.0030) (.1090)
+(7)
+A .1139*** .4650*** 8.747 .0395*** .0069*** -.3212***
+(.0046) (.0196) (27.75) (.0049) (.0016) (.0482)
+(8)
+b .0946*** .2974*** −501.0*** .0478*** .0519*** −2.894***
+(.0044) (.0149) (65.63) (.0040) (.0035) (.1436)
+(9)
+·dist -.0504*** -.1177*** −119.3*** -.0110*** -.0063*** .4541***
+(.0044) (.0149) (28.46) (.0019) (.0014) (.0609)
+(10)
+·int .0460*** .1706*** −143.2***
+(.0040) (.0137) (28.06)
+(11)
+·dist cons .0289*** .0972*** -.0070*** .4550***
+(.0044) (.0156) (.0016) (.0601)
+(12)
+·int cons .0163*** .0466***
+(.0042) (.0139)
+(13)
+·dist inv .0522** 140.0*** -.0099*** -.0073*** .4853***
+(.0160) (25.38) (.0018) (.0013) (.0561)
+(14)
+·int inv .0049*** -.7356***
+(.0015) (.0552)
+(15)
+·dist A -.0378*** -.1738*** 195.1*** .5285***
+(.0044) (.0199) (23.1) (.0442)
+(16)
+·dist b .0447*** .1624*** 301.8*** .0092*** .2984***
+(.0046) (.0163) (37.7) (.0015) (.0711)
+(17)
+eco( )·dist 1144*** -.0222* -.0213*** 2.658***
+(146.8) (.0089) (.0064) (.2647)
+(18)
+eco( )· −1070*** .0540*** .0532*** −3.919***
+(135.8) (.0076) (.0059) (.2298)
+(19)
+eco( )·cons 671.4*** .0239***
+(149.1) (.0066)
+(20)
+eco( )·inv 843.7*** .0952*** .0772*** −2.392***
+(140.9) (.0090) (.0075) (.2719)
+(21)
+eco( )·A -.0413***
+(.0060)
+(22)
+eco( )·b 786.3*** -.0908*** -.1064*** 4.706***
+(137.2) (.0084) (.0074) (.31)
+Adj.
+R2 .1868 .266
+ .2071 .2483 .2699 .315
+Significance codes: 0 ***.001 **.01 *.05..1 1.
+Pseudo
+R2 .
+This table shows an excerpt of the results of a regression analysis of different technological indicators on a initial conditions and control variables.For the sake of readability, only those coefficients are shown that are discussed in the text. The full model is shown in SM (Table I.2).K. Hötte Environmental Innovation and Societal Transitions 36 (2020) 94-113
+
+become more important. This is also visible in the increasing effectiveness of the tax reflected in the negative coefficient of
+·dist in
+the regression of
+i Tc
+, .13The different policies operate through different channels. The tax and the investment subsidy have an
+instantaneous effect on the relative cost-effectiveness of a technology. The tax compensates permanently for the technical dis-
+advantage if adopting less productive technology. It operates through the channel of relative utilization costs. A less productive
+capital good that is bought remains in the capital stock until it is depreciated or taken out of use. The tax compensates for this
+disadvantage over the full life time of a green capital good. The permanent compensation may explain why the tax is associated with
+a lower time until stabilization if
+= (eco) 1 .
+The investment subsidy
+inv is neutral with regard to the relative technological performance over time and does not alter the
+conditionsofmarketcompetitionamongfirmsusinggreenorbrowntechnology.Ithasaninstantaneouseffectonrelativeinvestment
+costs.Relativeinvestmentcostsperproductivityunitaresensitivetothedynamicsofinnovationsuccessandpricecompetitiononthe
+capital market (cf. A). This may explain why
+inv is associated with lower diffusion stability.
+Differently than other instruments, the effectiveness of
+cons is sensitive to the technological state. The strength of support is
+proportional to
+i tc
+,. In the beginning, when firms adopt green capital but have a high share of pre-existing conventional capital, the
+level of subsidy support is relatively weak. The adoption decision is mainly influenced by the relative endowment with technological
+know-howandtherelativeperformanceofthetechnologies.
+cons reinforcesongoingtransitionbutdiminishesifthegreentechnology
+is not used. It is asymmetric across firms depending on the type of technology that is used by firms.
+5.3.2. Macroeconomic side-effects
+Macroeconomic side effects of policies differ across instruments. The policies reinforce initial green technology uptake in-
+dependently of the emerging regime. This is associated with macroeconomic side effects in both regimes. To reduce the scope of
+analysis,Iconsideronlysuccessfultransitions.Ifocusontheeffectsonaggregateoutput,marketconcentrationandunemployment.14
+A regression is run using macroeconomic data of the first
+30 years after market entry in the subset of green regimes.
+The first column in Table 5shows the relation of policies, technological characteristics and the diffusionvolatility
+t to aggregate
+output. The analysis indicates a negative relationship between aggregate output and
+t . Also the investment subsidy
+inv and a lower
+entrantproductivity
+A exhibit a negative effect.
+inv distorts instantaneous investment decisions through the capital price channel. It
+reduces total investment costs while the other two instruments influence the relative cash-flow of using green capital. This might
+distort firms’ choice about the investment quantity (cf. Hötte, 2020) and can be a source of inefficiency. The negative effect of
+A on
+aggregate output is expectable. A higher
+A indicates lower initial productivity of green capital. The marginal effect on aggregate
+output persists over time.
+b is not significant. Lacking green skills have an impact on the transition probability, technological
+uncertainty and the macroeconomic performance in the short run, but this is overcome when the economy converges.
+inv
+is asssociated with higher unemployment while technological uncertainty
+t tends to have a job-preserving effect. Stable
+technological pathways are associated with higher labor-saving productivity growth. This coincides with an increase in aggregate
+output and consumption but also with a moderate increase in unemployment.15Technological uncertainty, reflected in
+t , under-
+mines the pace of productivity growth. This may preserve jobs in a closed economy.
+inv
+is associated with higher unemployment which indicates a qualitative difference to the uncertainty-employment trade-off.
+Technological uncertainty is a coordination failure. It undermines aggregate productivity growth while individual investment de-
+cisions of firms are efficient given that the emerging regime is uncertain. In contrast,
+inv distorts investment decisions at the micro-
+level.
+Technological uncertainty and less productivegreen capital(given that a transitionoccurs)allow less efficient firms tosurvive on
+the market. A high
+A forces most productive firms to operate at a lower frontier if they adopt green technology. This reduces the
+productivity differences across firms and weakens competitive pressure. These effects are reflected in a lower market concentration
+measured by the Herfindahl-index and a higher number of active firms.
+Theconsumptionsubsidy
+cons canbeadriverofmarketconcentration.Itrewardsfirmsmostthatadoptedgreentechnologyearly.
+If the transition is successful, these firms benefit twice. They have early specialized on the “right” technology type. This is associated
+with a competitive advantage if late adopters have to catch up. Further, they benefit from higher subsidy support which is pro-
+portionalto
+i tg
+, .Thismakesitpossibletoachievehighermark-upsortoreduceprices.Thisdoubleadvantagemakesitdifficultforlate
+adopters to sustain on the market.
+Interactiveproperties
+dist and
+intarenotsignificant.Theyoperatethroughthechannelofuncertainty.Theireffectisambiguous
+and dependent on the phase of the transition process. A higher
+dist strengthens path dependence. Path dependence may operate in
+twodirections.In theinitialphase ofgreentechnology uptake,itoperates infavoroftheincumbent.This effectisreversedassoonas
+the green technology sufficiently diffused.
+This analysis illustrates a trade-off between technological specialization and economic variety. Uncertainty undermines tech-
+nological specialization which is a driver of productivity and output growth. At the same time, specialization makes it is difficult for
+13Keepinmindthatthisfindingmightbespecifictotheassumptionsinthemodel.
+dist isrelatedtolearningspilloversonthetechnologydemand
+side. Spillovers in the innovation process might have an analogous effect.
+14Note that this is not a welfare analysis. This study does not account for the environmental effects. I refrain from analyzing the environmental
+effects because the highly stylized representation of technology in this model renders any trade-off between environmental and economic im-
+plications unreliable.
+15Recall the time horizon of several decades that is considered in the simulations. The unemployment rate is an insufficient indicator to evaluate
+labor market effects over long time horizons (cf. Messenger et al., 2007; Bick et al., 2018).K. Hötte Environmental Innovation and Societal Transitions 36 (2020) 94-113
+
+weaker firms to survive.
+5.4. An economic interpretation of Geels and Schot's typology
+Different market-based policies exert different types of landscape pressure. The analysis shows that each type of pressure has its
+own idiosyncratic effect on the technological and economic evolution. It was shown that the effects of different pressure types are
+conditional on the characteristics of competing technology, namely the initial maturity of the emergent niche and cross-technology
+interactionsinthelearningprocess.Thismayexplaintheheterogeneityofobservedtransitioncurvesanddifferencesintheeconomic
+evolution.
+Geels and Schot (2007) introduced a typology to classify four distinct transition pathways, i.e. (1) a transformation where the
+regime actors respond to pressure by gradually redirecting their technological pathway, (2) de- and re-alignment pathways where
+avalanche-like landscape pressure causes the de-alignment of regime actors’ activities and multiple, emergent niches incrementallyalign their activities to form a new regime, (3) technological substitution in which a sudden landscape shock allows a sufficiently
+matureniche togain momentum andreplacethe regime and(4) a reconfiguration pathway where symbiotic innovations developedin
+market niches gradually, but profoundly transform the incumbent regime. The authors explain the heterogeneity of pathways by the
+timing and nature of multi-level interactions.
+In this paper, concepts of MLP are captured by economic variables. Geels and Schot's timing of interaction is operationalized as
+relative maturity of the entrant technology (SF1) and its timely coincidence with pressure from the landscape (SF3). The analysis of
+the landscape-regime interaction is limited to the policy experiment, but the modeling framework can be straightforwardly gen-
+eralized. The timing of landscape-regime interaction was not studied here.
+The nature of interaction refers to dominant agents’ capacity to cope with technological novelty and landscape pressure. In the
+model, the agents are technology adopting firms whose dominance in the market (proxied e.g. by firm size and market shares)
+dependsontheir(technology-specific)productivity.Thetechnologicaldistanceanddifficultydescribehoweasilytheemergentgreen
+technology can be integrated in pre-existing production routines and determine the strength of path dependence (cf. SF2).
+The nature of landscape-regime interactions is given by regime agents’ capacity to cope with external pressure. In the model,
+landscapepressurecomesfromthecostofnaturalresourceinputs.Incrementalinnovationintheincumbenttechnologymayalleviate
+the pressure (e.g. when the incumbent technology becomes more efficient), but this was not explicitly studied in this paper.
+Thetypeofemergingpathwayisreflectedinthecompositeofdifferenteconomicandtechnologicalvariables,mainlyintheshape
+of the diffusion curve, transition costs and changes in the market structure. Other variables can be added. The simulations show that
+the stability of the transition process is decisive for the degree of disruption. It depends agents’ ability to cope with new technology
+(SF4).
+Following Geels and Schot's typology, a smooth diffusion curve accompanied by minor disruptions in the market structure and
+lowtransitioncostscanbeinterpretedas transformation pathway.Agentsgraduallyreplaceconventionalbygreentechnologywithout
+struggling with the incompatibility of pre-existing know-how. A similar diffusion curve may be observed when the transition followsTable 5
+Regression of macroeconomic side effects.
+Dependent variable
+Outputt
+firms#t
+Herfindahlt
+Unemplt
+Intercept 8.333*** 64.49*** 176.1*** 7.707***
+(.0097) (.2360) (.5364) (.0926)
+t
+-.0232*** .5106*** −1.192*** -.1335***
+(.0013) (.0255) (.0571) (.0117)
+.0067 -.0380 .0200 .1623*
+(.0046) (.1628) (.3525) (.0661)
+cons
+-.0045 -.5934*** 1.288** .0966
+(.0053) (.1801) (.4063) (.0811)
+inv
+-.0170** −0.0777 -.0995 .7740***
+(.0060) (.1985) (.4506) (.0974)
+b
+-.0032 -.1399 .4983 -.0670
+(.0050) (.1624) (.3686) (.0736)
+A
+-.0193*** .1828* -.4089* -.0822*
+(.0035) (.0858) (.2052) (.0396)
+int
+.0026 −0.1588 .2881 .1413.
+(.0054) (.1650) (.3549) (.0850)
+dist
+.0013 -.2443 .3788 -.0138
+(.0046) (.1613) (.3501) (.0576)
+R2
+.3640 .2778 .2723 .2341
+Signif. codes: 0 *** 0.001 ** 0.01 * 0.05. 0.1 1
+Two-wayclustered standarderrors areshownin paretheses.The resultsareconsistent acrossalternativepanel modelspecifications (randomeffects,
+between).K. Hötte Environmental Innovation and Societal Transitions 36 (2020) 94-113
+
+areconfiguration pathway but in this case existing know-how renders obsolete and is gradually replaced by a new type, i.e. when
+technological knowledge is very dissimilar, but easy and quick to learn.
+A highly volatile diffusion pattern associated with high transition costs and major disruptions in the market structure can be
+interpreted as de- and re-alignment. The niche is not sufficiently mature to gain momentum, but regime pressure is sufficiently strong
+todisrupt the regime. A prolonged period of technological uncertainty results in which regime and entrant technologies co-exist. The
+case of a rapid and smooth diffusion can be interpreted as substitution pathway. Landscape pressure is sufficiently strong to allow a
+mature niche technology to gain momentum and to replace the regime.
+Thisoperationalizationof GeelsandSchot'stypologyisapurelyeconomicinterpretationandlimitedtotechnology-adoptingfirms
+as level of analysis. The proposed framework simplifies some dimensions of MLP that may follow different dynamics. For example,norms and habits that shape consumer behavior are only partially absorbed by the landscape but have not been elaborated in detail.
+This framework is not aimed at capturing the full complexity of MLP. Rather, it is aimed at narrowing down the complex framework
+tomake ittractableforeconomicanalyses.Thesuitabilityofthissimplification needstobedemonstratedinpracticewhichisbeyond
+the scope of this paper. Extensions and generalizations of the proposed modeling framework to study e.g. other configurations of
+landscape pressure or multiple competing technologies are feasible.
+6. Concluding remarks
+Inthis paper,Iintroduceaconceptualframeworkforthecharacterizationofcompetingtechnologiesthatisbasedonfourstylized
+facts from the literature. This framework builds the basis for the technology-concept in the macroeconomic ABM 
+that is used to study transition pathways. It is an economic approach to the MLP that operationalizes the technological regime as the
+composite of technology and firms that dominate the market under the given technology choice.
+It was seen how the relative endowment of technology-specific knowledge influences individual adoption behavior (SF1).
+Insufficient know-how of adopters and a lower technical maturity of supplied technology can be adoption barriers. Cross-technology
+interactions influence the relative pace at which stocks of technology-specific knowledge are accumulated (SF2). In the model,
+interactions between the niche and regime are operationalized as technological distance and technical difficulty. These properties
+describe the capacity of agents, that are successful under the incumbent technological regime, to cope with new technology.
+The market entry of an emergent niche is facilitated by exogenous landscape conditions (SF3) that are operationalized as price of
+anaturalresourceinputtooperatetheincumbenttechnology.Themarket entrycantriggerthetransitiontothenew technology.The
+simulation results show how the degree of disruption of the transition differs across different pathways and can be measured by the
+stability of the transition curve, learning costs and changes in the market structure. It can be explained by regime actors’ capacity to
+cope with new technology (SF4).
+This paper adds a comprehensive macroeconomic framework to the literature of transition modeling. In contrast to existing
+(economic) models of transitions (cf. Köhler et al., 2018), it enables not only the study of the process of technology replacement, but
+also the evaluation of broader macroeconomic consequences of technology transitions. The agent-based methodology enables the
+simulation of non-linear feedback loops emerging from the interaction of heterogeneous agents consistently. Modeling sustainability
+transitions provides a clearly structured and systematic approach to investigate transition dynamics scientifically. It enables the
+execution of (policy) experiments and to understand complex interdependencies of subsystems. This might be informative to identify
+bottlenecks and levers to change. The proposed framework offers a formalization of transition pathways in economic variables that
+can be systematically linked to empirical quantitative data. This might be a theoretical basis for empirical studies.
+The insights of this study may improve the economic understanding of possible transition pathways, macroeconomic side effects
+and disruptions. This understanding is critical for policy makers and contributes to an informed societal dialogue across and within
+the boundaries of scientific disciplines (cf. Rosenbloom, 2017; Holtz et al., 2015).
+Acknowledgements
+This work uses a modified version of the  model, developed by Herbert Dawid, Simon Gemkow, Philipp Harting,
+Sander van der Hoog and Michael Neugart, as an extension of the research within the EU 6th Framework Project Eurace. Particular
+gratitude is owed to Herbert Dawid, Matthias Endres, Philipp Harting, Antoine Mandel and two anonymous reviewers. The author
+thankfully acknowledges financial support by the German National Academic Foundation, the Deutsch-französische Hochschule and
+the Bielefeld Graduate School of Economics and Management. Thanks to the Center for Research Data Management at Bielefeld
+University. The author gratefully acknowledges the provision of free statistical software maintained by the R programming com-
+munity.
+Appendix A. Formal description of the model
+This description is an extract of the more comprehensive model documentation available in Hötte (2019b). The most relevant
+parts of the model are production and learning processes at the firm-level and competition on the capital goods market.
+A.1 Production of consumption goods
+Heterogeneous firms produce a homogeneous consumption good that is offered at producer-specific prices. Households areK. Hötte Environmental Innovation and Societal Transitions 36 (2020) 94-113
+
+consumers.Theirconsumptiondecisionisbasedonamultinomiallogitfunction.Households’purchasingdecisionisprobabilistic,but
+influencedby theprice.Households aremore likelytobyagood fromaspecific firmiftheprice islower.Firms areheterogeneousby
+demand expectations, production efficiency and capacity. Their individual pricing and production decisions are based on firm's
+estimations about future demand and conditioned on the firm's production capacity and efficiency.
+The production efficiency is determined by the bundle of the productivity of the firm's physical capital stock and technology-
+specific skills of the firm's employees.
+The productivity of physical capital is interpreted as codified knowledge. The capital stock is composed of a range of different
+vintages
+v ofcapitalthatdiffer(possibly)bytechnology-type
+v( ) andproductivitylevel
+Av .Eachvintageofcapitalischaracterizedby
+the bundle of properties
+v A( ( ), )v where
+v( ) is the indicator for the technology type. It takes the value
+1 if the technology-type
+ is
+conventional
+c and zero if it is green
+g .
+Employees work with capital goods in a Leontief fashion. To make effective use of the theoretical productivity
+Av of a specific
+vintage, employees
+l need to know how to operate the machine. This know-how is called technology-specific skills
+bl t, that are
+acquired in a learning process.
+t is the time index. Technology-specific skills averaged at the firm-level
+=B bi tL l L l t ,1
+,i t i t , , is inter-
+pretedasthefirm's stockoftacitknowledge with
+Li t, as numberofemployees offirm
+i .The bundleof
+Bi t, and theoreticalproductivity
+Av
+determine the firm's effective productivity
+= A A B min[ , ]i tv
+i t ,Eff
+,v for a given vintage
+v characterized by
+v A( ( ), )v .
+Firm
+i's production in
+t given by
+=
+= = +Q A K L K ·min , max 0, i t
+vV
+i t i tv
+i t
+k vV
+i tk
+,
+1,Eff
+, ,
+1,v
+(1)
+where
+=KvV
+i tv
+1 , is the firm's orderedcapital stock composed of
+V different capital stock items. The term
+= +L K max[0, ] i t k vV
+i tk
+, 1 ,
+captures the fact that firms can only use as much capital as workers are available in the firm to operate the machines. Orderedcapital
+refers to the running order of capital that is determined by the cost effectiveness of capital goods.
+Firms invest in new capital goods to replace depreciated units or to expand their production capacity. Employees are hired on the
+labor market.
+A.2 Capital goods market
+Capital goods are offered by two competing capital goods producers. Both producers are in price-per-productivity-unit compe-
+tition. Each producer offers a range of different vintages that differ by productivity. Older vintages are less productive than newer
+vintages. Prices of capital goods are set adaptively taking account of the evolution of relative demand and profits. For example, if a
+producerincreasedprices intheprevious periodsandif this wasassociatedwithincreasingprofitsthe producercontinues toincrease
+prices. If profits and market share were decreasing, the producer does the opposite.
+A fraction of profits is re-invested in R&D that contributes positively to the probability of innovative success. Successful in-
+novation shifts the frontier of the producer upward in discrete steps, i.e.
+= ++A A A (1 )·tV
+tV
+, 1 , . It enables the successful producer
+=c g,
+to bring a new and more productive vintage to the market while input requirements per produced vintage are constant. The
+producer can supply more productivity units using the same amount of inputs. Further detail is available in Hötte (2019b).
+A.3 Learning by employees
+Employeeslearnovertimehowtousecapitalgoodsefficiently.Thepaceofrelativelearningdependson
+=+l tK
+K K,l t
+l tc
+l tg,
+, , theshareof
+capitaloftype
+ thatisusedincurrentproduction.
+Kl t, istheamountofcapitalgoodsoftype
+=c g, thatisusedbythefirmwhere
+l is
+working.
+Technology-specific skills
+bl t, are updated in discrete steps. The step size
+=+ +b b bl t l t l t , 1 , 1 , is given by
+=++b ·([( ) ( ) ] 1).l t l l t l t , 1gen
+,(1 )
+,(1 ) 1/2dist dist
+(2)
+The pace of learning is scaled by
+l 's learning ability
+lgen . Technological knowledge may be transferable across technology types and
+contributetothestockofskillsofthealternativetechnologytype
+ with
+ and
+c g , { , } .
+[0, 1]dist isameasureforthe
+technological distance. A smaller distance is associated with a higher degree of cross-technology transferability of skills.
+1l t,
+is the amount of knowledge learned in one period when working with technology type
+ . It is given by
+= + A b 1 ( ) ·max[0, ( )].l t l t l t l t , , , ,int
+(3)
+Itisdependentontheparameter
+int whichisameasureforthetechnologicaldifficultyandreturnstospecialization.
+l t, isaproxyfor
+the amount of effort invested in learning by doing with capital type
+ . It captures the degree of technological specialization of the
+employer. The updating step is also dependent on the technical novelty
+A b max[0, ( )]l t l t , , where
+Al t, is the average productivity of
+capitalgoodsoftype
+ intheemployer'scapitalstock,i.e.
+= A kl tK v K l tv
+,1
+,
+l t l t , , .Thisreflectsthepotentialamountofknowledgethatis
+new to the employee. An employee can only learn if there is something new to learn. The endowment of technology-specific skills ofindividual employees is not observable by the firm. Firms can only estimate the average skill endowment
+Bi t,
+. Firms observe the
+amount of inputs and the amount of output. This enables the estimation of the effective productivity given by
+Ai t,Effv .K. Hötte Environmental Innovation and Societal Transitions 36 (2020) 94-113
+
+Appendix B. Policy experiment
+The entries in Table 6show the mean (standard deviation) of the initial conditions for the full set of simulation runs and the
+subsets of green and conventional regimes. The last column indicates the
+p -value of a two-sided Wilcoxon test. Within the policy
+simulations,onlythedifferenceintheinitial levelofthebarriersexhibitsa significantdifferencewhencomparingthesubsetofgreen
+and conventional regimes. The initial policy parameters are on average slightly higher in the subset of transition regimes, but the
+difference is not significant using the Wilcoxon test as a test criterion.
+The intervals from which the policy parameters are drawn were determined in a series of preceding analyses. Holding the other
+parameters fixed, the mean values of the two subsidies perform similarly well with regard to their diffusion effectiveness. The
+modelingframeworkpreventsananalyticalderivationofvaluesfortheinstrumentswithequalperformance.Additionaldiscussionof
+this issue can be found in Hötte (2019c).
+The intervals from which the diffusion barriers are drawn are determined such that a balanced sample of green and lock-in
+regimes is obtained. The levels are the same as used in the benchmark scenario introduced above I.1 and in a preceding study on the
+role of diffusion barriers (Hötte, 2019c).
+Appendix C. Supplementary Data
+Supplementary data associated with this article can be found, in the online version, at 
+001.
+References
+Acemoglu, D., 2002. Directed technical change. Rev. Econ. Stud. 69, 781-809. 
+Acemoglu, D., Akcigit, U., Kerr, W.R., 2016. Innovation network. Proc. Natl. Acad. Sci. 113, 11483-11488. 
+Adner,R.,Kapoor,R.,2016.Innovationecosystemsandthepaceofsubstitution:Re-examiningtechnologys-curves.StrategicManage.J.37,625-648. 
+10.1002/smj.2363.
+Aghion, P., Dechezleprêtre, A., Hemous, D., Martin, R., Van Reenen, J., 2016. Carbon taxes, path dependency, and directed technical change: Evidence from the auto
+industry. J. Polit. Econ. 124, 1-51. 
+Allan, C., Jaffe, A.B., Sin, I., 2014. Diffusion of green technology: a survey. Motu Working Paper No. 14-04. 
+Altenburg, T., Schamp, E.W., Chaudhary, A., 2015. The emergence of electromobility: Comparing technological pathways in France, Germany, China and India. Sci.
+Public Policy 43, 464-475. 
+Ambec,S.,Cohen,M.A.,Elgie, S.,Lanoie,P.,2013. ThePorterhypothesis at20:canenvironmental regulationenhance innovationandcompetitiveness?Rev.Environ.
+Econ. Policy 7, 2-22. 
+Arthur, W.B., 1989. Competing technologies, increasing returns, and lock-in by historical events. The Economic Journal 99, 116-131. 
+2234208.
+Arundel, A., Kemp, R., 2009. Measuring eco-innovation. UNU-Merit - Working Paper Series 2009-017.
+Autor, D.H., Levy, F., Murnane, R.J., 2003. The skill content of recent technological change: An empirical exploration. Quart. J. Econ. 118, 1279-1333. 
+org/10.1162/003355303322552801.
+Behera, K.K., Alam, A., Vats, S., Sharma, H.P., Sharma, V., 2012. Organic Farming History and Techniques. Springer Netherlands. Dordrecht. 287-328. 
+org/10.1007/978-94-007-1905-7_12.
+Belz, F.M., 2004. A transition towards sustainability in the Swiss agri-food chain (1970-2000): using and improving the multi-level perspective. In:Elzen, B., Geels, F.,
+Green, K. (Eds.), System innovation and the transition to sustainability: Theory, evidence and policy. Edward Elgar, Cheltenham, pp. 97-114.
+Berkeley, N., Bailey, D., Jones, A., Jarvis, D., 2017. Assessing the transition towards battery electric vehicles: A multi-level perspective on drivers of, and barriers to,
+take up. Transport. Res. Part A: Policy Pract. 106, 320-332. 
+Bick, A., Fuchs-Sch&ldquo;undeln, N., Lagakos, D., 2018. How do hours worked vary with income?. cross-country evidence and implications. Am. Econ. Rev. 108,
+170-199. 
+Boehm, J., Dhingra, S., Morrow, J., et al., 2016. Swimming Upstream: Input-output Linkages and the Direction of Product Adoption. CEP Discussion Paper, No. 1407.
+Breschi, S., Malerba, F., Orsenigo, L., 2000. Technological regimes and Schumpeterian patterns of innovation. Econ. J. 110, 388-410. 
+0297.00530.
+Carvalho, V.M., Voigtländer, N., 2014. Input Diffusion and the Evolution of Production Networks. National Bureau of Economic Research 6
+Initialization (policy experiment).
+eco conv
+Mean (Std) Mean (Std) Mean (Std)
+p -value
+.4927 (.2853) .5087 (.2847) .4553 (.2852) .2346
+inv
+.0565 (.0279) .0584 (.0263) .0521 (.0309) .2246
+cons
+.0129 (.0073) .0133 (.0073) .0121 (.0071) .2788
+A
+.0472 (.0287) .0394 (.0279) .0655 (.0212) 6.9e-10
+b
+.0524 (.0280) .0488 (.0276) .0609 (.0272) .0033
+int
+.9923 (.5687) .9934 (.5741) .9899 (.5605) .9624
+dist
+.4868 (.2873) .4903 (.2849) .4784 (.295) .8429
+The columns show mean (standard deviation) of the initial conditions for the aggregate set of simulation runs and the subsets of green and
+conventional regimes. The p-value indicates whether the difference of the means across the regime subsets is significant. The parameters are drawn
+from the intervals:
+[0, 1] ,
+[0, .1]inv ,
+[0, .025]cons ,
+, [0, .1]A b ,
+, [0, .5]int dist .K. Hötte Environmental Innovation and Societal Transitions 36 (2020) 94-113
+
+w20025. Working Paper No. w20025.
+Cohen,W.M.,Levinthal,D.A.,1990.Absorptivecapacity:Anewperspectiveonlearningandinnovation.Adm.Sci.Q.35,128-152. 
+Comin, D., Hobijn, B., Rovito, E., 2006. Five Facts you Need to know about Technology Diffusion. National Bureau of Economic Research
+w11928. Working Paper No. w11928.
+Consoli, D., Marin, G., Marzucchi, A., Vona, F., 2016. Do green jobs differ from non-green jobs in terms of skills and human capital? Res. Policy 45, 1046-1060.
+
+Cowan, R., 1991. Tortoises and hares: choice among technologies of unknown merit. Econ. J. 101, 801-814.
+Cowan, R., David, P.A.,Foray, D., 2000. The explicit economicsof knowledge codificationand tacitness. Ind. Corporate Change 9, 211-253. 
+icc/9.2.211.
+Dawid, H., 2006. Agent-based Models of Innovation and Technological Change. In: Tesfatsion, L., Judd, K. (Eds.), Handbook of Computational Economics, Volume II:
+Agent-Based Computational Economics. Elsevier. chapter 25, pp. 1235-1272. 
+Dawid, H., Gemkow, S., 2013. How do social networks contribute to wage inequality? Insights from an agent-based analysis. Ind. Corporate Change 23, 1171-1200.
+
+Dawid, H., Gemkow, S., Harting, P., van der Hoog, S., Neugart, M., 2011.  Model v1.0 User Manual. Bielefeld University Technical Report.Dawid, H., Harting, P., van der Hoog, S., Neugart, M., 2019a. Macroeconomics with heterogeneous agent models: fostering transparency, reproducibility and re-
+plication. J. Evol. Econ. 29, 467-538. 
+Dawid,H.,Harting,P.,Neugart,M.,2018.Cohesionpolicyandinequalitydynamics:Insightsfromaheterogeneousagentsmacroeconomicmodel.J.Econ.Behav.Org.
+150, 220-255. 
+Dawid, H., Harting, P., Neugart, M., 2019b. The Role of (De-) Centralized Wage Setting for Industry Dynamics and Economic Growth: An Agent-Based Analysis with
+the Eurace@ Unibi Model.  Bielefeld Working Papers in Economics and Management No. 06-2019.
+Dechezleprêtre,A.,Glachant,M.,Haščič, I., Johnstone,N.,Ménière, Y.,2011. Inventionandtransferof climatechange-mitigation technologies: aglobal analysis.Rev.
+Environ. Econ. Policy 5, 109-130. 
+Di Stefano, G., Gambardella, A., Verona, G., 2012. Technology push and demand pull perspectives in innovation studies: Current findings and future research
+directions. Res. Policy 41, 1283-1295. 
+Dosi, G., 1982. Technological paradigms and technological trajectories: a suggested interpretation of the determinants and directions of technical change. Res. Policy
+11, 147-162. 
+Dosi, G., 1988. The nature of the innovative process. Technical Change and Economic Theory. Pinter Publishers.
+Dosi, G., 1991. The research on innovation diffusion: An assessment, in: Diffusion of technologies and social behavior. Springer, pp. 179-208. 
+1007/978-3-662-02700-4_7.
+Ehret, O., Dignum, M., 2012. Introducing hydrogen and fuel cell vehicles in Germany, in: Routledge studies in Sustainability Transitions. In: Geels, F., Kemp, R.,
+Dudley, G., Lyons, G. (Eds.), Automobility in transition? A socio-technical analysis of sustainable transport. Routledge. volume part 2. Automobility in Transition.
+Fu, X., Zhang, J., 2011. Technology transfer, indigenous innovation and leapfrogging in green technology: the solar-pv industry in china and india. J. Chin. Econ. Bus.
+Stud. 9, 329-347. 
+Geels, F.W., 2002. Technological transitions as evolutionary reconfiguration processes: a multi-level perspective and a case-study. Res. Policy 31, 1257-1274. https://
+doi.org/10.1016/S0048-7333(02)00062-8.
+Geels, F.W., 2005. The dynamics of transitions in socio-technical systems: a multi-level analysis of the transition pathway from horse-drawn carriages to automobiles
+(1860-1930). Technol. Anal. Strategic Manage. 17, 445-476. 
+Geels, F.W., Kemp, R., Dudley, G., Lyons, G., 2011. Automobility in Transition?: A Socio-technical Analysis of Sustainable Transport. Routledge Studies in
+Sustainability Transitions, Routledge.
+Geels, F.W., Kern, F., Fuchs, G., Hinderer, N., Kungl, G., Mylan, J., Neukirch, M., Wassermann, S., 2016. The enactment of socio-technical transition pathways: a
+reformulated typology and a comparative multi-level analysis of the German and UK low-carbon electricity transitions (1990-2014). Res. Policy 45, 896-913.
+Geels, F.W., Schot, J., 2007. Typology of sociotechnical transition pathways. Res. Policy 36, 399-417. 
+Gillingham,K., Newell, R.G.,Pizer, W.A., 2008. Modelingendogenoustechnological change for climate policy analysis.Energy Econ. 30, 2734-2753. 
+10.1016/j.eneco.2008.03.001.
+Grübler, A., 1991. Diffusion: long-term patterns and discontinuities. Diffusion of Technologies and Social Behavior. Springer, pp. 451-482. 
+978-3-662-02700-4_18.
+Harting, P., 2019. Macroeconomic stabilization and long-term growth: The role of policy design. Macroeconomic Dynamics 1-46. 
+S1365100519000488.
+Herrmann, J.K., Savin, I., 2017. Optimal policy identification: Insights from the german electricity market. Technol. Forecast. Soc. 122, 71-90.
+Holtz, G., Alkemade, F., De Haan, F., K&rdquo;ohler, J., Trutnevyte, E., Luthe, T., Halbe, J., Papachristos, G., Chappin, E., Kwakkel, J., et al., 2015. Prospects of
+modellingsocietaltransitions:Positionpaperofanemergingcommunity.Environ.InnovationSocietalTransit.17,41-58. 
+006.
+van der Hoog, S., Dawid, H., 2017. Bubbles, crashes, and the financial cycle: the impact of banking regulation on deep recessions. Macroecon. Dyn. 1-42. 
+org/10.1017/S1365100517000219.
+Hötte, K., 2019a. Data publication: Skill transferability and the adoption of new technology: A learning based explanation for patterns of diffusion, Data Publication.
+Bielefeld University
+Hötte, K., 2019b.  A model of technology transitions, v1.1. Model documentation. Bielefeld University
+Bielefeld Working Papers in Economics and Management No. 08-2019.
+Hötte, K., 2019c. How to accelerate green technology diffusion? An agent-based approach to directed technological change with coevolving absorptive capacity.
+Bielefeld University Bielefeld Working Papers in Economics and Management No. 01-2019.
+Hötte,K.,2019d. SkillTransferability andthe Stabilityof TransitionPathways-ALearning-Based Explanationfor PatternsofDiffusion. BielefeldUniversity
+org/10.4119/unibi/2936212. Bielefeld Working Papers in Economics and Management No. 09-2019.
+Hötte, K., 2020. How to accelerate green technology diffusion?. directed technological change in the presence of coevolving absorptive capacity. Energy Econ. 85,
+104565. 
+Høyer, K.G., 2008. The history of alternative fuels in transportation: The case of electric and hybrid cars. Utilities Policy 16, 63-71. 
+2007.11.001.
+Huang, J.J., et al., 2018. Technology Network, Innovation and Growth. Society for Economic Dynamics Meeting Papers No. 178.
+IPCC, 2018. Summary for Policymakers. In: Masson-Delmotte, V., Zhai, P., Pörtner, H., Roberts, D., Skea, J., Shukla, P.R., Pirani, A., Moufouma-Okia, W., Péan, C.,
+Pidcock, R., Connors, S., Matthews, J.B.R., Chen, Y., Zhou, X., Gomis, M.I., Lonnoy, E., Maycock, T., Tignor, M., Waterfield, T. (Eds.), An IPCC Special Report ontheimpactsofglobalwarmingof1.5
+°
+Cabovepre-industriallevelsandrelatedglobalgreenhousegasemissionpathways,inthecontextofstrengtheningtheglobal
+response to the threat of climate change, sustainable development, and efforts to eradicate poverty, Summary for Policymakers. World Meteorological
+Organization, Geneva, Switzerland.
+Jaffe, A.B., De Rassenfosse, G., 2017. Patent citation data in social science research: Overview and best practices. J. Assoc. Inform. Sci. Technol. 68, 1360-1374.
+
+Jiang, H., Lu, F., 2018. To be friends, not competitors: A story different from Tesla driving the Chinese automobile industry. Manage. Org. Rev. 14, 491-499. https://
+doi.org/10.1017/mor.2018.34.
+Jones, G.G., Bouamane, L., 2011. Historical trajectories and corporate competences in wind energy. Harvard Business School Working Paper, No. 11-112.
+Jones, G.G., Bouamane, L., 2012. Power from Sunshine“: A Business History of Solar Energy. Harvard Business School Working Paper, No. 12-105.K. Hötte Environmental Innovation and Societal Transitions 36 (2020) 94-113
+
+Kemfert, C., Gawel, E., Fischedick, M., Bettz&rdquo;uge, M.O., Matthes, F.C., Kuhlmann, A., 2018. Klimaziel 2020 verfehlt: Zeit f&ldquo;ur eine neuausrichtung der
+klimapolitik? ifo Schnelldienst 71, 3-25.
+Kemp,R.,1994.Technologyandthetransitiontoenvironmentalsustainability:theproblemoftechnologicalregimeshifts.Futures26,1023-1046. 
+1016/0016-3287(94)90071-X.
+Kemp, R., Volpi, M., 2008. The diffusion of clean technologies: a review with suggestions for future diffusion analysis. J. Clean. Prod. 16, 14-21. 
+1016/j.jclepro.2007.10.019.
+Klimek, P., Hausmann, R., Thurner, S., 2012. Empirical confirmation of creative destruction from world trade data. PloS ONE 7, e38924. 
+journal.pone.0038924.
+Köhler, J., De Haan, F., Holtz, G., Kubeczko, K., Moallemi, E., Papachristos, G., Chappin, E., 2018. Modelling sustainability transitions: An assessment of approaches
+and challenges. J. Artif. Soc. Social Simul. 21. 
+Köhler, J., Geels, F.W., Kern, F., Markard, J., Onsongo, E., Wieczorek, A., Alkemade, F., Avelino, F., Bergek, A., Boons, F., et al., 2019. An agenda for sustainability
+transitions research: State of the art and future directions. Environ. Innov. Societal Transit. 
+Köhler, J., Grubb, M., Popp, D., Edenhofer, O., 2006. The transition to endogenous technical change in climate-economy models: a technical overview to the
+innovation modeling comparison project. Energy J. 17-55 doi:10.5547/ISSN0195-6574-EJ-VolSI2006-NoSI1-2.
+Korzinov,V.,Savin,I.,2018.Generalpurposetechnologiesasanemergentproperty.Technol.Forecast.Soc.129,88-104. 
+011.
+Lachman, D.A., 2013. A survey and review of approaches to study transitions. Energy Policy 58, 269-276. 
+Lema,R.,Lema,A.,2012.Technologytransfer?theriseofChinaandIndiaingreentechnologysectors.Innov.Develop.2,23-44. 
+2012.667206.
+Lemoine, D., 2018. Innovation-ledtransitions in energy supply. National Bureau of Economic Research WorkingPaper No. w23420.
+Lockeretz, W., 2007. Organic Farming: An International History. CABI.
+Ma,S.m.,Sauerborn,J.,2006.Reviewofhistoryandrecentdevelopmentoforganicfarmingworldwide.Agric.Sci.China5,169-178. 
+2927(06)60035-7.
+Malerba, F., Nelson, R., Orsenigo, L., Winter, S., 1999. ’history-friendly’models of industry evolution: the computer industry. Ind. Corporate change 8, 3-40. https://
+doi.org/10.1093/icc/8.1.3.
+Messenger, J.C., Lee, S., McCann, D., 2007. Working Time Around the World: Trends in Working Hours, Laws, and Policies in a Global Comparative Perspective.
+Routledge.
+Metcalfe, J., 1988. The diffusion of innovations: an interpretive study. In: Dosi, G., Freeman, C., Nelson, R., Silverberg, G., Soete, L. (Eds.), Technical Change and
+Economic Theory. Pinter.
+Moallemi, E.A., de Haan, F.J., 2019. Modelling Transitions: Virtues, Vices, Visions of the Future. Routledge.
+Nelson, R.R., Winter, S.G., 1977. In search of useful theory of innovation. Res. Policy 6, 36-76. 
+Nelson, R.R., Winter, S.G., 1982. An evolutionary theory of economic change. Belknap Press of Harvard University Press.
+Neukirch, M., 2009. Die internationale Pionierphase der Windenergienutzung. Dissertation. Nieders&ldquo;achsische Staats-und Universit&rdquo;atsbibliothek G&
+ldquo;ottingen.
+Nijkamp, P., Wang, S., Kremers, H., 2005. Modelingthe impacts of international climate change policies in a CGE context:The use of the GTAP-E model. Econ. Model.
+22, 955-974. 
+Nordensvärd, J., Urban, F., 2015. The stuttering energy transition in germany: Wind energy policy and feed-in tariff lock-in. Energy Policy 82, 156-165. 
+org/10.1016/j.enpol.2015.03.009.
+Oikawa, K., 2017. Inter-firm Technological Proximity and Knowledge Spillovers. Tokyo Center for Economic Research (TCER) Paper No. E-114.Pahle, M., 2010. Germany's dash for coal: Exploring drivers and factors. Energy Policy 38, 3431-3442. 
+Pan, M., Zhou, Y., Zhou, D.K., 2017. Comparing the innovation strategies of Chinese and European wind turbine firms through a patent lens. Environ. Innov. Societal
+Transit.
+Pfeiffer, B., Mulder, P., 2013. Explaining the diffusion of renewable energy technology in developing countries. Energy Econ. 40, 285-296. 
+eneco.2013.07.005.
+Pizer, W.A., Popp, D., 2008. Endogenizing technological change: Matching empirical evidence to modeling needs. Energy Econ. 30, 2754-2770. 
+1016/j.eneco.2008.02.006.
+Popp,D., 2019.Environmental policy andinnovation: a decade ofresearch. National Bureauof Economic Research.  WorkingPaper
+No. w25631.
+Popp, D., Newell, R.G., Jaffe, A.B., 2010. Energy, the environment, and technological change. In: Hall, B., Rosenberg, N. (Eds.), Handbook of the Economics of
+Innovation. Elsevier. volume 2, pp. 873-937. 
+Quitzow, R., 2015. Dynamics of a policy-driven market: The co-evolution of technological innovation systems for solar photovoltaics in China and Germany. Environ.
+Innov. Societal Transitions 17, 126-148. 
+Reganold, J.P., Wachter, J.M., 2016. Organic agriculture in the twenty-first century. Nature Plants 2, 15221. 
+Romer, P.M., 1990. Endogenous technological change. J. Political Econ. 98, S71-S102. 
+Rosenbloom, D., 2017. Pathways: An emerging concept for the theory and governance of low-carbon transitions. Global Environ. Chang. 43, 37-50. 
+10.1016/j.gloenvcha.2016.12.011.
+Safarzyńska,K.,Frenken,K.,vandenBergh,J.C.,2012.Evolutionarytheorizingandmodelingofsustainabilitytransitions.Res.Policy41,1011-1024. 
+10.1016/j.respol.2011.10.014.
+Simon, H.A., 1957. Administrative Behavior: A Study of Decision Making Processes in Administrative Organization. Wiley, New York.Smith, A., Voß, J.P., Grin, J., 2010. Innovation studies and sustainability transitions: The allure of the multi-level perspective and its challenges. Res. Policy 39,
+435-448. 
+Steffen, W., Rockström, J., Richardson, K., Lenton, T.M., Folke, C., Liverman, D., Summerhayes, C.P., Barnosky, A.D., Cornell, S.E., Crucifix, M., et al., 2018.
+Trajectories of the Earth System in the Anthropocene. Proc. Natl. Acad. Sci. 115, 8252-8259. 
+Triguero,A.,Moreno-Mondéjar, L.,Davia,M.A.,2013.Driversof differenttypesofeco-innovationinEuropeanSMEs.Ecol.Econ.92,25-33. 
+j.ecolecon.2013.04.009.
+Tushman, M.L., Anderson, P., 1986. Technological discontinuities and organizational environments. Adm. Sci. Q. 439-465.Tyfield, D., Zuev, D., 2018. Stasis, dynamism and emergence of the e-mobility system in china: A power relational perspective. Technol. Forecast. Soc. 126, 259-270.
+
+Unruh, G.C., 2000. Understanding carbon lock-in. Energy Policy 28, 817-830. 
+Vona, F., Marin, G., Consoli, D., Popp, D., 2015. Green skills. National Bureau of Economic Research National Bureau of Economic
+Research Working Paper.
+Watson, G., 1971. Resistance to change. Am. Behav. Sci. 14, 745-766. 
+Wells, P., Nieuwenhuis, P., 2012. Transition failure: Understanding continuity in the automotive industry. Technol. Forecast. Soc. 79, 1681-1692. 
+1016/j.techfore.2012.06.008.
+Wesseling, J., Farla, J., Hekkert, M., 2015. Exploring car manufacturers’ responses to technology-forcing regulation: The case of California's Zev mandate. Environ.
+Innov. Societal Transit. 16, 87-105. 
+Windrum, P., 1999. Simulation models of technological innovation. Am. Behav. Sci. 42, 1531-1550. 
+Yuan, J., Xu, Y., Hu, Z., 2012. Delivering power system transition in China. Energy Policy 50, 751-772.  Hötte
+Environmental Innovation and Societal Transitions 36 (2020) 94-113

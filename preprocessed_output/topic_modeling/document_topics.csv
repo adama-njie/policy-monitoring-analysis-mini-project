@@ -1,0 +1,21 @@
+doc_id,filename,doc_type,year,topic,probability
+doc_001,Ammonia White Paper,white_paper,unknown,3,3.0250928971301966e-308
+doc_002,Carbon Border Adjustment Mechanism,regulation,2023,0,3.462712257005004e-309
+doc_003,Carbon Capture in Industry - Policy Brief,legislation,2025,1,4.685699249570097e-309
+doc_004,Climate Adaptation and Mitigation,guideline,unknown,0,0.09920695186560897
+doc_005,Climate Framework Laws in Europe,legislation,2023,0,0.060524898553091504
+doc_006,Cost-Benefits of Climate Change,legislation,2013,0,0.08912879746459874
+doc_007,Countries Leading Energy Transition,legislation,2024,0,0.07969884143184182
+doc_008,Economics of Transition Pathways,legislation,unknown,0,0.06518312038381248
+doc_009,Energy Transitions in China and Germany,strategy,2019,1,0.05273142704448635
+doc_010,EU Green Deal,strategy,2019,0,0.0491913041543139
+doc_011,EU Hydrogen Strategy,strategy,2020,2,1.7746334771633895e-308
+doc_012,EU_Hydrogen_Strategy.pdf,strategy,2024,2,1.436343629485064e-308
+doc_013,IPCC Report,legislation,unknown,0,0.06888217911600417
+doc_014,Policies Affecting Carbon Emissions,legislation,2021,0,0.0863571403608907
+doc_015,Power - X - Energy Policy,regulation,2030,0,0.09698605054395557
+doc_016,Renewable Energy Directive,regulation,2023,0,0.0456613178057559
+doc_017,Renewable Fuels of Non-Biological Origins,policy,2025,1,4.41195715648928e-309
+doc_018,sustainable-aviation-fuels,strategy,2030,3,2.9297058206231553e-308
+doc_019,The-EU-Chemical-Industry,legislation,unknown,0,3.206717326385456e-309
+doc_020,WWF Hydrogen Recommendation,policy,2045,2,0.10942305727769532

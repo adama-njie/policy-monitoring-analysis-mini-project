@@ -1,0 +1,707 @@
+Nick Evans 
+Deyana Kocher 
+Nora Kögel 
+Matthias Duwe 
+ 
+ 13 September 2023 The landscape of n ational climate 
+framework laws in E urope 
+A status update - Summer 2023 
+Ecologic Institut e 
+
+ The landscape of national climate framework laws in Europe - A status update 
+i 
+ Conta ct 
+Nick Evans 
+Researcher 
+Ecologic Institut e 
+Pfalzburger Straße 43/44 
+10717 Berlin 
+E-Mail:  
+Suggested citation 
+Evans , Nick, Deyana Kocher , Nora Kögel , Matthias Duwe (2023 ): The landscape of national 
+climate framework laws in Europe : A status update. Ecologic Institut e, Berlin . 
+Acknowledgements 
+The authors would like to thank Charlotte Billingham, Zoltán Massay -Kosubek, and Erica Hope 
+from the European Climate Foundation (ECF) for their valuable comments and input. 
+ 
+ The landscape of national climate framework laws in Europe - A status update 
+ii 
+ Contents 
+ Introduction ................................ ................................ ................................ ...................... 1 
+ A dynamic landscape ................................ ................................ ................................ ...... 2 
+ A diverse landscape ................................ ................................ ................................ ........ 2 
+ Deep dive into five ‘good practice’ provisions ................................ ............................ 3 
+4.1 Long -term (net -zero) emissions reduction targets ................................ ............ 3 
+4.2 Emission budgets ................................ ................................ ................................ .. 5 
+4.3 Long -term planning ................................ ................................ ............................... 6 
+4.4 Accountabil ity mechanisms ................................ ................................ ................. 7 
+4.5 Green budgeting ................................ ................................ ................................ .... 8 
+4.6 Overview ................................ ................................ ................................ ............... 10 
+ Summary and key takeaways ................................ ................................ ....................... 11 
+ References ................................ ................................ ................................ ..................... 12 
+Annex: Climate framework laws around the world ................................ ........................... 14 
+
+ The landscape of national climate framework laws in Europe - A status update 
+
+ Introduction 
+National climate framework laws have become a com-
+mon approach for establishing the governance ma-
+chinery required to tackle the transition to a climate 
+neutral society. While there is no fully agreed upon 
+definition , we use the term ‘climate framework law’ (in 
+the past referred to as ‘flagship’ law , see Townshend 
+et al., 2011) to describe legal instruments passed by 
+national legislatures that enshr ine a binding long-term 
+vision for climate action and, to varying degrees, the 
+necessary processes, institutional responsibilities, 
+and other mechanisms to achieve it (Duwe and Bodle, 2020; McIlhennon and Brennan, 2023; 
+Muinzer, 2020) . Such laws can be distinguished from other forms of climate legislation , espe-
+cially those focusing on specific sectors as well as other non -legislative instruments, like strat-
+egies or executive actions. 
+As of August 2023, nearly half of European countries have a climate framework law as 
+defined above and others are on the way . While no two laws are the same, they tend to draw 
+on a set of common elements, such as targets, planning, monitoring, expert advisory bodies, 
+institutional arrangements, and participation (Averchenkova and Lázaro -Touza, 2020; Duwe 
+and Evans, 2020; World Bank, 2020) . Although not required by EU regulation , climate frame-
+work laws are one way to operationalise the EU -wide target of net -zero emissions by 2050 at a 
+national level (CAN Europe, 2022) . A closer look at the substance of these laws thereby offers 
+a sense of national and public ownership and agenda -setting as well as European national 
+governments’ commitment to the common EU project of climate neutrality . 
+To document and a ssess the different qualities of these laws in Europe as they are adopted, 
+Ecologic Institute has developed a Climate Framework Laws Info -Matrix .1 This online re-
+source aims to collect, organize, and present information on the status and substance of na-
+tional climate framework laws in Europe, currently encompassing the 32 European Environment 
+Agency (EEA) member countries plus the United Kingdom. The matr ix presents a side -by-side 
+comparison of existing laws and their provisions. Importantly, to provide a comprehensive pic-
+ture of the dynamic landscape of climate legislation in Europe, the matrix also lists climate laws 
+which may not qualify as ‘true’ frame work laws in full .2 The resource is publicly available and is 
+managed by Ecologic Institute . It undergoes continuous crowd -sourcing quality control and ver-
+ification of accuracy through the input of its users, who are invited to submit comments and 
+edits f or review. 
+In this memo we offer a readout of key information contained in the Info -Matrix and thus a brief 
+update on the status and substance of national climate laws in Europe , with a focus on frame-
+work laws . The following Section 2 considers the growth in climate framework laws over time , 
+whereas Sect ion 3 provides a summary assessment of their diversity. Section 4 then investi-
+gates five main provisions, often referred to as ‘good practice’ elements, in more detail. Section 
+5 concludes with several key takeaways. 
+ 
+1 To view and explore the Climate Framework Laws Info -Matri x visit:  . 
+2 In this paper, we use the term s ‘climate laws’ and ‘climate framework laws’ differently. The former refers to 
+all laws covered by the Info -Matrix whereas the latter is a specific subset defined in Box 1 -in short, while 
+all framework laws are climate laws, not all climate laws are framework laws . Box 1: How we define ‘climate frame-
+work law ’ 
+Climate framework laws are legal instru-
+ments passed by legislatures that en-
+shrine a binding long -term objective for 
+climate action and, at least to some de-
+gree, the necessary proce sses, institu-
+tional responsibilities, and other mecha-
+nisms to achieve it. 
+ The landscape of national climate framework laws in Europe - A status update 
+
+ A dynamic landscape 
+Across the 32 Europ ean Environment Agency (EEA) member countries plus the United King-
+dom (UK ), 22 governments have enacted some form of climate law, albeit only 15 of these 
+include objectives beyond a time horizon for 2030 . In addition, t he Hungarian law enshrines a 
+2050 net -zero target but no other concrete provisions for managing the transition to climate 
+neutrality . Thus, only 14 of the existing climate laws in Europe qualify as ‘true’ framework laws 
+as per our definition introduced above in Box 1 . 
+Even a quick look at the map in Figure 1 shows the regional disparity ; most laws are concen-
+trated in the central and northern European countries , with the recent notable exceptions of 
+Greece, Portugal, and Spain . However, t he landscape is continuously in flux as new laws are 
+adopted and existing laws revised to account for international, EU, and national developments. 
+
+in Estonia, Latvia, Slovakia, Slovenia, and Turkey.3 
+Figure 1: Landscape of national climate (framework ) laws in Europe - status as of August 2023 
+ 
+Source: Data compiled from Ecologic Institute (2023): Climate Framework Laws Info -Matrix ; (*) the Hungari an 
+law enshrines a 2050 net-zero target but no other concrete provisions for managing the transition to climate 
+neutrality and thus does not qualify as a framework law as per the definition in Box 1 above. 
+Most climate framework laws have been revised at l east once, often to account for a change in 
+national ambition in emission reductions. At the time of writing, at least four laws are currently 
+undergoing revision -Austria, Bulgaria, Germany, and Liechtenstein. In Austria, the revision 
+was intended to enshr ine the country’s target of net -zero emissions by 2040 as spelled out in 
+its national long -term strategy. However, its adoption ran up against political headwinds, and 
+the old law expired at the end of 2020. While the process is still ongoing, this makes A ustria 
+one of the only European countries that has backpedalled or weakened a climate law. Past 
+ 
+3 At the time of writing, civil society campaigns were underway in, e.g., Italy and Poland to raise nat ional at-
+tention on the need for a national climate framework law , but these had not yet led to a clear commitment 
+by government . 
+
+ The landscape of national climate framework laws in Europe - A status update 
+
+ revisions to other national laws served to strengthen and expand frameworks by among other 
+things increasing overall target ambition (e.g., Denmark, Ireland, Ge rmany), adding new expert 
+oversight (e.g., France), or integrating a budget approach (e.g., Ireland) (Ecologic Institute, 
+2023; Nash and Steurer, 2022; Torney, 2021) . 
+
+criticized by civil society and the government’s own Council of Experts for weakening the exist-
+ing framework by dismantling a unique system of sector -specific accounting and monitoring 
+(see also section 4.4 below ).4 Discussions are still ongoing as of summer 2023 but should the 
+German Bundestag pass the new amendment law it would mark another instance of a national 
+long-term frameworks being watered down. 
+The spread of laws that enshrine long -term target , i.e., those with a post -2030 perspective, has 
+picked up pace over the last five years (see Figure 2). This includes the passage of the EU 
+Climate Law in June 2021 -to date, the o nly supranational law of its kind. The first European 
+country to enact such a law was the UK in 2008 with the Climate Change Act. This also includes 
+the Hungarian law, which as mentioned above, serves solely to establish national targets with 
+few other sup porting provisions. 
+Figure 2: Growth in post -2030 climate laws across Europe 
+ 
+Source: Data compiled from Ecologic Institute (2023): Climate Framework Laws Info -Matrix ; (*) the Hungarian 
+law enshrines a 2050 net -zero target but no other con crete provisions for managing the transition to climate 
+neutrality and thus does not qualify as a framework law as per the definition in Box 1 above. 
+This trend is not limited to Europe an countries; c limate framework laws aimed at the long -term 
+transformat ion of the economy are spreading globally (see Figure 3). According to the Gran-
+tham Institute Climate Laws Database, as of April 2023, 13 countries out side of Europe have a 
+framework law with some form of long -term climate target. This includes seven of the eleven 
+non-European Organisation for Economic Co -operation and Development (OECD) member 
+countries. Notably, most of these laws came about only in th e last three years -with eight 
+adopted in 2021 alone. A full list of non -European laws adopted through April 2023 can be 
+found in the annex to this memo. 
+ 
+4 See  -klima -103.html , accessed 18 April 2023. 
+
+ The landscape of national climate framework laws in Europe - A status update 
+
+ Figure 3: Landscape of climate framework laws around the world - status as of April 2023 
+ 
+Source: Data compiled the Grantham Research Institute (2023) : Climate Laws of the World Database
+
+ The landscape of national climate framework laws in Europe - A status update 
+
+ A diverse landscape 
+Some common provisions notwithstanding, climate framework laws come in man y shapes 
+and sizes, and this diversity is especially apparent among European countries. A growing 
+body of literature identifies several ‘core elements ’ found in most laws (Duwe and Evans, 
+2021; McIlhennon and Brennan, 2023; World Bank, 2020) . Among these included in the Cli-
+mate Framework Law Info -Matrix are: (1) climate targets, (2) clear processes for stakeholder 
+and publ ic engagement (2) policy planning instruments (e.g., long term strategies (LTS) and 
+medium -term plans, such as national energy and climate plans (NECPs)), (3) independent ex-
+pert bodies and (5) robust progress monitoring to enhance the accountability of gov ernment 
+actions. Additional elements include coordinating commissions , risk and vulnerability assess-
+ments, and sanctioning mechanisms. 
+Together these provisions provide governments with the tools they need to manage the long -
+term transition in their count ry by providing a signal for the direction and speed of change , a 
+process for formulating policy to get there , opportunities to enhance buy -in and transparency 
+through participation, and accountability mechanisms and expert oversight to ensure actions 
+stay on track and are based on the best available science. 
+Table 1: Climate Framework Laws Info -Matrix categories 
+Category Description Countries 
+
+ A comprehensive climate framework law that organises 
+national climate policy -making for the long -term trans-
+formation . Denmark, Finland, France, 
+Germany, Ireland, Portugal 
+
+ Law is missing one or more elements but still serves to 
+structure some aspects of national climate policy -mak-
+ing. Greece, Luxembourg, Ice-
+land 
+
+ Law does not serve as a framework for organising na-
+tional climate policy -making (e.g., only enshrines a 
+headline target) . Bulgaria, Croatia, Hungary, 
+Malta, Liechtenstein , Lithua-
+nia 
+
+ Law exists but is out of date or 'expired' . Austria, Switzerland 
+Source: Data compiled from Ecologic Institute (2023): Climate Framework Laws Info -Matrix 
+Based on the existence and relative strength of these provisions across existing laws , the Cli-
+mate Framework Law Info -Matrix outlines four categories : (1) fully comprehensive frame-
+works, (2) less detailed laws with only some organisational power, (3) fledgling laws that typi-
+cally enshrine a target with little surrounding inst itutional creation, and (4) out of date or ex-
+pired laws.5 Notably, only categories 1 and 2 therefore count as ‘true’ framework laws under 
+the definition used in this paper , and therefore the Climate Framework Laws Info -Matrix in-
+cludes laws that do not fully qualify . However, b ecause these can serve as a first step to-
+wards more comprehensive legislation down the road (see, e.g., Torney, 2021) we 
+ 
+5 These categories were developed for the Climate Framework Laws Info -Matrix for the purpose of streamlin-
+ing an assessment of laws and are based on underlying a ssessment criteria. The tree metaphor was cho-
+sen intentionally to imply that framework laws can mature through revision and are often improved upon 
+over time. For a full note on methodology refer to the Climate Framewor k Laws Info -Matrix here. 
+
+ The landscape of national climate framework laws in Europe - A status update 
+
+ intentionally include them. Table 1 provides an o verview of the categories and what they sig-
+nify, alongside country examples . 
+Assessing laws for their quality is a challenge due to differing national circumstances and po-
+litical cultures. Moreover, just because something exists in a law does not mean tha t it has 
+been implemented fully. On the flip side, countries without dedicated climate framework laws 
+still have some of the same mechanisms often found in such laws enshrined either in broader 
+legislation or established by governmental decree (Evans a nd Duwe, 2021) . For instance, 
+Slovenia adopted a climate neutrality target in its overarching national Environmental Protec-
+tion Act, which also establishes an expert council. 
+While the four qualitative categories used by the Climate Framework Laws Info -Matrix provide 
+some orientation for the existing batch of laws in Europe, they do not capture all the complex-
+ity and variation in legal frameworks. The assessment criteria, for instance, do not consider 
+the degree to which the laws establish institutional responsibilities , and they do not deal with 
+climate adaptation or just transition. The categories nevertheless are an illustration of the vari-
+ety found in the EU , with the symbols serving as a reminder of how frameworks are often re-
+vised and improved upon over time . 
+ Deep dive into five ‘good practice’ provisions 
+In this section we dive deeper into five specific key provisions : (1) long -term (net-zero) emission 
+reduction targets, (2) use of emissions budgets, (3) regular and reocc urring long -term planning, 
+(4) robust accountability mechanisms , and (5) green budgeting and financial mainstreaming for 
+climate mitigation . Table 4 in Section 4.6 provides a summary overview across all provisions. 
+It is important to note that while these good practice provisions are commonly referred to the 
+literat ure and by the civil society community as examples of strong or transformational govern-
+ance practices (see Averchenkova et al., 2020; CAN Europe, 2022; Duwe and Evans, 2021; 
+World Bank, 2020) , there is li ttle empirical evidence on their impact across countries (McIlhen-
+non and Brennan, 20 23). Still, the fact that over time more and more European countries have 
+incorporated these provisions in their own laws (see Velten et al., 2023, p. 170) is some indica-
+tion that the ir added -value has been recognised by national governments. 
+4.1 Long -term (net -zero) emission s reduction target s 
+A clear long -term emissions reduction target, with at least a 30 -year horizon, is essential for 
+national climate framework laws to effectively translate the spirit of the Paris Agreement into 
+national ambition (Duwe and Bodle, 2020) . Targets can provide the government and society a 
+‘clear direction of travel’ and also an indication of the speed of transformation for policy -makers 
+and private actors (Aver chenkova et al., 2020) . Furthermore, a well -defined long-term target 
+plays a pivotal role in integrating climate action across all pillars of economies, encouraging 
+concerted efforts (Lockwood, 2021; Nash and Steurer, 2019) . 
+As of the end of August 2023, fifteen European countries h ave a legally enshrined and binding 
+long-term target emission reductions target (see Table 2). In most cases, the target comes in 
+the form of a climate neutrality dat e by 2050 or earlier. Finland , Germany , and Sweden aim 
+to be climate neutral at an earlier date than 2050, with Finland planning for 2035 net -zero and 
+negative emissions thereafter and Germany for 2045 net -zero and negative emissions after 
+2050. Portugal’s law notes that the government will consider pursu ing a 2045 climate neutrality 
+ The landscape of national climate framework laws in Europe - A status update 
+
+ goal. Iceland aims for carbon neutrality by 2040. Although a full assessment is beyond the 
+scope of this paper the way in which climate neutrality is formulated in the language of each 
+law differs , see Table 3. 
+Alongside their climate neutrality target, five countries quantify long -term emission reductions 
+in their laws (i.e., Finland, France, Portugal, Sweden, and the United Kingdom). Add itionally, 
+although the laws of the Netherlands and Norway do not include a formal climate neutrality 
+target, both countries aim for emission reductions of 95% and 90 -95% by 2050, respectively. 
+Among the countries with a net -zero target, 11 also present in terim GHG emission reductions 
+targets for 2030 and/or 2040. 
+Table 2: Long -term targets in European climate framework laws 
+Country Net-zero target year Long -term reduction target Long -term 
+removal 
+target 
+Denmark 2050, at the latest n/a n/a 
+Finland 2035, negative emissions thereafter -90% (2050 vs. 1990), aiming 
+for -95% n/a 
+France 2050 -83.3% (2050 vs. 1990)1 n/a 
+Germany 2045, negative emissions after 2050 n/a n/a 
+Greece 2050 n/a n/a 
+Hungary 2050 n/a n/a 
+Iceland 2040 n/a n/a 
+Ireland 2050 n/a n/a 
+Luxembourg 2050, at the latest n/a n/a 
+Netherlands n/a -95% (2050 vs. 1990) n/a 
+Norway n/a 90-95% (2050 vs. 1990) n/a 
+Portugal 2050, possibly 2045 -90% (2050 vs. 2005) 13 Mt 
+CO2eq 
+(2045 -
+2050) 
+Spain before 2050 or in the shortest possible 
+time n/a n/a 
+Sweden 2045, at the latest -85% (2045 vs. 1990) n/a 
+United King-
+dom 2050 -100% (2050 vs. 1990) n/a 
+Source: Data compiled from Ecologic Institute (2023) : Climate Framework Laws Info -Matrix 
+Note: for non -English laws without an official translation the authors u sed translation software Deepl; (1) tar-
+get formulated as 'a factor of more than six' 
+Portugal is the only country that enshrines a target for long -term GHG emission removal in a 
+climate law. It aims to remove at least 13 MtCO2eq in the LULUCF sector on ave rage between 
+2045 and 2050. No laws include targets for short -term GHG removals. 
+Nine countries include information about a process for revising targets in their laws. Generally, 
+countries aim to comply with EU and international obligations for target revi sion. Denmark, 
+France, and Greece specifically set a revision process every five years. The laws in Portugal, 
+Spain, and the UK contain somewhat vague language on how new scientific knowledge about 
+climate change could trigger a process for revision. Accor ding to the Finnish climate law, the 
+government must monitor the ‘adequacy’ of targets, but this is likewise not further operational-
+ized. Such target revision clauses have the potential to increase national ambition overtime -
+ The landscape of national climate framework laws in Europe - A status update 
+
+ especially if combined with a ‘ no backsliding’ clause (see Section 4.4). At the very least, a target 
+revision cycle creates the basis for a regular national discussion on climate ambition. 
+In addition to legislating for climate neutrality, some countries also include additional thematic 
+objectives in their laws. France, for example, provides numerous sectoral objectives for renew-
+able energy, energy efficiency, fossil fuels, nuclear and hydrogen . Germany plans for climate -
+neutral governmental activity by 2030 and Greece includes a coal phase -out target by 2028. 
+Table 3: How climate neutrality targets are formulated in law 
+Country Net-zero target formulation in law 
+Denmark [...] to achieve a climate -neutral society by 2050 at the latest (Art. 1.1) 
+Finland […] so that greenhouse gas emissions are at most equal to emissions in 2035 at the 
+latest and that emissions will increase and emissions will continue to decrease even af-
+ter that. (Art. 2.1) 
+France […] to achieve carbon neutrality by 2050 by dividing greenhouse gas emissions by a 
+factor of more than six between 1990 and 2050. (Art. 1.2 or Article L100 -4 of the En-
+ergy Code) 
+Germany By the year 2045, greenhouse gas emissions shall be reduced to the point of net 
+greenhouse gas neutrality. After the year 2050, negative greenhouse gas emissions 
+are to be achieved. (Art. 3.2) 
+Greece […] ensure the country's gradual transition to climate neutrality by 2050, in the most en-
+vironmentally sustainable, socially equitable and cost -effective way. (Art. 1.1) 
+Hungary Hungary will achieve complete climate neutrality by 2050 (Art. 3.4) 
+Iceland The objectives of this law are: […] e. to achieve carbon neutrality no later than the year 
+2040. (Art. 1) 
+Ireland […] pursue and achieve, by no later than the end of the year 2050, the transition to a 
+climate resilient, biodiversity rich, environmentally sustainable and climate neutral econ-
+omy (Art 5. or Art. 3.1 of the Principal Act) 
+Luxembourg […] long -term objecti ve of climate neutrality, which consists of achieving ‘net zero emis-
+sions’ in Luxembourg by 2050 at the latest. (Art. 4.2) 
+Portugal The Portuguese State undertakes to achieve climate neutrality by 2050, which trans-
+lates into a neutral balance between gree nhouse gas emissions and the sequestration 
+of these gases by the various sinks. (Art. 18.1) 
+Without prejudice to the provisions of the previous number, the Government is study-
+ing, until 2025, the anticipation of the climate neutrality goal, with a view to the commit-
+ment to climate neutrality by 2045 at the latest. (Art. 18.2) 
+Spain Before 2050 and in any case, in the shortest possible time, Spain must achieve climate 
+neutrality, in order to comply with internationally assumed commitments. (Art. 3.2) 
+Sweden The goal must be for Sweden to have no net emissions (reach net zero emissions) of 
+greenhouse gases into the atmosphere by 2045 at the latest, in order to subsequently 
+achieve negative emissions. (Art. 5.2) 
+United King-
+dom It is the duty of the Secretary of State to ensure that the net UK carbon account for the 
+year 2050 is at least 100% lower than the 1990 baseline. (Art. 1.1) 
+Source: Data compiled from Ecologic Institute (2023) : Climate Framework Laws Info -Matrix 
+Note: for non -English la ws without an official translation the authors used translation software Deepl; (1) tar-
+get formulated as 'a factor of more than six' 
+4.2 Emission budgets 
+Emission budgets, and in particular sectoral emission budget, help divide up an overarching 
+future target into concrete reduction periods . This helps implementation in the medium term by 
+offering a clear trajectory for emissions with interim targets based on the length of the budget 
+periods (Guy et al., 2023; Rüdinger, 2018) . 
+ The landscape of national climate framework laws in Europe - A status update 
+
+ An emissions budget approach is becoming more and more common in climate laws, the Irish 
+revision from 2021 introduced sectoral budgets and more recent laws in Greece and Portugal 
+also apply a budgeting system. Seven countries (eight including Austria’s no w expired law) 
+have integrated some form of a budget approach. Most operate on a five -year cycle set 10 -15 
+years in advance (e.g., France, Greece, Ireland, Portugal, United Kingdom). Luxembourg uses 
+a ten -year cycle and Germany applies annual emission budg ets. 
+All but the United Kingdom and Portugal breakout the emissions budget into sectoral limits. 
+The existing German climate framework law sets annual budgets for the energy, industry, 
+transport, buildings, agriculture and waste management and other secto rs for the period 2021 -
+2030. This approach is unique among national climate laws in Europe, as it is the only one to 
+prescribe annual sector -specific caps and thus a very detailed form of monitoring. However, 
+
+June 2023 proposes to replace the obligation to comply with annual sectoral caps with an obli-
+gation to comply with cross -sectoral annual emission levels. As mentioned , this move has been 
+strongly criticized be cause it has the potential to water down the German framework by dimin-
+ishing accountability on the part of relevant ministries , e.g., transport, buildings, etc . (Ex-
+pertenrat für Klimafragen, 2023) . Because ministries ar e regularly managed by different parties, 
+often with divergent priorities this may undermine the successful and consistent integration of 
+climate across government. 
+4.3 Long -term planning 
+A vision or plan with long -term scenarios for the necessary restructurin g of the economy to 
+achieve the long -term climate goal is important so that the appropriate measures can be iden-
+tified and implemented (Rüdinger et al., 2018; Velten et al., 2022) . Article 4 of the Paris Agree-
+ment calls on all countries to communicate ‘long-term low greenhouse gas emission develop-
+ment strategies ’. EU Member States are required under the Governance Regulation to produce 
+a long -term strategy (LTS) every ten years and are supposed to update these strategies every 
+five years ‘where necessary ’. 
+While some laws translate these obligations into national law, frequent long-term planning is 
+surprisingly missing from the landscape of climate framework laws in Eur ope compared to other 
+good practice elements. While nine of the existing laws have some provision requiring govern-
+ment to produce and revise a long -term strategy or pla n, only four countries require more fre-
+quent, five -year updates -France , Ireland , Malta , Spain . 
+The German Climate Protection Plan 2050 (LTS) is mentioned in the German law, but a cycle 
+of review and revision is not legally enshrined . This indicates a current weakness of the law, as 
+updates of the medium -term climate protection programs are on ly required after each update 
+
+climate protection law, this mandatory link is to be abolished. Without a regularly updated LTS 
+it is more difficult to do the backc asting required to make sound policy decisions in the short 
+term. 
+In France , the national low carbon development strategy is connected to the five -year emission 
+budget schedule and must be updated accordingly. In Ireland , a long -term strategy must be 
+submitted to the government for approval by the responsible ministry every five years. The law 
+further states that the strategy must include information on reductions and removals by sector 
+for a 30 -year time horizon. 
+ The landscape of national climate framework laws in Europe - A status update 
+
+ 4.4 Accountability mechanisms 
+While there are many forms of accountability or monitoring mechanisms , three stand out as 
+particularly strong forms : (1) ‘no backsliding’ clauses, (2) regular progress monitoring by gov-
+ernment, ( 3) ‘action triggers ’ that require the government to enact additional poli cies when pro-
+gress is found to be lacking, and ( 4) the establishment of an independent expert council or 
+advisory body with a formal watchdog role in policy -making. 
+‘No backsliding’ clause 
+Four laws contain ‘no backsliding’ causes . In Denmark , new climate targets cannot be less 
+ambitious than the most recently set ones. Similarly, according to the German climate law, 
+climate targets may be raised but not lowered. In Portugal , revision is carried out to increase 
+a target’s ambition, while Spain may only cont emplate an upward update of the pathways for 
+reducing GHG emissions and increasing carbon removals. 
+Progress monitoring by government 
+Most national climate framework laws in Europe, especially those with long -term climate tar-
+gets, include some form of gove rnmental progress monitoring mechanism towards national ob-
+jectives although in many cases th is serves to fulfil EU reporting requirements . National -level 
+monitoring is found less frequently and is done on an annual or biennial basis and usually by 
+the ministry responsible for climate policy. In Germany , an annual report on the implementation 
+of the climate action programs in each economic sector is submitted to the German Bundestag. 
+Similarly, in Denmark an annual status update provides the basis for additional policy -making. 
+‘Action triggers ’ 
+The laws in four European countries have clear language establishing some form of an ‘action 
+trigger ’. These mechanisms require the adoption of additional measures when monitoring 
+shows that progress is lagging. For instance, In the Netherlands , the law simply states that if 
+progress towards targets is found to be missing ‘measures are taken ’. However, elsewhere the 
+action trigger is a more developed process . In France, a report by the High Council for Climate 
+(HCC), an independent scientific advisory body, can require the government to propose new 
+policies as a response. The Danish law includes a provision called ‘duty to act ’. In each annual 
+climate program me, the Ministry must provide an assessment of progress towards targets; if 
+progress is deemed insufficient the programme must also present new initiatives. 
+The provision for triggering measures at the sectoral level in the German law, the so -called 
+‘Sofortprogramm ’, is unique among European climate framework laws . Should a sector be 
+proven to exceed its annual emissions budget, the ministry concerned is obliged to propose 
+
+German Climate Protection Act, new measures by the government are required if, on a forecast 
+basis, it is determined for two consecutive years that the overall cross -sector emissions budget 
+for 2021 -2030 will not be met -a development that was cri tically assessed by the Expert Coun-
+cil on Climate Issues in its 2022 review report (Expertenrat für Klimafragen, 2023) . 
+Independent expert councils 
+Independent expert councils or advisory bodies are a common provision in European climate 
+laws, although these advisory bodies take many forms and are not always best set up to have 
+an impact on policy (Weaver et al., 2019) . There is some evidence that those with a clear man-
+dated role in climate policy -making to which the government must respond in some form are 
+better positioned to influence policy -making (Evans and Duwe, 2021) . Independent climate 
+councils are a component of 13 of the 22 European national climate framework laws. 
+ The landscape of national climate framework laws in Europe - A status update 
+
+ Important ly, independent climate councils are composed solely of scientists and operate inde-
+pendently from government. Some laws also include stakeholder or governmental commissions 
+that similarly serve an advisory role. 
+The governments of Denmark, and the United K ingdom are required to both consult and re-
+spond to the independent council . For example, the Danish Climate Council must comment on 
+each annual climate programme and accompanying climate status report and the government 
+must provide a response to these rec ommendations. In the United Kingdom the Commission 
+on Climate Change has a dedicated role in proposing the emissions budget and produces an 
+annual progress report. The Secretary of State must respond to ‘the points raised ’ in the report. 
+German law provide s for the Council of Experts to prepare a progress report every two years, 
+conduct an annual quality control of the emissions data reported by the Federal Environment 
+Agency, and issue emission reduction statements on specific measures. However, the govern-
+
+amend the Climate Protection Act, however, it must consider proposals from the Council of 
+Experts in climate protection programs and measures for remediation. 
+In Greece and Portugal , the expert council plays a slightly more limited role, at least under the 
+provisions of the climate law, while in Spain the government must respond and participate in 
+the public debate for an annual report, evaluating and making reco mmendations on energy and 
+climate change policies and regulations. In Sweden , the government is only somewhat required 
+to consult the advisory body as the latter must provide an assessment of the government's 
+climate policy action plan. 
+4.5 Green budgeting 
+Green budgeting is not widely found in European climate framework laws. However, as a recent 
+survey by the European Commission shows, at least 12 countries practice some form of green 
+budgeting, even if it is not legally binding in a climate framework law. These include ‘budget 
+tagging’ to determine which budget measures contribute positively or negatively to climate 
+goals (e.g., Austria, France, Sweden), and assessments of the climate impacts of budget ele-
+ments (e.g., Denmark, France, Finland, Netherlands, Sweden) (European Commission, 2023) . 
+The European Commission study uses a narrow defin ition of green budgeting, and there are 
+no provisions in existing climate framework laws that would qualify. Five laws are nevertheless 
+worth mentioning in t he context of financial mainstreaming more generally. 
+The laws in Sweden and Norway align climate planning with the state budget proposal sched-
+ule to integrate climate action considerations with public spending. The Spanish climate law 
+includes provisions on disinvestment of fossil fuels as well as an ‘International Climate Finance 
+Strategy ’. France’s law includes a special risk reporting obligation for the financial sector and 
+requires a dedicated report on climate finance availability and needs attached to the budget 
+
+The German law includes an obligation to ensure that fede ral investments and procurements 
+are as climate -friendly as possible and provides for a CO 2 ‘shadow price ’ for this purpose. It 
+also links reporting obligations to the budget cycle. However, this does not mean that sustain-
+ability criteria are systematically applied in budget planning or that an assessment of compati-
+bility with KSG climate goals takes place. In a position paper of June 2023, the German civil 
+society calls for the concrete linking of climate targets with the Federal Budget Code and the 
+investment guidelines of the special funds of the federal and state governments, as well as an 
+obligation to rev iew the compatibility of public spending with the transition to climate neutrality 
+(Klima -Allianz Deutschland, 2023 ). 
+ The landscape of national climate framework laws in Europe - A status update 
+
+ Excluded from Table 4, several laws establish some form of funding mechanism for climate 
+mitigation actions, often within the context of the sale of allowances under the EU Emissions 
+Trading System (ETS) . This includes the National Climate Change Program in Lithuania, the 
+National Green Investment Scheme (NGSI) in Bulgaria, the Climate Fund in Iceland, the Cli-
+mate Action Fund in Ireland, the Climate and Energy Fund in Luxembourg, the Climate Action 
+Fund in Malta, and the Fund for Environmental Protection and Energy Efficiency in Croatia . 
+Likewise, the Greek law includes language on ‘financial resources ’, including provisions for 
+where funding for climate action will come from and provisions on transparency and accounting 
+and the Hungarian law calls on the government to issue Green Government Bonds. Notably, 
+the laws in Liechtenstein and Switzerland introduce a carb on tax. 
+ The landscape of national climate framework laws in Europe - A status update 
+
+ 4.6 Overview 
+Table 4: Summary of good practice provisions in European climate (framework) laws 
+ (1) Long -term 
+(net-zero) 
+emissions re-
+duction tar-
+get 
+(3) Long -term 
+planning (4) Accountability mechanisms 
+(5) Green 
+budgeting ** Country (2) Emission 
+budget Emission budget 
+broken down by 
+sector No backsliding 
+clause Regular national 
+progress monitor-
+ing by government Action trigger Independent expert 
+council that govern-
+ment must consult or 
+respond to 
+Austria* 
+Bulgaria 
+Croatia 
+Denmark 
+Finland 
+France ( ) 
+Germany ( ) 
+Greece 
+Hungary 
+Iceland 
+Ireland 
+Lithuania 
+Luxembourg 
+Liechtenstein 
+Malta 
+Netherlands 
+Norway ( ) 
+Portugal 
+Spain ( ) 
+Sweden ( ) 
+Switzerland 
+United Kingdom 
+Source: Data compiled from Ecologic Institute (2023): Climate Framework Laws Info -Matrix 
+Note: (*) The Austrian law expired at the end of 2020 and a revision has since been held up for political reasons. The information contained in this table is based on the expired 
+law; (**) The existing provisions would not qualify based on the definition used in the European Commission (2023) survey on green budgeting.
+
+ The landscape of national climate framework laws in Europe - A status update 
+
+ Summary and k ey takeaways 
+Several key takeaways can be drawn from the landscape of climate framework legislation in 
+Europe as of August 2023: 
+(1) Twenty -two European countries have some form of climate law in place, but only 15 
+of these have a post -2030 -time horizon. Three laws are under revision and an additional six 
+countries are currently developing a law. This is a growing trend, and the rate of legislation 
+being adopted seems to have accelerat ed in recent years -a dynamic that is also apparent 
+globally. In addition to national developments, the European Climate Law passed in 2021 is 
+unique as the only supranational law of its kind and could serve both as an example and impe-
+tus for further legisl ation among EU Member States. 
+(2) Thirteen countries include a climate neutrality target in their law , but these targets 
+require further clarity in many cases . Most of these aim for net -zero emissions by 2050, with 
+the notable exceptions of Finland (2035) , Germany (2045), and Sweden (2045). Spain and 
+Portugal leave the possibility of an earlier climate neutrality year open. Only a handful of coun-
+tries qualify their net -zero date further by setting a binding absolute reduction target, and there 
+is inconsistent reliance on international offsetting for reaching climate neutrality domestically. 
+Notably, only Portugal has a long -term GHG removal target in its law. The lack of clarity on 
+removals is particularly concerning and has been shown to be an information gap also when it 
+comes to EU Member State long -term strategies (Velten et al., 2022) . A the very least, long -
+term strategies should provide clarity on what a government means when it sets a 2050 or 
+earlier net -zero date. 
+(3) When it comes to good practice provision s, even long -standing frameworks show 
+national variation . Long -term planning is a core component of nine laws, but the Danish Cli-
+mate Act is a notable exceptio n. The Danish ‘Climate Policy Wheel’ or cycle enshrined in the 
+law is aimed at in the country’s long -term climate neutrality ambition, but a provision for strategic 
+policy planning post -2030 is not included. Of the eight national climate framework laws that 
+establish emission budgets, fewer still break these down into sectoral limit s. The likely amend-
+ments to the German Climate Protection Law that will get rid of the sectoral budgeting and 
+monitoring system is an indication that a sector -specific approach, while good practice, is con-
+tentious because it adds an extra layer of accounta bility for ministries. A concrete action trigger 
+is apparent in only four of the 22 laws. 
+Strong provisions to align public spending with climate goals are missing in all laws. Existing 
+provisions are limited to aligning planning schedules with budget cyc les (such as Sweden) or 
+climate finance strategies or reports (e.g. , Spain, France). 
+ 
+ The landscape of national climate framework laws in Europe - A status update 
+
+ References 
+Averchenkova , A., Fankhauser, S., and Finnegan, J. J. (2020). The impact of strategic climate legislation: Ev-
+idence from expert interviews on the UK Climate Change Act. Climate Policy , 21(2), 251 -263. 
+ 
+Averchenkova, A., and Lázaro -Touza, L. (2020). Legislating for a low carbon transition in Europe: Experi-
+ences in the UK, France and Spain . 32. 
+CAN Europe. (2022). Climate Laws in Europe: Essential for achieving climate neutrality . 
+Duwe, M., and Bodle, R. (2020). ‘Paris Compati ble’ Climate Change Acts? National Framework Legislation in 
+an International World. In T. L. Muinzer (Ed.), National Climate Change Acts: The Emergence, Form and 
+Nature of National Framework Climate Legislation . Hart Publishing. 
+ 1509941742 
+Duwe, M., and Evans, N. (2020). Climate Laws in Europe: Good Practices in Net -Zero Management . Ecologic 
+Institute; European Climate Foundation. 
+Duwe, M., and Evans, N. (2021). Professionalizing Climate Policy via Legislation (Policy Paper Series “Shap-
+ing the Transition to a Low -Carbon Economy: Perspectives from Israel and Germany“, p. 32). Israel Public 
+Policy Institute, Heinrich Böll Foundation. 
+Ecologic Institute. (2023). Climate Framework Laws Info -Matrix . 
+European Commission. (2023). Green bu dgeting in the EU: Key insights from the 2023 European Commis-
+sion survey of green budgeting practices . 
+Evans, N., and Duwe, M. (2021). Climate governance systems in Europe: The role of national advisory bod-
+ies (p. 67). Ecologic Institute, IDDRI. 
+Expertenra t für Klimafragen. (2023). Prüfbericht zur Berechnung der deutschen Treibhausgasemissionen für 
+das Jahr 2022: Prüfung und Bewertung der Emissionsdaten gemäß § 12 Abs. 1 BundesKlimaschutzge-
+setz. Expertenrat für Klimafragen.  
+Grantham Research Institute. (2023). Climate Laws of the World Database . 
+Guy, J., Shears, E., and Meckling, J. (2023). National models of climate governance among major emitters. 
+Nature Climate Change .  -022-01589 -x 
+Klima -Allian z Deutschland. (2023). Gemeinsame Forderungen zur KSG -Novelle: Abschwächung des Klima-
+schutzgesetzes verhindern . Klima -Allianz Deutschland. 
+Lockwood, M. (2021). Routes to credible climate commitment: The UK and Denmark compared. Climate Pol-
+icy, 1-14. https: //doi.org/10.1080/14693062.2020.1868391 
+McIlhennon, C., and Brennan, C. (2023). Climate Laws: What are the experts saying? Environmental Justice 
+Network Ireland Climate Governance Observatory Policy Paper. 
+Muinzer, T. L. (Ed.). (2020). National Climate Cha nge Acts: The Emergence, Form and Nature of National 
+Framework Climate Legislation . Hart Publishing.  
+Nash, S. L., and Steurer, R. (2019). Taking stock of Climate Change Acts in Europe: Living policy processes 
+or symbol ic gestures? Climate Policy , 19(8), 1052 -1065.  
+Nash, S. L., and Steurer, R. (2022). From symbolism to substance: What the renewal of the Danish climate 
+change act tells us about the driving forces behind policy change. Environmental Politics , 31(3), 453 -477. 
+ 
+Rüdinger, A. (2018). Best practices and challenges for effective climate governance frameworks: A case 
+study on the French experience. IDDRI, Paris, France , 02/18, 38. 
+Rüdinger, A., Voss -Stemping, J., Sartor, O., Duwe, M., and Averchenkova, A. (2018). Towards Paris -compat-
+ible climate governance frameworks (pp. 1 -20). 
+ The landscape of national climate framework laws in Europe - A status update 
+
+ Torney, D. (2021). Comparative Assessment of the Climate Action and Low Carbon Development (Amend-
+ment) Act 2021 . Dublin City University Centre for Climate and Society. 
+Townshend, T., Fankhauser, S., Matthews, A., Feger, C., Liu, J., and Narciso, T. (2011). Legislating Climate 
+Change on a National Level. Environment: Science and Polic y for Sustainable Development , 53(5), 5 -17. 
+ 
+Velten, E. K., Calipel, C., Duwe, M., Evans, N., Felthöfer, C., Hagemann, M., Hecke, J., Kahlen, L., Lalieu, S., 
+McDonald, H., Pelekh, N., Pellerin -Carlin, T., Pestiau x, J., Ramotowski, K., Schöberlein, P., Schritt, H., 
+Śniegocki, A., Stefańczyk, A., and Tarpey, J. (2023). State of EU Progress to Climate Neutrality: An indi-
+cator -based assessment across 13 building blocks for a climate neutral future . European Climate Ne utral-
+ity Observatory (ECNO). 
+Velten, E. K., Evans, N., Spasova, D., Duwe, M., de la Vega, R., Duin, L., and Branner, H. (2022). Charting a 
+path to net zero: An assessment of national long -term strategies in the EU . Ecologic Institute. 
+Weaver, S., Lötjönen, S., and Ollikainen, M. (2019). Overview of national climate change advisory councils 
+(3/2019; p. 40). The Finnish Climate Change Panel. 
+World Bank. (2020). World Bank Reference Guide to Climate Change Framework Legislation . World Bank. 
+ 
+ The landscape of national climate framework laws in Europe - A status update 
+
+ Annex: Climate framework laws around the world 
+Country Title Year of last revision (year adopted) 
+Andorra Law 21/2018, of 13 September, on the promotion of the energy transition and climate change1 2018 
+Australia Climate Change Bill 2022 
+Canada Net-Zero Emissions Accountability Act 2021 
+Chile Framework Law on Climate Change 2022 
+Colombia Law 2169/2021 promoting low -carbon development 2021 
+Fiji Climate Change Act 2021 
+Gabon Ordinance No. 019/2021 relating to climate change 2021 
+Maldives Climate Emergency Act (Act no. 9/2021) 2021 
+Mexico General Law on Climate Change 2022 (2012) 
+New Zealand Climate Change Response (Zero Carbon) Amendment Act 2020 (2002) 
+Nigeria Climate Change Act 2021 
+South Korea Carbon Neutral Green Growth Framework Act to Tackle the Climate Crisis 2022 (2021) 
+Taiwan Climate Change Response Act 2023 (2015) 
+Additional laws without long -term emission reduction targets 
+Argentina Law 27520 on Minimum Budgets for Adaptation and Mitigation to Global Climate Change 2019 
+Albania Law no 155/2020 on climate change 2020 
+Bahamas Climate Change and Carbon Market Initiatives Act 2022 
+Mauritius Climate Change Act (no 11/2020) 2020 
+Montenegro Law on Protection from the Negative Impacts of Climate Change 2019 
+Nauru Environmental Management and Climate Change Act no 34/2020 2020 
+Nepal Environment Protection Act 9/2019 (2076) 2019 
+Philippines Climate Change Act (RA 9729) 2009 
+Serbia Law on Climate Change 2021 
+Uganda National Climate Change Act 2021 
+Source: Data compiled the Grantham Research Institute on Climate Change and the Environment (2023): Climate Laws of the World Database 
+Note: (1) Andorra’s law does not include an emission reduction target post -2030 but has multiple sectoral and emissions intensity targets for 2050. 
+ The landscape of national climate framework laws in Europe - A status update 
+
+Ecologic Institut e 
+ 
+FB: /Ecologic.Institute 
+Twitter: /EcologicBerlin

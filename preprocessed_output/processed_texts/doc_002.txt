@@ -1,0 +1,470 @@
+Carbon Border 
+Adjustment 
+Mechanism
+A new, green way of pricing carbon in imports to the EU
+EU Commission, Brussels, 
+March 2023
+Whole economy approach: 
+•A socially fair transition : tackling inequality and energy poverty through climate action,
+•A competitive transition : New opportunities through industrial and sectoral change 
+•A green transition : Protecting nature and increasing Europe’s natural carbon sink
+2European Green Deal
+CLIMATE
+ENERGYPRICING AND 
+TRADE
+TRANSPORTCarbon
+Border 
+Adjustment
+Mechanism
+Energy
+Taxation
+Directive
+CO2 
+emissions 
+standards for 
+cars and 
+vans Alternative 
+Fuels
+Infrastructure
+Directive
+FuelEU
+Maritime 
+Initiative ReFuelEU
+Aviation 
+Initiative Emissions 
+Trading 
+System
+…………
+Aviation 
+Maritime
+…………
+Land Use, 
+Land Use 
+Change, and 
+Forestry 
+RegulationEffort 
+Sharing
+Regulation
+Renewable 
+Energy
+DirectiveEnergy 
+Efficiency
+DirectiveEmissions 
+Trading 
+System for 
+road 
+transport and 
+buildings
+Social
+Climate 
+Fund
+•Innovation and 
+investment
+•NextGenerationEU
+•Revenues from extensión 
+and strengthening of ETS
+Forest 
+Strategy•A sustainable EU in a 
+sustainable world
+•Global engagement and 
+international cooperation 
+is key to address the 
+climate crisis
+3Delivering the European Green Deal 
+CBAM -Basic concepts
+As the EU raises its climate ambition and 
+differences in levels of ambition worldwide 
+persist….
+.. there is an increased risk of carbon leakage
+CBAM addresses this increased risk, as an 
+environmental measure in support of the fight 
+against global climate change.Why do we need CBAM?
+
+So, what is the aim of the CBAM?
+Prevent carbon 
+leakage to ensure 
+effectiveness of EU 
+climate policy 
+Contribute to decarbonisation 
+globally and to reaching climate 
+neutrality by 2050 Complements and 
+reinforces the EU ETS
+And how do we do this?
+Four key elements of design
+Mirror EU carbon pricing 
+through new mechanism 
+for imports into EU
+Addressed at companies, not 
+countries, based on actual carbon 
+content of imported goods.Comply with WTO
+and be fully in line with 
+international trade rules
+Focus on carbon intensive 
+sectors
+CBAM at a glance
+Focusing on actual carbon content in goods, not targeting countries! 
+Companies are subject to CBAM only on individual merits and taking into account:
+Actual carbon content of the imported goods;
+Level of free allocations of EU ETS allowances in the EU;
+Carbon price effectively paid in country of production. 
+Possible exemption due to participation/linking to EU ETS
+Companies buy and surrender certificates to cover carbon content via annual 
+declarations
+Background on the EU ETS
+The EUEmissions Trading System (EUETS) setanoverall
+limit(“cap”)onthe GHG emissions for the sectors
+included (currently power, industry, aviation, from 2024
+also maritime and from 2027 /8-new ETS2forbuildings,
+road transport andsmall industry) .
+The cap isreduced each year byasetamount based on
+thereductions targets, ensuring that total emissions fall.
+Within the cap, companies receive orbuy emission
+allowances, which they cantrade asneeded .
+Allowances are placed on the market either by
+auctioning orfree allocation .Then they aretraded on
+thesecondary market orsurrendered forcompliance .
+
+Carbon Price
+Equal carbon pricing
+EU businesses pay a carbon price on their production in the EU
+Imports will need to pay a carbon adjustment , corresponding to the price they would have 
+paid if the goods had been produced under the EU’s carbon pricing rules (ETS). 
+The CBAM charge will be adjusted to reflect the level of EU ETS free allowances allocated to 
+EU production of sectors in scope. 
+Nodouble pricing
+If a non -EU producer can show that they have already paid a carbon price for the 
+production of the imported goods in a third country, that amount can be deducted for the EU 
+importer. 
+CBAM -Implementation
+Sectors during Transitional Phase
+CEMENT ALUMINIUM IRON & STEEL
+In the first phase : 
+FERTILISER
+Includes some precursors and downstream products
+Selected on the basis of 3 criteria :
+High risk of carbon leakage (High carbon emissions; High level of trade)
+Covering more than >45% of CO2 emissions of ETS sectors
+Practical feasibility
+In a second stage , extended to other sectorsELECTRICITY HYDROGEN
+Sectors 
+Gradual implemnation of CBAM
+Gradual 
+phase -in 
+to allow 
+businesses 
+to adjustTransitional phase 
+October 2023 -
+December 2025Post -transitional phase 
+January 2026 onwards
+Monitoring and reporting
+Implementing rules to 
+be adopted by the 
+CBAM Committee Phase out of free allocation
+Phase in of CBAM
+Review
+
+Scope extension
+Indirect emissions
+Exports 
+Phasing out of free allocation / 
+Phasing -in of CBAM
+2026 2027 2028 2029 2030 2031 2032 2033 2034
+2.5p.p.2.5p.p.5p.p.12.5
+p.p.26p.p.12.5
+p.p.12.5
+p.p.12.5p.p.14p.p.
+2.5% 5% 10% 22.5%48.5% 61% 73.5%86% 100%
+Example in 2028
+EU Benchmark90%
+CBAMEmissionsEmissionsNo 
+CBAMNo 
+CBAM
+Emissions
+16Upstream Company production DownstreamScope 1
+Direct
+Emissions 
+generated from 
+the production of 
+CBAM goods at 
+installation levelInput material 
+under CBAM 
+scope 
+(in case of 
+complex 
+goods)Scope 3
+Indirect
+Raw materials, transportation 
+and distribution, previous 
+waste, etcElectricity consumed for 
+the production of CBAM 
+goodsScope 2
+Indirect
+Consumption, transportation 
+and distribution and end of lifeScope 3
+IndirectIn CBAM scope
+Not in CBAM scope
+Partially in CBAM 
+scope Emissions under CBAM scope
+Sectors during Transitional Phase
+During the transitional phase shall be reported
+Direct and Indirect emissions for all CBAM goods 
+included in Annex I of the Regulation
+During the definitive phase shall be reported
+Direct emissions for all CBAM goods included in Annex I 
+of the regulation
+Indirect emissions, for all CBAM goods except those that 
+may receive indirect cost compensation under the EU 
+ETS framework (Annex IA)
+The Commission will work towards the extension of 
+the list of goods for which indirect emissions shall 
+be reportedReporting emissions
+
+Obligation for a CBAM declarant
+Transitional phase 
+October 2023 -December 2025
+CBAM report containing the following:
+Total quantity of goods imported during 
+the preceding quarter
+Total embedded direct and indirect 
+emissions in those goods
+The carbon price due in the country of 
+origin for the embedded emissions
+Report to be submitted each quarterPost transitional phase
+January 2026 onwards
+CBAM declaration containing the following:
+Total quantity of goods imported during the 
+preceding calendar year
+Total embedded emissions in those goods
+Emissions to be verified by EU accredited 
+verifier
+Total number of CBAM certificated to be 
+surrendered
+The carbon price effectively paid in the country 
+of origin for the embedded emissions
+Declaration to be submitted each year
+De Minimis Rule
+CBAM shall not apply to:
+Goods imported in the customs territory which do 
+not exceed EUR 150 per consignment as specified 
+in Article 23 of Council Regulation (EC) No 
+1186/2009 
+Goods contained in the personal luggage of 
+travelers coming from a third country and that do 
+not exceed EUR 150
+150 €
+Rules for Representatives 
+Importer
+Indirect custom representative
+(Status: Importer)Subject to CBAM 
+obligations
+(status of 
+authorized 
+declarant
++ 
+reports/declarations
+)Direct custom representative
+(Status: Customs Declarant)
+CBAM 
+authorised 
+declarantNo representation by others -Own importImporter is the CBAM declarant 
+2025 review
+The Commission shall present 2 reports before the end of the transitional period:
+1)Containing an assessment on:
+a)possibility to extend the scope
+b)criteria to be used to identify the goods to be included in Annex I of the CBAM regulation
+c)technical requirements for calculating embedded emissions for newly added goods
+d)progress made in international discussions regarding climate action
+e)governance system, including the administrative costs
+f)impact of CBAM on goods listed in Annex I imported from developing countries
+g)methodology for the calculation of indirect emissions
+2)Identifying products that are further down the value chain of the goods listed in Annex I
+Regular reports
+Report to be submitted every two 
+years from the end of the transitional 
+period
+Report to be submitted before 1 
+January 2028, as well as every two 
+years thereafter1)Commission shall assess the impact of CBAM on: 
+I. carbon leakage, 
+II. sectors covered, 
+III. the internal market, 
+IV. Inflation
+V. effect on industries
+VI. international trade
+VII. least developed countries
+Additionally, as part of the same report, it shall also asses:
+I. the governance system
+II. the scope
+III. circumvention practices
+IV. application of penalties and aggregated information 
+on the emissions intensity per country of origin for 
+the products listed in Annex I2)Commission shall assess CBAM effectiveness in 
+addressing the carbon leakage risk for goods 
+produced in the EU for export to third countries 
+which do not apply the EU ETS or similar carbon 
+pricing mechanism
+List of Implementing and Delegated Acts
+Implementing Acts
+Art. 2(2) -Scope
+Art. 5(6) -Application for authorisation
+Art. 6(6) -CBAM declaration
+Art. 7(6) -Calculation of embedded emissions
+Art. 8(3) -Verification of embedded emissions
+Art. 9(4) -Carbon price paid in a third country
+Art. 14(6) -CBAM registry
+Art. 17(11) -Authorisation
+Art. 18(1) -Accreditation of verifiers
+Art. 21(3) -Price of CBAM certificates
+Art. 25(5) -Rules applicable to the importation of 
+goods
+Art. 31(2) -Free allocation of allowances under the EU 
+ETS and obligation to surrender CBAM certificates
+Art. 35(6) -Reporting obligationDelegated Acts
+Art. 2(10 & 11) -Scope
+Art. 18(3) -Accreditation of verifiers
+Art. 20(3) -Sale of CBAM certificates
+Art. 27(6) -Circumvention 
+CBAM and global 
+decarbonisation
+CBAM
+International 
+coordination of 
+climate action
+… climate action is urgent, so we need to act at all levels now
+… starting with CBAM goes hand in hand with our 
+engagement at international level 
+25CBAM is part of our 
+international cooperation on climate actions 
+International cooperation
+CBAM can be complemented by bilateral, 
+multilateral and international cooperation with 
+third countries
+Establishment of a dialogue between countries 
+with carbon pricing instruments (‘Climate Club’)
+Building on OECD’s work under IFCMA 
+paving the way for ambitious climate policies and 
+global carbon pricingCBAM
+Climate
+ClubGlobal 
+Carbon 
+Pricing
+CBAM -an internationally open mechanism
+CBAM is open to decarbonisation efforts in third countries and favours
+international coordination thanks to a five -tier system:
+Actual emissions methodology -CBAM is based on carbon content of the 
+imported goods.
+Deduction of the carbon price paid in country of production from the 
+adjustment on imported goods.
+Countries applying EU ETS or linked to it are excluded.
+Special rules on electricity for countries whose electricity market is “coupled” 
+with the EU internal market for electricity
+Methodology to 
+calculate CBAM 
+obligations 
+Sectors during Transitional PhaseThe CBAM methodology
+From installation to goods approach
+Production 
+energy intensive industries & 
+electricity generation & 
+commercial aviation
+Raw material Fuel
+Simple 
+goods
+CBAMETSETS and CBAM
+Complex 
+goods
+CBAM goods GHG emissions
+Natural 
+gas•The scope of the ETS is based on installations 
+carrying out activities leading to GHG emissions.
+•The scope of the CBAM is based on “goods”.
+•Therefore the CBAM methodology will translate 
+ETS methods for the calculation of emissions at 
+installation level into methods for imported goods
+•This means setting rules to narrow the system 
+boundaries from production sites down to the 
+level of goods
+•But a key difference between CBAM and ETS is 
+the distinction simple and complex goods 
+Sinter
+CokeIron oreHot metalSemi finished
+(e.g. blooms, 
+billets, Slabs)CO2
+CoalLimestoneOutside the scope of 
+CBAMPrecursors to steel under the CBAM scope Steel goods under the CBAM scope 
+Finished (e.g. 
+tubesPrecursors and simple goods Complex steel goods
+CO2 CO2 CO2An example of simple and complex goods: iron and steel 
+Verifiers
+Accreditation
+Any person accredited in accordance with Commission Implementing Regulation 
+(EU) 2018/2067 for a relevant group of activities shall be regarded as an accredited 
+verifier under the CBAM regulation.
+A national accreditation body may on request accredit a person as a verifier
+Role
+The verifiers shall:
+prepare a verification report establishing the embedded emissions of CBAM 
+goods
+visit installations on -site
+Calculation of the adjustment
+Actual emissions of 
+the installation 
+producing imported 
+product ( actual tones 
+of CO2 per tonne of 
+product produced)Emissions covered by 
+free allocation under 
+the EU ETS for the 
+relevant product 
+(tones of CO2 per 
+tonne of product 
+produced)Number of certificates Price of certificates
+Average 
+weekly price 
+of the EU ETS
+Obligation paid in 
+exporting country on 
+the basis of equivalent 
+carbon price applied in 
+that countryCBAM Obligation
+AdjustmentTotal tonnes 
+of imported 
+productObligation and 
+adjustment
+•When actual emissions cannot be adequately determined, embedded emissions shall be 
+determined by reference to default values expressed in tonnes of CO2eq per tonne of CBAM 
+good produced.
+•Default values shall be based on the average emission intensity of each exporting country for 
+each good under the scope of the proposed CBAM regulation, except electricity. Subject to 
+data restrictions groupings may be applied
+•Based on a top -down methodology (i.e. using the publicly available data) replicating as much 
+as possible the ETS approach 
+•Indicative datasets to be used: IPCC, OECD, IEA, international industry associations (e.g. 
+world steel and international aluminium institute)
+33Default values
+Next steps
+35Formal 
+adoption
+•May 2023Outreach
+•Implementing 
+regulation
+•Guidelines
+•Online 
+trainings
+•Videos
+•WebinarsTransition 
+period
+•1 October 
+2023Review
+•Methodology
+•Implementing 
+and delegated 
+acts
+•Reports
+•AnalysisFinal 
+CBAM
+•2026
+Thank you
+© European Union 2020
+Unless otherwise noted the reuse of this presentation is authorised under the CC BY 4.0 license. For any use or reproduction of elements that are 
+not owned by the EU, permission may need to be sought directly from the respective right holders.

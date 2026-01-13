@@ -1,0 +1,921 @@
+Innovations in blue 
+and green ammonia 
+productionAmmonia - 
+fuel for net-zero
+
+MAN Energy Solutions
+Ammonia - fuel for net-zero
+List of technical abbreviations
+ATR Autothermal reforming
+avg. Average
+BAT Best available techniques
+CCS Carbon capture and storage
+CCUS Carbon capture, utilization and storage
+CH 3OH Methanol
+CH 4 Methane
+CO 2 Carbon dioxide
+CO 2e Carbon dioxide equivalent
+HFO Heavy fuel oil
+EJ Exajoule = 1018 joules
+FS Flow switch
+FSS Fuel supply system
+FVT Fuel valve train
+GHG Greenhouse gas
+GJ Gigajoule = 109 joules
+HC Hand controller
+HP High pressure
+LGI Liquid gas injection
+LH 2 Liquid hydrogen
+LNG Liquefied natural gas 
+LPG Liquefied petroleum gas
+LS Level switch
+LT Level transmitter
+MGO Marine gas oil
+Mtpa Million metric tons per annum
+NG Natural gas
+N2O Nitrous oxide
+NO x Nitrogen oxides
+NH 3 Ammonia
+PEM Proton exchange membrane
+POX Partial oxidation
+PV Photovoltaic
+RWGS Reverse water-gas shift
+SCR Selective catalytic reduction 
+SMR Steam methane reformingList of standard abbreviations
+approx. approximately
+e.g. for example
+et al. et alii (and others)
+fig. figure
+i.e. id est (that is)
+p. page
+tab. table
+
+Synopsis
+This white paper examines ammonia’s role in 
+future energy solutions, emphasizing its potential 
+as a carbon-free fuel and energy carrier. Currently 
+central to the agricultural and industrial sectors, 
+ammonia can revolutionize maritime transportation, 
+power generation, and hydrogen storage due to 
+its high energy density and zero-carbon emissions. 
+The transition to ammonia involves significant 
+technical and economic challenges, particularly 
+in production and infrastructure adaptation.Author
+Christian Rufer 
+MAN Energy Solutions 
+Schweiz AG,
+Zurich, Switzerland
+ 
+Head Business Intelligence 
+and Business Development
+
+Published in October 2024
+To realize ammonia’s full potential 
+as a green fuel and achieve net-zero 
+emissions by 2050, concerted efforts 
+are required. Stakeholders across the 
+spectrum must commit to continued 
+innovation, collaboration, and sustainable 
+practices. By investing in research, 
+upscaling renewable energy, building 
+infrastructure, enhancing safety, 
+promoting collaboration, implementing 
+supportive policies, educating 
+stakeholders, and fostering innovation, 
+we can pave the way for a sustainable 
+future where all renewable energy 
+sources work together in harmony. There 
+is urgency to this matter. The time to act 
+is now - let us embrace the concept of 
+ammonia as the green fuel of the future 
+and work together to create a cleaner, 
+more sustainable world. This paper aims to explore the current 
+and future uses of of ammonia to 
+identify challenges, propose solutions, 
+encourage sustainable practices and 
+promote innovation. We will analyze 
+the historical and projected demand 
+for ammonia, examine ammonia 
+production methods, and highlight 
+case studies and projects. Finally we 
+will recommend strategies for future 
+development.
+
+Table of contents
+Various uses of ammonia 6
+Zero-carbon fuel with a bright future 8
+Ramping up ammonia production 12
+Big challenges and innovative solutions 16
+Conclusion 19
+Figures 21 
+ 
+Tables 21 
+ 
+Bibliography 22
+
+MAN Energy Solutions
+Ammonia - fuel for net-zero
+Various uses 
+of ammonia 
+From farming to fuels
+Nitrogen fertilizers, including products 
+like urea, ammonium nitrates, ammonium 
+sulfate, ammonium phosphates, and 
+nitrogen solutions, are essential for 
+enhancing soil fertility and boosting crop 
+yields. Various industrial applications, 
+such as the production of explosives 
+(ammonium nitrates), acrylic fibers and 
+plastics (acrylonitrile), nylon (hexam -
+ethylenediamine and caprolactam), 
+polyurethanes (isocyanates), and a 
+range of amines and nitriles, account 
+for the remaining, mostly industrial, 
+uses of ammonia. Ammonia’s future uses are expected 
+to expand beyond its traditional role 
+in agriculture and industry, driven by 
+its potential as an energy carrier. Liquid 
+ammonia has a relatively high energy 
+intensity of 18.6 MJ / kg and can be used 
+as a carbon-free fuel and energy storage 
+medium. For example, newbuild or 
+retrofit ammonia ship engines provide 
+a viable pathway to decarbonize the 
+maritime industry, a hard-to-abate Ammonia production has been a cornerstone of modern 
+agriculture, supporting global food production by providing 
+an essential component for nitrogen fertilizers, which 
+account for nearly 70 % of the world’s ammonia market. 
+sector responsible for about 3 % of 
+global greenhouse gas (GHG) emissions. 
+Furthermore, ammonia can be used as 
+a hydrogen carrier, circumventing the 
+need to liquefy hydrogen at cryogenic 
+temperatures and maintain those 
+temperatures for transportation and 
+storage. Ammonia also has potential 
+as a fuel for stationary power generation, 
+where it can be co-fired with coal 
+or used independently in dedicated 
+ammonia-burning power plants.
+Expected ammonia demand in mtpa
+2020 2025 2030 2035 2040 2045 2050800
+
+Fertilizer Industrial Maritime Hydrogen carrier Power generation
+Fig. 2: Ammonia 
+production with 
+compressors and 
+MAN DWE® reactorsFig. 1: Expected ammonia demand net-zero emission scenario 7
+Historical demand and 
+future expectations
+In 2020, global ammonia demand 
+was approximately 183 million metric 
+tons (see IRENA & AEA 2022). Until 
+now, ammonia production has primarily 
+been driven by the necessity to provide 
+fertilizers to increase agricultural 
+yields, and in the future a significant 
+part of the demand will remain tied 
+to food production for a growing 
+world population.
+However, the use of ammonia as 
+a carbon-neutral fuel for maritime 
+transportation, power generation, 
+and as a hydrogen carrier will exert 
+extreme strains on the supply of 
+ammonia, its price, and the allocation 
+of its use. Fertilizer supply, and thus 
+food production, should not be put 
+at risk; therefore, careful policy 
+measures and adequate construction 
+of ammonia capacity are paramount to 
+avoid fertilizer supply chain disruptions. 
+Clearly, industry is supporting the 
+emergence of ammonia as an energy 
+carrier with over 290 mtpa of announced 
+green and blue ammonia projects 
+(see IRENA & AEA 2022; IEA 2023).
+Difference between gray, blue, 
+and green ammonia
+Gray ammonia is produced using 
+hydrogen derived from fossil fuels 
+through traditional methods, where 
+the excess carbon is released into 
+the atmosphere. Blue ammonia refers 
+to ammonia production where the 
+excess carbon is captured and 
+sequestered in secure geological 
+formations. Finally, green ammonia 
+describes ammonia produced with 
+hydrogen generated by water 
+electrolysis powered by renewable 
+energy, making it carbon neutral.
+
+MAN Energy Solutions
+Ammonia - fuel for net-zero
+As a zero-carbon fuel, ammonia produces no CO 2 emissions 
+in combustion and thus addresses the urgent need to reduce 
+GHG emissions in difficult-to-decarbonize sectors such as 
+the maritime industry, power generation, and others. Its 
+production can leverage renewable energy sources, thus 
+ensuring a sustainable, decarbonized fuel supply.Zero-carbon fuel 
+with a bright future
+Use in power generation
+Progress is being made in developing 
+ammonia as a fuel for power generation 
+as a supplemental fuel in coal power 
+plants, for direct use in gas turbines 
+and engines, or with decomposition 
+prior to firing. The challenges of ammonia 
+combustion in this area are similar 
+to those for the maritime industry.MAN Energy Solutions is at the forefront 
+of using ammonia as a fuel for power 
+generation as a result of leveraging its 
+combined experience in the development 
+of two-stroke and four-stroke dual fuel 
+engines with outputs of up to 26 MW, 
+targeting industrial power generation 
+and, in a later step, utilities.
+
+Maritime transportation
+Ammonia is recognized as a promising 
+fuel for maritime transportation due 
+to its overall favorable characteristics 
+as a decarbonized fuel. Ammonia 
+could account for up to 44 % of maritime 
+fuel consumption by 2050, requiring 
+the additional production of about 200 
+million tons of renewable ammonia per 
+year by 2050 (see Raucci et al. 2023).
+Tab. 1: Properties of maritime fuelsPropertyAmmonia 
+(NH 3 at -33 °C)Marine gas oil 
+(MGO)Liquefied natural 
+gas (LNG)Heavy fuel oil 
+(HFO)Methanol 
+(CH 3OH)Liquefied petroleum 
+gas (LPG)Liquid hydrogen 
+(LH 2)
+Lower heating value MJ/kg 18.6 42.7 50 40.5 19.9 46 120
+Energy Density MJ / m³ 12,700 35,700 21,200 36,500 14,900 26,700 8.5
+Relative tank size, MGO = 100 % 280 % 100 % 170 % 97 % 240 % 130 % 420 %
+Heat of vaporization kJ / kg 1,371 250 510 230 1,100 426 446
+Autoignition temperature °C 651 250 - 300 537 250 - 400 470 450 500
+Flame propagation speed cm/s 7.2 40 36 - 42 34 37- 43 46 265 - 325
+CO 2 emissions kg CO 2 / GJ 0 74 55 77 68 63 0
+NO x emissions Low (can be zero) High Low High Moderate Low Low
+Typical uncombusted fuel Very low (NH 3 slip) 1- 2 % 0.1- 0.5 % 2 - 3 % 0.5 -1 % 0.5 -1 % Very lowAmmonia’s relatively high energy density 
+compared to hydrogen makes it a more 
+practical option for long-distance 
+shipping, reducing the need for frequent 
+refueling stops. Advanced combustion 
+technologies and after-treatment 
+systems can mitigate concerns over 
+ammonia slip and nitrogen oxide (NO x) 
+emissions, making it a cleaner 
+Pros and cons of ammonia 
+as a fuel in maritime transport 
+The main strength of ammonia is that it 
+is carbon-free: its combustion does not 
+produce CO 2. Furthermore, its nitrous 
+oxide (N 2O) content can be reduced in 
+advanced catalytic reduction systems. 
+Being a high-density fuel is critical 
+for long-distance maritime transport. 
+Another key advantage is that there 
+is a mature ammonia industry: the 
+handling of ammonia is known and 
+proven, it is produced and transported globally. Leveraging the existing supply 
+chains to upscale storage (bunkering) 
+and distribution should be relatively 
+simple and fast. 
+On the other hand, ammonia is toxic at 
+low concentrations and must be kept 
+refrigerated or pressurized for storage. 
+It is difficult to ignite, with slow flame 
+propagation and high evaporation 
+enthalpy. From an environmental standpoint, its combustion produces 
+N2O, a GHG, and the production of 
+green / blue ammonia is not entirely 
+carbon-free across its entire supply 
+chain. Large investments in renewable 
+ammonia production are necessary 
+to meet demand and scale up the 
+technology. It will take time to reach 
+cost parity between renewable ammonia 
+and current fuels to drive growth.alternative to traditional fossil fuels. 
+Furthermore, the existing global 
+infrastructure for ammonia production 
+and transport, primarily developed for 
+agricultural use, can be adapted for 
+maritime applications, facilitating a 
+smoother transition (see DNV 2023; 
+IRENA 2021).
+MAN B&W 
+engine 
+ 
+From NH3
+supply s ystem
+Cooling waterNitrogen
+supplyGas
+safe
+areaGas
+safe
+areaDry air inletVent air outlet
+N2 vent
+Heater/
+coolerHP
+pumpKnock-out
+drum (engine)
+Knock-out
+drum (system)Ammonia catch
+system
+FVT
+FSSRecirculation 
+system
+Fig. 4: Ammonia supply system block diagram with main componentsFig. 3: One-cylinder test setup with high pressure fuel oil 
+and liquid ammonia injectors
+1 Hydraulic oil
+2 De-aeration point 
+3 Fuel booster injection valve 
+4 High pressure hydraulic oil pipes
+5 Hydraulic accumulator
+6 Hydraulic control valves 
+7 Ammonia double-walled pipe inlet
+8 Ammonia double-walled pipe outlet1
+
+MAN Energy Solutions
+Ammonia - fuel for net-zero
+Engine and fuel supply 
+developments
+The use of ammonia poses several 
+challenges. First, ammonia is toxic 
+and therefore more difficult to handle 
+than other hydrocarbon fuels. Second, 
+ammonia’s combustion characteristics 
+are poor due to the high ignition energy 
+required, slow burn rate, and high 
+enthalpy of evaporation. Third, its 
+emission characteristics are distinct 
+from conventional engines, necessitating 
+specific solutions to remove unburnt 
+ammonia and nitrous oxides from the 
+exhaust. Fourth, the engine must have 
+dual fuel capabilities because the 
+bunkering infrastructure for ammonia 
+is currently nonexistent (see Raucci 
+et al. 2023).
+MAN Energy Solutions has addressed 
+each of these challenges in a 
+comprehensive development program. 
+Successful ammonia combustion tests 
+were conducted on a MAN Energy 
+Solutions two-stroke engine at MAN’s 
+Research Centre in Copenhagen in 
+July 2023.
+
+Based on proven technologies 
+The ammonia fuel supply system (FSS) 
+is based on the LPG system but includes 
+additional features to address ammonia’s 
+toxicity. Extensive safety measures were 
+integrated into the engine test, including 
+double-walled piping, ammonia sensors, 
+system ventilation, and specialized water 
+screens to contain any potential leaks.
+The project also involved the 
+development of advanced emission 
+control technologies, using selective 
+catalytic reduction (SCR) to manage 
+NO x and N 2O emissions and ensure 
+compliance with environmental 
+regulations.
+Tab. 2: Technical comparison between RWGS reactors and ammonia crackersHydrogen carrier for storage 
+and transportation
+The demand for hydrogen in industrial 
+hubs is anticipated to increase and 
+displace natural gas (NG) during the 
+global energy transition. Green ammonia 
+is a promising hydrogen carrier due to 
+its high hydrogen content relative to its 
+weight, simple liquefaction process, 
+lack of need to return the carrier fluid, 
+and the existing global infrastructure 
+and international trade. To reduce the 
+demand for hydrogen, many large and 
+efficient industrial-scale ammonia 
+cracking plants are in planning at the 
+ports of destination, in particular in 
+northern Europe and Japan.
+Ammonia decomposition is not only 
+an endothermic reaction but also 
+requires energy to vaporize and heat 
+the ammonia before it enters the reactor. 
+Energy losses to the environment are 
+substantial. Typically, ammonia provides 
+this energy to the fired furnace, leading 
+to a considerable loss of product. 
+Therefore, the development of large-scale 
+ammonia crackers employing renewable 
+energy instead of ammonia is ongoing 
+(see Trangwachirachai et al. 2024).Reverse water-gas shift (RWGS) 
+reactors and ammonia cracking 
+reactors share several similarities in 
+terms of their operational principles, 
+conditions, and catalytic requirements. 
+Both technologies will find application 
+in the quest for renewable energy, 
+petrochemicals, and plastics.MAN Energy Solutions is investigating 
+the benefits of using renewable electric 
+energy instead of burning ammonia. The 
+goal is to develop an ammonia cracker 
+by leveraging the knowledge gained from 
+RWGS reactors. An important feature 
+will be the provision of the heat of 
+reaction by molten salts heated with 
+renewable electric power and introduced 
+into the reactor with a heat exchanger. RWGS reactors Ammonia crackers
+Operating temperature 500 - 550 °C 500 - 550 °C
+Operating pressure 1 to 30 bar < 10 bar
+Reaction type Endothermic Endothermic
+Reactants CO₂, H₂ NH₃
+Products CO, H₂O H₂, N₂
+Phase Gas Phase Gas Phase
+Applications CO₂ utilization, syngas production Hydrogen production, fuel cells, 
+chemical synthesis
+Products, if green 
+hydrogen is usedGreen methanol, Fischer Tropsch Fuels, 
+Dimethyl ether (DME), Oxo alcohols Green hydrogenThese tests provided promising 
+data on combustion stability and 
+pilot oil usage:
+ -Pilot oil consumption is similar to that 
+of other liquid gas injection (LGI) engines
+ -NO x emissions are similar to, 
+or slightly lower than, those 
+of engines operating on MGO
+ -Ammonia emissions are considerable 
+and require removal by SCR
+ -N2O emissions are very low Furthermore, Mitsui E&S and 
+MAN Energy Solutions have partnered 
+to develop, test, and commercialize 
+a dual fuel ammonia engine targeted 
+for delivery in 2024. The engine design 
+is based on the MAN B&W ME-LGI 
+engine design principle, ensuring 
+safety through double-wall pipes with 
+gas detection, a proven concept from 
+existing dual fuel engines. A high 
+pressure SCR system is employed to 
+address NO x emissions, as traditional 
+exhaust gas recirculation methods are 
+ineffective for ammonia combustion.
+Ammonia
+reactor
+Ammonia
+condensor
+NH 3 storageRecycle compressorSyngas feed compressor
+Syngas feed:
+3H 2 + 2N 2 ~30 bar 200 bar
+500 °C400 °C
+NH3 refrig. compressor
+Fig. 5: Haber-Bosch process diagram12
+MAN Energy Solutions
+Ammonia - fuel for net-zero
+Ramping up 
+ammonia production
+Present and future conditions
+The current ammonia production of 
+approximately 190 million metric tons 
+per year accounts for about 8.6 EJ or 
+2 % of the world’s total energy demand. 
+Today, every ton of ammonia requires 
+an average of 45 GJ and emits 2.4 tons 
+of CO 2e. With the use of best available 
+techniques (BAT), the energy intensity 
+could be lowered to about 30 GJ per ton 
+of ammonia and the carbon intensity 
+reduced to 1.7 tons of CO 2e; with CCUS, 
+the carbon intensity could be reduced 
+to about 0.6 tons of CO 2e per ton of 
+ammonia. Further improvements are expected by producing hydrogen 
+through electrolysis and sourcing 
+electric power from solar PV (0.6 tons) 
+or wind power (0.2 tons of CO 2e per 
+ton of ammonia). 
+The Haber-Bosch process is at the 
+core of all industrial ammonia synthesis 
+processes. The synthesis of ammonia 
+is the same regardless of the hydrogen 
+source. High temperatures (400 - 650 °C) 
+are needed to activate the reaction in 
+the presence of a catalyst, and high The worldwide effort to decarbonize is driving 
+demand for alternative fuels. As a CO 2-free fuel, 
+ammonia is an attractive option for the chemical, 
+maritime, and energy sectors. 
+pressure (100 - 400 bar) is necessary 
+for the reaction to occur at an 
+economically viable speed for industrial 
+production. The overall reaction is 
+exothermic, thereby producing enough 
+energy to power the process, although 
+some electricity is required for motors 
+and other equipment. Only a proportion 
+of hydrogen is converted after cycling 
+through the reactor, necessitating a 
+large recycle flow of the unconverted 
+hydrogen and nitrogen after the 
+ammonia condenser.
+Steam
+Steam
+methane
+reformingSecondary
+reformingShift reactor
+Shift reactorSeparationMethanationAir compressor
+400 - 500 °C
+800 °C~35 bar
+1,200 °C
+1,000 °C
+200 °CSyngas compressor
+3H 2 + 2N 2 Natural gas
+CCS compressor
+CO 2CO 2
+Fig. 6: Integrally geared air compressor
+Fig. 7: SMR process diagram13
+Steam methane reforming (SMR)
+SMR is the primary method for producing 
+hydrogen used in ammonia production. 
+This process is well-established and 
+widely adopted due to its efficiency and 
+existing infrastructure. It involves the 
+reaction of methane (CH₄), typically 
+derived from NG, with steam (H 2O) to 
+produce syngas, a mixture primarily 
+of hydrogen (H 2) and carbon monoxide 
+(CO). The overall process can be 
+broken down into the following steps. 
+ -Reforming 
+In the presence of a catalyst, methane 
+reacts with steam at high temperatures 
+(700 -1,000 °C) to produce syngas: 
+CH 4+H 2O→CO+3H 22. -Water-gas shift reaction 
+The carbon monoxide in the 
+syngas reacts in two stages 
+(high temperature and low 
+temperature) to maximize the 
+conversion of CO into CO 2 
+and H₂: CO+H 2O→CO 2+H 2. 
+ -Secondary reforming 
+The secondary reformers typically 
+operate at 35 bar. The reforming air at 
+this pressure level is most efficiently 
+provided by an integrally geared 
+compressor, for which MAN Energy 
+Solutions has extensive experience in 
+various processes. Air is introduced 
+into the reformer where the oxygen in 
+the air reacts with the methane, 
+producing additional hydrogen while 
+the nitrogen remains in the gas 
+mixture, thus providing the required 
+nitrogen for the Haber-Bosch 
+process. Impurities from the air, such 
+as argon and residual oxygen, must 
+be removed in a subsequent step. -CO₂ removal 
+The CO₂ produced in the shift 
+reactions is removed using amine 
+absorption and / or pressure swing 
+absorption methods.
+Fig. 8: Block diagram of ATR including air separation plant
+Fig. 9: RIKT main air compressor and RG booster air compressor 
+for a 1500 ton oxygen per day air separation plant
+Air
+compressorBooster air compressor
+Main heat
+exchangerHP column
+Air separation unitAutothermal
+reformer
+HP columnReboilerPurification
+Expansion
+turbineSyngas
+compressorNatural gasSteamOxygenNitrogen
+~35 bar
+CO 2CO 2Shift
+reactor
+Shift
+reactor SeparationMethanation
+200 °C3H 2 + 2N 2 
+CCS compressor14
+MAN Energy Solutions
+Ammonia - fuel for net-zero
+Autothermal reforming (ATR)
+ATR is used in some ammonia plants 
+(to a lesser extent than SMR). It is 
+typically chosen for its thermal efficiency 
+and flexibility with heavy hydrocarbon 
+feedstocks, including coal or biomass. 
+The overall process can be broken 
+down into the following steps. 
+ -Reforming and partial 
+oxidation (POX) 
+Combines the elements of SMR and 
+POX in the same reactor, simplifies 
+heat management, and leads to a 
+more compact and integrated 
+process design. 
+ -Water-gas shift reaction 
+Similar to SMR. 
+ -Secondary reforming 
+Not necessary. High purity nitrogen 
+from the associated air separation 
+plant is used. 
+ -CO 2 removal 
+Similar to SMR.Air separation plants are typically built 
+with an isothermal main air compressor 
+delivering air at about 5.5 bar to the 
+cryogenic separation column. Part of this 
+air is further compressed with a booster 
+air compressor to a pressure sufficiently 
+above the thermal pinch point in a heat 
+exchanger. Here, the air is liquefied while 
+the liquid oxygen is vaporized at the 
+pressure needed by the primary 
+reformer, typically around 35 bar.In conclusion, ATRs need less fuel and 
+the conversion rate to hydrogen is higher 
+than in an SMR, thereby reducing total 
+CO 2 emissions. An additional investment 
+in an air separation plant with motor- 
+driven compressors is necessary to 
+deliver the oxygen. The pure nitrogen 
+produced provides a clean feedstock 
+for ammonia synthesis and avoids 
+the need for removal of impurities 
+such as argon and other rare gases.
+Fig. 11: Modularized 10 MW PEM electrolyzer with materials and energy balanceFig. 10: Compression services in green ammonia plantsDesalinationCompressor
+ExpanderThermal 
+energy 
+storage
+Purified water
+Waste heatH2 feed 
+compressorElectrolyzerSyngas feed 
+compressorRecycle compressor
+Ammonia
+reactor
+NH 3 refrig. 
+compressor
+Liquid NH 3Air
+compressorNitrogen
+ Air separation
+Heat pump15
+Hydrogen electrolysis
+The carbon intensity of hydrogen 
+production using SMR or ATR can be 
+significantly reduced by capturing and 
+sequestering carbon dioxide emissions. 
+This is frequently denominated as blue 
+hydrogen as opposed to green hydrogen. 
+With the push towards producing 
+renewable electricity via solar and wind, 
+the emissions intensity of hydrogen can 
+be lower than what is possible using 
+carbon ca pture and storage. Electricity 
+from most power grids still has high 
+emission factors, therefore, abundant 
+renewable power from wind, solar PV, 
+hydropower, and nuclear power is 
+necessary to produce ammonia with 
+the lowest possible GHG emissions.
+Alkaline electrolyzers produce hydrogen 
+at near atmospheric pressure, far below 
+the feedstock delivery pressure from 
+SMRs or ATRs (30 to 35 bar). For this 
+reason, the hydrogen feed compressors, 
+nitrogen delivery pressure from the 
+air separation plant, and syngas feed 
+compressors must be optimally 
+reconfigured to boost the hydrogen 
+and nitrogen up to the syngas reactor 
+pressure in the most efficient and 
+cost-competitive manner. Here, MAN Energy Solutions has 
+substantial experience in all 
+compression services to determine 
+the best configuration.
+Electrolysis needs large amounts of 
+purified water that can be provided by 
+thermal desalination plants employing 
+heat pumps that source the low 
+temperature heat from the electrolyzers. 
+In addition, large amounts of low- 
+temperature heat from the electrolyzers 
+provide an opportunity to stabilize 
+intermittent renewable energy with 
+thermal batteries, where MAN Energy 
+Solutions is providing compressors 
+for grid-scale energy storage. PEM electrolyzers deliver high-purity 
+hydrogen at a pressure similar to 
+SMRs, thereby reducing the need 
+for configuration changes to the 
+compression systems. In addition, 
+PEM electrolyzers have quick response 
+times and better integration with grids 
+predominantly powered by renewable 
+energy sources. MAN Energy Solutions' 
+subsidiary, Quest One, focuses on 
+producing hydrogen at higher delivery 
+pressures, which reduces compression 
+requirements for feeding hydrogen into 
+pipeline networks and many industrial 
+processes.
+
+MAN Energy Solutions
+Ammonia - fuel for net-zero
+Big challenges 
+and innovative 
+solutions
+The ramp-up of low-emission ammonia production faces 
+several challenges. These challenges can be categorized 
+into technical, economic, regulatory, and infrastructure 
+issues. MAN Energy Solutions can provide all the 
+technologies necessary for large-scale production.
+Production routeNatural gas 
+SMRNatural gas 
+ATRCoal 
+gasificationSMR with 
+CCS @ 95 %ATR with 
+CCS @ 95 % Coal with CCS Electrolysis
+Energy intensity (GJ per ton NH 3)
+Feedstock 21 25.8 18.6 21 25.8 18.6 0
+Fuel 11.1 2.1 15.1 11.1 2.1 15.1 0
+Electricity 0.3 1 3.7 1 1.5 4.9 36
+Steam -4.8 0 -1.3 -3.1 0 2.6 -1.6
+Gross 32.4 28.9 37.4 33.1 29.4 38.6 36
+Net 27.6 28.9 36.1 30 29.4 41.2 34.4
+Direct CO 2
+tons CO 2e per ton NH 3 1.8 1.5 3.2 0.2 0.2 0.2 0
+Indirect CO 2 emissions (tons CO 2e per ton NH 3)
+Plant & maintenance 0.025 0.025 0.028 0.029 0.029 0.033 0.015
+Feedstock and fuel 0.2 0.17 0.32 0.2 0.17 0.32 0
+Total incl. electricity at world avg. 1.79 1.85 3.93 0.37 0.54 1.23 4.3
+Total incl. electricity with wind 1.98 1.74 3.57 0.4 0.36 0.55 0.21
+Tab. 3: Emission intensity of various ammonia production routes
+
+Important steps in the 
+energy transition 
+Transitioning to renewable energy 
+sources to power the Haber-Bosch 
+process is challenging due to the 
+intermittency and current costs of 
+renewables. The intermittency of solar 
+and wind power necessitates the 
+development of reliable storage 
+solutions for electric power to ensure 
+a stable supply for the electrolyzers, 
+as well as hydrogen storage to provide 
+a constant feedstock flow to the 
+ammonia synthesis plant. 
+The initial capital expenditure for 
+setting up green ammonia production 
+plants, including renewable energy 
+infrastructure, is considerable and 
+poses a hurdle when compared 
+to conventional or blue ammonia 
+production. While renewable power 
+generation has shown significant 
+economies of scale, electrolyzers 
+must follow suit to close the capital 
+cost gap. 
+Blue ammonia should not be produced 
+for fuel use, since NG can be used 
+more efficiently and at a lower cost by 
+industrial users. Blue ammonia should 
+target fertilizers and current industrial 
+uses in an effort to curb the high 
+emissions of conventional plants. Competing with conventional ammonia 
+production, which is cheaper due to 
+established infrastructure and lower costs 
+of NG, presents a significant economic 
+barrier. Effective regulatory and policy 
+measures must be enacted and 
+followed globally to address this issue. 
+Finally, green ammonia is not the 
+production route with the lowest 
+GHG emissions if it is powered by 
+grid electricity with an emissions 
+factor above 200 g / KWh. Dedicated 
+renewable power generation is 
+necessary for green ammonia 
+to fulfill its promise.
+
+Conclusion
+Achieving net-zero emissions requires collaboration 
+across sectors. This is true for ammonia as well. 
+Governments, industries, research institutions, and 
+international organizations must work together to 
+share knowledge, resources, and technologies. 
+Upscaling renewable energy is 
+essential. Renewables must provide 
+a cost-competitive energy supply that 
+will serve as the foundation for rapidly 
+increasing the production of sustainable 
+fuels and feedstocks. In the case of 
+ammonia, the existing infrastructure 
+must be extended with a focus on safety. 
+Sharing knowledge and collaborating 
+across sectors through partnerships 
+and joint ventures multiplies the reach 
+and speed of our progress towards a 
+sustainable future.The worldwide effort to decarbonize 
+is driving demand in the chemical, 
+maritime, and energy sectors. As a 
+CO 2-free fuel, ammonia is an attractive 
+option as fuel and hydrogen carrier. 
+MAN Energy Solutions can provide 
+all the key technologies necessary 
+for safe and cost-effective blue and 
+green ammonia production. 
+
+Tables
+Tab. 1: Properties of maritime fuels (see MAN Energy Solutions 2024b)
+Tab. 2: Technical comparison between RWGS reactors and ammonia crackers (see MAN Energy Solutions 2024c)
+Tab. 3: Emission intensity of various ammonia production routes (see MAN Energy Solutions 2024h)Figures
+Fig. 1: Expected ammonia demand net-zero emission scenario (see IRENA & AEA 2022)
+Fig. 2: Ammonia production with compressors and MAN DWE® reactors (see MAN Energy Solutions 2024a)
+Fig. 3: One-cylinder test setup with high pressure fuel oil and liquid ammonia injectors (see MAN Energy Solutions 2023a)
+Fig. 4: Ammonia supply system block diagram with main components (see MAN Energy Solutions 2023b)
+Fig. 5: Haber-Bosch process diagram (see MAN Energy Solutions 2024d)
+Fig. 6: Integrally geared air compressor (see MAN Energy Solutions 2018)
+Fig. 7: SMR process diagram (see MAN Energy Solutions 2024e)
+Fig. 8: Block diagram of ATR including air separation plant (see MAN Energy Solutions 2024f)
+Fig. 9: RIKT main air compressor and RG booster air compressor for a 1500 ton oxygen per day air separation plant 
+(see MAN Energy Solutions 2011)
+Fig. 10: Compression services in green ammonia plants (see MAN Energy Solutions 2024g)
+Fig. 11: Modularized 10 MW PEM electrolyzer with materials and energy balance (see Quest One 2024)
+
+MAN Energy Solutions
+Ammonia - fuel for net-zero
+Bibliography
+Cetinkaya, E., Dincer, I., Naterer, G.F. (2012). Life cycle assessment of various hydrogen production methods. International Journal 
+of Hydrogen Energy. Volume 37, Issue 3. Available from:  
+DNV (2023). Energy Transition Outlook 2023. Maritime Forecast to 2050. Bærum, Norway: Det Norske Veritas. Available from: 
+ 
+IEA (2021). Ammonia Technology Roadmap. Paris, France: International Energy Agency. Available from: 
+windows.net/assets/6ee41bb9-8e81-4b64-8701-2acc064ff6e4/AmmoniaTechnologyRoadmap.pdf 
+IEA (2023). Hydrogen Projects Database. Paris, France: International Energy Agency. Available from: 
+data-and-statistics/data-product/hydrogen-production-and-infrastructure-projects-database
+IRENA (2021). A pathway to decarbonise the shipping sector by 2050. Abu Dhabi, UAE: International Renewable Energy Agency. 
+Available from:  
+IRENA & AEA (2022). Innovation Outlook: Renewable Ammonia. Abu Dhabi, UAE: International Renewable Energy Agency; 
+Brooklyn, USA: Ammonia Energy Association. Available from: 
+Publication/2022/May/IRENA_Innovation_Outlook_Ammonia_2022.pdf 
+IRENA & AEA (2022). Innovation Outlook: Renewable Ammonia. Abu Dhabi, Expected ammonia demand net-zero emission 
+scenario
+MAN Energy Solutions (2011): RIKT main air compressor and RG booster air compressor for a 1500 ton oxygen per day air 
+separation plant. Augsburg: MAN Energy Solutions SE
+MAN Energy Solutions (2018): Integrally geared air compressor. Augsburg: MAN Energy Solutions SE
+MAN Energy Solutions (2020): MAN B&W two-stroke engine operating on ammonia. Copenhagen, Denmark: MAN Energy 
+Solutions Germany. Available from: 
+operating-on-ammonia-eng.pdf?sfvrsn=c4bb6fea_4 
+MAN Energy Solutions (2023a): One-cylinder test setup with high pressure fuel oil and liquid ammonia injectors. 
+Augsburg: MAN Energy Solutions SE
+MAN Energy Solutions (2023b): Ammonia supply system block diagram with main components. 
+Augsburg: MAN Energy Solutions SE
+MAN Energy Solutions (2024a): Ammonia production with compressors and MAN DWE® reactors. Augsburg: 
+MAN Energy Solutions SE
+MAN Energy Solutions (2024b): Properties of maritime fuels. Augsburg: MAN Energy Solutions SE
+MAN Energy Solutions (2024c): Technical comparison between RWGS reactors and ammonia crackers. 
+Augsburg: MAN Energy Solutions SE
+
+MAN Energy Solutions (2024d): Haber-Bosch process diagram. Augsburg: MAN Energy Solutions SE
+MAN Energy Solutions (2024e): SMR process diagram. Augsburg: MAN Energy Solutions SE
+MAN Energy Solutions (2024f): Block diagram of ATR including air separation plant. Augsburg: MAN Energy Solutions SE
+MAN Energy Solutions (2024g): Compression services in green ammonia plants. Augsburg: MAN Energy Solutions SE
+MAN Energy Solutions (2024h): Emission intensity of various ammonia production routes. Augsburg: MAN Energy Solutions SE
+Morante, E. (2022). Roadmap to decarbonize the shipping sector: Technology development, consistent policies and investment in 
+research, development and innovation. Geneva, Switzerland: UN Trade and Development. Available from: 
+news/transport-newsletter-article-no-99-fourth-quarter-2022
+Raucci, C., McKinlay, C. & Karan, A. (2023). The future of maritime fuels. What you need to know. London, UK: Lloyd’s Register 
+Maritime Decarbonisation Hub. Available from: 
+LR_Fuel_Mix_Report_v1.pdf 
+Roman-White, S., Rai, S., Littlefield, J, Cooney, G., Skone, T. J. (2019). Life Cycle Greenhouse Gas Perspective on Exporting 
+Liquefied Natural Gas from the United States: 2019 Update. Pittsburgh, USA: National Energy Technology Laboratory. Available 
+from:  
+Trangwachirachai, K., Rouwenhorst, K., Lefferts, L., Faria Albanese, J.A. (2024). Recent Progress on Ammonia Cracking 
+Technologies for Scalable Hydrogen Production. Current Opinion in Green and Sustainable Chemistry. Volume 49. Available from: 
+ 
+WEF (2023). Net-Zero Industry Tracker 2023. Ammonia industry net-zero tracker. Cologny, Switzerland: World Economic Forum. 
+Available from:  
+Zhao, P., Tamadon, A., Pons, D. (2022). Life cycle Assessment of Hydrogen Production via Natural Gas Steam Reforming vs. 
+Biomass Gasification. Preprints. Available from:  
+Quest One (2024): Modularized 10 MW PEM electrolyzer with materials and energy balance. Augsburg: Quest One
+All data provided in this document is 
+non-binding. This data is for information 
+only and is not guaranteed in any way. 
+Depending on the subsequent specific 
+individual projects, the relevant data 
+may be subject to changes and will be 
+assessed and determined individually 
+for each project. This will depend on 
+the particular characteristics of each 
+individual project, especially specific 
+site and operational conditions. 
+Copyright © MAN Energy SolutionsMAN Energy Solutions 
+Schweiz AG
+8005 Zurich, Switzerland
+P + 41 44 287-2211

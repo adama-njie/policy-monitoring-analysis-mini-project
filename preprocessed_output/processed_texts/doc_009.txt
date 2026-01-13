@@ -1,0 +1,1128 @@
+EnergyReports5(2019)1249-1260
+Contents lists available at ScienceDirect
+EnergyReports
+journal homepage: 
+Reviewarticle
+ComparingtheenergytransitionsinGermanyandChina:Synergies
+andrecommendations
+ChengChena,BingXueb,∗,GuotianCaic,HeikoThomasb,StefanStückradb
+aLeibniz-CentreforAgriculturalLandscapeResearch,MünchebergD15374,Germany
+bInstituteforAdvancedSustainabilityStudiese.V.,Potsdam14467,Germany
+cGuangzhouInstituteofEnergyConversion,ChineseAcademyofSciences,510640Guangzhou,China
+a r t i c l e i n f o
+Articlehistory:
+Received28December2018
+Receivedinrevisedform24July2019
+Accepted31August2019
+Availableonline xxxx
+Keywords:
+Energytransition
+Energyrevolution
+Energygeography
+Germany
+Chinaa b s t r a c t
+EnergyTransitiontowardsalow-carbonemissionenergysystemhasbeenalong-termstrategyfor
+Germany and China. Both countries are expected to take the lead on the global effort to achieve
+cleanenergyandgreenhousegasemissionsreduction.AlthoughGermanyandChinahavedifferent
+characteristics,international-levelstrategiccooperationisessentialformeetingthegoalsofbothlocal
+andglobalenergytransition.However,untilnow,nocomparableresearchforenergytransitionin
+GermanyandChinaexistsinapeer-reviewedjournal.Inordertoclosethisknowledgegap,acritical
+reviewwasconductedandthensomerecommendationswereproposed.Firstofall,afterreviewingthe
+background,milestones,currentsituationandchallenges,wefoundinfrastructure,policyinstruments
+andmarketreformplayedthekeyrolesinthetransitionprocessinGermanyandChina.Whilenuclear
+powerandcoalarelikelytobeabandonedinGermany,Chinahasmoreambitionbeyondthepower
+sectorandtoreachself-sufficiency.Asthetwocountrieschosendifferentconceptsandpathwaysto
+achievetheirtransitiontargets,thereisgreatopportunityforthemtotakethelessonsfromeach
+other.GermanyandChinaneedcooperationatmulti-levelsvariesfrompolitic,economic,scientific
+topublic.Then,recommendationsarepresentedonhowtofurtherfostercooperationandenablean
+energytransition.
+©2019PublishedbyElsevierLtd.ThisisanopenaccessarticleundertheCCBY-NC-NDlicense
+(
+Contents
+0. Introduction.....................................................................................................................................................................................................................1249
+1. AnoverviewofenergytransitioninGermany...........................................................................................................................................................1250
+1.1. Background:withafocusonthedrivingforces............................................................................................................................................1250
+1.2. Milestone............................................................................................................................................................................................................1251
+1.3. Statusquo...........................................................................................................................................................................................................1251
+1.4. Challenges...........................................................................................................................................................................................................1251
+2. EnergytransitioninChina............................................................................................................................................................................................1254
+2.1. Background.........................................................................................................................................................................................................1254
+2.2. Milestone............................................................................................................................................................................................................1254
+2.3. Statusquo...........................................................................................................................................................................................................1254
+2.4. Challenges...........................................................................................................................................................................................................1255
+3. ComparisonandsynergiesbetweenGermanyandChina.........................................................................................................................................1256
+4. Recommendationforcooperationpoints....................................................................................................................................................................1257
+5. Discussion........................................................................................................................................................................................................................1258
+6. Conclusion.......................................................................................................................................................................................................................1259
+Declarationofcompetinginterest................................................................................................................................................................................1259
+Acknowledgments..........................................................................................................................................................................................................1259
+References.......................................................................................................................................................................................................................1259
+∗Correspondingauthor.
+E-mailaddress:  Introduction
+Asglobalwarmingaffectsthelong-runsustainabilityofhu-
+manbeingsregional-crossly,itcanonlybetackledinaconjoint
+
+2352-4847/ ©2019PublishedbyElsevierLtd.ThisisanopenaccessarticleundertheCCBY-NC-NDlicense(
+1250 C.Chen,B.Xue,G.Caietal./EnergyReports5(2019)1249-1260
+international effort. The Paris Agreement links the upper limit
+withaspecificactiontarget:globalgreenhousegas(GHG)neu-
+tralitybythesecondhalfofthecentury(UNFCCC,2015).Given
+thefactthataroundtwo-thirdsofGHGemissionsfromenergy
+productionandutilization,energydecarbonizationhasbeenin-
+creasinglycriticalforaddressingthelow-carbondevelopmentre-
+spondingtoclimatechangemitigation.Thiscanonlybeachieved
+with the massive deployment of renewable energy combined
+withenergyefficiency(IRENA,2017).Justafewmonthsbefore
+theParisclimateconference,theinternationalcommunity,meet-
+inginNewYorkinSeptember2015,adoptedthe 2030Agenda
+forSustainableDevelopment withits17SustainableDevelopment
+Goals(SDGs)(UN,2015).EnergyliesattheheartoftheseSDGs,
+particularly in the goals of energy access, climate mitigation,
+lowerairpollution,aswellasforsustainableurbanizationand
+industrialization. Under such circumstances, the global energy
+systemmustundergoaprofoundtransformation,fromonebased
+mainlyonfossilfuelstoonethatenhancesefficiencyandisbased
+onrenewableenergy(IRENA,2018).
+Sustainable energy transitions, which broadly described as
+movingawayfromfossilfuelstowardsrenewableresourcesand
+reducingenergydemand,areemergingacrosstheworld,albeit
+inunevenways(Dowlingetal.,2018).Germanyiswidelycon-
+sideredapioneerwhenitcomestoenergytransition(Knopfand
+Jiang,2017).Inlinewithinternationaltrends,Germanyhadset
+upanambitiousplanforclimateprotection,aimingtoreduce
+Germany’sGHGemissionsbytheyear2020by40%comparedto
+1990,until2050by80to95%(BMU,2016).Asacriticalaspect
+of the plan, the German energy transition (known in German
+as‘‘Energiewende’’),laidimportantgroundworktoreformthe
+energy sector, as well as for demonstrating energy transition
+practiceatthegloballevel(Gaoetal.,2018).TheEnergiewende
+isanintegratedpolicyframework,coveringallsectorsofenergy
+andeconomy,includingthetargetsandpolicymeasuresforCO 2
+emission reduction, renewable energy development, phase-out
+nuclearenergyby2022,andimprovementofenergyefficiency
+(Haas,2018;BMWi,2018).Forexample,withitsnationalsupport
+schemeforrenewableenergies,Germanyhasmadeasubstantial
+contribution to the global technological development of wind
+power,photovoltaics,andtheassociatedcostdepression(Lutz
+etal.,2017).Furthermore,theRenewableEnergyAct(inGerman:
+Erneuerbare-Energien-Gesetz , abbr.: EEG) serves as a model for
+othercountriesaroundtheworld,andtheGermangovernment
+hasaproventrackrecordofsupportingtheglobalexpansionof
+renewableenergy(Quitzowetal.,2016a).
+The global energy transition, however, has more than one
+pioneer,particularlyinthefieldofdevelopingrenewableenergy.
+As the world’s biggest energy consumer, China accounted for
+23%ofglobalenergyconsumptionandcontributed27%toglobal
+energydemandgrowthin2016(IEA,2017),therefore,China’srole
+inglobalenergytransitioniscriticalindeterminingglobaltrends
+duetothescaleofChina’scleanenergydeployment,technology
+exports,andoutwardinvestment(Liuetal.,2018).InJune2015,
+ChinaofficiallycommittedtoachievethepeakingofCO 2emis-
+sionsaround2030andmakebesteffortstopeakearly.China
+alsocommittedtolowerCO 2emissionsperunitofGDPby60%
+to65%fromthe2005levelandincreasetheshareofnon-fossil
+fuels in primary energy consumption to around 20%. As a re-
+sult,China’sdevelopmentofnon-fossilenergy(renewableenergy
+andnuclearpower)israpidlybeingpromoted.In2017,China
+accountsfora record45%of global investmentinrenewables
+(excludinghydropowerlargerthan50MW),upfrom35%in2016
+(REN21,2018).TheInternationalEnergyAgencypredictedthat
+Chinaaloneisresponsiblefor40%ofglobalrenewablecapacity
+growthbetween2017and2022(IEA,2017).However,thelack
+ofsuccessfultransitionexperiencealsomakesthegovernmentlessconfidentinfacingtheoutputuncertaintyandvariabilityof
+renewableenergy.
+Ingeneral,GermanenergytransitionandChineseenergyrevo-
+lutionsharethreesimilargoals,namelyreducingGHGemissions,
+expandingtheuseofrenewableenergyandincreasingenergy
+efficiency.Ontopofthose,affordableandsecureenergysupplyis
+alsoaclearstrategicgoalforbothcountries.However,Chinauses
+thetermof‘‘EnergyRevolution’’insteadoftheinternationally
+well-acceptedtermenergytransition.Literallyspeaking,revolu-
+tionisastrongerexpressionthantransition,reformorchange.
+Therefore,someChineseresearchersclaimthatrevolutioncan
+demonstrate the determination of the Chinese government in
+reformingtheenergysector(WuandZhan,2013).Thediffer-
+encesaremorethanjustterminology.WhiletheEnergiewendein
+Germanyhighlightstheeffortsintheelectricitysector,Chinahas
+ambitionsinalsotransformingthetransportationsectortowards
+renewables.Suchcommongroundanddifferencesmakeitpoten-
+tiallypossibleandprofitableforthetwocountriestocooperate
+indiverseways.
+AfterthewithdrawaloftheUnitedStatesfromtheParisAgree-
+ment,ChinaandGermanyareactingmoreambitiouslyonthe
+leadership of climate protection and energy transition (Knopf
+andJiang,2017).ThegovernmentsofGermanyandChinahave
+vowedtointensifytheirjointeffortsinglobalclimatediplomacy
+andinupholdingfreetrade,aswellasinthedevelopmentand
+rollout of energy transition technologies. In a joint statement
+ontheoccasionofthe4thGerman-ChineseIntergovernmental
+Consultations,whichwasco-chairedbyChinesePremierLiKe-
+qiangandGermanChancellorAngelaMerkel,thetwocountries
+announcedthat‘‘bothsideswelcometheinnovativecooperation
+betweenuniversities,researchinstitutions,andcompaniesfrom
+bothcountriesinthefieldofsustainableenergy.Bothsideswill
+work to boost cooperation in the fields of improving energy
+efficiencyandexpandingrenewableenergy’’.
+Inprinciple,theissueofenergytransitionisrelatedtoglobal
+politicalandtechnologicaltransformation;nosinglecountrycan
+formulate and successfully implement its plan. Therefore,
+strengtheningthemulti-levelunderstandingandstrategiccoop-
+erationattheinternationallevelisessentialformeetingthegoals
+ofenergytransition.Inotherwords,itisentirelynecessaryto
+examineandanalyzetheenergytransitionfromacomparative
+perspective(Marquardtetal.,2016).Incontrasttothegrowing
+cooperationatthepoliticalandpubliclevel,scientificcommuni-
+tieshadnotcontributedenoughinmutualunderstandingandto
+monitorthepolicyenvironmentinbothcountries.Onlyrecently,
+energy transition policy has become the subject of scientific
+papersinGermanyandChina(Quitzow,2016b).Wefoundthat,
+untilnow,nocomparableresearchforenergytransitioninGer-
+manyandChinaexistsinapeer-reviewedjournal.Inorderto
+fillthisknowledgegap,thispaperaimstoexaminethepolicy
+ofenergytransitioninGermanyandChinafromacomparative
+perspectiveandoffersynergiesforbettercooperation.
+1. An overview of energy transition in Germany
+1.1. Background:withafocusonthedrivingforces
+In2010,Germanysetupaplantoachieveitsenergytran-
+sition with short-term and long-term targets for the pathway
+to2020,2030,2040andfinallyincreasingtheshareofrenew-
+ablesinpowerconsumptionby80%in2050.Asanintegrated
+policyframeworkcoveringallsectorsofenergyandeconomy,
+thispolicyisnowwidelyknownastheGermanenergytransition
+(the so-called Energiewende). However, this energy transition
+alreadystartedwiththeintroductionoffixedfeed-in-tariffsfor
+renewableenergylongtimeearlier.Inthewakeofthenuclear
+C.Chen,B.Xue,G.Caietal./EnergyReports5(2019)1249-1260 1251
+accidentin2011,amorerapidtransitionwastriggeredandthe
+decisionwasthentakenfurthertophase-outnuclearpowerby
+2022. It is considered an ambitious industrial project and re-
+quirestechnicalandsocietaltransformations,ultimatelynotonly
+withinGermanybutinthewholeofEurope.Whilediscussionsof
+theEnergiewendeinGermanyrevealdiverseviewpointsabout
+goalsandprioritization,CO 2emissionreduction,renewableen-
+ergydevelopment,phase-outnuclearenergy,andimprovement
+ofenergyefficiencywerevirtuallyacceptedasdrivingforcesand
+targets(seeTable1).In2014,thepreviousFederalMinisterof
+EconomyandEnergy,SigmarGabriel,hasdeclaredthefollowing
+fivegoalsfortheEnergiewende:(i)nuclearphase-out,(ii)the
+reductionofdependenceonimportedoilandgas,(iii)thedevel-
+opmentofnewtechnologies,growthandnewjobs,(iv)climate
+changemitigation,and(v)motivationofotherstoimitatethe
+Energiewende(Gabriel,2014).
+1.2. Milestone
+TheEnergiewendecanbetakenasaseriesoffederallaws
+thatbuildoneachother,eachoneadaptingtocurrentrealities
+whilemaintainingfocusonthelong-termvision.Withthesup-
+portfromEEG,theshareofrenewableenergysourcesinpower
+sector has been growing significantly, with the proportion of
+renewableenergyingrosspowerconsumption(totalvolumeof
+electricityconsumedinGermany)increasefromroughly6%in
+2000to31.5%in2016.Thepurposeofitistoenableasustainable
+energysupplysystem,inlinewithclimatemitigationandenvi-
+ronmentalprotectiongoals,toreducethecostsofenergysupply,
+toconservefossilenergyresources,andtopromotetechnology
+developmentforrenewableenergysources.Importantly,theEEG
+anditsamendmentsin2004,2009,2012,2014and2017haveset
+upthemaintargetinreachingtheminimumsharesofrenewable
+energyinelectricitysupplypathwayto2050.
+In September 2010, the Energy Concept, a comprehensive
+new strategy and the basis guiding its energy transition have
+beenadopted.TheEnergyConceptprovidesalong-termstrategy
+forGermanytobecomeanenergyefficientandenvironmental-
+friendlyeconomywhilemaintainingcompetitiveenergyprices
+andahighlevelofprosperity.FollowingtheFukushimanuclear
+accident, the Energy Concept was updated in 2011, aiming to
+acceleratethephase-outofGermany’snuclearfleetby2022(Ta-
+ble2).InNovember2016,asoneofthefirstcountriessubmitted
+itslong-termdevelopmentstrategyforachievinglowGHGemis-
+siontotheUNasrequiredundertheParisAgreement,German
+governmentadoptedtheClimateActionPlan2050,makingGer-
+manyoneofthefirstcountriestosubmitthelong-termClimate
+ActionPlan2050.Inparticular,itsetupatargetforreducingGHG
+emissioningeneralandinvariouseconomicsectors,inorderto
+reachits2050climategoals.
+1.3. Statusquo
+TounderstandwhereGermanystandsinitsenergytransition,
+oneneedstolookattheenergysystemasawhole,inparticular,
+finalenergyconsumption,howmuchdifferentendconsumers
+useenergy,andenergyproduction,whichsourcesofenergymake
+upthenationalenergymix(Fig.1)(AGEB,2018).Theexpansion
+ofrenewableenergyisacentralpillarintheenergytransition
+ofGermany.Inrecentdecades,Germanyhassignificantlydiver-
+sifieditselectricitymixtowardsrenewableenergy,whichgrew
+from4percentin1990to33percentin2017(Fig.2).However,
+theshareofrenewableenergyinothersectors(transportand
+heating/cooling)hasnotincreasedproportionallyduetoastrong
+focusontheelectricitysector.TogetanideawheretheenergytransitioninGermanystands
+rightnow,Fig.3depictstheprimaryenergyconsumptionin2017.
+Thoughrenewablesaccountfor13%-14%ofthetotalprimaryen-
+ergyconsumptionbiomassstilldominatestherenewablesshare
+andwind,solarandsolarthermicmakeonlyupforabout4%
+combined.Itshows,thatdespiteenormousefforts,itisstilla
+long way to go for Germany to achieve the goals it set. Not
+surprisingly,lookingatthesenumbersGermanysledbackonits
+goalsfor2020recently,andsimplypostponedthem.Pleasenotice
+thatGermanysofarspentmoremoneyonsubsidizingcoalinthe
+pastthantopromoterenewablesviatherenewableenergyact.
+Throughouttheenergytransitionprocess,theGermangov-
+ernmenthavebeenworkingonthebasisofan‘‘efficiencyfirst’’
+principleandhasbeenseenitas‘‘theonlywaytoadequately
+limitdemandandensurethattheincreaseduseofrenewable
+energy can be carried out in a way that conserves resources
+anddoesnotimpactnegativelyonnature’’.Germanynotonly
+increasestheshareofgreenenergyinitssupplybutalsouses
+energymoreeconomically.Primaryenergyconsumptionhasbeen
+cutsignificantlyinrecentyearsinGermany,by7.6%between
+2008and2015(BMWi,2016).
+1.4. Challenges
+Many challenges lie ahead to transform the entire system.
+Thesechallengesrangefromgridinfrastructureanddigitization
+tomarketdesign.Aswind,solar,hydroandgeothermalenergy
+arefluctuatingsources,thedispatchingandabsorptionenergy
+systemneedstoadjustaccordinglyandofferflexibilitytoguar-
+anteeareliablesupply.Technologiesneedtobedevelopedto
+makeotherenergyresourcesascomplementsandmaketradi-
+tionalcogenerationplantstoworkmoreflexibly.Furthermore,
+expandingwindandsolarpowerproductionwillleadtogrowing
+suppliesofexcesspower.Therefore,energystoragetechnologies
+andinnovativetransformsolutionslikepower-to-gaswillbealso
+inneeded.Additionally,demand-sidemanagementisakeyfor
+energyefficiency.Somepowerconsumersalreadyadjustedtheir
+powerconsumptiontosupply.Inthefuture,allconsumers,from
+privatehouseholdstoindustriallarge-scaleconsumers,willplay
+aroleinthepowermarketbyrespondingtosupply.
+‘‘TheEnergiewendewillsucceedifwemakeprogresswiththe
+gridextension’’,Germany’snewFederalMinisterforEconomic
+AffairsandEnergy,PeterAltmaier,saidsimply,inhisfirstspeech
+toparliamentinMarch2018.Theenergytransition’sbigsuccess
+todateistherapidgrowthofrenewablepowergeneration,which
+coversalmost40percentofGermanpowerconsumptioninearly
+2019- upfrom3.2percentin1991(ZSW,2017).Howeverthis
+alsoposesaproblemduetothevastnumberofdecentralized
+renewableenergyinstallationsandhowthegridoperatorshave
+todealwithintegratingthesebecausetheyareforcedtobylaw,
+possiblyleadingtonecessaryinvestmentsingridupgradesthat
+havetobereimbursedandfinallybepaidbytheconsumervia
+thegridfeethatispartoftheelectricitybill(Matchossetal.,
+2019;Bayeretal.,2017).Thebiggestshareofrenewablesinthe
+electricitysectoriswind,mainlygeneratedinthecountry’snorth,
+andinordertomakeproperuseofit,highcapacitytransmission
+lineshavetobebuiltconnectingwindfarmsinthenorthwiththe
+entrypointofformerfossilandnuclearpowerplantsinthemore
+industrialsouthandwestofthecountryleadingtoanumber
+ofacceptanceissuesduetovisualandenvironmentalimpacts,
+costandbuildingdensityinGermanythatcomplicatesfinding
+aproperroute,andalreadyledtoanewfederalregulationthat
+favorscablesoveroverheadlines(Thomasetal.,2016).
+Amongthethreeelementsofthegovernment’sso-calleden-
+ergypolicytargettriangle,supplysecurity,affordability,environ-
+ment and climate, a monitoring report noted the biggest fail-
+ure in addressing climate protection sufficiently (BMU, 2018).
+1252 C.Chen,B.Xue,G.Caietal./EnergyReports5(2019)1249-1260
+Table 1
+KeyGermanenergytransitiontargets.
+Source:Datesource:TheSixth‘‘EnergyTransition’’MonitoringReport(BMWi,2018).
+Target 2016 2020 2030 2040 2050
+GHGemission (comparedwith1990) −27.3% −40% −55% −70% −80%∼ −95%
+RenewableenergiesShareofgrosselectricityconsumption 31.6% 35% 50% 65% 80%
+Shareofgrossfinalenergyconsumption 14.8% 18% 30% 45% 60%
+EnergyefficiencyPrimaryenergyconsumption
+(comparedwith2008)−6.5% −20% −50%
+Grosselectricityconsumption
+(comparedwith2008)−3.6% −10% −25%
+Primaryenergyconsumptioninbuildings(comparedwith
+2008)−18.3% −80%
+Heatconsumptioninbuildings
+(comparedwith2008)−6.3% −20%
+Finalenergyconsumptioninthetransportsector
+(comparedwith2008)4.2% −10% −40%
+Nuclearphase-out Gradualshutdownnuclearpowerplantsby2022
+Electricvehicles Onemillionelectricvehiclesontheroadby2022
+Table 2
+OverviewofmajorenergypoliciesandstrategiesinGermany.
+Publicationyear Documenttitle Keycontext
+2000 Renewableenergyact(EEG) EEGimplementsafixedfeed-intariffforrenewables,paidforthrougha
+surchargeonconsumption,creatingareliablemarkettosupporthigher
+investmentandparticipationinrenewableenergygeneration.TheEEGalso
+prioritizesrenewableenergy,ensuringaccesstothegrid.
+2010 Energyconcept TheEnergyConceptestablishesspecificmilestonesfortheintegrationof
+renewableenergiesandclimatechangemitigationstrategiesby2020and
+2050.Targetsandmethodologiesformeasuringandassessingenergy
+efficiencyareintroduced.
+2011 Phase-outnuclearpower InresponsetorenewedpublicoppositionfollowingtheFukushimadisasterin
+Japan,thegovernmentrecommitstoclosingallGermannuclearpowerplants
+by2022.
+2014 EEG2.0 EEG2.0reducesfixedtariffs,creatingauctionsformostsolarproducers,
+recalculatingthesurchargetoassistlargeindustry,andforcingself-suppliers
+topayasurcharge.
+2016 EEG3.0 EEG3.0suggestthatmarketauctionscouldsoonreplacefixedfeed-intariffs
+fornearlyallrenewablesinstallations,a‘deploymentcorridor’wouldhelp
+ensurenewcapacitygrowthiscompatiblewithgridexpansion,andfurther
+liberalizationoftheauction’smarkets,includingopeninguptointernational
+producers,mightbetested.
+Fig. 1.GrosselectricityproductionbysourcesinGermany1990-2017,unit:TWh.
+Source:Datasource:AGEB(2018).
+C.Chen,B.Xue,G.Caietal./EnergyReports5(2019)1249-1260 1253
+Fig. 2.ShareofenergysourcesingrosselectricityproductioninGermanyin2017.
+Source:Datasource:BMWi(2018).
+Fig. 3.PrimaryenergyconsumptioninGermanyin2017.
+Source:Datasource:BMWi(2018).
+Whiletheshareofrenewablesinelectricityproductionhasin-
+creased greatly, the overall picture is less positive (Fig. 3). In
+fact, Germany’s Energiewende has been about electricity, not
+energy-transition(Hedberg,2017).Littlehasbeendonetobring
+about energy transition in the heating and transport sectors.
+Additionally,itseffortstoimproveenergyefficiencyhavebeen
+insufficient.Ithasnotlowereditsdependenceonenergyimports.
+Ithasincentivizedthedeploymentofrenewablesinlessoptimal
+marketwherethefinancialreturnhasbeenweak.Asaresult,
+fossilfuels,includingcoalandgascontinuetodominateasthe
+principalsourcesofenergy(Fig.3).TheClimateProtectionReportfromthegovernmentshowedthatGermanywillwidelymissits
+2020GHGreductiontargetby8%(BMU,2018).
+The price for Germany’s energy transition is one of the
+project’smostcontroversialaspects(Fig.4).PowerpricesinGer-
+manyareamongthehighestinEurope(Eurostat,2017).Despite
+a slight decrease in early 2018, taxes, levies, and surcharges
+accountedformorethan55percentofatotalpowerpriceof
+29.16eurocentsperkilowatthour(ct/kWh)(Eurostat,2017).As
+aconsequence,inGermanythereisagrowingoppositionagainst
+goingforwardwiththeEnergiewende(Unnerstall,2017).
+1254 C.Chen,B.Xue,G.Caietal./EnergyReports5(2019)1249-1260
+Fig. 4.ComponentoftheGermanelectricitypricein2017.
+Source:Datesource:BDEW(2018).
+2. Energy transition in China
+2.1. Background
+In2014,ChinesePresidentXiJinpingcalledforan‘‘Energy
+Revolution’’,specifyingonreducingenergyconsumption,increas-
+ingenergysupply,improvingenergytechnologyandinstitutional
+reform(IEA,2017).Actually,theideaof‘‘EnergyRevolution’’was
+officiallyintroducedbypreviousPresidentHuJintaoin2012dur-
+ingthe18thnationalcongressoftheCommunistpartyofChina
+(CPC), The ‘‘Energy Revolution’’ initiates ecological civilization
+construction,holdingtheideaofrevolutionofenergyproduction
+andconsumption’’.Thetransitiontoacleanerenergysystemis
+drivenbytheneedtoimproveairquality,combatclimatechange,
+andeventuallyreducethedependencyonfossilfuels.Also,sup-
+portingagrowingeconomyandatthesametimereducingthe
+carbonfootprintaretargeted.Additionally,respondingtothe
+globaleffortstowardsclimategovernance,Chinahas,initsna-
+tionallydeterminedcontribution(NDC)commitmentannounced
+on 2016, set its energy-related targets for 2030: peaking CO 2
+emissionsby2030thelatest;loweringcarbonintensityofGDP
+by 60%-64% comparing with 2005 levels by 2030; increasing
+andachievingtheshareofnon-fossilenergyconsumptionamong
+totalprimaryenergyconsumptiontoaround20%(NDRC,2015).
+China’soverallenergystrategyincludesseveralelements.For
+industrialpolicy,theMadeinChina2025planemphasizesgreen
+technologysuchasrenewableenergy,electricvehicles,andad-
+vancedpowersystemequipment.Inthenear-term, ChinaNa-
+tionalEnergyAdministration (NEA)recentlyissued WorkGuidance
+ofEnergySector 2018,alsoemphasizingshiftingtowardslow-
+carbon,cleanenergyandcleanheatingsupplywhilerestricting
+coalconsumption.Chinahasalsolaunchedaseriesofdocuments
+onrenewableenergydevelopmentatthecitylevel,forexam-
+ple,36low-carbonpilotcities,81newenergymodelcities,and
+eightnewenergyindustrialparksareselectedasdemonstration
+projects(Yuanetal.,2018).Theenergytransitioninaruralarea
+isalsohappening,forexample,fromtraditionalbiomassenergy
+tocommercialenergylikeelectricity(HanandWu,2018)(see
+Table3).2.2. Milestone
+TheChinesegovernmenthasavarietyoftopeconomicand
+socialdevelopmentplansregulatingenergyproductionandcon-
+sumption. Responding to the Five-Year Plan (FYP), China has
+unveiled its 13th FYP on energy (NDRC, 2017a), which repre-
+sents the basic outline of China’s energy policy from 2016 to
+2020.Inparticular,itsetsthefirstevermandatorycoalcap,and
+showsthecommitmentofgovernmenttocutcoal’sshareinthe
+country’senergymix,indicatingarighttracktowardsitsenergy
+transition.FYPforeachcategorysuchaselectricityingeneral,
+coal,naturalgas,windpower,andsolarpowerhavealsobeen
+sequentiallyreleased.Forexample,the 13thFYPonRenewable
+Energyprovidesspecificgoalsandmeasures,withaparticular
+focusonrenewablesfor2016-2020(NDRC,2017b).Alongwith
+FYPs,theStrategicEnergyActionPlan (2014-2020)wasissuedby
+theStateCouncilin2014(StateCouncil,2015).Thisstrategyplan
+aimstoreduceChina’shighenergyconsumptionperunitGDP
+ratiothroughasetofmeasuresandmandatorytargets,promoting
+amoreefficient,self-sufficient,greenandinnovativeenergypro-
+ductionandconsumption.Itputsforwardenergyconservationas
+apriorityinthepower,industrial,building,andtransportsectors.
+In April 2017, ‘‘ Energy Supply and Consumption Revolution
+Strategy(2016-2030)’’wasreleased(NDRC,2017c).Beyondthe
+pathwayofthe13thFYPonEnergy,itsetupnewandhigher
+targets for future. The main focus of the strategy remains a
+commitment towards a sustained growth in the utilization of
+renewables, gas and nuclear power and a radical decrease in
+theconsumptionofhigh-carbonfossilenergy.In2030primary
+energyconsumptionshouldbecontrolledwithin6billiontons,
+and non-fossil fuel in the energy mix should be higher than
+20%.Lookinginto2050,totalenergyconsumptionwouldstabilize
+andnon-fossilwouldaccountformorethanhalfofit.Withthis
+Strategy,Chinaisexpectedtobecomeamajorplayeringlobal
+energygovernance.Inaddition,NationalActionPlanonClimate
+ChangeandChina’sIntendedNationalDeterminedContribution
+havesetenergyrelatedtargets,respondingtotheglobalclimate
+change(seeTable4).
+2.3. Statusquo
+Chinahasbeguntodiversifyitsenergymixandturntorenew-
+ableenergyoverthepast10years.From2005to2017,theshare
+ofrenewableenergygenerationincreasedfrom16%to25%.The
+yearlyaddedwindpowerinstalledcapacityhasdeclinedwhile
+solarPVaresurging.BasedontheresultsoftheChinaRenewable
+EnergyOutlook2017(CNREC,2017),theannualflagshippubli-
+cationofChinaNationalRenewableEnergyCentre,theshareof
+windintotalprimaryenergysupplyisexpectedtorisefrom0.7%
+in2016to4%by2020,12.5%by2035and21.8%in2050.SolarPV
+isexpectedtorisefrom0.3%in2016to1%in2020,6.5%in2035
+and13.4%in2050
+However,fossilfuelsstilldominatetheenergysystem.The
+totalfinalenergyconsumptionamountedtoaround3,230Mtce
+in2016,with61%oftheenergyconsumptionrelatedtoindustry,
+21%relatedtotransport,and14%relatedtobuildings.Coalisthe
+dominantfuelintheend-usesectors.In2016,39%ofthefinal
+energyconsumptionwascoal,27%wasoil,19%electricity,natural
+gas7%,districtheating5%,andbioenergy2%(CNREC,2017).
+DespiteatremendousgrowthinrenewableenergyinChina
+recently,thecurrentChineseenergysystemisfarfromthede-
+velopmenttargetsofbeingclean,efficient,safe,andsustainable.
+AccordingtothelatestinformationfromChineseElectricityCoun-
+cil,asthelargestshareofChineseelectricity,thermalaccounted
+for71%,wherecoaldominatedthecomponent.Nuclearenergy
+remainsmoderately(4%).Hydropoweraccountedforthema-
+jority of the renewable electricity generation. Wind and solar
+C.Chen,B.Xue,G.Caietal./EnergyReports5(2019)1249-1260 1255
+Table 3
+TargetswithinChina’senergyrevolutiontargets.
+Target 2020 2030
+CarbonemissionCarbonemissionperunitofGDP
+(comparedwith2015)−18%
+CO2emission Peakorearlier
+CarbonemissionperunitofGDP
+(comparedwith2005)−60%to-65%
+Non-fossilNon-fossilfuelintheenergymix 15% 20%
+Naturalgasintheenergythemix 15%
+Non-fossilpowergenerationaccountfortotal
+powergeneration50%
+Newenergydemandmetbycleanenergy Shouldmostlybedone
+EnergyefficiencyEnergyconsumptionperunitofGDP
+(comparedwith2015)−15%
+Primaryenergyconsumption
+(unit:billiontonnetce)5% 6%
+Energyself-sufficiency Energyself-sufficiencyrate above80%
+Energygovernance By2050,Chinashallbecomean‘‘important
+participant’’ofinternationalenergygovernance
+Visiontowards2050 By2050,primaryenergyconsumptionshould
+bestable,withmorethanhalfcomingfrom
+non-fossilenergy.
+Table 4
+OverviewofmajorenergypoliciesandstrategiesinChina.
+Year Documenttitle Keycontext
+2014 EnergyDevelopmentStrategyAction
+Plan(2014-2020)ReduceChina’shighenergyconsumptionper
+unitGDPratiothroughasetofmeasuresand
+mandatorytargets,
+2014 NationalActionPlanonClimate
+Change(2014-2020)Setenergyrelatedtargets,respondingtothe
+globalclimatechange
+2016 13thFive-YearEnergyDevelopment
+Plan(2016-2020)Setthefirstmandatorycoalcap,andshowthe
+commitmentofgovernmenttocutcoal’sshare
+inthecountry’senergymix,indicatingaright
+tracktowardsitsenergytransition.
+2016 13thRenewableEnergyDevelopment
+Plan(2016-2020)Providespecificgoalsandmeasures,witha
+particularfocusonrenewablesfor2016-2020
+2016 EnergySupplyandConsumption
+RevolutionSpecifythelong-termenergytargettowards
+2030,andevenlonger,to2050.
+aresupportedviaafeed-intariffandarebecomingincreasingly
+established.However,windaccountedonlyfor5%andsolarfor
+2%oftotalelectricitygeneration(ChinaElectricityCouncil,2018),
+ascanbeinferredfromFig.5.
+2.4. Challenges
+WhileChinaisundoubtedlycommittedtoalow-carbonen-
+ergytransitionoverthelongterm,therearenumerousshort-term
+challenges.Alongwiththeeconomicdevelopment,energyde-
+mandcontinuestogrowrapidlybutfossilfuelsremainessential
+formeetingpresentneeds.
+Theinstitutionalreformisachallengingpartofthe‘‘Energy
+Revolution’’.Conflictsbetweenprovincialandnationalobjectives
+needtobeaddressedurgently.Mostprovinceshaveovercapacity
+ofcoalpower.Provincialofficialsconcernthatthereformcould
+threatenthefinancialviabilityofprovince-ownedpowergroups.
+Thismeansthatbilateralcontracts,inter-provincialpowertrades,
+and spot market pilots should in place to promote economic
+dispatch.Furthermore,bottom-uppolicyinitiativesandmarket-
+basedinstrumentsarerareinChina.Theongoingpowersector
+reformshouldsolvetheseissuesandcreateawholenewframe-
+workforpowersystemoperationanddevelopment.However,
+the implementation of the power market reforms is currently
+proceedingslowly.Jointplansaremissingindifferentprovinces,
+which often have conflicting interests when it comes to co-
+operationonmarketset-upandtradingarrangements(CNREC,
+2017).Secondly,China’selectricitydispatchingandabsorptionmech-
+anism does not match the speedy development of renewable
+energy.DuetoChina’sgeographicalmismatchbetweenresources
+andloadcenters,over70%ofChina’slarge-scalewindandsolar
+projects have been installed in the resource-rich northern re-
+gionsfeaturinglowelectricitydemandandlowexportcapacity
+(ZhouandLu,2017).However,theconstructionofinter-regional
+transmissioncapacityinChinahasconsistentlylaggedbehindthe
+growthofgenerationassets.Duetogridbottlenecksandchina’s
+guaranteed full load hours for coal-fired power plants policy,
+curtailmentofrenewablegenerationhasbecomesignificant.In
+2016,17%ofChina’swindpowergeneration(49.7terawatthours)
+wascurtailed(NEA,2016).Thatisabout10%ofthetotalelec-
+tric energy consumption of Germany in comparison. Although
+the central government has established numerous policies to
+mandateminimumdispatchhoursforwindandsolarandfor
+elimination of wind and solar curtailment, the integration of
+theseresourcesremainasevereprobleminseveralprovinces.For
+example,innortheastGansuProvinces,largeamountsofwind
+andsolarcannotbeabsorbedbydemandinsidetheprovince,yet
+transmissioncapacityandbroaderdispatchareasforcleanenergy
+havelagged.Inordertoreformtheelectricity-dispatchingmode,
+theinvestmentindevelopingandconstructingofenergy-friendly
+gridshouldbepromoted.
+EnergyefficiencyisstillleftbehindinChina.Asthedominant
+ofcoalintheprimaryenergyconsumptionmixwillnotfunda-
+mentallychangeinthenearfuture(Zouetal.,2016),itisneces-
+sarytoreducedirectcombustionofbulkcoalandstrengthenthe
+1256 C.Chen,B.Xue,G.Caietal./EnergyReports5(2019)1249-1260
+Fig. 5.ShareofenergysourcesingrosselectricityproductioninChinain2017.
+Source:Datesource:ChinaElectricityCouncil(2018).
+efficientandcleanuseofcoalforpurposeofenvironmentalpro-
+tection.TheoverallefficiencyofChina’senergysystemisstilllow,
+comparedtoeconomicpotentialandenergystructure.In2015,
+theenergyconsumptionper10,000RMBofGDPwentdownby
+5.6percent.However,thecomprehensiveenergyconsumption
+perton of steeland perton ofcement onlydropped by0.56
+percentand0.49percentrespectively.Thissuggeststhatraising
+theefficiencyofheavyindustriescanhardlyfurtherimprovethe
+wholeenergysystemefficiency.
+3. Comparison and synergies between Germany and China
+Attherenewableenergysectors,bothChinaandGermanytake
+renewableenergiesasakeydrivingforceinenergytransition.
+InChina,theriseofelectricityandrenewablesarecloselyinter-
+linkedasChinadiversifiesandcleansupitspowermix- the
+shareofcoalintotalgenerationfallsfromtwo-thirdstodayto
+lessthan40%in2040asaresult(IEA,2017),inotherwords,
+Chinaseesrenewablesasasourceofenergysecurityandnot
+justonlytoreducecarbonemission.Currently,Chinaaccountsfor
+morethan40%ofworldwiderenewablecapacitygrowth,andwill
+continuetoleaditsexpansiontoanother30%by2022(IEA,2017).
+Eventhoughthe13thfive-yearplansrenewablescapacitytargets
+for2020areminimumtargets,however,ifthescenarioof‘‘Be-
+low2◦C’’wastakenintoaccount,therenewablesdevelopment
+shouldgobeyondthecurrenttargets:Solarfrom110GWto200
+GW,windfrom210GWto350GW,bioenergyfrom15GWto30
+GW,accordingtothereportof‘‘ChinaRenewableEnergyOutlook
+2017’’(CNREC, 2017). While in Germany, expanding renewable
+energieshasbeingtakenasoneofthetwofundamentalpillars
+forenergytransition.Therenewablesprovidemajorsourcefor
+electricityneedsofGermany,providing37.8%oftheelectricity
+needsofGermanyin2018,makingGermanybecomingaworld
+market leader in global wind and photovoltaics market (Laes
+etal.,2014).JointStatementbyLiKeqiang,PremieroftheState
+Council of the People’s Republic of China, and Angela Merkel,
+ChancelloroftheFederalRepublicofGermanyon13June2016in
+Beijing,China,saidthat‘‘Bothsideswelcometheinnovativecoop-
+erationbetweenuniversities,researchinstitutionsandcompanies
+frombothcountriesinthefieldofsustainableenergy.Bothsides
+willworktoboostcooperationinthefieldsofimprovingenergy
+efficiencyandexpandingrenewableenergies’’.Theroleofnuclearpoweristhefundamentaldifferencebe-
+tween Germany and China. China sees nuclear energy as an
+importantsourceforenergysupply.Non-fossilenergyratherthan
+renewableenergyappearsmoreofteninChina’senergypolicy,
+whichconsidersnuclearenergyandrenewableenergyunderthe
+sameumbrella.Onthecontrary,phase-outnuclearenergyisa
+cornerstoneoftheGermanenergytransition.Thewidedebateof
+nuclearpowerinGermanywastriggeredbytheChernobylnu-
+clearaccidentin1986.AftertheFukushimadisaster,aconsensus
+fortheneedofphase-outnuclearpowerplantswasreachedand
+thelastnuclearpowerplantwillbeshutdownin2022.Chinahas
+publishedthemediumandlong-termnuclearpowerdeveloping
+plan(2005-2020),whichseednuclearasanimportantsourcefor
+energysecurity,electricitysupplyandenvironmentalprotection.
+Comparingthesharesofnuclearinprimaryenergyconsumption,
+Germany(5,92%)clearlytopsChina(1,58%)in2016.However,in
+Germany,boththeamountofnuclearconsumptionandtheshare
+of nuclear in primary energy consumption did decrease pro-
+foundly,inparticularafter2011.InChina,theshareofinstalled
+capacityofnuclearpowergenerationhasincreasedcontinuously
+toassureelectricenergysupplyinagrowingeconomy(Table5).
+In2016,thegrowthofChina’snuclearpowergenerationwas9.6
+milliontonesofoilequivalent(mtoe),whichwasthelargestof
+anycountrysince2004.
+AccordingtoIPCCReport,coalisthemostcarbonintensive
+fossil fuel and coal-fired electricity must end by 2050 if we
+wanttoachievetheemissionsreductionsneededtolimitglobal
+warming to 1.5◦C (IPCC, 2018). Coal phase-out implies sev-
+eralinterlinkedpolicies,includingtheshut-downofcoalmines,
+an exit from coal-fired electricity generation and removal of
+governmentsubsidiestothecoalindustry.However,coalphase-
+out raised many concerns over energy security and reliability
+ofelectricitysupply.Therefore,agradualandstructuredplanis
+needed.Chinaisthesinglelargestcoalconsumerintheworld,
+and coal represents more than 60 percent of its energy mix.
+China’sgovernmenthasmaderecentannouncementsthatcould
+helptolimititscoaluse.Inparticular,theChinese13thFive-
+YearPlanincludesplansforacaponcoal-basedgenerationata
+maximumof1,100gigawattsofcapacityby2020.Andtherehave
+beenrecentattemptstocontrolunnecessarynewinvestment.In
+thelongrun,coalconsumptionwillcontinuedeclining,despite
+theannualandseasonalfluctuations(Qietal.,2016).However,
+C.Chen,B.Xue,G.Caietal./EnergyReports5(2019)1249-1260 1257
+Table 5
+DevelopmentofnuclearpowerreactorsinGermanyandChina(asof5thMarch2019).
+Country Operablereactors Under-constructionreactors Reactorsplanned Permanentshutdownreactors
+Number Netcapacity(MW) Number Netcapacity(MW) Number Netcapacity(MW) Number Netcapacity(MW)
+Germany 7 9515 0 0 0 0 29 16,860
+China 46 42,800 11 10,982 43 50,900 0 0
+coalwillbekeptasastrategicimportantcomponentofChinese
+energysystem.
+However, Germany proposed to phase out coal by 2038 in
+moveawayfromfossilfuels,infacingthefactthattheshareof
+coalinelectricitygenerationinGermanyis37percent.Tradition-
+ally,GermanyisEurope’stopcoal-burner.Coalmining,including
+lignite,hasastrongpresenceinthecountry.Energypolicyin
+Germanyhashistoricallyfocusedoncoal,actuallysubsidizedit
+withseveralhundredbillion.Asafuelsource,ligniteisveryfinan-
+ciallyattractive.Browncoalstillconstitutesaboutaquarterofthe
+country’spowerproduction.Coalpowerplantshavedecreased
+productionoverpastyears.ButmostofGermany’scoalplants
+stillrunthroughouttheyear.Recently,coalwastakingaback
+seat.InJanuary2019,agovernment-appointedcoalcommission
+suggestedtoshutdownallcoal-firedpowerplantsby2038and
+proposedatleast40billioneuros($45.7billion)inaidtoregions
+affectedbythephase-out.InOctober2017,Berlinwasthefirst
+BundeslandofGermanytopassacoalphase-outlaw,puttingan
+endtocoalheatandpowerinthatregionby2030.
+In terms of the self-sufficiency, for export-oriented nations
+likeGermanyandChina,securityofenergysupplyandaffordable
+energyareverycriticaltasksfortheenergyindustry.Currently,
+Germanyimportsmorethan70%ofitsprimaryenergyconsump-
+tion.AsGermany’simportedenergyfromneighborcountries,the
+Europeanenergynetworkplayedanimportantroleinsecuring
+thestability.EuropeangridsarebeingextendedandGermany’s
+energy transition is supported by the top levels of the Euro-
+peanUnion.Therefore,theself-sufficiencyinGermanyisrather
+underthecontextofalargerEUframework.Likely,energysecu-
+rityplayedanimportantroleintheenergytransitioninChina.
+However,China’senergysecuritystrategyparticularlyprioritizes
+maximumself-sufficiencyandenergyindependency.SinceChina
+wasanetimportcountryofcrudeoilin1996,energysupplyrisk
+aversionhasbeenincludedinnationalenergysecuritystrategy
+(Wangetal.,2018).In2016,theself-sufficiencyratestoodat79%,
+inwhichcoalistheprimarysourceofthecountry’senergysecu-
+rity.Inthiscase,energysecuritywillbeanimportantchallenge
+tofuturesustainabledevelopmentinChinaandrenewableenergy
+developmentmaybevaluabletoaddressthisissue.
+While Germany has targeted both CO 2emission and GHG
+emission, CO 2emission seems to be the main focus in China.
+China’sCO2emissionsaresupposedtopeakmorethanadecade
+aheadofitsParisAgreementNDCcommitment(CAT,2017),while
+thetotalGHGemissionsarelikelytocontinueincreasinguntil
+2030.Littleattentionhasbeengiventoitsnon-CO 2GHG(CH4,
+N2O,HFCsetc.)andnosufficientsupportiveactionisfollowed
+(Zhangetal.,2015).ResearchshowsthatChina’sexportsindustry,
+whichislargelyresponsibleforthehighenergyintensiveprod-
+ucts,suchasCement,PlateGlass,RolledSteel,CopperProducts,is
+emittingGHGataratefasterthanthecountry’soverallemissions
+rate.
+Inthedecarbonizingthemobilitysector,Chinaisaheadof
+Germany.Thepublictransportationinmanymajorcitieshave
+alreadyadoptedtothenewpoliciesandreplacedallbusesby
+electricorhydrogen-basedbuses.Also,themajorshareofmotor
+bikesiselectricnowadays.Germanysetagoaltoput1million
+e-carsontheroadby2020putbutrightnowjust(early2019)
+about130’000carswithbatteriesareregistered,halfofthem
+hybrids,i.e.agasolineengineisthemainengine.Reasonsforthisfailurearemanifold:highcosts,severalstandards,missing
+chargingpoints,lowrange,nobusinesscase,noconcertedefforts
+likeitseemstobepossibleinChina.
+4. Recommendation for cooperation points
+For international climate policy and energy transition, a
+strongerGerman-Chinesecooperationwouldbeanessentialsig-
+naltoachievesustainablegrowthbytheutilizationofrenewables
+andreducinghigh-carbonfossilenergyconsumption.Germany
+andChinacouldtakefurtherleadershipinmultilateralprocess,
+such as the G20. As the pioneers in energy transition, both
+countriescanlearnfromeachotherandinitiateaglobalenergy
+transitiontrend.
+GovernmentalcooperationbetweentheGermanyandChinain
+thefieldofenergypolicystartedin2006(BMWi,2017).Inearly
+2013,thetwocountriesagreedtointensifytheircollaboration
+onestablishingasustainableenergysupply.In-depthdialogue
+onlessonslearnedfromtheenergytransitionandapproachesto
+expandingtheuseofrenewableenergyandincreasingenergy
+efficiencyisthereforeofinterestforbothGermanyandChina.
+TheSino-GermanEnergyPartnership playsarolewithinChinain
+sharinglessonslearnedfromGermany’senergytransitionandin
+raisingawarenessamongChineseenergysectorstakeholdersof
+thechallengesinvolvedintheenergytransition.Regularworking
+group meetings and high-level bilateral meetings facilitate in-
+depthpoliticalandtechnicaldialogueontheenergytransition
+betweenGermanandChinesedecision-makers.Anexampleis
+the exchange between the German Kopernikus Energy Transi-
+tion (ENavi) programme and the Chinese Academy of Science
+includinglocalplayers.
+Energypartnershipsandenergydialoguesarethemainways
+theGermanandChinesegovernmentengagingtoshareexperi-
+enceandviewsonenergypolicyandtheenergysector,andto
+discussprogressontheenergytransition(BMWi,2017).Theen-
+ergypartnershipcombineshigh-levelgovernmentdialogueand
+expertadvicewiththeinvolvementoftheprivatesector.Federal
+MinistryforEconomicAffairsandEnergy(BMWi),theNational
+DevelopmentandReformCommission(NDRC)andtheNational
+EnergyAdministration(NEA)ofChinaagreedonthespecificareas
+theywanttofocuson.The DeutscheGesellschaftfürInternationale
+Zusammenarbeit (GIZ)GmbHiscoordinatingtheenergypartner-
+shiponbehalfofBMWiandhassetupanEnergyPartnership
+Secretariat,withcontactsinbothBeijingandBerlin.Theaimisto
+learnfromtheexperiencesandthemainfocusisonissueslike
+therenewableenergy,energyefficiency,gridsystem,upgrading
+energy infrastructure, and rules on the electricity and energy
+market.
+Inthebusinesssector,cooperationhelpsGermanandChinese
+companiestoenternewmarketsabroad.Germanybenefitsfrom
+acheapsupplyofgreenenergyproductsfromChina.Thereis
+a great deal of interest from China in Germany’s experience
+withtheflexibilizationofcoal-firedpowerplantsandmarket-
+basedmechanismsforsystemsintegration.Germancompanies
+couldadvertisetheirproductsandservicesinenergyefficiency
+in buildings and industry. However, Germany can learn from
+Chinainthetransportsector,withregardtothedevelopment
+ofelectriccars.Chinahasalreadyintroducedaquotaforelectric
+vehiclesandisalsoconsideringabanoncombustionenginecars.
+1258 C.Chen,B.Xue,G.Caietal./EnergyReports5(2019)1249-1260
+The German manufacturers need to adapt in order to survive
+onChina’sfutureautomotivemarket.Inaddition,collaboration
+couldalsoleveragegreengrowthopportunitiesinfast-developing
+regionsinAsiaorAfrica.GermanyandChinashouldintensify
+cooperationinjointprojectsinthirdcountries,forinstanceinthe
+frameworkofChina’sBeltandRoadInitiative.
+Scientific cooperation is another key point. In a
+transdisciplinaryapproachincludingsocietalandeconomicfac-
+tors,researchoutcomesfromtheGermanenergytransitionpro-
+grammeENavi(ENavi,2018),showedgreatpotentialsconnected
+toenergytransition.Otherforecastsshowthatthenationalecon-
+omy will benefit from 2025 on. The energy transition will be
+thelargestmodernizationandinfrastructureprojectofthenext
+decades and it also triggers technology breakthroughs, which
+could have a dramatic cost reduction, and sustain the global
+deployment. An example might be batteries based on abun-
+dant,cheapandecologicallyfriendlymaterialswithhighenergy
+storagedensities,somethingthatwouldboostaglobalenergy
+transition.InChina,untilnow,nocomparableprojectlikeENavi
+exists,therefore,Chinamayneedtotakethelessonslearnedfrom
+Germany.Inordertointensifythescientificdialogue,wecalled
+forfurtherresearchanddiscussions.
+In Germany and China alike, the cities and municipalities
+are key to a successful transformation of energy systems and
+implementationoflow-carbondevelopmentpilots.Thesuccessof
+theseprogramswillcruciallydependonpositiveexperiencebe-
+inggainedatthelocallevel.Here,emissionreductiontargetsand
+strategiesmustbeadaptedandimplementedwiththeinvolve-
+mentofcitizens,companies,initiativesandlocalinstitutions.This
+istheonlywaytocreateownershipoftheprocess.
+5. Discussion
+Germany’sEnergiewendeisconsideredasoneexampleofhow
+a highly industrialized economy can transition its power sys-
+temtowardsaclimate-friendly,economicallycompetitivesystem
+while ensuring energy security. However, Germany will likely
+failonmanyofitsself-imposedenergytransitiontargets,says
+theGermangovernment(BMU,2018).Ontheotherhand,asthe
+world’smostpopulousnationandsecondlargereconomy,China’s
+EnergyRevolution,isthoughttohavethepotentialtoresetthe
+globalenergyorder.Takingintoaccountthelessonsfromeach
+other,GermanyandChinamayhavethechancetotacklethe
+challengesoftransition.
+Policyinstrumentshaveshowntobepracticableandeffective
+tosteerinvestmentsintherightdirectionandtriggerachange
+inconsumerbehaviorinbothcountries.Legislating,taxationand
+feed-intariff,arewidelyconsideredasdrivingforcesbymany
+countriesasimportantapproachestoencouragethedevelopment
+ofnewenergyresources(Saiduretal.,2010).InGermany,theEEG
+alongwithitsguaranteedfeed-in-tariffswasthekeyforrapid
+growth of renewable power production by guaranteeing reli-
+ableinvestmentconditions.Thishighlysuccessfulinstrumenthas
+beenexportedintomanyothercountriesandregionsacrossthe
+globe.However,theGermangovernmentcurrentlychangesthe
+legislativelandscapeoftherenewableenergymarket.Feed-in-
+tariffsaresubstitutedbyauctionstogainmorepoliticalinfluence
+on the speed of renewables’ expansion and subject them to
+marketforces,withexemptionstosmallinstallations.Similarly,
+China’srenewableenergylawsandpolicysystemhaveplayeda
+vitalroleinspeedingupthedevelopmentofrenewableenergies.
+However,theenergypolicesinthetwocountriesaredifferent
+intermsofoperabilityandpracticability.InChina,regulations
+ofenergytransitionarescatteredinvariouspoliciesandlaws,
+rangingfromcentrallevelandlocallevellaws,generallawsand
+specializedlaws.Someoftheseareconsideredrathervagueandlackingofoperability(Liu,2019).Incontrast,theGermanEEGis
+veryspecificandhighlyoperational.EEGusuallyexplainshowto
+applyinspecificoperationsorspecialcircumstancesandsome
+disputable issues were clearly set out. For example, EEG has
+stipulatedthegridconnectionwithregardingtowhatprocedures
+shouldbetaken,bywhichactor,inwhatperiodoftimeandwho
+shouldbearthecost.However,theChineserenewableenergyreg-
+ulationsmaybetooprincipledandgeneralized.Therefore,more
+systematicandefficientlawsandpoliciesshouldbeformulated
+inChina.
+Stimulatingallstakeholderstotakeactionsatdifferentscales
+isakeytaskforenergytransition.InGermany,moreandmoreac-
+torsareproducingrenewableelectricityonasmallscaleatalocal
+level.Thereisstillarathercentralizedpolicy,butthesystemis
+increasinglybecominganintermixofcentrallylocatedstabilizing
+(coal,gas)powerplantsforthebaseloadanddecentralizedre-
+newableenergyinstallations.Evenmunicipallevelgovernments
+producetheirownenergyandcreatetheirownclimatepolicies.
+China’saimistodevelopanincreasinglydecentralizedelectricity
+systemaswell.Forinstance,Chinahasalreadyachievedsepara-
+tionbetweenproductionandtransmission.Thesecondstageisto
+researchanddevelopindependentdispatchingofelectricityfrom
+thetransmissionsystem.OneofthebigchallengesinChinais
+thepowerheldbyactorsintheelectricitysupplychain.There
+are almost 900 electricity distributors in Germany, creating a
+competitive environment. However, in China, there is a need
+toincreasethecompetitivenessofenergyproducers,electricity
+distributors,andtransmissionsystemoperators.Itisextremely
+importanttounderstandthemotivationsofalltheactorsalong
+theenergysupplychain.Theexpansionofrenewableenergyis
+accompaniedbyashiftintheownershipstructureofelectricity
+production.
+WiththeEUEmissionsTradingSystem(ETS),Europehashad
+atradingschemeforcarbonpermitsinplacefortwelveyears
+whichincludesGermany.From2011to2016,Chinahaslaunched
+sevencarbonmarketpilotsinBeijing,Tianjin,Shenzhen,Shang-
+hai,Hubei,andGuangdong.Sofar,allowancesinthesemarkets
+havebeenallocatedmainlythroughgrandfatheringandbench-
+marking,withonlysmall-scaleauctions.Anationalcarbonmar-
+ket was officially announced in December 2017, covering the
+power and heating sectors, which are responsible for a large
+fractionofcoaluse.Themarketwillonlystartofficialtradingin
+nextseveralyears,andthecarbonallowancemechanismdesign
+willbepromotedcontinuously.Policy-makershopethatcarbon
+pricesplayaincreasinglyimportantroleinpromotingthelow
+carbontransition(CNREC,2018).
+Isnuclearpoweracomponentofenergytransition?Clearly,
+GermanyandChinahavedifferentanswers.InGermany,dueto
+theshut-downofnuclearplants,coalpowerplants(withmuch
+higheremissions)havetomakeupforitandreplacethatmissing
+electricenergygeneration.Asaresult,despiteanincreasingshare
+ofrenewableenergysources,theGHGemissionsinGermanyare
+rising.Howtomeetthetransition-paradoxandotherskeptical
+critics,GermanyandChinamayneedjointheirforcestofindthe
+solution.
+TheGermancitizensarethekeyactorsinthevoiceofphase-
+outnuclearpower.Astheyattendedanti-nuclearpowerdemon-
+stration, promoted environmental organizations and voted for
+politicians and parties, the politician must hear. In principle,
+theenergytransitioncontinuedstrongsupportamongtheGer-
+manpopulation.Thehighestdegreeofacceptancewasshownin
+Germany,that93percentareinfavoroffurtherexpansionof
+renewableenergies.However,thisoverallsocio-politicalaccep-
+tanceneedstobetranslatedintoanincreasingmarket-related
+acceptancewhichmanifestsitselfinbenefitsforthepeopleand
+amoreintensivemarketpenetration.WhileGermanyenjoysthe
+C.Chen,B.Xue,G.Caietal./EnergyReports5(2019)1249-1260 1259
+supportofthepublictophase-outnuclear,thedecision-making
+processismorelikelytobeinfluencedbypoliticsandexperts
+inChina.Althoughbothcountrieshaveverydifferentchoiceson
+energytransition,itistoofartomakeaconclusion.Therefore,the
+channelsofcooperationsandcommunicationsinbothcountries
+shouldbealwaysopened.
+6. Conclusion
+Energytransitionhasbeenalong-termstrategyforbothGer-
+manyandChina.AftertheUSdecidedtostepawayfromtheParis
+Agreement,GermanyandChinaareexpectedtotakethelead
+ontheglobalefforttoachievecleanenergyandGHGemissions
+reduction.AsChinesePremierLiKeqiangandGermanChancellor
+AngelaMerkelagreedtoemphasizeinnovationcooperationin
+2014,ChinaandGermanywillworktogethertodeepenenergy-
+dialogues. Based on the comparative and qualitative analysis,
+thebackground,milestones,currentsituationandchallengesof
+energytransitioninthetwocountriesarereviewed.Wefound
+thatinfrastructure,policyinstrumentsandmarketreformplayed
+thekeyrolesinthetransitionprocessinGermanyandChina.
+Underthebackgroundofenergyandenvironmentalcrisis,the
+developmentofrenewableenergy(suchaswaveenergy,offshore
+windenergyandsoon)isagoodstrategy.Whilenuclearpower
+andcoalarelikelytobeabandonedinGermany,Chinahasmore
+ambitionbeyondthepowersectorandtoreachself-sufficiency.
+The two countries chosen different concepts and pathways to
+achievetheirtransitiongoals.However,wehavenowlearnedthat
+noonecanreachitsgoalsindependentlyandtheyshouldinvest
+incooperation.UnderthecontextthatGermanyandChinaare
+actingmoreambitiouslyontheleadershipofclimateprotection
+and energy transition in international level, the collaboration
+betweeneachothercouldnotonlybenefitGermanyandChina
+but also leverage green energy growth opportunities in third
+countries.
+Declaration of competing interest
+Theauthorsdeclarethattheyhavenoknowncompetingfinan-
+cialinterestsorpersonalrelationshipsthatcouldhaveappeared
+toinfluencetheworkreportedinthispaper.
+Acknowledgments
+This research was funded by the Natural Science Founda-
+tionofChina(41471116),thesupportfromtheGermanBMBF
+KopernikusProjectfortheEnergyTransition-ThematicFieldNo.
+4 ‘‘System Integration and Networks for the Energy Supply’’
+(ENavi), and the Youth Innovation Promotion Association CAS,
+China(2016181).Specialthanksgototheanonymousreviewers
+fortheirkindandvaluablecomments.
+References
+AGEB (AG Energiebilanzen e. V.), 2018. Stromerzeugung nach Energieträgern
+(Strommix) von 1990 bis 2017 (in TWh) Deutschland insgesamt, 2018.
+Availableonline:
+Bayer, B., Matchoss, P., Thomas, H., Marian, A., 2017. The German experience
+with integrating photovoltaic systems into the low-voltage grids. Renew.
+Energy119(C),129-141,Elsevier.
+BDEW (Bundesverband der Energie- und Wasserwirtschaft e.V.), 2018.
+BEW - Strompreisanalyse Mai 2018: Haushalte und Industrie.
+Available online: 
+Strompreisanalyse-Mai-2018.pdf,accessedon202018.
+BMU (Federal Ministry of the Environment Nature Conservation and Nuclear
+Safety),2016.ClimateActionPlan2050:PrinciplesandgoalsoftheGerman
+government’s climate policy 2016. Available online: 
+fileadmin/Daten_BMU/Pools/Broschueren/klimaschutzplan_2050_en_bf.pdf,
+accessedon102018.BMU (Federal Ministry of the Environment Nature Conservation and Nuclear
+Safety), 2018. Klimaschutzbericht 2017. Available online: 
+bmu.de/fileadmin/Daten_BMU/Pools/Broschueren/klimaschutzbericht_2017_
+aktionsprogramm.pdf.
+BMWi (Federal Ministry for Economic Affairs and Energy), 2016. Green
+Paper on Energy Efficiency. Available online: 
+Redaktion/EN/Publikationen/green-paper-on-energy-efficiency.pdf?__blob=
+publicationFile&v=4,accessedon102018.
+BMWi(FederalMinistryforEconomicAffairsandEnergy),2017.Annualreport
+2017energypartnership.Availableonline:
+EN/Publikationen/Energie/annualreport-energy-partnerships.html, accessed
+on202018.
+BMWi(FederalMinistryforEconomicAffairsandEnergy),2018.Sixth‘‘Energy
+Transition’’MonitoringReport‘‘TheEnergyoftheFuture’’.Availableonline:
+
+CAT (Climate Action Tracker), 2017. China: Climate Action Tracker. Avail-
+ableonline:
+2018.
+CEC(ChinaElectricityCouncil),2018.ElectricitystatisticinChina2017.Avail-
+able online:  accessed on
+202018.
+CNREC (China National Renewable Energy Centre), 2017. China Renewable
+EnergyOutlook2017.
+CNREC (China National Renewable Energy Centre), 2018. Energy Transition
+Trends 2018. Available online: 
+Dokumente/Pdf/9256_Energy_Transition_Trends_2018_-_China__Europe_
+_USA.pdf,accessedon202018.
+Dowling, R., Guirk, P.M., Maalsen, S., 2018. Multiscalar governance of urban
+energytransitionsinAustralia:ThecasesofSydneyandMelbourne.Energy
+Res.Soc.Sci.44,260-267.
+ENavi Kopernikus Project, 2018. available online: 
+projekte.de/en/projects/system-integration,accesseddate:Dec202018.
+Eurostat,2017.Electricitypricestatistics.availableonline:
+eurostat/statistics-explained/index.php/Electricity_price_statistics, accessed
+on202018.
+Gabriel,S.,2014.EEG-Reform-MitallenBeteiligtenredenunddasGemeinwohl
+in den Mittelpunkt stellen. Available online: 
+energien.de/EE/Redaktion/DE/Videos/2014_01_21_rede_gabriel_
+jahrestagung_handelsblatt.html,accessedon10Oct2018.
+Gao, A.M., Fan, C., Liao, C., 2018. Application of german energy transition in
+Taiwan:Acriticalreviewofuniqueelectricityliberalisationasacorestrategy
+toachieverenewableenergygrowth.EnergyPolicy120,644-654.
+Haas, T., 2018. Comparing energy transitions in Germany and Spain using a
+politicaleconomyperspective.Environ.Innov.Soc.Trans.
+10.1016/j.eist.2018.11.004.
+Han, H., Wu, S., 2018. Rural residential energy transition and energy
+consumptionintensityinChina.EnergyEcon.74,523-534.
+Hedberg,A.,2017.Germany’senergytransition:makingitdeliver.availableon-
+line:  accessed
+on202018.
+IEA (International Energy Agency), 2017. Renewables 2017: Analysis and
+Forecaststo2022,IEA,Paris,
+IPCC,2018.IPCCspecialreportontheimpactsofglobalwarming1.5◦C.Avail-
+able online: 
+SPM_High_Res.pdf,accessedon202018.
+IRENA(InternationalRenewableEnergyAgency),2017.RenewableEnergy:AKey
+Climate Solution. Available online: 
+Renewable-Energy-Key-climate-solution,accesseddate:102018.
+IRENA (International Renewable Energy Agency), 2018. Global Energy
+Transformation: A Roadmap to 2050. Available online: 
+org/publications/2018/Apr/Global-Energy-Transition-A-Roadmap-to-2050,
+accessedon102018.
+Knopf,B.,Jiang,K.,2017.GermanyandChinatakethelead.Science358,569.
+Laes, E., Gorissen, L., Nevens, F., 2014. A Comparison of Eenergy Transition
+GovernanceinGermany,Vol.6.TheNetherlandsandtheUnitedKingdom,
+pp.1129-1152.
+Liu,Junxia,2019.China’srenewableenergylawandpolicy:Acriticalreview.
+Renew.Sustain.EnergyRev.99,212-219.
+Liu, Q., Lei, Q., Xu, H., Yuan, J., 2018. China’s energy revolution strategy into
+2030.Resour.Conserv.Recycl.128,78-89.
+Lutz,L.M.,Fischer,L.B.,Newig,J.,Lang,D.J.,2017.Drivingfactorsfortheregional
+implementationofrenewableenergy-AmultiplecasestudyontheGerman
+energytransition.EnergyPolicy105,136-147.
+Marquardt,J.,Steinbacher,L.,Schreurs,K.,2016.Drivingforceorforcedtransi-
+tion?:Theroleofdevelopmentcooperationinpromotingenergytransitions
+inthePhilippinesandMorocco.J.CleanerProd.128,22-33.
+Matchoss, P., Bayer, B., Thomas, H., Marian, A., 2019. The german incentive
+regulation and its practical impact on the grid integration of renewable
+energysystems.Renew.Energy134,727-738,November2018.
+1260 C.Chen,B.Xue,G.Caietal./EnergyReports5(2019)1249-1260
+NDRC(NationalDevelopmentandReformCommission),2015.China’sFirstin-
+tendednationallydeterminedcontribution.Availableonline:
+unfccc.int/,accessedon102018.
+NDRC (National Development and Reform Commission), 2017a. China’s 13th
+Five-Year Plan for Energy. Available online: 
+accessedon102018.
+NDRC (National Development and Reform Commission), 2017b. 13th Five-
+YearPlanonRenewableEnergy.Availableonline:
+accessedon102018.
+NDRC(NationalDevelopmentandReformCommission),2017c.EnergySupply
+and Consumption Revolution Strategy (2016-2030). Available online: http:
+//
+NEA(NationalEnergyAdministration),2016.Windpowerinstallationsandpro-
+duction by province. Available online: 
+wind-power-installations-production-province/,accessedon202018.
+Qi, Y., Stern, N., Wu, T., Lu, J., Green, F., 2016. China’s post-coal growth. Nat.
+Geosci.9(564).
+Quitzow, R., 2016b. China: Emerging global power in clean energy? In: Sus-
+tainableEnergyintheG20:ProspectsforaGlobalEnergyTransition,(IASS
+Study;2016).InstituteforAdvancedSustainabilityStudies(IASS),Potsdam,
+pp.32-38.
+Quitzow,R.,Roehrkasten,S.,Jaenicke,M.,2016a.TheGermanEnergyTransition
+inInternationalPerspective.IASSStudiesAvailableonline:
+potsdam.de/,accessedon102018.
+REN21,2018.Renewables2018GlobalStatusReport;Paris,France.Availableon-
+line:  ac-
+cessedon102018.
+Saidur,R.,Islam,M.R.,Rahim,N.A.,Solangi,K.H.,2010.Areviewonglobalwind
+energypolicy.Renew.Sustain.EnergyRev.14,1744-1762.
+State Council, 2015. The Strategic Energy Action Plan (2014-2020). Available
+online:
+energytransferwithhigherpublicacceptance?Renew.Sustain.EnergyRev.
+55,59-72.
+UN(UnitedNations),2015.TransformingourWorld:the2030AgendaforSus-
+tainable Development. Available online:  accessed date:
+102018.
+UNFCCC(UnitedNationsFrameworkConventiononClimateChange),2015.The
+ParisAgreement.Paris,France.Availableonline:
+date:102018.
+Unnerstall,T.,2017.Howexpensiveisanenergytransition?Alessonfromthe
+GermanEnergiewende.EnergySustain.Soc.7,38.
+Wang,B.,Wang,Q.,Wei,Y.,Li,Z.,2018.RoleofrenewableenergyinChina’s
+energy security and climate change mitigation: An index decomposition
+analysis.Renew.Sustain.EnergyRev.90,187-194.
+Wu,L.,Zhan,H.,2013.Internationalenergytransitionsandenergyrevolutionin
+China.J.YunnanUniv.3,116-127.
+Yuan, X., Lyu, Y., Wang, B., Liu, Q., Wu, Q., 2018. China’s energy transition
+strategy at the city level: The role of renewable energy. J. Cleaner Prod.
+205,980-986.
+Zhang,B.,Chen,Z.M.,Qiao,H.,Chen,B.,Hayat,T.,Alsaedi,A.,2015.China’snon-
+CO2greenhouse gas emissions: Inventory and input-output analysis. Ecol.
+Inform.26,101-110.
+Zhou, Y., Lu, S., 2017. China’s Renewable Curtailment and Coal Assets Risk
+Map. Available online: 
+Chinas-Renewable-Curtailment-and-Coal-Assets-Risk-Map-FINAL_2.pdf, ac-
+cessedon202018.
+Zou, C., Zhao, Q., Zhang, G., Xiong, B., 2016. Energy revolution: From a fossil
+energyeratoanewenergyera.Nat.GasInd.B3,1-11.
+ZSW (Zentrum für Sonnenenergie- und Wasserstoff-Forschung Baden-
+Württemberg), 2017. Erneuerbaren-Anteil liegt 2017 bei über 36 Prozent.
+Availableonline:

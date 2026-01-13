@@ -1,0 +1,173 @@
+Sustainable 
+Aviation Fuels 
+How to travel without emitting CO2?
+Strategy&2,000
+1,000
+05001,5002,500
+2030 2019MMt CO2/yr
+2040 2050 2060 2070Aviation accounts for about 3 -5% of total GHG emissions, 
+which could be significantly reduced exploiting different levers
+Potential decarbonization effects of different levers
+GHG: Greenhouse Gas Emissions 
+Source: IEA (2020): Energy Technology Perspectives, Strategy& Analysis•CO2emissions from air travel ongoingly 
+increased over the last decade accounting 
+for 3-5% of total GHG emissions
+•After drop in 2020 due to COVID-19, demand 
+growth will pick up again and reach pre-COVID 
+levels already in 2023
+•Decarbonization of the aviation sector needs to 
+exploit all levers, incl. shifting to train, further 
+improving efficiency and replacing fossil fuels 
+•Direct electrification and direct use of clean 
+hydrogen will be no mass solution for aviation
+•Therefore sustainable aviation fuels (SAF) will 
+be the major route for deep decarbonization of this sectorGlobal CO2 emissions in aviation by abatement measure
+(MMT CO2/yr)
+Stated Policies Scenario
+Sustainable Development Scenario
+Reduction driven by Avoided demand Technology improvements 
+Bio fuels Synthetic f uels
+
+Strategy&There are different pathways to sustainable aviation fuels 
+based on different feedstocks and with different limitations
+Pathways to Sustainable Aviation Fuels (SAF)
+Simplified, major routes, not taking into account fuels like SynLNG, clean hydrogen and SynMeOH; MSW: municipal solid waste; HEFA: Hydroprocessing of Esters and Fatty Acids; ATJ/ATG: 
+Alcohol to Jet / Gasoline; TRL: Technology readiness level; Sustainable fuels include synthetic fuels from power -to-liquid processes and bio fuels for renewable biological feedstocks
+Source: PwC | Strategy&Limitations and Challenges
+Production cost (esp. for Synfuels)
+Feedstock availability 
+(for Biofuels)
+Transport and storage
+Degradation (e.g. 
+
+stgen synfuels)
+Safety aspects (e.g. for ammonia)
+TraceabilityFeedstocks Conversion processes Output Fuel
+•Renewable power / 
+green hydrogen•Ammonia synthesis•Green Ammonia
+•MSW
+•Residual biomass 
+•Algae•Fischer -Tropsch
+synthesis•Sustainable Kerosene
+•Sustainable Diesel
+•Sustainable Gasoline
+•Green (M)Ethanol
+•Fats, (vegetable) oils, greases•HEFA
+•Alcohols •ATJ/ATG•(M)Ethanol synthesis
+
+Strategy&1,9 -1
+1 -1,70,7 
+(today)
+-
+1,2 -1,4 
+(with CO2cost)
+Fossil 
+Kerosene3,5-1,8 
+1,3 -12,0 -0,7
+1,1 -0,81,7-0,85,5 -3,5Currently SAF are not cost competitive compared to fossil 
+kerosine -in the future this will change 
+Cost comparison and prediction (USD / l kerosene)
+FT: Fischer -Tropsch, for PtL, best cost H2generation assumed with CO2extraction from concentrated source; assumed CO2cost 160- 200 USD/ to
+Source: Fraunhofer IKTS, ICAO, EIA, PwC | Strategy&•Cost for SAF currently significantly 
+higher than (untaxed) kerosene
+•With scale and learning effects, SAF will 
+realize significant cost degressions 
+•Assuming future energy tax and/ or CO2
+charges on fossil kerosene, SAF at least 
+can move close to price parity 
+−Bio fuels will initially lead this way but 
+will stay limited in feedstock availability
+−Synthetic fuels will follow and allow 
+unrestricted mass production
+lower value kerosene Potential CO2cost upper valueFT gasification 
+MSW/ biomass
+pilot scaleHEFA
+pilot scaleAlcohol -to-Jet
+pilot scalePower -to-Liquid
+pilot scale
+scale effects
+
+Strategy&The market will be driven by regulations and tax reliefs, self-
+commitments and certificates
+Market Drivers for SAF
+Regulations and policies Tax reliefs/ subsidies, Self commitments, e.g. SAF Certificates
+PwC report 
+detailing the impact 
+of certification on SAF market update2563
+2025 … 30 2050Re-FuelEU Aviation: 
+admixture quotas [%]
+CORSIA: Offset ~80% of all 
+emissions above 2020 levels•Energy taxation directive (part of “Fit For 55 package” ):
+Minimum tax rates on conventional fuels for 
+aviation and marine 
+•Incentives on national 
+level , such as:
+̶Guideline for promotion 
+of measures for regenerative fuels development
+̶Development of further funding guidelines to 
+support market ramp -
+up of renewable fuels Lufthansa
+2023 Procure 25 kl PtL
+2030 50% CO
+2emissions cut*
+2050 Become CO2neutral
+American Airlines
+2025 Source 2.5GJ 
+renewable energy
+2030 Replace 10% of jet fuel with SAF
+2050 Net zero
+IATA
+2021 Announced net zero in 
+2050 for all IATA airlinesExamples Examples Examples
+
+Strategy&Future SAF business models will be based on one 
+or a combination of six archetypes
+Emerging SAF business model archetypes
+GoO: Guarantee of OriginSource: PwC | Strategy&Validator of certificates , GHG 
+emissions, SAF routes and 
+contentsOperator of SAF pipelines, ships, 
+terminals, storage facilitiesOperator of large scale integrated 
+production sites in best cost 
+regions supplying global demandLarge scale 
+overseas SAF producerOriginator and trader of 
+feedstocks, intermediate products 
+and clean fuels as well as 
+certificates SAF 
+originator/ trader
+Operator of SAF fueling stations, 
+on-site storage, provider of fuel 
+admixturesOperator of regional SAF production with local supply
+Regional 
+SAF producerMixed SAF fuels providerSAF transporterSAF Certificate/ GoO validator
+1 2
+3 4
+5 6
+Non-Exhaustive
+
+Strategy&
+Key questions regarding the upcoming SAF economy and 
+decarbonizing your business 
+Key questions to consider
+Source: PwC | Strategy&Does my company have a resilient Net Zero / Sustainable Aviation Fuels Strategy ?
+incl. ambitions, role of SAF, business case for transformation
+Does my company have a matching Sourcing and Portfolio Strategy ?
+incl. requirements, sourcing partners, certification, own product portfolio, capabilities 
+Does my company have an actionable agreed Implementation Roadmap?
+incl. own operations and supply chain, acknowledging lead times and fleet service life
+Does my company have a Stakeholder Engagement Plan ?
+incl. financing, stakeholder mobilization, internal and external communication, 
+engagement and commitment
+
+Strategy&
+Contact us if we can support you with our view and experience 
+Dirk Niemeier Dr. Eva Poglitsch Prof. Dr. Jürgen Peterseim
+Director
+Lead clean hydrogen and 
+alternative fuels solutions
++49 173 5123 112
+
+Lead clean hydrogen solutions
++43 664 515 2930
+ Manager
+Lead alternative fuels solutions
++49 160 9242 6858

@@ -1,0 +1,1807 @@
+{
+  "entities": {
+    "policy_instruments": [
+      {
+        "term": "regulation",
+        "doc_id": "doc_001",
+        "filename": "Ammonia White Paper"
+      },
+      {
+        "term": "standard",
+        "doc_id": "doc_001",
+        "filename": "Ammonia White Paper"
+      },
+      {
+        "term": "target",
+        "doc_id": "doc_001",
+        "filename": "Ammonia White Paper"
+      },
+      {
+        "term": "compliance",
+        "doc_id": "doc_001",
+        "filename": "Ammonia White Paper"
+      },
+      {
+        "term": "carbon price",
+        "doc_id": "doc_002",
+        "filename": "Carbon Border Adjustment Mechanism"
+      },
+      {
+        "term": "emissions trading",
+        "doc_id": "doc_002",
+        "filename": "Carbon Border Adjustment Mechanism"
+      },
+      {
+        "term": "regulation",
+        "doc_id": "doc_002",
+        "filename": "Carbon Border Adjustment Mechanism"
+      },
+      {
+        "term": "directive",
+        "doc_id": "doc_002",
+        "filename": "Carbon Border Adjustment Mechanism"
+      },
+      {
+        "term": "standard",
+        "doc_id": "doc_002",
+        "filename": "Carbon Border Adjustment Mechanism"
+      },
+      {
+        "term": "target",
+        "doc_id": "doc_002",
+        "filename": "Carbon Border Adjustment Mechanism"
+      },
+      {
+        "term": "compliance",
+        "doc_id": "doc_002",
+        "filename": "Carbon Border Adjustment Mechanism"
+      },
+      {
+        "term": "incentive",
+        "doc_id": "doc_003",
+        "filename": "Carbon Capture in Industry - Policy Brief"
+      },
+      {
+        "term": "tax credit",
+        "doc_id": "doc_003",
+        "filename": "Carbon Capture in Industry - Policy Brief"
+      },
+      {
+        "term": "regulation",
+        "doc_id": "doc_003",
+        "filename": "Carbon Capture in Industry - Policy Brief"
+      },
+      {
+        "term": "target",
+        "doc_id": "doc_003",
+        "filename": "Carbon Capture in Industry - Policy Brief"
+      },
+      {
+        "term": "incentive",
+        "doc_id": "doc_004",
+        "filename": "Climate Adaptation and Mitigation"
+      },
+      {
+        "term": "standard",
+        "doc_id": "doc_004",
+        "filename": "Climate Adaptation and Mitigation"
+      },
+      {
+        "term": "target",
+        "doc_id": "doc_004",
+        "filename": "Climate Adaptation and Mitigation"
+      },
+      {
+        "term": "regulation",
+        "doc_id": "doc_005",
+        "filename": "Climate Framework Laws in Europe"
+      },
+      {
+        "term": "target",
+        "doc_id": "doc_005",
+        "filename": "Climate Framework Laws in Europe"
+      },
+      {
+        "term": "legislation",
+        "doc_id": "doc_005",
+        "filename": "Climate Framework Laws in Europe"
+      },
+      {
+        "term": "incentive",
+        "doc_id": "doc_006",
+        "filename": "Cost-Benefits of Climate Change"
+      },
+      {
+        "term": "carbon tax",
+        "doc_id": "doc_006",
+        "filename": "Cost-Benefits of Climate Change"
+      },
+      {
+        "term": "regulation",
+        "doc_id": "doc_006",
+        "filename": "Cost-Benefits of Climate Change"
+      },
+      {
+        "term": "standard",
+        "doc_id": "doc_006",
+        "filename": "Cost-Benefits of Climate Change"
+      },
+      {
+        "term": "incentive",
+        "doc_id": "doc_007",
+        "filename": "Countries Leading Energy Transition"
+      },
+      {
+        "term": "target",
+        "doc_id": "doc_007",
+        "filename": "Countries Leading Energy Transition"
+      },
+      {
+        "term": "subsidy",
+        "doc_id": "doc_008",
+        "filename": "Economics of Transition Pathways"
+      },
+      {
+        "term": "feed-in tariff",
+        "doc_id": "doc_008",
+        "filename": "Economics of Transition Pathways"
+      },
+      {
+        "term": "carbon tax",
+        "doc_id": "doc_008",
+        "filename": "Economics of Transition Pathways"
+      },
+      {
+        "term": "regulation",
+        "doc_id": "doc_008",
+        "filename": "Economics of Transition Pathways"
+      },
+      {
+        "term": "mandate",
+        "doc_id": "doc_008",
+        "filename": "Economics of Transition Pathways"
+      },
+      {
+        "term": "standard",
+        "doc_id": "doc_008",
+        "filename": "Economics of Transition Pathways"
+      },
+      {
+        "term": "levy",
+        "doc_id": "doc_008",
+        "filename": "Economics of Transition Pathways"
+      },
+      {
+        "term": "incentive",
+        "doc_id": "doc_009",
+        "filename": "Energy Transitions in China and Germany"
+      },
+      {
+        "term": "regulation",
+        "doc_id": "doc_009",
+        "filename": "Energy Transitions in China and Germany"
+      },
+      {
+        "term": "mandate",
+        "doc_id": "doc_009",
+        "filename": "Energy Transitions in China and Germany"
+      },
+      {
+        "term": "standard",
+        "doc_id": "doc_009",
+        "filename": "Energy Transitions in China and Germany"
+      },
+      {
+        "term": "target",
+        "doc_id": "doc_009",
+        "filename": "Energy Transitions in China and Germany"
+      },
+      {
+        "term": "incentive",
+        "doc_id": "doc_010",
+        "filename": "EU Green Deal"
+      },
+      {
+        "term": "emissions trading",
+        "doc_id": "doc_010",
+        "filename": "EU Green Deal"
+      },
+      {
+        "term": "regulation",
+        "doc_id": "doc_010",
+        "filename": "EU Green Deal"
+      },
+      {
+        "term": "directive",
+        "doc_id": "doc_010",
+        "filename": "EU Green Deal"
+      },
+      {
+        "term": "standard",
+        "doc_id": "doc_010",
+        "filename": "EU Green Deal"
+      },
+      {
+        "term": "target",
+        "doc_id": "doc_010",
+        "filename": "EU Green Deal"
+      },
+      {
+        "term": "compliance",
+        "doc_id": "doc_010",
+        "filename": "EU Green Deal"
+      },
+      {
+        "term": "legislation",
+        "doc_id": "doc_010",
+        "filename": "EU Green Deal"
+      },
+      {
+        "term": "emissions trading",
+        "doc_id": "doc_011",
+        "filename": "EU Hydrogen Strategy"
+      },
+      {
+        "term": "directive",
+        "doc_id": "doc_011",
+        "filename": "EU Hydrogen Strategy"
+      },
+      {
+        "term": "standard",
+        "doc_id": "doc_011",
+        "filename": "EU Hydrogen Strategy"
+      },
+      {
+        "term": "target",
+        "doc_id": "doc_011",
+        "filename": "EU Hydrogen Strategy"
+      },
+      {
+        "term": "target",
+        "doc_id": "doc_012",
+        "filename": "EU_Hydrogen_Strategy.pdf"
+      },
+      {
+        "term": "legislation",
+        "doc_id": "doc_012",
+        "filename": "EU_Hydrogen_Strategy.pdf"
+      },
+      {
+        "term": "subsidy",
+        "doc_id": "doc_013",
+        "filename": "IPCC Report"
+      },
+      {
+        "term": "incentive",
+        "doc_id": "doc_013",
+        "filename": "IPCC Report"
+      },
+      {
+        "term": "carbon tax",
+        "doc_id": "doc_013",
+        "filename": "IPCC Report"
+      },
+      {
+        "term": "emissions trading",
+        "doc_id": "doc_013",
+        "filename": "IPCC Report"
+      },
+      {
+        "term": "regulation",
+        "doc_id": "doc_013",
+        "filename": "IPCC Report"
+      },
+      {
+        "term": "standard",
+        "doc_id": "doc_013",
+        "filename": "IPCC Report"
+      },
+      {
+        "term": "target",
+        "doc_id": "doc_013",
+        "filename": "IPCC Report"
+      },
+      {
+        "term": "incentive",
+        "doc_id": "doc_014",
+        "filename": "Policies Affecting Carbon Emissions"
+      },
+      {
+        "term": "carbon price",
+        "doc_id": "doc_014",
+        "filename": "Policies Affecting Carbon Emissions"
+      },
+      {
+        "term": "carbon tax",
+        "doc_id": "doc_014",
+        "filename": "Policies Affecting Carbon Emissions"
+      },
+      {
+        "term": "emissions trading",
+        "doc_id": "doc_014",
+        "filename": "Policies Affecting Carbon Emissions"
+      },
+      {
+        "term": "regulation",
+        "doc_id": "doc_014",
+        "filename": "Policies Affecting Carbon Emissions"
+      },
+      {
+        "term": "standard",
+        "doc_id": "doc_014",
+        "filename": "Policies Affecting Carbon Emissions"
+      },
+      {
+        "term": "incentive",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "feed-in tariff",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "regulation",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "directive",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "mandate",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "standard",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "target",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "compliance",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "support scheme",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "legislation",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "incentive",
+        "doc_id": "doc_016",
+        "filename": "Renewable Energy Directive"
+      },
+      {
+        "term": "regulation",
+        "doc_id": "doc_016",
+        "filename": "Renewable Energy Directive"
+      },
+      {
+        "term": "directive",
+        "doc_id": "doc_016",
+        "filename": "Renewable Energy Directive"
+      },
+      {
+        "term": "standard",
+        "doc_id": "doc_016",
+        "filename": "Renewable Energy Directive"
+      },
+      {
+        "term": "target",
+        "doc_id": "doc_016",
+        "filename": "Renewable Energy Directive"
+      },
+      {
+        "term": "compliance",
+        "doc_id": "doc_016",
+        "filename": "Renewable Energy Directive"
+      },
+      {
+        "term": "legislation",
+        "doc_id": "doc_016",
+        "filename": "Renewable Energy Directive"
+      },
+      {
+        "term": "regulation",
+        "doc_id": "doc_017",
+        "filename": "Renewable Fuels of Non-Biological Origins"
+      },
+      {
+        "term": "directive",
+        "doc_id": "doc_017",
+        "filename": "Renewable Fuels of Non-Biological Origins"
+      },
+      {
+        "term": "mandate",
+        "doc_id": "doc_017",
+        "filename": "Renewable Fuels of Non-Biological Origins"
+      },
+      {
+        "term": "standard",
+        "doc_id": "doc_017",
+        "filename": "Renewable Fuels of Non-Biological Origins"
+      },
+      {
+        "term": "target",
+        "doc_id": "doc_017",
+        "filename": "Renewable Fuels of Non-Biological Origins"
+      },
+      {
+        "term": "compliance",
+        "doc_id": "doc_017",
+        "filename": "Renewable Fuels of Non-Biological Origins"
+      },
+      {
+        "term": "support scheme",
+        "doc_id": "doc_017",
+        "filename": "Renewable Fuels of Non-Biological Origins"
+      },
+      {
+        "term": "incentive",
+        "doc_id": "doc_018",
+        "filename": "sustainable-aviation-fuels"
+      },
+      {
+        "term": "regulation",
+        "doc_id": "doc_018",
+        "filename": "sustainable-aviation-fuels"
+      },
+      {
+        "term": "directive",
+        "doc_id": "doc_018",
+        "filename": "sustainable-aviation-fuels"
+      },
+      {
+        "term": "incentive",
+        "doc_id": "doc_019",
+        "filename": "The-EU-Chemical-Industry"
+      },
+      {
+        "term": "carbon price",
+        "doc_id": "doc_019",
+        "filename": "The-EU-Chemical-Industry"
+      },
+      {
+        "term": "emissions trading",
+        "doc_id": "doc_019",
+        "filename": "The-EU-Chemical-Industry"
+      },
+      {
+        "term": "regulation",
+        "doc_id": "doc_019",
+        "filename": "The-EU-Chemical-Industry"
+      },
+      {
+        "term": "directive",
+        "doc_id": "doc_019",
+        "filename": "The-EU-Chemical-Industry"
+      },
+      {
+        "term": "standard",
+        "doc_id": "doc_019",
+        "filename": "The-EU-Chemical-Industry"
+      },
+      {
+        "term": "target",
+        "doc_id": "doc_019",
+        "filename": "The-EU-Chemical-Industry"
+      },
+      {
+        "term": "compliance",
+        "doc_id": "doc_019",
+        "filename": "The-EU-Chemical-Industry"
+      },
+      {
+        "term": "legislation",
+        "doc_id": "doc_019",
+        "filename": "The-EU-Chemical-Industry"
+      },
+      {
+        "term": "subsidy",
+        "doc_id": "doc_020",
+        "filename": "WWF Hydrogen Recommendation"
+      },
+      {
+        "term": "incentive",
+        "doc_id": "doc_020",
+        "filename": "WWF Hydrogen Recommendation"
+      },
+      {
+        "term": "regulation",
+        "doc_id": "doc_020",
+        "filename": "WWF Hydrogen Recommendation"
+      },
+      {
+        "term": "directive",
+        "doc_id": "doc_020",
+        "filename": "WWF Hydrogen Recommendation"
+      },
+      {
+        "term": "standard",
+        "doc_id": "doc_020",
+        "filename": "WWF Hydrogen Recommendation"
+      },
+      {
+        "term": "target",
+        "doc_id": "doc_020",
+        "filename": "WWF Hydrogen Recommendation"
+      },
+      {
+        "term": "compliance",
+        "doc_id": "doc_020",
+        "filename": "WWF Hydrogen Recommendation"
+      },
+      {
+        "term": "legislation",
+        "doc_id": "doc_020",
+        "filename": "WWF Hydrogen Recommendation"
+      }
+    ],
+    "energy_carriers": [
+      {
+        "term": "hydrogen",
+        "doc_id": "doc_001",
+        "filename": "Ammonia White Paper"
+      },
+      {
+        "term": "ammonia",
+        "doc_id": "doc_001",
+        "filename": "Ammonia White Paper"
+      },
+      {
+        "term": "methanol",
+        "doc_id": "doc_001",
+        "filename": "Ammonia White Paper"
+      },
+      {
+        "term": "solar",
+        "doc_id": "doc_001",
+        "filename": "Ammonia White Paper"
+      },
+      {
+        "term": "wind",
+        "doc_id": "doc_001",
+        "filename": "Ammonia White Paper"
+      },
+      {
+        "term": "renewable",
+        "doc_id": "doc_001",
+        "filename": "Ammonia White Paper"
+      },
+      {
+        "term": "fossil fuel",
+        "doc_id": "doc_001",
+        "filename": "Ammonia White Paper"
+      },
+      {
+        "term": "coal",
+        "doc_id": "doc_001",
+        "filename": "Ammonia White Paper"
+      },
+      {
+        "term": "oil",
+        "doc_id": "doc_001",
+        "filename": "Ammonia White Paper"
+      },
+      {
+        "term": "natural gas",
+        "doc_id": "doc_001",
+        "filename": "Ammonia White Paper"
+      },
+      {
+        "term": "electricity",
+        "doc_id": "doc_001",
+        "filename": "Ammonia White Paper"
+      },
+      {
+        "term": "power",
+        "doc_id": "doc_001",
+        "filename": "Ammonia White Paper"
+      },
+      {
+        "term": "grid",
+        "doc_id": "doc_001",
+        "filename": "Ammonia White Paper"
+      },
+      {
+        "term": "hydrogen",
+        "doc_id": "doc_002",
+        "filename": "Carbon Border Adjustment Mechanism"
+      },
+      {
+        "term": "renewable",
+        "doc_id": "doc_002",
+        "filename": "Carbon Border Adjustment Mechanism"
+      },
+      {
+        "term": "coal",
+        "doc_id": "doc_002",
+        "filename": "Carbon Border Adjustment Mechanism"
+      },
+      {
+        "term": "electricity",
+        "doc_id": "doc_002",
+        "filename": "Carbon Border Adjustment Mechanism"
+      },
+      {
+        "term": "power",
+        "doc_id": "doc_002",
+        "filename": "Carbon Border Adjustment Mechanism"
+      },
+      {
+        "term": "hydrogen",
+        "doc_id": "doc_003",
+        "filename": "Carbon Capture in Industry - Policy Brief"
+      },
+      {
+        "term": "ammonia",
+        "doc_id": "doc_003",
+        "filename": "Carbon Capture in Industry - Policy Brief"
+      },
+      {
+        "term": "solar",
+        "doc_id": "doc_003",
+        "filename": "Carbon Capture in Industry - Policy Brief"
+      },
+      {
+        "term": "wind",
+        "doc_id": "doc_003",
+        "filename": "Carbon Capture in Industry - Policy Brief"
+      },
+      {
+        "term": "renewable",
+        "doc_id": "doc_003",
+        "filename": "Carbon Capture in Industry - Policy Brief"
+      },
+      {
+        "term": "clean energy",
+        "doc_id": "doc_003",
+        "filename": "Carbon Capture in Industry - Policy Brief"
+      },
+      {
+        "term": "fossil fuel",
+        "doc_id": "doc_003",
+        "filename": "Carbon Capture in Industry - Policy Brief"
+      },
+      {
+        "term": "coal",
+        "doc_id": "doc_003",
+        "filename": "Carbon Capture in Industry - Policy Brief"
+      },
+      {
+        "term": "oil",
+        "doc_id": "doc_003",
+        "filename": "Carbon Capture in Industry - Policy Brief"
+      },
+      {
+        "term": "natural gas",
+        "doc_id": "doc_003",
+        "filename": "Carbon Capture in Industry - Policy Brief"
+      },
+      {
+        "term": "power",
+        "doc_id": "doc_003",
+        "filename": "Carbon Capture in Industry - Policy Brief"
+      },
+      {
+        "term": "solar",
+        "doc_id": "doc_004",
+        "filename": "Climate Adaptation and Mitigation"
+      },
+      {
+        "term": "renewable",
+        "doc_id": "doc_004",
+        "filename": "Climate Adaptation and Mitigation"
+      },
+      {
+        "term": "power",
+        "doc_id": "doc_004",
+        "filename": "Climate Adaptation and Mitigation"
+      },
+      {
+        "term": "grid",
+        "doc_id": "doc_004",
+        "filename": "Climate Adaptation and Mitigation"
+      },
+      {
+        "term": "hydrogen",
+        "doc_id": "doc_005",
+        "filename": "Climate Framework Laws in Europe"
+      },
+      {
+        "term": "wind",
+        "doc_id": "doc_005",
+        "filename": "Climate Framework Laws in Europe"
+      },
+      {
+        "term": "fossil fuel",
+        "doc_id": "doc_005",
+        "filename": "Climate Framework Laws in Europe"
+      },
+      {
+        "term": "coal",
+        "doc_id": "doc_005",
+        "filename": "Climate Framework Laws in Europe"
+      },
+      {
+        "term": "power",
+        "doc_id": "doc_005",
+        "filename": "Climate Framework Laws in Europe"
+      },
+      {
+        "term": "coal",
+        "doc_id": "doc_006",
+        "filename": "Cost-Benefits of Climate Change"
+      },
+      {
+        "term": "oil",
+        "doc_id": "doc_006",
+        "filename": "Cost-Benefits of Climate Change"
+      },
+      {
+        "term": "power",
+        "doc_id": "doc_006",
+        "filename": "Cost-Benefits of Climate Change"
+      },
+      {
+        "term": "renewable",
+        "doc_id": "doc_007",
+        "filename": "Countries Leading Energy Transition"
+      },
+      {
+        "term": "fossil fuel",
+        "doc_id": "doc_007",
+        "filename": "Countries Leading Energy Transition"
+      },
+      {
+        "term": "oil",
+        "doc_id": "doc_007",
+        "filename": "Countries Leading Energy Transition"
+      },
+      {
+        "term": "electricity",
+        "doc_id": "doc_007",
+        "filename": "Countries Leading Energy Transition"
+      },
+      {
+        "term": "power",
+        "doc_id": "doc_007",
+        "filename": "Countries Leading Energy Transition"
+      },
+      {
+        "term": "grid",
+        "doc_id": "doc_007",
+        "filename": "Countries Leading Energy Transition"
+      },
+      {
+        "term": "hydrogen",
+        "doc_id": "doc_008",
+        "filename": "Economics of Transition Pathways"
+      },
+      {
+        "term": "biofuel",
+        "doc_id": "doc_008",
+        "filename": "Economics of Transition Pathways"
+      },
+      {
+        "term": "solar",
+        "doc_id": "doc_008",
+        "filename": "Economics of Transition Pathways"
+      },
+      {
+        "term": "wind",
+        "doc_id": "doc_008",
+        "filename": "Economics of Transition Pathways"
+      },
+      {
+        "term": "renewable",
+        "doc_id": "doc_008",
+        "filename": "Economics of Transition Pathways"
+      },
+      {
+        "term": "fossil fuel",
+        "doc_id": "doc_008",
+        "filename": "Economics of Transition Pathways"
+      },
+      {
+        "term": "coal",
+        "doc_id": "doc_008",
+        "filename": "Economics of Transition Pathways"
+      },
+      {
+        "term": "oil",
+        "doc_id": "doc_008",
+        "filename": "Economics of Transition Pathways"
+      },
+      {
+        "term": "electricity",
+        "doc_id": "doc_008",
+        "filename": "Economics of Transition Pathways"
+      },
+      {
+        "term": "power",
+        "doc_id": "doc_008",
+        "filename": "Economics of Transition Pathways"
+      },
+      {
+        "term": "battery",
+        "doc_id": "doc_008",
+        "filename": "Economics of Transition Pathways"
+      },
+      {
+        "term": "hydrogen",
+        "doc_id": "doc_009",
+        "filename": "Energy Transitions in China and Germany"
+      },
+      {
+        "term": "solar",
+        "doc_id": "doc_009",
+        "filename": "Energy Transitions in China and Germany"
+      },
+      {
+        "term": "wind",
+        "doc_id": "doc_009",
+        "filename": "Energy Transitions in China and Germany"
+      },
+      {
+        "term": "renewable",
+        "doc_id": "doc_009",
+        "filename": "Energy Transitions in China and Germany"
+      },
+      {
+        "term": "clean energy",
+        "doc_id": "doc_009",
+        "filename": "Energy Transitions in China and Germany"
+      },
+      {
+        "term": "green energy",
+        "doc_id": "doc_009",
+        "filename": "Energy Transitions in China and Germany"
+      },
+      {
+        "term": "fossil fuel",
+        "doc_id": "doc_009",
+        "filename": "Energy Transitions in China and Germany"
+      },
+      {
+        "term": "coal",
+        "doc_id": "doc_009",
+        "filename": "Energy Transitions in China and Germany"
+      },
+      {
+        "term": "oil",
+        "doc_id": "doc_009",
+        "filename": "Energy Transitions in China and Germany"
+      },
+      {
+        "term": "electricity",
+        "doc_id": "doc_009",
+        "filename": "Energy Transitions in China and Germany"
+      },
+      {
+        "term": "power",
+        "doc_id": "doc_009",
+        "filename": "Energy Transitions in China and Germany"
+      },
+      {
+        "term": "grid",
+        "doc_id": "doc_009",
+        "filename": "Energy Transitions in China and Germany"
+      },
+      {
+        "term": "hydrogen",
+        "doc_id": "doc_010",
+        "filename": "EU Green Deal"
+      },
+      {
+        "term": "wind",
+        "doc_id": "doc_010",
+        "filename": "EU Green Deal"
+      },
+      {
+        "term": "renewable",
+        "doc_id": "doc_010",
+        "filename": "EU Green Deal"
+      },
+      {
+        "term": "clean energy",
+        "doc_id": "doc_010",
+        "filename": "EU Green Deal"
+      },
+      {
+        "term": "fossil fuel",
+        "doc_id": "doc_010",
+        "filename": "EU Green Deal"
+      },
+      {
+        "term": "coal",
+        "doc_id": "doc_010",
+        "filename": "EU Green Deal"
+      },
+      {
+        "term": "oil",
+        "doc_id": "doc_010",
+        "filename": "EU Green Deal"
+      },
+      {
+        "term": "electricity",
+        "doc_id": "doc_010",
+        "filename": "EU Green Deal"
+      },
+      {
+        "term": "power",
+        "doc_id": "doc_010",
+        "filename": "EU Green Deal"
+      },
+      {
+        "term": "battery",
+        "doc_id": "doc_010",
+        "filename": "EU Green Deal"
+      },
+      {
+        "term": "grid",
+        "doc_id": "doc_010",
+        "filename": "EU Green Deal"
+      },
+      {
+        "term": "hydrogen",
+        "doc_id": "doc_011",
+        "filename": "EU Hydrogen Strategy"
+      },
+      {
+        "term": "biofuel",
+        "doc_id": "doc_011",
+        "filename": "EU Hydrogen Strategy"
+      },
+      {
+        "term": "solar",
+        "doc_id": "doc_011",
+        "filename": "EU Hydrogen Strategy"
+      },
+      {
+        "term": "wind",
+        "doc_id": "doc_011",
+        "filename": "EU Hydrogen Strategy"
+      },
+      {
+        "term": "renewable",
+        "doc_id": "doc_011",
+        "filename": "EU Hydrogen Strategy"
+      },
+      {
+        "term": "fossil fuel",
+        "doc_id": "doc_011",
+        "filename": "EU Hydrogen Strategy"
+      },
+      {
+        "term": "coal",
+        "doc_id": "doc_011",
+        "filename": "EU Hydrogen Strategy"
+      },
+      {
+        "term": "natural gas",
+        "doc_id": "doc_011",
+        "filename": "EU Hydrogen Strategy"
+      },
+      {
+        "term": "electricity",
+        "doc_id": "doc_011",
+        "filename": "EU Hydrogen Strategy"
+      },
+      {
+        "term": "power",
+        "doc_id": "doc_011",
+        "filename": "EU Hydrogen Strategy"
+      },
+      {
+        "term": "grid",
+        "doc_id": "doc_011",
+        "filename": "EU Hydrogen Strategy"
+      },
+      {
+        "term": "hydrogen",
+        "doc_id": "doc_012",
+        "filename": "EU_Hydrogen_Strategy.pdf"
+      },
+      {
+        "term": "solar",
+        "doc_id": "doc_012",
+        "filename": "EU_Hydrogen_Strategy.pdf"
+      },
+      {
+        "term": "wind",
+        "doc_id": "doc_012",
+        "filename": "EU_Hydrogen_Strategy.pdf"
+      },
+      {
+        "term": "renewable",
+        "doc_id": "doc_012",
+        "filename": "EU_Hydrogen_Strategy.pdf"
+      },
+      {
+        "term": "power",
+        "doc_id": "doc_012",
+        "filename": "EU_Hydrogen_Strategy.pdf"
+      },
+      {
+        "term": "hydrogen",
+        "doc_id": "doc_013",
+        "filename": "IPCC Report"
+      },
+      {
+        "term": "ammonia",
+        "doc_id": "doc_013",
+        "filename": "IPCC Report"
+      },
+      {
+        "term": "biofuel",
+        "doc_id": "doc_013",
+        "filename": "IPCC Report"
+      },
+      {
+        "term": "solar",
+        "doc_id": "doc_013",
+        "filename": "IPCC Report"
+      },
+      {
+        "term": "wind",
+        "doc_id": "doc_013",
+        "filename": "IPCC Report"
+      },
+      {
+        "term": "renewable",
+        "doc_id": "doc_013",
+        "filename": "IPCC Report"
+      },
+      {
+        "term": "clean energy",
+        "doc_id": "doc_013",
+        "filename": "IPCC Report"
+      },
+      {
+        "term": "fossil fuel",
+        "doc_id": "doc_013",
+        "filename": "IPCC Report"
+      },
+      {
+        "term": "coal",
+        "doc_id": "doc_013",
+        "filename": "IPCC Report"
+      },
+      {
+        "term": "oil",
+        "doc_id": "doc_013",
+        "filename": "IPCC Report"
+      },
+      {
+        "term": "natural gas",
+        "doc_id": "doc_013",
+        "filename": "IPCC Report"
+      },
+      {
+        "term": "electricity",
+        "doc_id": "doc_013",
+        "filename": "IPCC Report"
+      },
+      {
+        "term": "power",
+        "doc_id": "doc_013",
+        "filename": "IPCC Report"
+      },
+      {
+        "term": "battery",
+        "doc_id": "doc_013",
+        "filename": "IPCC Report"
+      },
+      {
+        "term": "grid",
+        "doc_id": "doc_013",
+        "filename": "IPCC Report"
+      },
+      {
+        "term": "biofuel",
+        "doc_id": "doc_014",
+        "filename": "Policies Affecting Carbon Emissions"
+      },
+      {
+        "term": "renewable",
+        "doc_id": "doc_014",
+        "filename": "Policies Affecting Carbon Emissions"
+      },
+      {
+        "term": "fossil fuel",
+        "doc_id": "doc_014",
+        "filename": "Policies Affecting Carbon Emissions"
+      },
+      {
+        "term": "coal",
+        "doc_id": "doc_014",
+        "filename": "Policies Affecting Carbon Emissions"
+      },
+      {
+        "term": "oil",
+        "doc_id": "doc_014",
+        "filename": "Policies Affecting Carbon Emissions"
+      },
+      {
+        "term": "electricity",
+        "doc_id": "doc_014",
+        "filename": "Policies Affecting Carbon Emissions"
+      },
+      {
+        "term": "power",
+        "doc_id": "doc_014",
+        "filename": "Policies Affecting Carbon Emissions"
+      },
+      {
+        "term": "hydrogen",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "ammonia",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "methanol",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "e-fuel",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "biofuel",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "solar",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "wind",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "renewable",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "clean energy",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "green energy",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "fossil fuel",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "coal",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "oil",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "natural gas",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "electricity",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "power",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "grid",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "hydrogen",
+        "doc_id": "doc_016",
+        "filename": "Renewable Energy Directive"
+      },
+      {
+        "term": "ammonia",
+        "doc_id": "doc_016",
+        "filename": "Renewable Energy Directive"
+      },
+      {
+        "term": "methanol",
+        "doc_id": "doc_016",
+        "filename": "Renewable Energy Directive"
+      },
+      {
+        "term": "biofuel",
+        "doc_id": "doc_016",
+        "filename": "Renewable Energy Directive"
+      },
+      {
+        "term": "solar",
+        "doc_id": "doc_016",
+        "filename": "Renewable Energy Directive"
+      },
+      {
+        "term": "wind",
+        "doc_id": "doc_016",
+        "filename": "Renewable Energy Directive"
+      },
+      {
+        "term": "renewable",
+        "doc_id": "doc_016",
+        "filename": "Renewable Energy Directive"
+      },
+      {
+        "term": "clean energy",
+        "doc_id": "doc_016",
+        "filename": "Renewable Energy Directive"
+      },
+      {
+        "term": "fossil fuel",
+        "doc_id": "doc_016",
+        "filename": "Renewable Energy Directive"
+      },
+      {
+        "term": "coal",
+        "doc_id": "doc_016",
+        "filename": "Renewable Energy Directive"
+      },
+      {
+        "term": "oil",
+        "doc_id": "doc_016",
+        "filename": "Renewable Energy Directive"
+      },
+      {
+        "term": "natural gas",
+        "doc_id": "doc_016",
+        "filename": "Renewable Energy Directive"
+      },
+      {
+        "term": "power",
+        "doc_id": "doc_016",
+        "filename": "Renewable Energy Directive"
+      },
+      {
+        "term": "grid",
+        "doc_id": "doc_016",
+        "filename": "Renewable Energy Directive"
+      },
+      {
+        "term": "hydrogen",
+        "doc_id": "doc_017",
+        "filename": "Renewable Fuels of Non-Biological Origins"
+      },
+      {
+        "term": "ammonia",
+        "doc_id": "doc_017",
+        "filename": "Renewable Fuels of Non-Biological Origins"
+      },
+      {
+        "term": "methanol",
+        "doc_id": "doc_017",
+        "filename": "Renewable Fuels of Non-Biological Origins"
+      },
+      {
+        "term": "e-fuel",
+        "doc_id": "doc_017",
+        "filename": "Renewable Fuels of Non-Biological Origins"
+      },
+      {
+        "term": "biofuel",
+        "doc_id": "doc_017",
+        "filename": "Renewable Fuels of Non-Biological Origins"
+      },
+      {
+        "term": "solar",
+        "doc_id": "doc_017",
+        "filename": "Renewable Fuels of Non-Biological Origins"
+      },
+      {
+        "term": "wind",
+        "doc_id": "doc_017",
+        "filename": "Renewable Fuels of Non-Biological Origins"
+      },
+      {
+        "term": "renewable",
+        "doc_id": "doc_017",
+        "filename": "Renewable Fuels of Non-Biological Origins"
+      },
+      {
+        "term": "fossil fuel",
+        "doc_id": "doc_017",
+        "filename": "Renewable Fuels of Non-Biological Origins"
+      },
+      {
+        "term": "electricity",
+        "doc_id": "doc_017",
+        "filename": "Renewable Fuels of Non-Biological Origins"
+      },
+      {
+        "term": "power",
+        "doc_id": "doc_017",
+        "filename": "Renewable Fuels of Non-Biological Origins"
+      },
+      {
+        "term": "grid",
+        "doc_id": "doc_017",
+        "filename": "Renewable Fuels of Non-Biological Origins"
+      },
+      {
+        "term": "hydrogen",
+        "doc_id": "doc_018",
+        "filename": "sustainable-aviation-fuels"
+      },
+      {
+        "term": "ammonia",
+        "doc_id": "doc_018",
+        "filename": "sustainable-aviation-fuels"
+      },
+      {
+        "term": "e-fuel",
+        "doc_id": "doc_018",
+        "filename": "sustainable-aviation-fuels"
+      },
+      {
+        "term": "biofuel",
+        "doc_id": "doc_018",
+        "filename": "sustainable-aviation-fuels"
+      },
+      {
+        "term": "renewable",
+        "doc_id": "doc_018",
+        "filename": "sustainable-aviation-fuels"
+      },
+      {
+        "term": "fossil fuel",
+        "doc_id": "doc_018",
+        "filename": "sustainable-aviation-fuels"
+      },
+      {
+        "term": "oil",
+        "doc_id": "doc_018",
+        "filename": "sustainable-aviation-fuels"
+      },
+      {
+        "term": "power",
+        "doc_id": "doc_018",
+        "filename": "sustainable-aviation-fuels"
+      },
+      {
+        "term": "hydrogen",
+        "doc_id": "doc_019",
+        "filename": "The-EU-Chemical-Industry"
+      },
+      {
+        "term": "solar",
+        "doc_id": "doc_019",
+        "filename": "The-EU-Chemical-Industry"
+      },
+      {
+        "term": "wind",
+        "doc_id": "doc_019",
+        "filename": "The-EU-Chemical-Industry"
+      },
+      {
+        "term": "renewable",
+        "doc_id": "doc_019",
+        "filename": "The-EU-Chemical-Industry"
+      },
+      {
+        "term": "clean energy",
+        "doc_id": "doc_019",
+        "filename": "The-EU-Chemical-Industry"
+      },
+      {
+        "term": "coal",
+        "doc_id": "doc_019",
+        "filename": "The-EU-Chemical-Industry"
+      },
+      {
+        "term": "oil",
+        "doc_id": "doc_019",
+        "filename": "The-EU-Chemical-Industry"
+      },
+      {
+        "term": "natural gas",
+        "doc_id": "doc_019",
+        "filename": "The-EU-Chemical-Industry"
+      },
+      {
+        "term": "power",
+        "doc_id": "doc_019",
+        "filename": "The-EU-Chemical-Industry"
+      },
+      {
+        "term": "grid",
+        "doc_id": "doc_019",
+        "filename": "The-EU-Chemical-Industry"
+      },
+      {
+        "term": "hydrogen",
+        "doc_id": "doc_020",
+        "filename": "WWF Hydrogen Recommendation"
+      },
+      {
+        "term": "ammonia",
+        "doc_id": "doc_020",
+        "filename": "WWF Hydrogen Recommendation"
+      },
+      {
+        "term": "methanol",
+        "doc_id": "doc_020",
+        "filename": "WWF Hydrogen Recommendation"
+      },
+      {
+        "term": "biofuel",
+        "doc_id": "doc_020",
+        "filename": "WWF Hydrogen Recommendation"
+      },
+      {
+        "term": "solar",
+        "doc_id": "doc_020",
+        "filename": "WWF Hydrogen Recommendation"
+      },
+      {
+        "term": "renewable",
+        "doc_id": "doc_020",
+        "filename": "WWF Hydrogen Recommendation"
+      },
+      {
+        "term": "clean energy",
+        "doc_id": "doc_020",
+        "filename": "WWF Hydrogen Recommendation"
+      },
+      {
+        "term": "fossil fuel",
+        "doc_id": "doc_020",
+        "filename": "WWF Hydrogen Recommendation"
+      },
+      {
+        "term": "coal",
+        "doc_id": "doc_020",
+        "filename": "WWF Hydrogen Recommendation"
+      },
+      {
+        "term": "oil",
+        "doc_id": "doc_020",
+        "filename": "WWF Hydrogen Recommendation"
+      },
+      {
+        "term": "natural gas",
+        "doc_id": "doc_020",
+        "filename": "WWF Hydrogen Recommendation"
+      },
+      {
+        "term": "electricity",
+        "doc_id": "doc_020",
+        "filename": "WWF Hydrogen Recommendation"
+      },
+      {
+        "term": "power",
+        "doc_id": "doc_020",
+        "filename": "WWF Hydrogen Recommendation"
+      },
+      {
+        "term": "battery",
+        "doc_id": "doc_020",
+        "filename": "WWF Hydrogen Recommendation"
+      },
+      {
+        "term": "grid",
+        "doc_id": "doc_020",
+        "filename": "WWF Hydrogen Recommendation"
+      }
+    ],
+    "targets": [
+      {
+        "term": "zero emissions",
+        "doc_id": "doc_001",
+        "filename": "Ammonia White Paper"
+      },
+      {
+        "term": "carbon neutral",
+        "doc_id": "doc_001",
+        "filename": "Ammonia White Paper"
+      },
+      {
+        "term": "zero emissions",
+        "doc_id": "doc_003",
+        "filename": "Carbon Capture in Industry - Policy Brief"
+      },
+      {
+        "term": "emissions reduction",
+        "doc_id": "doc_003",
+        "filename": "Carbon Capture in Industry - Policy Brief"
+      },
+      {
+        "term": "net zero",
+        "doc_id": "doc_005",
+        "filename": "Climate Framework Laws in Europe"
+      },
+      {
+        "term": "zero emissions",
+        "doc_id": "doc_005",
+        "filename": "Climate Framework Laws in Europe"
+      },
+      {
+        "term": "carbon neutral",
+        "doc_id": "doc_005",
+        "filename": "Climate Framework Laws in Europe"
+      },
+      {
+        "term": "climate neutral",
+        "doc_id": "doc_005",
+        "filename": "Climate Framework Laws in Europe"
+      },
+      {
+        "term": "emissions reduction",
+        "doc_id": "doc_005",
+        "filename": "Climate Framework Laws in Europe"
+      },
+      {
+        "term": "zero emissions",
+        "doc_id": "doc_007",
+        "filename": "Countries Leading Energy Transition"
+      },
+      {
+        "term": "climate neutral",
+        "doc_id": "doc_007",
+        "filename": "Countries Leading Energy Transition"
+      },
+      {
+        "term": "decarbonization",
+        "doc_id": "doc_009",
+        "filename": "Energy Transitions in China and Germany"
+      },
+      {
+        "term": "climate neutral",
+        "doc_id": "doc_010",
+        "filename": "EU Green Deal"
+      },
+      {
+        "term": "emissions reduction",
+        "doc_id": "doc_010",
+        "filename": "EU Green Deal"
+      },
+      {
+        "term": "climate neutral",
+        "doc_id": "doc_011",
+        "filename": "EU Hydrogen Strategy"
+      },
+      {
+        "term": "emissions reduction",
+        "doc_id": "doc_011",
+        "filename": "EU Hydrogen Strategy"
+      },
+      {
+        "term": "climate neutral",
+        "doc_id": "doc_012",
+        "filename": "EU_Hydrogen_Strategy.pdf"
+      },
+      {
+        "term": "net zero",
+        "doc_id": "doc_013",
+        "filename": "IPCC Report"
+      },
+      {
+        "term": "zero emissions",
+        "doc_id": "doc_013",
+        "filename": "IPCC Report"
+      },
+      {
+        "term": "emissions reduction",
+        "doc_id": "doc_013",
+        "filename": "IPCC Report"
+      },
+      {
+        "term": "net zero",
+        "doc_id": "doc_014",
+        "filename": "Policies Affecting Carbon Emissions"
+      },
+      {
+        "term": "zero emissions",
+        "doc_id": "doc_014",
+        "filename": "Policies Affecting Carbon Emissions"
+      },
+      {
+        "term": "emissions reduction",
+        "doc_id": "doc_014",
+        "filename": "Policies Affecting Carbon Emissions"
+      },
+      {
+        "term": "decarbonization",
+        "doc_id": "doc_014",
+        "filename": "Policies Affecting Carbon Emissions"
+      },
+      {
+        "term": "net zero",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "zero emissions",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "carbon neutral",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "climate neutral",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "emissions reduction",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "ghg reduction",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "decarbonization",
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy"
+      },
+      {
+        "term": "climate neutral",
+        "doc_id": "doc_016",
+        "filename": "Renewable Energy Directive"
+      },
+      {
+        "term": "emissions reduction",
+        "doc_id": "doc_016",
+        "filename": "Renewable Energy Directive"
+      },
+      {
+        "term": "renewable energy target",
+        "doc_id": "doc_016",
+        "filename": "Renewable Energy Directive"
+      },
+      {
+        "term": "zero emissions",
+        "doc_id": "doc_017",
+        "filename": "Renewable Fuels of Non-Biological Origins"
+      },
+      {
+        "term": "net zero",
+        "doc_id": "doc_018",
+        "filename": "sustainable-aviation-fuels"
+      },
+      {
+        "term": "emissions cut",
+        "doc_id": "doc_018",
+        "filename": "sustainable-aviation-fuels"
+      },
+      {
+        "term": "decarbonization",
+        "doc_id": "doc_018",
+        "filename": "sustainable-aviation-fuels"
+      },
+      {
+        "term": "net zero",
+        "doc_id": "doc_019",
+        "filename": "The-EU-Chemical-Industry"
+      },
+      {
+        "term": "climate neutral",
+        "doc_id": "doc_019",
+        "filename": "The-EU-Chemical-Industry"
+      },
+      {
+        "term": "ghg reduction",
+        "doc_id": "doc_019",
+        "filename": "The-EU-Chemical-Industry"
+      },
+      {
+        "term": "decarbonization",
+        "doc_id": "doc_019",
+        "filename": "The-EU-Chemical-Industry"
+      },
+      {
+        "term": "climate neutral",
+        "doc_id": "doc_020",
+        "filename": "WWF Hydrogen Recommendation"
+      },
+      {
+        "term": "ghg reduction",
+        "doc_id": "doc_020",
+        "filename": "WWF Hydrogen Recommendation"
+      }
+    ],
+    "years": []
+  },
+  "summary": {
+    "policy_instruments": {
+      "regulation": 16,
+      "standard": 15,
+      "target": 16,
+      "compliance": 8,
+      "carbon price": 3,
+      "emissions trading": 6,
+      "directive": 9,
+      "incentive": 13,
+      "tax credit": 1,
+      "legislation": 7,
+      "carbon tax": 4,
+      "subsidy": 3,
+      "feed-in tariff": 2,
+      "mandate": 4,
+      "levy": 1,
+      "support scheme": 2
+    },
+    "energy_carriers": {
+      "hydrogen": 16,
+      "ammonia": 8,
+      "methanol": 5,
+      "solar": 13,
+      "wind": 13,
+      "renewable": 18,
+      "fossil fuel": 15,
+      "coal": 15,
+      "oil": 14,
+      "natural gas": 8,
+      "electricity": 12,
+      "power": 20,
+      "grid": 12,
+      "clean energy": 8,
+      "biofuel": 9,
+      "battery": 4,
+      "green energy": 2,
+      "e-fuel": 3
+    },
+    "targets": {
+      "zero emissions": 8,
+      "carbon neutral": 3,
+      "emissions reduction": 8,
+      "net zero": 6,
+      "climate neutral": 9,
+      "decarbonization": 5,
+      "ghg reduction": 3,
+      "renewable energy target": 1,
+      "emissions cut": 1
+    }
+  }
+}

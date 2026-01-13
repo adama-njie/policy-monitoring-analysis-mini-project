@@ -1,0 +1,50 @@
+{
+  "summary": {
+    "total_documents_attempted": 20,
+    "successfully_processed": 20,
+    "failed_processing": 0,
+    "good_quality_extractions": 20,
+    "poor_quality_extractions": 0,
+    "total_words": 223474,
+    "total_characters": 1312787,
+    "total_sentences": 7400,
+    "avg_words_per_doc": 11173.7,
+    "avg_sentences_per_doc": 370.0
+  },
+  "document_types": {
+    "legislation": 8,
+    "strategy": 5,
+    "regulation": 3,
+    "policy": 2,
+    "white_paper": 1,
+    "guideline": 1
+  },
+  "years": {
+    "unknown": 5,
+    "2023": 3,
+    "2025": 2,
+    "2024": 2,
+    "2019": 2,
+    "2030": 2,
+    "2013": 1,
+    "2020": 1,
+    "2021": 1,
+    "2045": 1
+  },
+  "authorities": {
+    "unknown": 15,
+    "IPCC": 2,
+    "European Commission": 1,
+    "Copyright notice": 1,
+    "WWF": 1
+  },
+  "word_count_stats": {
+    "min": 508,
+    "max": 58534,
+    "median": 6714,
+    "std_dev": 13309.85
+  },
+  "extraction_quality": {
+    "good": 20
+  }
+}

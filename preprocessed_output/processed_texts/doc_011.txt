@@ -1,0 +1,234 @@
+Authors: Dr. Martin Menner and Dr. Götz Reichert |  
+cep | Kaiser -Joseph -Strasse 266 | 79098 Freiburg | Telephone +49 (0)761 38693 -107 |  1 EU Communication 
+EU HYDROGEN STRATEGY 
+cepPolicyBrief No. 2020 -14 
+
+The most important passages in the text are indicated by a line in the margin. 
+ 
+CONTENT 
+Title 
+Communication COM(2020) 301 of 8 July 2020: A hydrogen strategy for a climate -neutral Europe 
+ 
+Brief Summary 
+►
+ 
+- By 2050, the EU wants emissions and removals of greenhouse gases (GHG) such as CO 2 to reach a zero balance 
+[“Climate Neutrality”; Commission Proposal COM(2020) 80, see cepPolicyBrief 2020 -03]. 
+- Low-carbon hydrogen (H 2), which does not give rise to any carbon emissions when used - particularly when burnt 
+- can contribute to a large -scale CO 2 reduction in the economy (“decarbonisation”) as [p. 2] 
+- storage and buffering for fluctuating electricity production from renewable en ergy such as wind and solar; 
+- fuel for fuel cells or raw material for synthetic fuels used in transport by air, sea and truck. 
+- an alternative to fossil fuels in high -carbon industrial processes such as steel making. 
+- The EU is a world leader in electrolysers, H 2 refuelling stations and fuel cells [p. 17]. 
+- In 2018, 26 Member States signed up to the “Hydrogen Initiative”; some - e.g. Germany, France, Netherlands - 
+have already adopted national hydrogen strategies [p. 2]. 
+- In its hydrogen strategy, the Commission sets out how, in order to decarbonise the economy, it aims to achieve 
+a fast -paced increase in the production and use of hydrogen from carbon -free or low -carbon sources (“hydrogen 
+economy ”) and to coordinate the nat ional hydrogen strategies of the Member States [p. 3, 9 and 12]. 
+► Hydrogen (H 2): H 2 production methods and their CO 2 emissions 
+Hydrogen can be produced in a variety of ways. The total volume of CO 2 emissions (“life -cycle CO 2 emissions”) and 
+resulting cost s depend on the technologies and energy sources used [p. 3 et seq.]. 
+- H2 production methods 
+- “Fossil -based” hydrogen is produced from fossil fuels - natural gas and coal [p. 4]. 
+- The primary method of producing H 2 by way of steam reforming gives rise to high levels of CO 2 (“grey 
+hydrogen”). 
+- H2 production by way of steam reforming combined with “carbon capture” (CC) can keep up to 90% of the 
+CO 2 out of the atmosphere (“blue hydrogen”). 
+- In the case of H 2 production b y way of methane splitting (“methane pyrolysis”) - currently still in the pilot 
+phase - no additional CO 2 is produced (“turquoise hydrogen“). 
+- “Electricity -based” hydrogen [p. 3] is produced from water. In the production of H 2 by way of electricity -
+powered electrolysis using special facilities (“elec trolysers”), no additional CO 2 is produced. 
+- “Biogenic” hydrogen is produced from sustainable - “renewable” - biomass or from the biogas obtained from 
+it [p. 3 et seq.]. H 2 productio n by means of the biochemical conversion of biomass or the steam reforming of 
+biogas, releases CO 2 previously bound up in plants. 
+ KEY ISSUES 
+Objective of the Communication: The Commission wants a fast -paced increase in the production and use of carbon -
+free and low -carbon hydrogen so that the EU can become “climate neutral” by 2050. 
+Affected parties: Energy producers and distributors, manufacturers of electrolysers, current u sers of fossil -fuel-based 
+hydrogen, steel production and sectors where electrification is difficult such as long -distance transport by air, sea and 
+truck. 
+Pro: In order to create a market for carbon -free and low -carbon hydrogen, it is crucial that hydrogen be 
+subject to standard EU -wide certification based on its life -cycle carbon emissions. 
+Contra: Subsidies, particularly those for demonstration projects and fo r investment in hydrogen 
+technologies, harbour the risk that - instead of economic competition - a competition for funds will 
+develop resulting in permanent subsidies. There are better alternatives. 
+Proposal: Option s for crediting hydrogen as an alternative fuel, or targeted quotas, will trigger an increase 
+in the production of “clean” hydrogen whilst retaining economic competition between hydrogen 
+providers. 
+
+EU Hydrogen Strategy 
+ 
+Authors: Dr. Martin Menner and Dr. Götz Reichert| Telephone +49 (0)761 38693 -107 |  2 - H2 classification depends on life -cycle CO 2 emissions 
+- A “low -carbon” classification encompasses “fossil -based” hydrogen with carbon capture and “electricity -based” 
+hydrogen whe n in both cases life-cycle CO 2 emissions are “significantly reduced” as compared with current H 2 
+production [p. 4]. 
+- “Clean” or “renewable” means [p. 4 et seq.] 
+- “electricity -based” hydrogen if it is produced with renewable electricity (“green hydrogen”); 
+- “biogenic” hydrogen where - yet to be developed - “sustainability requirements” are met. 
+► Strategic plan - first phase: 2020 - 2024 
+- The Commission wants to [p. 5] 
+- create regulatory requirements for a “liquid and well -functioning hydrogen market”; 
+- incentivise supply and demand in lead markets by bridging the “cost gap” between “clean” and “low -carbon” 
+hydrogen on the one hand and conventional solutions on the other; 
+- By 2024, the Commission is aiming for electrolyser capacity in the EU of at least 6 GW capable of producing up 
+to 1 million tonnes (t) of “clean” hydrogen using renewable energy [p. 5]. 
+- This would initially decarbonise current H 2 production and facilitate the use of hydrogen in industrial processes 
+and for heavy -duty long -distance transp ort [p. 5]. 
+- In order to ramp up production, also electricity -based “low -carbon” hydrogen will be needed [p. 5]. 
+- Some existing production facilities for “fossil -based” hydrogen are to be retro -fitted with CC [p. 6]. 
+► Strategic plan - second phase: 2025 - 2030 
+- By 2030, the Commission is aiming for electrolyser capacity in the EU of at least 40 GW capable of producing up 
+to 10 million t of “clean” hydrogen using renewable energy [p. 5]. 
+- A network of H 2 refuelling stations and larger -scale storage facilities will have to be established [p. 7]. 
+- A basic EU -wide hydrogen grid needs to be planned by repurposing parts of the existing gas grid [p. 7]. 
+► Strategic plan - third phase: 2030 - 2050 
+- H2 technologi es for the production and use of “clean” hydrogen should achieve maturity and reach all hard -to-
+decarbonise sectors - such as aviation, maritime transport and industrial buildings [p. 7]. 
+- A massive increase in renewable energy is required as up to a quarter of renewable electricity will be needed for 
+renewable hydrogen production by 2050 [p. 7]. 
+► Research and Development 
+- Public funds for the research and development to bring H 2 technologies to market readiness, including by way of 
+demonstration proje cts, will be provided by the ETS Innovation Fund as well as by InnovFin and InvestEU [p. 18]. 
+- Important research areas are [p. 17] 
+- larger size, more (cost) -effective electrolysers, hydrogen production from marine algae, solar water splitting 
+and pyrolysis; 
+- infrastructure solutions to distribute, store and dispense hydrogen in large volumes; 
+- large scale end -use applications and associated safety standards. 
+► Investment in hydrogen production 
+- The InvestEU programme, which will have its capacity doubled by the Corona recovery programme 
+[see cepAdhoc 07/2020 ], supports the expansion of hydroge n production by incentivising private investment 
+[p. 9]. 
+- A “European Clean Hydrogen Alliance” will coordinate investment between public authorities and industry, 
+determine viable investment projects and set up a clear “investment pipeline” with them [p. 8]. 
+- The Commission assesses the investment requirement up to 2030 at [p. 7] 
+- € 24 -42 billion for electrolysers; 
+- € 220 -340 billion to scale up 80 -120 GW of solar and wind energy capacity for the electrolysers; 
+- € 11 billion to retrofit half of the plants producing “fossil -based” hydrogen with CC; 
+- € 65 billion for hydrogen transport, distribution and storage as well as H 2 refuelling stations. 
+► Boosting demand and expanding supply 
+- In order to “boost demand” for hydrogen, the Commission will 
+- explore “policie s” “building on the provisions” of the recast Renewable Energy Directive [(EU) 2018/2001; 
+see cepInput 01/2019 ]; these include credit ing “clean” hydrogen as an alternative fuel when it comes to 
+meeting the requirements for fuel manufacturers, as is already the case for biofuels [p. 22]; 
+- consider quotas for blending “clean” hydrogen, or synthetic fuels produced from clean hydrogen, in speci al 
+end-uses - such as chemicals or transport; a “quota” is a share of the total volume of fossil -based energy carriers 
+even where there is no physical blending (“virtual blending”) [p. 11]. 
+- In order to expand production capacity ( expand supply) of “clean” hydrogen [p. 9] 
+- various forms of “support” are necessary before hydrogen can become competitive; 
+cep | Kaiser -Joseph -Strasse 266 | 79098 Freiburg | Telephone +49 (0)761 38693 -0 |  3 - investors require clarity and certainty in the trans ition to a “hydrogen economy ” including by way of 
+- an EU standard for the certification of “low -carbon” H 2 production based on life -cycle CO 2 emissions; 
+- EU-wide criteria for certifying “low -carbon” and “renewable” hydrogen. 
+► International perspective 
+- The Commission is endeavouring to achieve greater cooperation with neighbouri ng countries [p. 19]. 
+- Installation of 40 GW of electrolyser capacity is planned for countries neighbouring the EU by 2030 [p. 19 et seq.]. 
+- EU trade policy should prevent the emergence of market and trade barriers at an early stage [p. 20]. 
+► Infrastructure 
+- For pure hydrogen to be sold across the EU irrespective of its production method (“interoperability of the 
+market”), EU -wide quality standards and rules for cross -border grid operation are necessary [p. 15]. 
+- With the decline in demand for na tural gas after 2020, elements of the existing pan -European gas infrastructure 
+could be repurposed for the cross -border transport of hydrogen [p. 15]. 
+ 
+Policy Context 
+In the Paris UN Climate Agreement, the EU committed to comply with the 2 -degree climate target (see cepPolicyBrief 
+2016 -13). This gave rise to the target of EU climate neutrality by 2050 which is to be achieved by way of numerous EU 
+measures. This hydrogen strategy is complemented by the parallel “Strategy for Energy System Integration” 
+[COM(2020) 299] which envisages the large -scale electrification of all sectors or - if this is impossible or uneconomic 
+- the use of renewable or low -carbon fuels [p. 3]. 
+ 
+Options for Influencing the Political Process 
+Directorates General: DG Energy (leading) 
+Committees of the European Parliament: Industry, Research and Energy (leading) 
+Federal Ministries: Economic Affair s and Energy (leading) 
+Committees of the German Bundestag: Economic Affairs and Energy (leading) 
+ 
+ASSESSMENT 
+Economic Impact Assessment 
+The target of climate neutrality by 2050 envisaged by the EU, is a major technological and economic challenge. 
+ can 
+be most effectively and efficiently achieved by means of emissions trading for all sectors 
+[see cepPolicyBrief 03/2020 ; cepStudy Effective Carbon Pricing (2019) ]: By limiting and reducing the numb er of 
+emissions allowances, the target reduction in emissions can be reliably achieved and, with emissions trading, the 
+market will find the most cost -effective reduction measures available e.g. by investment in technology to reduce 
+emissions. 
+By contrast , other climate -policy instruments - such as subsidies to support certain technologies - are less effective 
+and unnecessarily costly. Hydrogen, with its many advantages, may play an important role in decarbonising the 
+economy. However, providing it with separate support amounts to technological bias and must be rejected in principle 
+because, at this point in time, we cannot be sure how far other technologies will be able to achieve more cost -effective 
+emissions reductions in the future. The Commissio n’s detailed plans on the amount of “clean” hydrogen that is to be 
+produced with what electrolyser capacity and by when, amounts to an undue presumption of knowledge. 
+Nevertheless, since almost all Member States have signed up to the Hydrogen Initiative of the Council of Energy 
+Ministers and some are already pursuing national hydrogen strategies, a common EU -wide hydrogen strategy is 
+basically appropriate. Since only on the EU level national hydrogen strategies can be coordinated and the regulatory 
+requirem ents for an EU -wide “liquid and well -functioning hydrogen market” be set up in order to avoid disturbance 
+and distortions of competition in the internal market. 
+However, even at EU level, public money should only be used to support basic research which w ould not otherwise be 
+undertaken in the private sector. More far -reaching subsidies - particularly for demonstration projects and 
+investment in hydrogen technologies - should be rejected as they harbour the risk that projects will only be planned 
+in order to obtain support funds and then discontinued due to the lack of a viable business model. In addition, there 
+is a risk that - instead of economic competition - a competition for funds will develop in which companies with the 
+most promising funding applicat ions will prevail resulting - at the expense of the general public - in permanent 
+subsidies in order to maintain the profitability of investments that have already been initiated. 
+Besides, there are better alternatives for making “clean” hydrogen competitive: Options for credit ing hydrogen as an 
+alternative fuel pursuant to the Renewable Energy Directive, or targeted quotas, may close gaps between production 
+costs and the willingness of potential customers - such as airl ines or fuel manufacturers - to pay. The resulting increase 
+in demand may then also lead to an increase in the production of “clean” hydrogen but with genuine economic 
+competition between providers to service the demand. 
+EU Hydrogen Strategy 
+ 
+Authors: Dr. Martin Menner and Dr. Götz Reichert| Telephone +49 (0)761 38693 -107 |  4 With appropriate organisation, thi s would be enough e.g. to trigger a ramping up of electrolyser capacity in the EU for 
+“clean” hydrogen and the associated cost reductions. In order to avoid unnecessary costs, end uses with greater 
+willingness to pay for “clean” hydrogen - such as in aviat ion or refineries - and thus where the economic gap is 
+smallest, should be deployed. The physical or “virtual” blending of “clean” hydrogen, or synthetic fuels produced from 
+clean hydrogen, with fossil fuels could open up demand potential with a correspond ing willingness to pay. 
+Such “support” would be required initially in order to help “clean” hydrogen to achieve a breakthrough because, in 
+the foreseeable future, emissions trading alone will not trigger the anticipated cost reductions - arising from the 
+expansion of production ( “economies of scale”) and the resulting learning opportunities - in the manufacturing of 
+“clean” hydrogen. Thus, according to estimates from the Commission and the Zürich Federal Institute of Technology, 
+ETH, based on current CO 2 prices, there is currently a significant profitability gap [see table below]. Depending on 
+electricity prices, these “cost gaps” between “grey” and “blue” hydrogen would only be closed with an allowance price 
+of € 55 -90 [p. 4]; betwee n “grey” and “green” hydrogen only at double the amount . Despite the rising cost of “grey” 
+hydrogen due to higher CO 2 prices, “cleaner” or “low -carbon” hydrogen would remain unprofitable for a long time. 
+Table: Life-cycle CO 2 emissions and production costs 
+H2 production method Life-cycle CO 2 emissions 
+[kg CO 2 / kg H2] Production costs 
+[€ / kg H2] 
+2020 2030 
+“fossil -based” hydrogen 
+- Steam reforming (“grey”) 9 1.5 1.5 
+- Steam reforming + CC 90% (“blue”) 1 2 2 
+- Methane pyrolysis (“turquoise”) almost zero Pilot phase 2 - 2.5 
+“electricity -based” hydrogen 
+- Electrolysis - current electricity mix 14 6 - 12 3 - 6 
+- Electrolysis - renewable electricity (“green”) almost zero 2.5 - 5.5 1.1 - 2.4 
+ 
+In order to create a market for “clean” and low -carbon hydrogen, it is crucial that hydrogen be subject to standard 
+EU-wide certification - based on the method of production - according to its life -cycle carbon emissions. This will 
+create transparency regarding carbon emissions for hydrogen users and thus facilitate competition between all 
+methods of H 2 production. 
+The EU -wide and also - through the inclusion of neighbouring countries - international approach, proposed by the 
+Commission, increases cost -effectiveness as compared with national hydrogen strategies . This is because the 
+electricity from renewable energy, necessary for the manufacture of “clean” hydrogen, cannot be manufactured 
+everywhere in an equally cost -effective manner; thus, due to geographical conditions, the yield from photovoltaics is 
+greater and more uniform in southern Europe and north Africa, whilst in northern Europe this is true of the yield from 
+wind energy. 
+The advocated avoidance of technologica l bias in the production of “clean” and “low -carbon” hydrogen - notably by 
+supporting “blue” hydrogen - contributes to cost efficiency because as a result of the initially more cost -effective 
+steam reforming with carbon capture, for a longer time more CO 2 can be saved than with electrolysis using electricity 
+from the current energy mix. 
+ 
+Legal Assessment 
+Legislative Competency 
+Unproblematic. The EU is authorised to take climate and energy policy measures (Art. 191 and Art. 194 TFEU). In this 
+regard, the EU can - in supplement to the measures of its Member States - promote research and technological 
+development (Art. 179 -188 TFEU). In particular, the Commission can take initiatives to coordinate the research and 
+technology policy of the EU and its Member S tates (Art. 181 TFEU). 
+ 
+Conclusion 
+The target of climate neutrality by 2050 can be most effectively and efficiently achieved by means of emissions trading. 
+Subsidies, particularly those for demonstration projects and for investment in hydrogen technologie s, harbour the risk 
+that - instead of economic competition - a competition for funds will develop resulting in permanent subsidies . There 
+are better alternatives: Options for credit ing hydrogen as an alternative fuel, or targeted quotas, will trigger an increase 
+in the production of “clean” hydrogen whilst retaining economic competition between hydrogen providers. In order to 
+create a market for “clean” and “low -carbon” hydrogen, it is crucial that hydrogen be subject to standard EU -wide 
+certif ication based on its life -cycle carbon emissions. The EU -wide and international approach increases cost -
+effectiveness.

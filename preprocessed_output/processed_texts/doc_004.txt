@@ -1,0 +1,822 @@
+Mitigation and adaptation performance 
+measurement frameworks 
+
+This document is as adopt ed by the Board and contained in annex VIII to 
+decision B. 08/07, paragraph (a). 
+
+Mitigation and adaptation performance measurement frameworks 
+
+ 1. The mitigation and adaptation performance measurement frameworks (PMFs) have 
+been designed to measure the results of the Fund and, where appropriate, to serve as the basis 
+for results -based payments, in accordance with any further guidance from the Board. 
+2. The methodologies for the indicators identified in the PMF will be identified in line with 
+the initial approach to the monitoring and evaluation policy as outlined in Annex II. Gender 
+disaggregation for the indicators will be appli ed where possible. 
+3. The mitigation and adaptation paradigm -shift results will be measured using a 
+combination of quantitative and qualitative information that goes beyond simply aggregating 
+the results’ indicators.1 
+4. Context -specific environmental, social a nd economic co -benefits can be identified on a 
+project/programme case -by-case basis. Examples include improved public health, improved 
+energy security and improved forest ecosystem health. Sustainable developm ent potential, 
+which entails co -benefits, is part of the investment criteria in the Fund’s initial investment 
+framework. 
+5. Where applicable, mitigation projects/programmes that also generate adaptation 
+results should report on adaptation indicators (and vice versa for adaptation 
+projects/programmes wit h mitigation results). For example, a project that primarily intends to 
+improve land and forest areas contributing to emission reductions (result 9.0 in the mitigation 
+PMF) and, by doing so, also contribute to increasing the resilience of the ecosystem (re sult 4.0 in 
+the adaptation PMF) would report on the relevant indicators for both mitigation and adaptation. 
+6. The PMFs include notations where indicator screening based on the experience of other 
+funds to date suggests that gender can be an integral part of reporting and analysis through 
+disaggregated reporting (by gender). In some cases, gender -based data are not typically 
+available or feasible to collect; however, as part of the further development of the indicator 
+methodologies, additional analysis on whe re gender can be integrated explicitly into additional 
+indicators will be conducted. Furthermore, as described below in chapter III, any additional 
+
+(contained in document GCF/B.08/19). 
+7. As pointed out in Board decision B.05/03,2 the Fund is a continuously learning 
+institution. The PMF results, indicators and associated methodologies will be refined and 
+adapted as needed based on best practices and lessons learned, i ncluding to facilitate coherence 
+with and responsiveness to efforts undertaken by countries within the context of the UNFCCC 
+process. 
+
+1 Elements that are expected to be considered include: overall contribution to low -carbon development pathways 
+consistent with a temperature increase of less than 2 degrees (mitigation), overall achievement in contributing to 
+sustainable climate -resilient d evelopment pathways (adaptation), the degree to which knowledge and learning are 
+achieved, extent to which the enabling environment is created or enhanced, and extent to which the regulatory 
+framework and policies are strengthened. 
+2 In GCF/B.05/23 (paragr aph h, ). 
+ 
+Mitigation and adaptation performance measurement frameworks 
+
+ A. Mitigation performance measurement framework 
+8. The proposed mitigation PMF in Table 1 is aligned with the mitigation logic model. The 
+proposed associated indicators are listed next to their corresponding 
+objective/impact/outcome. The notes provide information on the proposed methodology, 
+disaggregation and relationship to indicators used by peer funds/agencies. Gender 
+disagg regation for the indicators will be applied where applicable. 
+9. The high -level PMF table format is intentionally simple: it does not include specifics that 
+can be added later once the PMF is adopted, such as technical definitions, baselines, data 
+sources, ca lculation methodologies, reporting format and targets. 
+10. Initial methodologies for the three adopted mitigation core indicators are included in 
+Annex V. Once the Board adopts the indicators in the PMF, detailed methodologies, including 
+more specifics on gend er, can be identified for these indicators. 
+11. Some of the indicators in this PMF (particularly 1.1, 3.1 and 7.1) involve combining data 
+across sectors so that the indicator matches with the intended results as articulated in the logic 
+model. In these cases, each sector’s data will be calculated separately according to 
+methodologies suited for that sector and then totalled 
+Table 1: Mitigation performance measurement framework 
+= Decided 
+☐ = Noted, but further refinement needed 
+Expected result Indicator * = Core Reporting 
+responsibility 
+(annual 
+reporting) Notes3 
+Paradigm -shift Objective 
+Shift to low -
+emission 
+sustainable 
+development 
+pathways 
+ ☐ Degree to which the 
+Fund is achieving low -
+emission sustainable 
+development impacts Secretariat Proposed assessment based on a combination 
+of quantitative and qualitative information that 
+goes beyond simple aggregation of the results’ 
+indicators. Elements to be considered include 
+the overall contribution to low -carbon 
+development pathways, consistent with a 
+temperature increase of less than 2 degrees, the 
+degree to which knowledge and learning are 
+achieved, extent to which the enabling 
+environment is create d or enhanced, and extent 
+to which the regulatory framework and policies 
+are strengthened. 
+Fund -level Impacts 
+  Tonnes of carbon 
+dioxide equivalent 
+(t CO 2eq) reduced as 
+a result of Fund -
+funded projects/ 
+programmes Implementing 
+entities (IEs)/ 
+intermediaries Aggregate summation of sector -specific t CO 2eq 
+reduction indicators. Intended to be estimated 
+ex-ante and reported annually and ex -post. 
+Methodologies tailored to each sector - see 
+specifics below and in Annex V. 
+  *Cost per t CO 2eq 
+decreased for all 
+Fund -funded IEs/ 
+intermediaries Intended to help understand anticipated costs 
+(ex-ante) as well as trends in reducing costs of 
+mitigation over time. Costs per t CO 2eq reduced 
+ 
+3 Notes are provided by the Secretariat for information only. 
+ 
+Mitigation and adaptation performance measurement frameworks 
+
+ Expected result Indicator * = Core Reporting 
+responsibility 
+(annual 
+reporting) Notes3 
+mitigation projects/ 
+programmes are expected to vary based on sector, 
+technology, programme/project context, time 
+scale, risk, etc. 
+  *Volume of 
+finance leveraged by 
+Fund funding IEs/ 
+intermediaries “Leveraged” considered synonymous with the 
+term “mobilized” (used by other funds). 
+Informed by CIF, International Finance 
+Corporation (IFC), and others. 
+Calculations to be disaggregated by public and 
+private sources; prorated by amount of co -
+financing. 
+1.0 Reduced 
+emissions 
+through 
+increased low -
+emission 
+energy access 
+and power 
+generation  1.1 *Tonnes of 
+carbon dioxide 
+equivalent (t CO 2eq) 
+reduced or avoided as 
+a result of Fund -
+funded 
+projects/programmes 
+-gender -sensitive 
+energy access power 
+generation 
+(sub -indicator) IEs/ 
+intermediaries 
+ Energy access: 
+- Based on gender -sensitive methodologies 
+used by CIF’s Program for Scaling Up 
+Renewable Energy in Low Income Countries 
+(SREP) core indicator 2. 
+Disaggregated by gender. 
+Power generation: 
+- Methods to be informed by multilateral 
+development banks’/international financial 
+institutions’ (MDBs/IFIs) GHG accounting 
+harmonization work on energy efficiency and 
+renewable energy; where feasible, gender -
+disaggregated data to be collected. Can also 
+consider DFID GHG appraisal guidance and the 
+Fund’s 2013 energy efficiency guideline s. 
+2.0 Reduced 
+emissions 
+through 
+increased 
+access to low -
+emission 
+transport  2.1 *Tonnes of 
+carbon dioxide 
+equivalent (t CO 2eq) 
+reduced or avoided as 
+a result of Fund -
+funded 
+projects/programmes 
+- low emission gender -
+sensitive transport 
+(sub -indicator) 
+ IEs/ 
+intermediaries Public transport: 
+- Specifics to be informed by pending MDB/IFI 
+work on transport GHG accounting 
+harmonization; GEF’s 2013 transportation 
+project GHG calculation methodology 
+developed by the Institute for Transportation 
+Development Policy ( ITDP) 
+Disaggregated by gender. 
+Vehicle fuels (fuel economy standards): 
+- [If applicable to Fund investments] methods 
+may be informed by the work of International 
+Council on Clean Transportation (ICCT); and by 
+the work of the Women’s Issues in 
+Transportatio n Committee of the US Transport 
+Research Board. 
+3.0 Reduced 
+emissions from 
+buildings, cities, 
+industries and 
+appliances  3.1 *Tonnes of 
+carbon dioxide 
+equivalent (t CO 2eq) 
+reduced or avoided as 
+a result of Fund -
+funded 
+projects/programmes IEs/ 
+intermediaries Buildings: Informed by MDB/IFI GHG 
+accounting harmonization work on energy 
+efficiency. 
+Cities: Informed by the Global Protocol for 
+Community -Scale Greenhouse Gas Emissions 
+and by the Cities Alliance (currently being 
+developed). 
+ 
+Mitigation and adaptation performance measurement frameworks 
+
+ Expected result Indicator * = Core Reporting 
+responsibility 
+(annual 
+reporting) Notes3 
+- buildings, cities, 
+industries, and 
+appliances sub -
+indicator Industries: Informed by MDB/IFI GHG 
+accounting harmonization work on energy 
+efficiency. 
+Appliances: Informed MDB/IFI GHG accounting 
+harmonization work on energy efficiency 
+where applicable. Can also draw upon the GEF’s 
+GHG accounting for standards and labelling; 
+CLASP’s/Lawrence Berkeley National 
+Laboratory’s (LBNL) Policy Analysis Modelling 
+System. 
+Gender disaggregation is to be researched for 
+each sector and included where possible. 
+4.0 Reduced 
+emissions from 
+land use, 
+deforestation, 
+forest 
+degradation, 
+and through 
+sustainable 
+management of 
+forests and 
+conservation 
+and 
+enhancement of 
+forest carbon 
+stocks  4.1 Tonnes of 
+carbon dioxide 
+equivalent (t CO 2eq) 
+reduced or avoided 
+(including increased 
+removals) as a result 
+of Fund -funded 
+projects/programmes 
+- forest and land -use 
+sub-indicator IEs/ 
+intermediaries 
+ Informed by CIF FIP Indicator 1, pending Fund 
+work on the perfor mance framework for 
+REDD+, the Forest Carbon Partnership Facility 
+Methodological Framework (Dec. 2013), UN 
+REDD and emerging United Nations 
+Framework Convention on Climate Change 
+(UNFCCC) guidance on REDD+. 
+Gender disaggregation is to be researched and 
+included if possible. 
+ ☐ Social, 
+environmental, 
+economic co -benefit 
+index/indicator at 
+impact level Co-benefit indicator related to GHG 
+reductions/low -emissions development 
+pathways and sustainable development. 
+ 
+Specifics to be determined. 
+Project/Programme Outcomes 
+ ☐ Number of 
+technologies and 
+innovative solutions 
+transferred or 
+licensed to support 
+low-emission 
+development as a 
+result of Fund 
+support. IEs/ 
+intermediaries Might include number of technology transfer 
+licenses, number of facilities created to produce 
+local technologies, and/or 
+projects/programmes that include transfer of 
+technolo gy and innovative solutions that 
+support low -emission pathways. 
+5.0 Strengthened 
+institutional 
+and regulatory 
+systems for 
+low-emission 
+planning and 
+development ☐ 5.1 Institutional 
+and regulatory 
+systems that improve 
+incentives for low -
+emission planning and 
+development and 
+their effective IEs/ 
+intermediaries Details on this indicator are to be determined. 
+Although this can be informed by GEF Indicator 
+5, the World Bank’s RISE (Readiness for 
+Investment in Sustainable Energy) work, and 
+Bloomberg N ew Energy Finance (BNEF) 
+Climatesope work, consideration will be made 
+to avoid country and sector -level requirements 
+ 
+Mitigation and adaptation performance measurement frameworks 
+
+ Expected result Indicator * = Core Reporting 
+responsibility 
+(annual 
+reporting) Notes3 
+implementation for this indicator. Consideration should be 
+given to what can be measured at different 
+levels (city, regional, etc.) and what changes 
+can be tied to the work of the Fund, either in an 
+attribution or contribution sense. 
+ ☐ 5.2 Number and 
+level of effective 
+coordination 
+mechanisms IEs/ 
+Intermediaries Seeks to measure evidence of measures taken 
+for promoting coordination and synergy at the 
+regional and international levels, including 
+between and among relevant agencies and with 
+regard to other multilateral environmental 
+agreements. 
+6.0 Increased 
+number of 
+small, medium 
+and large low -
+emission power 
+suppliers  6.1 Proportion of 
+low-emission power 
+supply in a 
+jurisdiction or market. IEs/ 
+intermediaries To be determined by recipient countries. 
+Disaggregated by size of supplier 
+  6.2 Number of 
+households, and 
+individuals (males and 
+females) with 
+improved access to 
+low-emission ene rgy 
+sources IEs/ 
+intermediaries Informed by CIF SREP 2. 
+Disaggregated by males and females. 
+Disaggregated by urban and rural. 
+To be informed by SE4All. 
+Assumes that it will not be possible to measure 
+improved access from large -grid systems; 
+therefore the data will be linked to off-grid 
+access (e.g., solar panels) and mini -grid 
+systems. 
+  6.3 MWs of low -
+emission energy 
+capacity installed, 
+generated and/o r 
+rehabilitated as a 
+result of GCF support IEs/ 
+intermediaries Informed by CIF CTF and SREP indicators. 
+7.0 Lower energy 
+intensity of 
+buildings, cities, 
+industries, and 
+appliances ☐ 7.1 Energy 
+intensity/improved 
+efficiency of buildings, 
+cities, industries and 
+appliances as a result 
+of Fund support. IEs/ 
+intermediaries Informed by MDB/IFI GHG accounting 
+harmonization work on energy efficiency; can 
+also be informed by IEA and SE4ALL Global 
+Tracking Framework where relevant. 
+Will need to be calculat ed sector -by-sector; 
+different methodologies apply to buildings, 
+cities, industries and appliances. 
+8.0 Increased use 
+of low -carbon 
+transport ☐ 8.1 Number of 
+additional female and 
+male passengers using 
+low-carbon transport 
+as a result of Fund 
+support. IEs/ 
+intermediaries Informed by CIF CTF indicator 4, pending work 
+by MDBs and IFIs on transport GHG accounting 
+harmonization. 
+Additional passengers = mode shift 
+To consider underlying reasons for mode shift, 
+such as transit -oriented development 
+ 
+Disaggregated by gender. 
+ 
+Mitigation and adaptation performance measurement frameworks 
+
+ Expected result Indicator * = Core Reporting 
+responsibility 
+(annual 
+reporting) Notes3 
+ ☐ 8.2 Vehicle fuel 
+economy and energy 
+source as a result of 
+Fund support. IEs/ 
+intermediaries 
+ 
+ Trends in fuel economy by vehicle class 
+(commercial and passenger plus subclasses by 
+heavy/light duty, weight, etc.) and energy 
+source (e.g. hybrid and all -electric vehicles) 
+ 
+Focuses on vehicles in the private, commercial 
+and government fleets (not public transport or 
+non-motorized transport options). 
+ 
+Details of methodology to be determined: may 
+be by average fuel economy by vehicle class. 
+ 
+Informed by work of the International Energy 
+Agency, the International Council on Clean 
+Transportation, and others 
+9.0 Improved 
+management of 
+land or forest 
+areas 
+contributing to 
+emissions 
+reductions ☐ 9.1 Hectares of land 
+or forests under 
+improved and 
+effective management 
+that contributes to 
+CO 2 emission 
+reductions IEs/ 
+intermediaries Informed by work on REDD+ performance 
+framework (currently being developed). Can 
+draw on CIF Forest Investment Program (FIP) 
+indicator guidance, Forest Carbon Partnership 
+Facility Monitoring and Evaluation Framework, 
+UN REDD, and UNFCCC guidance. 
+Project/Programme 
+Outputs [Defined for each project/programme on a case -by-case basis.] 
+Activities [Defined for each project/programme on a case -by-case basis.] 
+Inputs [Defined for each project/programme on a case -by-case basis.] 
+B. Adaptation performance measurement framework 
+12. The adaptation PMF in Table 2 is aligned with the adaptation logic model. The 
+associated indicators are listed next to their corresponding objective/impact/outcome. The 
+notes provide details of the proposed methodology, disaggregation and equivalency with 
+indicators used by peer funds/agencies. 
+13. When applicable, an indicator measuring additional financing from public and private 
+sources on adaptation activities can be tracked and reported during project/programme 
+implementation on a case -by-case basis. This indicator would not serve as a decision -making 
+factor when assessing a funding proposal for adaptation. 
+14. An initial methodology for the adopted adaptation core ind icator is included in Annex V. 
+Once the Board adopts the additional indicators in the PMF, de tailed methodologies, including 
+more specifics on gender, can be identified for these indicators. 
+Table 2: Adaptation performance measurement framework 
+ = Decided 
+ 
+Mitigation and adaptation performance measurement frameworks 
+
+ ☐ = Noted, but further refinement needed 
+Expected result Indicator 
+* = Core Reporting 
+responsibility 
+(annual 
+reporting) Notes4 
+Paradigm -shift Objective 
+Increased climate -
+resilient sustainable 
+development ☐ Degree to which the 
+Fund is achieving a 
+climate -resilient 
+sustainable development 
+impact Secretariat Proposed assessment based on a 
+combination of quantitative and qualitative 
+information that goes beyond simple 
+aggregation of the results’ indicators. 
+Elements to be considered include the 
+overall contribution to sustainable climate -
+resilient development pathways, the degree 
+to which knowledge and learning are 
+achieved, extent to which the enabling 
+environment is created or enhanced, and 
+extent to which the regulatory framework 
+and policies are strengthened. 
+Fund -level Impacts 
+ * Total Number of 
+direct and indir ect 
+beneficiaries; Number 
+of beneficiaries relative 
+to total population IEs/ 
+intermediaries 
+ The indicator measures the number of 
+people who have received an input of 
+support, where two dimensions of support 
+are considered: targeted and intensity level. 
+Based on these two dimensions, a direct and 
+indirect category of beneficiaries is 
+identified . See Annex V for the methodology. 
+ 
+Disaggregated by gender. 
+ 
+Informed by Adaptation Fund (core -1); CIF 
+PPCR A1.3. 
+1.0 Increased 
+resilience and 
+enhanced 
+livelihoods of 
+the most 
+vulnerable 
+people, 
+communities, 
+and regions ☐ 1.1 Change in expected 
+losses of lives and 
+economic assets (US$) 
+due to the impact of 
+extreme c limate -related 
+disasters in the 
+geographic area of the 
+GCF intervention IEs/ 
+intermediaries 
+/country 
+ Disaggregated by vulnerable groups and 
+gender, share of total population. 
+ 
+Analysis of loss of life is separate from 
+analysis of economic losses (lives not to be 
+valued). 
+ 
+Economic losses will be analysed in relation 
+to the size of economies. 
+ 
+Informed by CIF PPCR A1.2. 
+ ☐ 1.2 Number of males 
+and females benefiting 
+from the adoption of 
+diversified, climate -
+resilient livelihood 
+options (including 
+fisheries, agriculture, 
+tourism, etc.) IEs/ 
+intermediaries 
+ Disagg regated by gender; to consider 
+equitable sharing of benefits. 
+ 
+Methodology to consider (e.g., climate -
+resilient agriculture, sustainable climate -
+resilient tourism, fisheries, green jobs, etc.) 
+Informed by Adaptation Fund 6.1, 6.2; 
+LDCF/SCCF 3. 
+ 
+4 Notes are provided by the Secretariat for information only. 
+ 
+Mitigation and adaptation performance measurement frameworks 
+
+ Expected result Indicator 
+* = Core Reporting 
+responsibility 
+(annual 
+reporting) Notes4 
+ ☐ 1.3 Number of Fund -
+funded 
+projects/programmes 
+that supports effective 
+adaptation to fish stock 
+migration and depletion 
+due to climate change IEs/ 
+intermediaries 
+ Details to be determined. 
+2.0 Increased 
+resilience of 
+health and well -
+being, and food 
+and water 
+security  2.1 Number of males 
+and females benefiting 
+from introduced health 
+measures to respond to 
+climate -sensitive 
+diseases IEs/ 
+intermediaries 
+ 
+ Disaggregated by health measure, disease 
+Disaggregated by gender 
+ 
+Informed by: n/a. 
+  2.2 Number of food -
+secure households (in 
+areas/periods at risk of 
+climate change impacts) IEs/ 
+intermediaries Disaggregated by male and female -headed 
+households 
+Informed by CIF PPCR A1.1. 
+  2.3 Number of males 
+and females with year -
+round access to reli able 
+and safe water supply 
+despite climate shocks 
+and stresses IEs/ 
+intermediaries Disaggregated by gender in relation to 
+domestic, agricultural and industrial 
+sources. 
+ 
+Disaggregated by male and female -headed 
+households for domestic sources. 
+ 
+Informed by CIF PPCR A1.4. 
+3.0 Increased 
+resilience of 
+infrastructure 
+and the built 
+environment to 
+climate change 
+threats ☐ * 3.1 Number and 
+value of physical assets 
+made more resilient to 
+climate variability and 
+change, considering 
+human benefits 
+(reported where 
+applicable) IEs/ 
+intermediaries Number will be disaggregated by sector, 
+type of asset, action (constructed or 
+strengthened), etc. 
+ 
+Informed by Adaptation Fund (core -3), 
+LDCF/SCCF 2. 
+ 
+To cover assets associated with climate -
+vulnerable sector s, such as tourism. 
+4.0 Improved 
+resilience of 
+ecosystems and 
+ecosystem 
+services ☐ 4.1 Coverage/scale of 
+ecosystems protected 
+and strengthened in 
+response to climate 
+variability and change IEs/ 
+intermediaries Disaggregated by ecosystem type. 
+ 
+To examine how impact on people can be 
+captured. 
+ 
+Informed by Adaptation Fund (core -4); 
+LDCF/SCCF 2. 
+ ☐ 4.2 Value (US$) of 
+ecosystem services 
+generated or protected in 
+response to climate 
+change IEs/ 
+intermediaries Informed by LDCF/S CCF 2. 
+Project/Programme Outcomes 
+ ☐ Number of IEs/ Might include number of technology 
+ 
+Mitigation and adaptation performance measurement frameworks 
+
+ Expected result Indicator 
+* = Core Reporting 
+responsibility 
+(annual 
+reporting) Notes4 
+technologies and 
+innovative solutions 
+transferred or licensed to 
+promote climate 
+resilience as a result of 
+Fund support. intermediaries 
+ transfer licenses, number of facilities 
+created to produce local technologies, 
+and/or projects/programmes that include 
+transfer of technology and innovative 
+solutions that support climate adaptation 
+and resilience. 
+5.0 Strengthened 
+institutional 
+and regulatory 
+systems for 
+climate -
+responsive 
+planning and 
+development ☐ 5.1 Institutional and 
+regulatory systems that 
+improve incentives for 
+climate resilience and 
+their effective 
+implementation. IEs/ 
+intermediaries 
+/country The indicator measures the institutional and 
+regulatory systems that improve incentives 
+for climate resilience and are accompanied 
+by evidence of their effective 
+implementation. The evidence may be a 
+qualitative assessment (e.g. through a 
+standard ized scorecard) of the various 
+strategic plans and documents is needed at 
+regular intervals to observe changes in 
+terms of climate change streamlining and 
+quality. 
+ 
+Informed by Adaptation Fund 7; CIF PPCR 
+A2.1, B2; Adaptation Fund 7.1; LDCF/SCCF 
+12. 
+ ☐ 5.2 Number and level 
+of effective coordination 
+mechanisms IEs/ 
+intermediaries 
+ Seeks to measure evidence of measures 
+taken for promoting coordination and 
+synergy at the regional and international 
+levels, including between and among 
+relevant agencies and w ith regard to other 
+multilateral environmental agreements. 
+6.0 Increased 
+generation and 
+use of climate 
+information in 
+decision -
+making ☐ Proposed: 6.2 Use of 
+climate information 
+products/services in 
+decision -making in 
+climate -sensitive sectors IEs/ 
+intermediaries 
+ 
+ Disaggregated by stakeholder (government, 
+private sector, and general population). 
+ 
+This indicator is qualitative in nature and 
+country -specific. It will require an in -depth 
+analysis and/or a scorecard approach to 
+capture the understanding of the political 
+economy determining decisions. 
+ 
+Informed by CIF PPCR B3 
+7.0 Strengthened 
+adaptive 
+capacity and 
+reduced 
+exposure to 
+climate risks ☐ Proposed 7.1: Use by 
+vulnerable households, 
+communities, businesses 
+and public -sector 
+services of Fund -
+supported tools, 
+instruments, strategies 
+and activities to respond 
+to climate change and 
+variability IEs/ 
+intermediaries This indicator is qualitative and/or 
+quantitative in nature and country -specific. 
+The qualitative aspects will require an in -
+depth analysis or a scorecard approach to 
+determine the extent of progress. 
+Households: disaggregated by male -headed 
+and female -headed 
+Informed by CIF PPCR B1 
+ ☐ 7.2: Number of males 
+and females reached by 
+[or total geographic IEs/ 
+intermediaries An early warning system is p erceived as a 
+composite of four dimensions: (1) 
+knowledge on risks, (2) monitoring and 
+ 
+Mitigation and adaptation performance measurement frameworks 
+
+ Expected result Indicator 
+* = Core Reporting 
+responsibility 
+(annual 
+reporting) Notes4 
+coverage of] climate -
+related early warning 
+systems and other risk 
+reduction measures 
+established/ 
+strengthened warning service, (3) dissemination and 
+communication, (4) response capability. 
+ 
+Disaggregated by hazard and geographical 
+coverage. 
+ 
+Disaggregated by gender. 
+ 
+Informed by Adaptation Fund Core -2, 1.2 and 
+1.2.1; LDCF/SCCF 2.3 
+8.0 Strengthened 
+awareness of 
+climate threats 
+and risk -
+reduction 
+processes  8.1: Number of males 
+and females made aware 
+of climate threats and 
+related appropriate 
+responses IEs/ 
+intermedia ries Disaggregated by gender. 
+Informed by Adaptation Fund 3.1, 3.2 
+Project/Programme 
+Outputs [Defined for each project/programme on a case -by-case basis.] 
+Activities [Defined for each project/programme on a case -by-case basis.] 
+Inputs [Defined for each project/programme on a case -by-case basis.]

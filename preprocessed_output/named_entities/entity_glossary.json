@@ -1,0 +1,330 @@
+{
+  "organizations": {
+    "European Union": {
+      "count": 797,
+      "explanation": "Political and economic union of European countries"
+    },
+    "European Commission": {
+      "count": 335,
+      "explanation": "Executive branch of the European Union"
+    },
+    "European Parliament": {
+      "count": 112,
+      "explanation": "Legislative body of the European Union"
+    },
+    "European Council": {
+      "count": 59,
+      "explanation": "Institution defining EU political direction and priorities"
+    },
+    "Power-to-Liquid": {
+      "count": 38,
+      "explanation": "Organization mentioned in policy documents"
+    },
+    "CO 2": {
+      "count": 30,
+      "explanation": "Organization mentioned in policy documents"
+    },
+    "A.E. Torkayesh": {
+      "count": 26,
+      "explanation": "Organization mentioned in policy documents"
+    },
+    "Sustainable Aviation Fuel": {
+      "count": 24,
+      "explanation": "Organization mentioned in policy documents"
+    },
+    "EPS": {
+      "count": 23,
+      "explanation": "Organization mentioned in policy documents"
+    },
+    "OECD": {
+      "count": 19,
+      "explanation": "Organisation for Economic Co-operation and Development"
+    },
+    "PolicymakersSummary": {
+      "count": 16,
+      "explanation": "Organization mentioned in policy documents"
+    },
+    "MAN Energy Solutions": {
+      "count": 16,
+      "explanation": "Organization mentioned in policy documents"
+    },
+    "UNEP FI": {
+      "count": 16,
+      "explanation": "Organization mentioned in policy documents"
+    },
+    "Cross-Section Box.2": {
+      "count": 14,
+      "explanation": "Organization mentioned in policy documents"
+    },
+    "GoOs": {
+      "count": 14,
+      "explanation": "Organization mentioned in policy documents"
+    },
+    "the European Green Deal": {
+      "count": 14,
+      "explanation": "Organization mentioned in policy documents"
+    },
+    "CWS": {
+      "count": 12,
+      "explanation": "Organization mentioned in policy documents"
+    },
+    "State": {
+      "count": 12,
+      "explanation": "Organization mentioned in policy documents"
+    },
+    "ISCC System GmbH": {
+      "count": 12,
+      "explanation": "Organization mentioned in policy documents"
+    },
+    "Ecologic Institute": {
+      "count": 12,
+      "explanation": "Organization mentioned in policy documents"
+    },
+    "the Member State": {
+      "count": 12,
+      "explanation": "Organization mentioned in policy documents"
+    },
+    "PMF": {
+      "count": 11,
+      "explanation": "Organization mentioned in policy documents"
+    },
+    "K\u00f6hler": {
+      "count": 11,
+      "explanation": "Organization mentioned in policy documents"
+    },
+    "the Council (*": {
+      "count": 11,
+      "explanation": "Organization mentioned in policy documents"
+    },
+    "Natura": {
+      "count": 11,
+      "explanation": "Organization mentioned in policy documents"
+    },
+    "the European Union": {
+      "count": 11,
+      "explanation": "Organization mentioned in policy documents"
+    },
+    "EV": {
+      "count": 10,
+      "explanation": "Organization mentioned in policy documents"
+    },
+    "COOP": {
+      "count": 10,
+      "explanation": "Organization mentioned in policy documents"
+    },
+    "Augsburg": {
+      "count": 10,
+      "explanation": "Organization mentioned in policy documents"
+    },
+    "Cefic": {
+      "count": 10,
+      "explanation": "Organization mentioned in policy documents"
+    }
+  },
+  "locations": {
+    "Germany": {
+      "count": 182,
+      "explanation": "EU Member State, major player in energy policy"
+    },
+    "Member States": {
+      "count": 57,
+      "explanation": "Countries that are members of the European Union"
+    },
+    "France": {
+      "count": 47,
+      "explanation": "EU Member State, major player in energy policy"
+    },
+    "China": {
+      "count": 36,
+      "explanation": "Major global economy and energy consumer"
+    },
+    "Denmark": {
+      "count": 22,
+      "explanation": "Geographic location referenced in policy context"
+    },
+    "Spain": {
+      "count": 22,
+      "explanation": "EU Member State, major player in energy policy"
+    },
+    "Norway": {
+      "count": 22,
+      "explanation": "Geographic location referenced in policy context"
+    },
+    "Portugal": {
+      "count": 21,
+      "explanation": "Geographic location referenced in policy context"
+    },
+    "UK": {
+      "count": 19,
+      "explanation": "Geographic location referenced in policy context"
+    },
+    "Sweden": {
+      "count": 16,
+      "explanation": "Geographic location referenced in policy context"
+    },
+    "Finland": {
+      "count": 15,
+      "explanation": "Geographic location referenced in policy context"
+    },
+    "Regulation": {
+      "count": 15,
+      "explanation": "Geographic location referenced in policy context"
+    },
+    "Greece": {
+      "count": 13,
+      "explanation": "Geographic location referenced in policy context"
+    },
+    "Ireland": {
+      "count": 12,
+      "explanation": "Geographic location referenced in policy context"
+    },
+    "Switzerland": {
+      "count": 11,
+      "explanation": "Geographic location referenced in policy context"
+    },
+    "Belgium": {
+      "count": 10,
+      "explanation": "Geographic location referenced in policy context"
+    },
+    "Luxembourg": {
+      "count": 9,
+      "explanation": "Geographic location referenced in policy context"
+    },
+    "Netherlands": {
+      "count": 9,
+      "explanation": "EU Member State, major player in energy policy"
+    },
+    "Directive": {
+      "count": 7,
+      "explanation": "Geographic location referenced in policy context"
+    },
+    "the United Kingdom": {
+      "count": 7,
+      "explanation": "Geographic location referenced in policy context"
+    }
+  },
+  "laws": {
+    "Carbon Border Adjustment Mechanism": {
+      "count": 49,
+      "explanation": "Policy or legal framework"
+    },
+    "Article 2": {
+      "count": 22,
+      "explanation": "Policy or legal framework"
+    },
+    "Article 3(1": {
+      "count": 19,
+      "explanation": "Policy or legal framework"
+    },
+    "Article 25(1": {
+      "count": 16,
+      "explanation": "Policy or legal framework"
+    },
+    "the RED II": {
+      "count": 11,
+      "explanation": "Policy or legal framework"
+    },
+    "Article 35": {
+      "count": 9,
+      "explanation": "Policy or legal framework"
+    },
+    "Article 17": {
+      "count": 8,
+      "explanation": "Policy or legal framework"
+    },
+    "Emissions Trading System": {
+      "count": 7,
+      "explanation": "Policy or legal framework"
+    },
+    "the Delegated Act": {
+      "count": 7,
+      "explanation": "Policy or legal framework"
+    },
+    "Article 29(2": {
+      "count": 7,
+      "explanation": "Policy or legal framework"
+    },
+    "Article 4": {
+      "count": 7,
+      "explanation": "Policy or legal framework"
+    },
+    "Article 26(2": {
+      "count": 6,
+      "explanation": "Policy or legal framework"
+    },
+    "Article 4(1": {
+      "count": 6,
+      "explanation": "Policy or legal framework"
+    },
+    "Article 6(3": {
+      "count": 6,
+      "explanation": "Policy or legal framework"
+    },
+    "Article 23(1": {
+      "count": 6,
+      "explanation": "Policy or legal framework"
+    },
+    "Article 15c(1": {
+      "count": 5,
+      "explanation": "Policy or legal framework"
+    },
+    "Article 29a(3": {
+      "count": 5,
+      "explanation": "Policy or legal framework"
+    },
+    "Article 27(6": {
+      "count": 5,
+      "explanation": "Policy or legal framework"
+    },
+    "Section 2": {
+      "count": 5,
+      "explanation": "Policy or legal framework"
+    },
+    "Article 29a(1": {
+      "count": 5,
+      "explanation": "Policy or legal framework"
+    }
+  },
+  "technical_terms": {
+    "Greenhouse Gas": {
+      "acronym": "GHG",
+      "count": 1,
+      "explanation": "Gases that trap heat in the atmosphere (CO2, CH4, etc.)"
+    },
+    "Carbon Capture and Storage": {
+      "acronym": "CCS",
+      "count": 2,
+      "explanation": "Technology to capture CO2 emissions and store them"
+    },
+    "Carbon Border Adjustment Mechanism": {
+      "acronym": "CBAM",
+      "count": 50,
+      "explanation": "EU policy to prevent carbon leakage"
+    },
+    "Sustainable Aviation Fuel": {
+      "acronym": "SAF",
+      "count": 24,
+      "explanation": "Alternative fuel for aviation with lower emissions"
+    },
+    "Power-to-Liquid": {
+      "acronym": "PtL",
+      "count": 47,
+      "explanation": "Technology converting electricity to liquid fuels"
+    },
+    "Power-to-X": {
+      "acronym": "PtX",
+      "count": 167,
+      "explanation": "Technologies converting electricity to other energy carriers"
+    },
+    "Carbon Capture Utilization and Storage": {
+      "acronym": "CCUS",
+      "count": 2,
+      "explanation": "Technical term in energy/climate policy"
+    },
+    "Emissions Trading System": {
+      "acronym": "ETS",
+      "count": 7,
+      "explanation": "Market-based approach to controlling emissions"
+    }
+  }
+}

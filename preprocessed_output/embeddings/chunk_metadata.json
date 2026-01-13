@@ -1,0 +1,3863 @@
+[
+  {
+    "doc_id": "doc_001",
+    "filename": "Ammonia White Paper",
+    "document_type": "white_paper",
+    "year": "unknown",
+    "chunk_index": 0,
+    "chunk_start_word": 0,
+    "chunk_text_preview": "Innovations in blue and green ammonia productionAmmonia - fuel for net-zero MAN Energy Solutions Ammonia - fuel for net-zero List of technical abbreviations ATR Autothermal reforming avg. Average BAT ..."
+  },
+  {
+    "doc_id": "doc_001",
+    "filename": "Ammonia White Paper",
+    "document_type": "white_paper",
+    "year": "unknown",
+    "chunk_index": 1,
+    "chunk_start_word": 450,
+    "chunk_text_preview": "solutions 16 Conclusion 19 Figures 21 Tables 21 Bibliography 22 MAN Energy Solutions Ammonia - fuel for net-zero Various uses of ammonia From farming to fuels Nitrogen fertilizers, including products ..."
+  },
+  {
+    "doc_id": "doc_001",
+    "filename": "Ammonia White Paper",
+    "document_type": "white_paper",
+    "year": "unknown",
+    "chunk_index": 2,
+    "chunk_start_word": 900,
+    "chunk_text_preview": "blue, and green ammonia Gray ammonia is produced using hydrogen derived from fossil fuels through traditional methods, where the excess carbon is released into the atmosphere. Blue ammonia refers to a..."
+  },
+  {
+    "doc_id": "doc_001",
+    "filename": "Ammonia White Paper",
+    "document_type": "white_paper",
+    "year": "unknown",
+    "chunk_index": 3,
+    "chunk_start_word": 1350,
+    "chunk_text_preview": "% 0.5 -1 % Very lowAmmonia\u2019s relatively high energy density compared to hydrogen makes it a more practical option for long-distance shipping, reducing the need for frequent refueling stops. Advanced c..."
+  },
+  {
+    "doc_id": "doc_001",
+    "filename": "Ammonia White Paper",
+    "document_type": "white_paper",
+    "year": "unknown",
+    "chunk_index": 4,
+    "chunk_start_word": 1800,
+    "chunk_text_preview": "bunkering infrastructure for ammonia is currently nonexistent (see Raucci et al. 2023). MAN Energy Solutions has addressed each of these challenges in a comprehensive development program. Successful a..."
+  },
+  {
+    "doc_id": "doc_001",
+    "filename": "Ammonia White Paper",
+    "document_type": "white_paper",
+    "year": "unknown",
+    "chunk_index": 5,
+    "chunk_start_word": 2250,
+    "chunk_text_preview": "Fuels, Dimethyl ether (DME), Oxo alcohols Green hydrogenThese tests provided promising data on combustion stability and pilot oil usage: -Pilot oil consumption is similar to that of other liquid gas i..."
+  },
+  {
+    "doc_id": "doc_001",
+    "filename": "Ammonia White Paper",
+    "document_type": "white_paper",
+    "year": "unknown",
+    "chunk_index": 6,
+    "chunk_start_word": 2700,
+    "chunk_text_preview": "and nitrogen after the ammonia condenser. Steam Steam methane reformingSecondary reformingShift reactor Shift reactorSeparationMethanationAir compressor 400 - 500 \u00b0C 800 \u00b0C~35 bar 1,200 \u00b0C 1,000 \u00b0C 20..."
+  },
+  {
+    "doc_id": "doc_001",
+    "filename": "Ammonia White Paper",
+    "document_type": "white_paper",
+    "year": "unknown",
+    "chunk_index": 7,
+    "chunk_start_word": 3150,
+    "chunk_text_preview": "nitrogen from the associated air separation plant is used. -CO 2 removal Similar to SMR.Air separation plants are typically built with an isothermal main air compressor delivering air at about 5.5 bar..."
+  },
+  {
+    "doc_id": "doc_001",
+    "filename": "Ammonia White Paper",
+    "document_type": "white_paper",
+    "year": "unknown",
+    "chunk_index": 8,
+    "chunk_start_word": 3600,
+    "chunk_text_preview": "configuration changes to the compression systems. In addition, PEM electrolyzers have quick response times and better integration with grids predominantly powered by renewable energy sources. MAN Ener..."
+  },
+  {
+    "doc_id": "doc_001",
+    "filename": "Ammonia White Paper",
+    "document_type": "white_paper",
+    "year": "unknown",
+    "chunk_index": 9,
+    "chunk_start_word": 4050,
+    "chunk_text_preview": "globally to address this issue. Finally, green ammonia is not the production route with the lowest GHG emissions if it is powered by grid electricity with an emissions factor above 200 g / KWh. Dedica..."
+  },
+  {
+    "doc_id": "doc_001",
+    "filename": "Ammonia White Paper",
+    "document_type": "white_paper",
+    "year": "unknown",
+    "chunk_index": 10,
+    "chunk_start_word": 4500,
+    "chunk_text_preview": "(2021). Ammonia Technology Roadmap. Paris, France: International Energy Agency. Available from: windows.net/assets/6ee41bb9-8e81-4b64-8701-2acc064ff6e4/AmmoniaTechnologyRoadmap.pdf IEA (2023). Hydroge..."
+  },
+  {
+    "doc_id": "doc_001",
+    "filename": "Ammonia White Paper",
+    "document_type": "white_paper",
+    "year": "unknown",
+    "chunk_index": 11,
+    "chunk_start_word": 4950,
+    "chunk_text_preview": "Life cycle Assessment of Hydrogen Production via Natural Gas Steam Reforming vs. Biomass Gasification. Preprints. Available from: Quest One (2024): Modularized 10 MW PEM electrolyzer with materials an..."
+  },
+  {
+    "doc_id": "doc_002",
+    "filename": "Carbon Border Adjustment Mechanism",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 12,
+    "chunk_start_word": 0,
+    "chunk_text_preview": "Carbon Border Adjustment Mechanism A new, green way of pricing carbon in imports to the EU EU Commission, Brussels, March 2023 Whole economy approach: \u2022A socially fair transition : tackling inequality..."
+  },
+  {
+    "doc_id": "doc_002",
+    "filename": "Carbon Border Adjustment Mechanism",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 13,
+    "chunk_start_word": 450,
+    "chunk_text_preview": ". Carbon Price \uf071Equal carbon pricing \uf0a7EU businesses pay a carbon price on their production in the EU \uf0a7Imports will need to pay a carbon adjustment , corresponding to the price they would have paid if ..."
+  },
+  {
+    "doc_id": "doc_002",
+    "filename": "Carbon Border Adjustment Mechanism",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 14,
+    "chunk_start_word": 900,
+    "chunk_text_preview": "in those goods \uf0a7The carbon price due in the country of origin for the embedded emissions \uf0e0Report to be submitted each quarterPost transitional phase January 2026 onwards \uf071CBAM declaration containing t..."
+  },
+  {
+    "doc_id": "doc_002",
+    "filename": "Carbon Border Adjustment Mechanism",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 15,
+    "chunk_start_word": 1350,
+    "chunk_text_preview": "paid in a third country \uf071Art. 14(6) -CBAM registry \uf071Art. 17(11) -Authorisation \uf071Art. 18(1) -Accreditation of verifiers \uf071Art. 21(3) -Price of CBAM certificates \uf071Art. 25(5) -Rules applicable to the impo..."
+  },
+  {
+    "doc_id": "doc_002",
+    "filename": "Carbon Border Adjustment Mechanism",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 16,
+    "chunk_start_word": 1800,
+    "chunk_text_preview": "may on request accredit a person as a verifier Role \uf071The verifiers shall: \uf071prepare a verification report establishing the embedded emissions of CBAM goods \uf071visit installations on -site Calculation of ..."
+  },
+  {
+    "doc_id": "doc_003",
+    "filename": "Carbon Capture in Industry - Policy Brief",
+    "document_type": "legislation",
+    "year": "2025",
+    "chunk_index": 17,
+    "chunk_start_word": 0,
+    "chunk_text_preview": "1 Carbon Capture and Storage (CCS): A Key Solution for Achieving Net-Zero Emissions Tobias Orthen, Franz Josef Radermacher April 4, 2025 Preliminary Remarks: Franz Josef Radermacher and Tobias Orthen ..."
+  },
+  {
+    "doc_id": "doc_003",
+    "filename": "Carbon Capture in Industry - Policy Brief",
+    "document_type": "legislation",
+    "year": "2025",
+    "chunk_index": 18,
+    "chunk_start_word": 450,
+    "chunk_text_preview": "Current State of CCS: Global Growth and Industry Adoption CCS technology has seen rapid growth in recent years. In 2024, there were 50 operational CCS facilities worldwide, with another 44 under const..."
+  },
+  {
+    "doc_id": "doc_003",
+    "filename": "Carbon Capture in Industry - Policy Brief",
+    "document_type": "legislation",
+    "year": "2025",
+    "chunk_index": 19,
+    "chunk_start_word": 900,
+    "chunk_text_preview": "rather than transitioning to cleaner alternatives. It should be borne in mind that more than 75 per cent of the energy used worldwide is currently still based on fossil fuels and that it will not be p..."
+  },
+  {
+    "doc_id": "doc_004",
+    "filename": "Climate Adaptation and Mitigation",
+    "document_type": "guideline",
+    "year": "unknown",
+    "chunk_index": 20,
+    "chunk_start_word": 0,
+    "chunk_text_preview": "Mitigation and adaptation performance measurement frameworks This document is as adopt ed by the Board and contained in annex VIII to decision B. 08/07, paragraph (a). Mitigation and adaptation perfor..."
+  },
+  {
+    "doc_id": "doc_004",
+    "filename": "Climate Adaptation and Mitigation",
+    "document_type": "guideline",
+    "year": "unknown",
+    "chunk_index": 21,
+    "chunk_start_word": 450,
+    "chunk_text_preview": "d evelopment pathways (adaptation), the degree to which knowledge and learning are achieved, extent to which the enabling environment is created or enhanced, and extent to which the regulatory framewo..."
+  },
+  {
+    "doc_id": "doc_004",
+    "filename": "Climate Adaptation and Mitigation",
+    "document_type": "guideline",
+    "year": "unknown",
+    "chunk_index": 22,
+    "chunk_start_word": 900,
+    "chunk_text_preview": "mitigation over time. Costs per t CO 2eq reduced 3 Notes are provided by the Secretariat for information only. Mitigation and adaptation performance measurement frameworks Expected result Indicator * ..."
+  },
+  {
+    "doc_id": "doc_004",
+    "filename": "Climate Adaptation and Mitigation",
+    "document_type": "guideline",
+    "year": "unknown",
+    "chunk_index": 23,
+    "chunk_start_word": 1350,
+    "chunk_text_preview": "efficiency where applicable. Can also draw upon the GEF\u2019s GHG accounting for standards and labelling; CLASP\u2019s/Lawrence Berkeley National Laboratory\u2019s (LBNL) Policy Analysis Modelling System. Gender di..."
+  },
+  {
+    "doc_id": "doc_004",
+    "filename": "Climate Adaptation and Mitigation",
+    "document_type": "guideline",
+    "year": "unknown",
+    "chunk_index": 24,
+    "chunk_start_word": 1800,
+    "chunk_text_preview": "access to low-emission ene rgy sources IEs/ intermediaries Informed by CIF SREP 2. Disaggregated by males and females. Disaggregated by urban and rural. To be informed by SE4All. Assumes that it will ..."
+  },
+  {
+    "doc_id": "doc_004",
+    "filename": "Climate Adaptation and Mitigation",
+    "document_type": "guideline",
+    "year": "unknown",
+    "chunk_index": 25,
+    "chunk_start_word": 2250,
+    "chunk_text_preview": "to their corresponding objective/impact/outcome. The notes provide details of the proposed methodology, disaggregation and equivalency with indicators used by peer funds/agencies. 13. When applicable,..."
+  },
+  {
+    "doc_id": "doc_004",
+    "filename": "Climate Adaptation and Mitigation",
+    "document_type": "guideline",
+    "year": "unknown",
+    "chunk_index": 26,
+    "chunk_start_word": 2700,
+    "chunk_text_preview": "etc.) Informed by Adaptation Fund 6.1, 6.2; LDCF/SCCF 3. 4 Notes are provided by the Secretariat for information only. Mitigation and adaptation performance measurement frameworks Expected result Indi..."
+  },
+  {
+    "doc_id": "doc_004",
+    "filename": "Climate Adaptation and Mitigation",
+    "document_type": "guideline",
+    "year": "unknown",
+    "chunk_index": 27,
+    "chunk_start_word": 3150,
+    "chunk_text_preview": "and are accompanied by evidence of their effective implementation. The evidence may be a qualitative assessment (e.g. through a standard ized scorecard) of the various strategic plans and documents is..."
+  },
+  {
+    "doc_id": "doc_005",
+    "filename": "Climate Framework Laws in Europe",
+    "document_type": "legislation",
+    "year": "2023",
+    "chunk_index": 28,
+    "chunk_start_word": 0,
+    "chunk_text_preview": "Nick Evans Deyana Kocher Nora K\u00f6gel Matthias Duwe 13 September 2023 The landscape of n ational climate framework laws in E urope A status update - Summer 2023 Ecologic Institut e The landscape of nati..."
+  },
+  {
+    "doc_id": "doc_005",
+    "filename": "Climate Framework Laws in Europe",
+    "document_type": "legislation",
+    "year": "2023",
+    "chunk_index": 29,
+    "chunk_start_word": 450,
+    "chunk_text_preview": "2020) . Although not required by EU regulation , climate frame- work laws are one way to operationalise the EU -wide target of net -zero emissions by 2050 at a national level (CAN Europe, 2022) . A cl..."
+  },
+  {
+    "doc_id": "doc_005",
+    "filename": "Climate Framework Laws in Europe",
+    "document_type": "legislation",
+    "year": "2023",
+    "chunk_index": 30,
+    "chunk_start_word": 900,
+    "chunk_text_preview": "status update A dynamic landscape Across the 32 Europ ean Environment Agency (EEA) member countries plus the United King- dom (UK ), 22 governments have enacted some form of climate law, albeit only 1..."
+  },
+  {
+    "doc_id": "doc_005",
+    "filename": "Climate Framework Laws in Europe",
+    "document_type": "legislation",
+    "year": "2023",
+    "chunk_index": 31,
+    "chunk_start_word": 1350,
+    "chunk_text_preview": ". criticized by civil society and the government\u2019s own Council of Experts for weakening the exist- ing framework by dismantling a unique system of sector -specific accounting and monitoring (see also ..."
+  },
+  {
+    "doc_id": "doc_005",
+    "filename": "Climate Framework Laws in Europe",
+    "document_type": "legislation",
+    "year": "2023",
+    "chunk_index": 32,
+    "chunk_start_word": 1800,
+    "chunk_text_preview": "Brennan, 2023; World Bank, 2020) . Among these included in the Cli- mate Framework Law Info -Matrix are: (1) climate targets, (2) clear processes for stakeholder and publ ic engagement (2) policy plan..."
+  },
+  {
+    "doc_id": "doc_005",
+    "filename": "Climate Framework Laws in Europe",
+    "document_type": "legislation",
+    "year": "2023",
+    "chunk_index": 33,
+    "chunk_start_word": 2250,
+    "chunk_text_preview": "the Climate Framewor k Laws Info -Matrix here. The landscape of national climate framework laws in Europe - A status update intentionally include them. Table 1 provides an o verview of the categories ..."
+  },
+  {
+    "doc_id": "doc_005",
+    "filename": "Climate Framework Laws in Europe",
+    "document_type": "legislation",
+    "year": "2023",
+    "chunk_index": 34,
+    "chunk_start_word": 2700,
+    "chunk_text_preview": "Paris Agreement into national ambition (Duwe and Bodle, 2020) . Targets can provide the government and society a \u2018clear direction of travel\u2019 and also an indication of the speed of transformation for p..."
+  },
+  {
+    "doc_id": "doc_005",
+    "filename": "Climate Framework Laws in Europe",
+    "document_type": "legislation",
+    "year": "2023",
+    "chunk_index": 35,
+    "chunk_start_word": 3150,
+    "chunk_text_preview": "non -English laws without an official translation the authors u sed translation software Deepl; (1) tar- get formulated as 'a factor of more than six' Portugal is the only country that enshrines a tar..."
+  },
+  {
+    "doc_id": "doc_005",
+    "filename": "Climate Framework Laws in Europe",
+    "document_type": "legislation",
+    "year": "2023",
+    "chunk_index": 36,
+    "chunk_start_word": 3600,
+    "chunk_text_preview": "are: [\u2026] e. to achieve carbon neutrality no later than the year 2040. (Art. 1) Ireland [\u2026] pursue and achieve, by no later than the end of the year 2050, the transition to a climate resilient, biodive..."
+  },
+  {
+    "doc_id": "doc_005",
+    "filename": "Climate Framework Laws in Europe",
+    "document_type": "legislation",
+    "year": "2023",
+    "chunk_index": 37,
+    "chunk_start_word": 4050,
+    "chunk_text_preview": "and Portugal breakout the emissions budget into sectoral limits. The existing German climate framework law sets annual budgets for the energy, industry, transport, buildings, agriculture and waste man..."
+  },
+  {
+    "doc_id": "doc_005",
+    "filename": "Climate Framework Laws in Europe",
+    "document_type": "legislation",
+    "year": "2023",
+    "chunk_index": 38,
+    "chunk_start_word": 4500,
+    "chunk_text_preview": "must be submitted to the government for approval by the responsible ministry every five years. The law further states that the strategy must include information on reductions and removals by sector fo..."
+  },
+  {
+    "doc_id": "doc_005",
+    "filename": "Climate Framework Laws in Europe",
+    "document_type": "legislation",
+    "year": "2023",
+    "chunk_index": 39,
+    "chunk_start_word": 4950,
+    "chunk_text_preview": "sectoral level in the German law, the so -called \u2018Sofortprogramm \u2019, is unique among European climate framework laws . Should a sector be proven to exceed its annual emissions budget, the ministry conc..."
+  },
+  {
+    "doc_id": "doc_005",
+    "filename": "Climate Framework Laws in Europe",
+    "document_type": "legislation",
+    "year": "2023",
+    "chunk_index": 40,
+    "chunk_start_word": 5400,
+    "chunk_text_preview": "is only somewhat required to consult the advisory body as the latter must provide an assessment of the government's climate policy action plan. 4.5 Green budgeting Green budgeting is not widely found ..."
+  },
+  {
+    "doc_id": "doc_005",
+    "filename": "Climate Framework Laws in Europe",
+    "document_type": "legislation",
+    "year": "2023",
+    "chunk_index": 41,
+    "chunk_start_word": 5850,
+    "chunk_text_preview": ". Likewise, the Greek law includes language on \u2018financial resources \u2019, including provisions for where funding for climate action will come from and provisions on transparency and accounting and the Hu..."
+  },
+  {
+    "doc_id": "doc_005",
+    "filename": "Climate Framework Laws in Europe",
+    "document_type": "legislation",
+    "year": "2023",
+    "chunk_index": 42,
+    "chunk_start_word": 6300,
+    "chunk_text_preview": "absolute reduction target, and there is inconsistent reliance on international offsetting for reaching climate neutrality domestically. Notably, only Portugal has a long -term GHG removal target in it..."
+  },
+  {
+    "doc_id": "doc_005",
+    "filename": "Climate Framework Laws in Europe",
+    "document_type": "legislation",
+    "year": "2023",
+    "chunk_index": 43,
+    "chunk_start_word": 6750,
+    "chunk_text_preview": "Economy: Perspectives from Israel and Germany\u201c, p. 32). Israel Public Policy Institute, Heinrich B\u00f6ll Foundation. Ecologic Institute. (2023). Climate Framework Laws Info -Matrix . European Commission...."
+  },
+  {
+    "doc_id": "doc_005",
+    "filename": "Climate Framework Laws in Europe",
+    "document_type": "legislation",
+    "year": "2023",
+    "chunk_index": 44,
+    "chunk_start_word": 7200,
+    "chunk_text_preview": "indi- cator -based assessment across 13 building blocks for a climate neutral future . European Climate Ne utral- ity Observatory (ECNO). Velten, E. K., Evans, N., Spasova, D., Duwe, M., de la Vega, R..."
+  },
+  {
+    "doc_id": "doc_006",
+    "filename": "Cost-Benefits of Climate Change",
+    "document_type": "legislation",
+    "year": "2013",
+    "chunk_index": 45,
+    "chunk_start_word": 0,
+    "chunk_text_preview": "Climate Policies: A Burden or a Gain? Thierry Br\u00e9chet Henry Tulkens CES IFO WORKING PAPER NO. 4147 CATEGORY 9: RESOURCE AND ENVIRONMENT ECONOMICS MARCH 2013 An electronic version of the paper may be d..."
+  },
+  {
+    "doc_id": "doc_006",
+    "filename": "Cost-Benefits of Climate Change",
+    "document_type": "legislation",
+    "year": "2013",
+    "chunk_index": 46,
+    "chunk_start_word": 450,
+    "chunk_text_preview": "reciate that, consider the alternative, i.e. no action, and its cost: no action means our economies incurring damages, possibly considerable (see IPCC (2007) , which will also be a burden. Notice that..."
+  },
+  {
+    "doc_id": "doc_006",
+    "filename": "Cost-Benefits of Climate Change",
+    "document_type": "legislation",
+    "year": "2013",
+    "chunk_index": 47,
+    "chunk_start_word": 900,
+    "chunk_text_preview": "cooperative behavior s can achieve efficiency at the world l evel. Additional and specific motivations of some sort for adopting non individualistic policies are called for. What can they consist of? ..."
+  },
+  {
+    "doc_id": "doc_006",
+    "filename": "Cost-Benefits of Climate Change",
+    "document_type": "legislation",
+    "year": "2013",
+    "chunk_index": 48,
+    "chunk_start_word": 1350,
+    "chunk_text_preview": "economy ? To be sure, what we have described above as \u201c direct\u201d costs are absent, since no action entailing them - mitigation or adaptation - is taken in that case. Unfortunately, this is only one sid..."
+  },
+  {
+    "doc_id": "doc_006",
+    "filename": "Cost-Benefits of Climate Change",
+    "document_type": "legislation",
+    "year": "2013",
+    "chunk_index": 49,
+    "chunk_start_word": 1800,
+    "chunk_text_preview": "world GDP, every year and for ever. We propose to apply the same reasoning to two policy choices, namely the 650 and 550 ppm caps , to see whether or not they pass the benefit- cost criterion. We do t..."
+  },
+  {
+    "doc_id": "doc_006",
+    "filename": "Cost-Benefits of Climate Change",
+    "document_type": "legislation",
+    "year": "2013",
+    "chunk_index": 50,
+    "chunk_start_word": 2250,
+    "chunk_text_preview": "that the global concentration is constrained never to exceed the tighter bound of 550 ppm CO 2-eq.6 We wish to compare these two policies with two benchmark scenarios that are common in the literature..."
+  },
+  {
+    "doc_id": "doc_006",
+    "filename": "Cost-Benefits of Climate Change",
+    "document_type": "legislation",
+    "year": "2013",
+    "chunk_index": 51,
+    "chunk_start_word": 2700,
+    "chunk_text_preview": "here , this cap cannot be reached. A view shared by many climatolog ists, actually. This is the reason why we consider only 550 and 650 ppm caps in this paper. by the CWS model . Note in particular th..."
+  },
+  {
+    "doc_id": "doc_006",
+    "filename": "Cost-Benefits of Climate Change",
+    "document_type": "legislation",
+    "year": "2013",
+    "chunk_index": 52,
+    "chunk_start_word": 3150,
+    "chunk_text_preview": "this scenario is socially profitable . By the definition of the COOP scenario it is also optimal, i.e. maximizing social welfare. By contrast, the two pol icies with their tight constraints of 550 ppm..."
+  },
+  {
+    "doc_id": "doc_006",
+    "filename": "Cost-Benefits of Climate Change",
+    "document_type": "legislation",
+    "year": "2013",
+    "chunk_index": 53,
+    "chunk_start_word": 3600,
+    "chunk_text_preview": "reveals that the world optimal sol ution (\u201c COOP \u201d) is far from being completely unrealistic from a policy standpoint and should not be considered as purely theoretical. Sometimes the best can be achi..."
+  },
+  {
+    "doc_id": "doc_006",
+    "filename": "Cost-Benefits of Climate Change",
+    "document_type": "legislation",
+    "year": "2013",
+    "chunk_index": 54,
+    "chunk_start_word": 4050,
+    "chunk_text_preview": "the horizontal one. Both are expressed as previously in percent of cumulated GDP until 2100 . With this diagram the acceptability of a policy by each country can be characterized in three ways . First..."
+  },
+  {
+    "doc_id": "doc_006",
+    "filename": "Cost-Benefits of Climate Change",
+    "document_type": "legislation",
+    "year": "2013",
+    "chunk_index": 55,
+    "chunk_start_word": 4500,
+    "chunk_text_preview": "for countries located far from the origin: costs and/or benefits in that case are a large proportion of their GDP , and the consequences of making mistakes in the estimation of the policy\u2019s components..."
+  },
+  {
+    "doc_id": "doc_006",
+    "filename": "Cost-Benefits of Climate Change",
+    "document_type": "legislation",
+    "year": "2013",
+    "chunk_index": 56,
+    "chunk_start_word": 4950,
+    "chunk_text_preview": "650 ppm). For sure, the model we used is a stylized one and its parameter values are quite uncertain. Yet the gist of our conclusion is less in the absolute numbers t hemselves than in the virtues of ..."
+  },
+  {
+    "doc_id": "doc_006",
+    "filename": "Cost-Benefits of Climate Change",
+    "document_type": "legislation",
+    "year": "2013",
+    "chunk_index": 57,
+    "chunk_start_word": 5400,
+    "chunk_text_preview": "J. -P. (2010), \u201cThe impact of the unilateral EU commitment on the stability of international climate agreements.\u201d Climate Policy 10: 148- 166. Br\u00e9chet, T. , Gerard, F. and Tulkens, H. (2011). \u201cEfficie..."
+  },
+  {
+    "doc_id": "doc_007",
+    "filename": "Countries Leading Energy Transition",
+    "document_type": "legislation",
+    "year": "2024",
+    "chunk_index": 58,
+    "chunk_start_word": 0,
+    "chunk_text_preview": "PRESS RELEASE Where leading countries stand in the transition to renewable heating, road transport and electricity The sluggish rate of progress made in the energy transition is putting the goal of re..."
+  },
+  {
+    "doc_id": "doc_007",
+    "filename": "Countries Leading Energy Transition",
+    "document_type": "legislation",
+    "year": "2024",
+    "chunk_index": 59,
+    "chunk_start_word": 450,
+    "chunk_text_preview": "expansion of distribution grids and electricity storage capaci- ties, as well as a better alignment of transmission network goals. Denmark, should it continue along its current trajectory, could achie..."
+  },
+  {
+    "doc_id": "doc_007",
+    "filename": "Countries Leading Energy Transition",
+    "document_type": "legislation",
+    "year": "2024",
+    "chunk_index": 60,
+    "chunk_start_word": 900,
+    "chunk_text_preview": "levels. Additional information: The study \u201cAssessing Zero -Emissions Energy Transitions: A Systemic View\u201d study by Bersalli, G., Brien, L., Gottheit, D., Lilliestam, J. features a theory -driven appro..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 61,
+    "chunk_start_word": 0,
+    "chunk_text_preview": "Contents lists available at ScienceDirect Environmental Innovation and Societal Transitions journal homepage: Original Research Paper The economics of transition pathways: A proposed taxonomy and a po..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 62,
+    "chunk_start_word": 450,
+    "chunk_text_preview": "I focus on the economic dimension of transitions which enables the study of broader (macro)economic consequences (e.g. transition costs and disruptions in the market structure). Competing technologies..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 63,
+    "chunk_start_word": 900,
+    "chunk_text_preview": "(policy) experiments and to facilitate the societal and scientific discourse (Holtz et al., 2015; Moallemi and de Haan, 2019). This study may improve the economic understanding of transition pathways,..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 64,
+    "chunk_start_word": 1350,
+    "chunk_text_preview": "94-113 2. Diverse pathways of transition - empirical stylized facts Here, I introduce four stylized facts (SF) about the techno-economic dimension of transitions based on the empirical literature. At ..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 65,
+    "chunk_start_word": 1800,
+    "chunk_text_preview": "were fair competitors. Cumulative learning, infrastructural, regulatory adjustments and the evolution of consumer habits and norms contributed to the emergence of a fossil fuel-based technological reg..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 66,
+    "chunk_start_word": 2250,
+    "chunk_text_preview": "of resources and the environment, that became part of the political agenda. Prices, political support and regulation were key drivers of a new surge of entrepreneurial and innovative activities in RET..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 67,
+    "chunk_start_word": 2700,
+    "chunk_text_preview": "new technologies require different types of knowledge and if the pre-requisites to acquire the relevant knowledge are low, the market is characterized volatile entry-exit dynamics. Changes in the mark..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 68,
+    "chunk_start_word": 3150,
+    "chunk_text_preview": "with emerging niche technologies and to adapt to landscape pressure. Regime actors are e.g. firms, consumers and interest groups who have vested interests in preserving the incumbent technology. The a..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 69,
+    "chunk_start_word": 3600,
+    "chunk_text_preview": "Nieuwenhuis, 2012).Interactive propertiesinfluence the relative pace of accumulation of stock variables (pace of specialization). This is reflected in the relative realized performance of competingtec..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 70,
+    "chunk_start_word": 4050,
+    "chunk_text_preview": "on these markets and exchange goods, labor and information. Heterogeneous firms produce a final consumption good that is offered on the goods market. Households supply labor to firms. Their wage incom..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 71,
+    "chunk_start_word": 4500,
+    "chunk_text_preview": "affect the price of the resource input required to operate the regime technology ( Firms, indexed by i , invest in capital that is accumulated as stock. Firms\u2019 capital stock is composed of a range of ..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 72,
+    "chunk_start_word": 4950,
+    "chunk_text_preview": "productivity gap of green capital b Initial skill gap for green technology use Aggregate indicators t Aggregate diffusion curve/ share of capital goods of type used in t =tAg tV Ac tV, , Relative prod..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 73,
+    "chunk_start_word": 5400,
+    "chunk_text_preview": "accumulation of knowledge. This is leads to the divergence of relative stocks. Interactive variables are given by the spillover intensity dist and returns to specialization int in LBD. Both affect the..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 74,
+    "chunk_start_word": 5850,
+    "chunk_text_preview": "diffusion (cf. Arundel and Kemp, 2009; Triguero et al., 2013). Diffusion barriers are implemented as a factor A ( b) that scales down the initial productivity (skill level) of the entrant, i.e. = A A ..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 75,
+    "chunk_start_word": 6300,
+    "chunk_text_preview": "the stability of the transition. It is illustrated in Fig. 2b. The switching behavior is costly because learning and R&D resources are wasted for a technology type that is obsolete in the long run.8 5..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 76,
+    "chunk_start_word": 6750,
+    "chunk_text_preview": "to a shift in consumer attitudes reflected in a higher willingness to pay for green products.Table 3 Stylized facts as design and validation criteria. Macroeconomicstylizedfacts: Growth rates: Quantit..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 77,
+    "chunk_start_word": 7200,
+    "chunk_text_preview": "210 simulations \u00e0 15,000 iterations is run. The levels of diffusion barriers, learning parameters and policy rates are drawn independently at random from uniform distributions of predetermined interva..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 78,
+    "chunk_start_word": 7650,
+    "chunk_text_preview": "t is the standard deviation of tc computed over 2.5 years. 9An aggregate value of 0.30 means that, on average, 30% of capital goods that are used for production at time t are conventional and the rema..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 79,
+    "chunk_start_word": 8100,
+    "chunk_text_preview": "reinforces the specialization in conventional technology (cf. rows (2) and (17)). The duration until stabilization t*i is differently affected by different policies and the effect differs across regim..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 80,
+    "chunk_start_word": 8550,
+    "chunk_text_preview": "factors that are not related to productivity, e.g. variable input costs,Table 4 Regression of transition pathways on technology characteristics. Dependent variable ic ic t*i +* Ai Ai +* Bi Bi ( )i2 OL..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 81,
+    "chunk_start_word": 9000,
+    "chunk_text_preview": "stock until it is depreciated or taken out of use. The tax compensates for this disadvantage over the full life time of a green capital good. The permanent compensation may explain why the tax is asso..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 82,
+    "chunk_start_word": 9450,
+    "chunk_text_preview": "unemployment which indicates a qualitative difference to the uncertainty-employment trade-off. Technological uncertainty is a coordination failure. It undermines aggregate productivity growth while in..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 83,
+    "chunk_start_word": 9900,
+    "chunk_text_preview": "avalanche-like landscape pressure causes the de-alignment of regime actors\u2019 activities and multiple, emergent niches incrementallyalign their activities to form a new regime, (3) technological substit..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 84,
+    "chunk_start_word": 10350,
+    "chunk_text_preview": "existing know-how renders obsolete and is gradually replaced by a new type, i.e. when technological knowledge is very dissimilar, but easy and quick to learn. A highly volatile diffusion pattern assoc..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 85,
+    "chunk_start_word": 10800,
+    "chunk_text_preview": "of the process of technology replacement, but also the evaluation of broader macroeconomic consequences of technology transitions. The agent-based methodology enables the simulation of non-linear feed..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 86,
+    "chunk_start_word": 11250,
+    "chunk_text_preview": "technology-type is conventional c and zero if it is green g . Employees work with capital goods in a Leontief fashion. To make effective use of the theoretical productivity Av of a specific vintage, e..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 87,
+    "chunk_start_word": 11700,
+    "chunk_text_preview": "tg, , , theshareof capitaloftype thatisusedincurrentproduction. Kl t, istheamountofcapitalgoodsoftype =c g, thatisusedbythefirmwhere l is working. Technology-specific skills bl t, are updated in discr..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 88,
+    "chunk_start_word": 12150,
+    "chunk_text_preview": "such that a balanced sample of green and lock-in regimes is obtained. The levels are the same as used in the benchmark scenario introduced above I.1 and in a preceding study on the role of diffusion b..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 89,
+    "chunk_start_word": 12600,
+    "chunk_text_preview": "6.9e-10 b .0524 (.0280) .0488 (.0276) .0609 (.0272) .0033 int .9923 (.5687) .9934 (.5741) .9899 (.5605) .9624 dist .4868 (.2873) .4903 (.2849) .4784 (.295) .8429 The columns show mean (standard deviat..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 90,
+    "chunk_start_word": 13050,
+    "chunk_text_preview": "in Sustainability Transitions. In: Geels, F., Kemp, R., Dudley, G., Lyons, G. (Eds.), Automobility in transition? A socio-technical analysis of sustainable transport. Routledge. volume part 2. Automob..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 91,
+    "chunk_start_word": 13500,
+    "chunk_text_preview": "63-71. 2007.11.001. Huang, J.J., et al., 2018. Technology Network, Innovation and Growth. Society for Economic Dynamics Meeting Papers No. 178. IPCC, 2018. Summary for Policymakers. In: Masson-Delmott..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 92,
+    "chunk_start_word": 13950,
+    "chunk_text_preview": "World: Trends in Working Hours, Laws, and Policies in a Global Comparative Perspective. Routledge. Metcalfe, J., 1988. The diffusion of innovations: an interpretive study. In: Dosi, G., Freeman, C., N..."
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "Economics of Transition Pathways",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 93,
+    "chunk_start_word": 14400,
+    "chunk_text_preview": "L.,Davia,M.A.,2013.Driversof differenttypesofeco-innovationinEuropeanSMEs.Ecol.Econ.92,25-33. j.ecolecon.2013.04.009. Tushman, M.L., Anderson, P., 1986. Technological discontinuities and organizationa..."
+  },
+  {
+    "doc_id": "doc_009",
+    "filename": "Energy Transitions in China and Germany",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 94,
+    "chunk_start_word": 0,
+    "chunk_text_preview": "EnergyReports5(2019)1249-1260 Contents lists available at ScienceDirect EnergyReports journal homepage: Reviewarticle ComparingtheenergytransitionsinGermanyandChina:Synergies andrecommendations ChengC..."
+  },
+  {
+    "doc_id": "doc_009",
+    "filename": "Energy Transitions in China and Germany",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 95,
+    "chunk_start_word": 450,
+    "chunk_text_preview": "Energiewende(Gabriel,2014). 1.2. Milestone TheEnergiewendecanbetakenasaseriesoffederallaws thatbuildoneachother,eachoneadaptingtocurrentrealities whilemaintainingfocusonthelong-termvision.Withthesup- ..."
+  },
+  {
+    "doc_id": "doc_009",
+    "filename": "Energy Transitions in China and Germany",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 96,
+    "chunk_start_word": 900,
+    "chunk_text_preview": "2017a), which repre- sents the basic outline of China\u2019s energy policy from 2016 to 2020.Inparticular,itsetsthefirstevermandatorycoalcap,and showsthecommitmentofgovernmenttocutcoal\u2019sshareinthe country\u2019..."
+  },
+  {
+    "doc_id": "doc_009",
+    "filename": "Energy Transitions in China and Germany",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 97,
+    "chunk_start_word": 1350,
+    "chunk_text_preview": "end by 2050 if we wanttoachievetheemissionsreductionsneededtolimitglobal warming to 1.5\u25e6C (IPCC, 2018). Coal phase-out implies sev- eralinterlinkedpolicies,includingtheshut-downofcoalmines, an exit fr..."
+  },
+  {
+    "doc_id": "doc_009",
+    "filename": "Energy Transitions in China and Germany",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 98,
+    "chunk_start_word": 1800,
+    "chunk_text_preview": "tosteerinvestmentsintherightdirectionandtriggerachange inconsumerbehaviorinbothcountries.Legislating,taxationand feed-intariff,arewidelyconsideredasdrivingforcesbymany countriesasimportantapproachesto..."
+  },
+  {
+    "doc_id": "doc_009",
+    "filename": "Energy Transitions in China and Germany",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 99,
+    "chunk_start_word": 2250,
+    "chunk_text_preview": "accessed on202018. Gabriel,S.,2014.EEG-Reform-MitallenBeteiligtenredenunddasGemeinwohl in den Mittelpunkt stellen. Available online: energien.de/EE/Redaktion/DE/Videos/2014_01_21_rede_gabriel_ jahrest..."
+  },
+  {
+    "doc_id": "doc_010",
+    "filename": "EU Green Deal",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 100,
+    "chunk_start_word": 0,
+    "chunk_text_preview": "EN EN EUROPEAN COMMISSION Brussels, 11.12.2019 COM(2019) 640 final COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE EUROPEAN COUNCIL, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COM..."
+  },
+  {
+    "doc_id": "doc_010",
+    "filename": "EU Green Deal",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 101,
+    "chunk_start_word": 450,
+    "chunk_text_preview": "change and biodiversity loss are global and are not limited by national borders. The EU can use its influence, expertise and financial resources to mobilise its neighbours and partner s to join it on ..."
+  },
+  {
+    "doc_id": "doc_010",
+    "filename": "EU Green Deal",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 102,
+    "chunk_start_word": 900,
+    "chunk_text_preview": "uction and consumption, large -scale infrastructure, transport, food and agriculture, construction, taxation and social benefits. To achieve these aims, it is essential to increase the value given to ..."
+  },
+  {
+    "doc_id": "doc_010",
+    "filename": "EU Green Deal",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 103,
+    "chunk_start_word": 1350,
+    "chunk_text_preview": "greenhouse gas emissions reductions, the Commission will, by June 2021, review and propose to revise where necessary, all relevant climate -related policy 5 A Clean Planet for all - A European strateg..."
+  },
+  {
+    "doc_id": "doc_010",
+    "filename": "EU Green Deal",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 104,
+    "chunk_start_word": 1800,
+    "chunk_text_preview": "public and private investments , including on nature -based solutions. It will be important to ensure that across the EU, investors, insurers, businesses, cities and citizens are able to access data a..."
+  },
+  {
+    "doc_id": "doc_010",
+    "filename": "EU Green Deal",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 105,
+    "chunk_start_word": 2250,
+    "chunk_text_preview": "wind production will be essential, building on regional cooperation between Member States. The smart integration of renewables, energy efficiency and other sustainable solutions across sectors will he..."
+  },
+  {
+    "doc_id": "doc_010",
+    "filename": "EU Green Deal",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 106,
+    "chunk_start_word": 2700,
+    "chunk_text_preview": "finally disposed of as waste or emissions. Only 12% of the materials it uses come from recycling14. The transition is an opportunity to expand sustainable and job -intensive economic activity . There ..."
+  },
+  {
+    "doc_id": "doc_010",
+    "filename": "EU Green Deal",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 107,
+    "chunk_start_word": 3150,
+    "chunk_text_preview": "economy action plan will also include measures to encourage businesses to offer, and to allow consumers to choose, reusable, durable and repairable products. It will analyse the need for a \u2018right to r..."
+  },
+  {
+    "doc_id": "doc_010",
+    "filename": "EU Green Deal",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 108,
+    "chunk_start_word": 3600,
+    "chunk_text_preview": "-requisites to make this transition happen. EU industr y needs \u2018climate and resource frontrunners\u2019 to develop the first commercial applications of breakthrough technologies in key industrial sectors b..."
+  },
+  {
+    "doc_id": "doc_010",
+    "filename": "EU Green Deal",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 109,
+    "chunk_start_word": 4050,
+    "chunk_text_preview": "Member States. This rate will need at least to double to reach the EU\u2019s energy efficiency and climate objectives. In parallel, 50 million consumers struggle to keep their homes adequately warm. To add..."
+  },
+  {
+    "doc_id": "doc_010",
+    "filename": "EU Green Deal",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 110,
+    "chunk_start_word": 4500,
+    "chunk_text_preview": "rail, aviation, and waterborne transport will all have to contribute to the reduction. Achieving sustainable transport means putting users first and providing them with more affordable, accessible, he..."
+  },
+  {
+    "doc_id": "doc_010",
+    "filename": "EU Green Deal",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 111,
+    "chunk_start_word": 4950,
+    "chunk_text_preview": "if necessary and to propose alternative measures. The EU should in parallel ramp -up the production and deployment of sustainable alternative tran sport fuels. By 2025, about 1 million public rechargi..."
+  },
+  {
+    "doc_id": "doc_010",
+    "filename": "EU Green Deal",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 112,
+    "chunk_start_word": 5400,
+    "chunk_text_preview": "a directive amending Directive 1999/62/EC on the charging of heavy goods vehicles for the use of certain infrastructure COM(2017) 275 20 Directive 2014/94/EU on the deployment of alternative fuels inf..."
+  },
+  {
+    "doc_id": "doc_010",
+    "filename": "EU Green Deal",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 113,
+    "chunk_start_word": 5850,
+    "chunk_text_preview": "contribute to achieving a circular economy. It will aim to reduce the environmental impact of the food processing and retail sectors by taking action on transport, storage, packaging and food waste. T..."
+  },
+  {
+    "doc_id": "doc_010",
+    "filename": "EU Green Deal",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 114,
+    "chunk_start_word": 6300,
+    "chunk_text_preview": "and restore more effectively the areas covered by the Natura 2000 network. The Commissio n will identify which measures, including legislation, would help Member States improve and restore damaged eco..."
+  },
+  {
+    "doc_id": "doc_010",
+    "filename": "EU Green Deal",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 115,
+    "chunk_start_word": 6750,
+    "chunk_text_preview": "attention to n ature -based solutions including healthy and resilient seas and oceans. The Commission will analyse the findings of the International Panel on Climate Change special report on oceans24 ..."
+  },
+  {
+    "doc_id": "doc_010",
+    "filename": "EU Green Deal",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 116,
+    "chunk_start_word": 7200,
+    "chunk_text_preview": "will present a chemicals strategy for sustainability. This will both help to protect citizens and the environment better against hazardous chemic als and encourage innovation for the development of sa..."
+  },
+  {
+    "doc_id": "doc_010",
+    "filename": "EU Green Deal",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 117,
+    "chunk_start_word": 7650,
+    "chunk_text_preview": "nal promotional banks and institutions, which can encourage an overall greening of their activities to deliver on EU policy objectives. 27 Communication \u201cUnited in delivering the Energy Union and Clim..."
+  },
+  {
+    "doc_id": "doc_010",
+    "filename": "EU Green Deal",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 118,
+    "chunk_start_word": 8100,
+    "chunk_text_preview": "sectors, or energy -efficient housing. The Commission will work with the Member States and regions to help them put in place territorial transition plans. The mechanism will come in addition to the su..."
+  },
+  {
+    "doc_id": "doc_010",
+    "filename": "EU Green Deal",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 119,
+    "chunk_start_word": 8550,
+    "chunk_text_preview": "could be done via clear labels for retail investment products and by developing an EU green bond standard that facilitates sustainable investment in the most convenient way. Third, climate and environ..."
+  },
+  {
+    "doc_id": "doc_010",
+    "filename": "EU Green Deal",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 120,
+    "chunk_start_word": 9000,
+    "chunk_text_preview": "in particular those that are most polluting, ensuring a l evel-playing field in the internal market. These revisions are also an opportunity to address market barriers to the deployment of clean produ..."
+  },
+  {
+    "doc_id": "doc_010",
+    "filename": "EU Green Deal",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 121,
+    "chunk_start_word": 9450,
+    "chunk_text_preview": "manage environmental disasters. To do this, the Commissi on will bring together European scientific and industrial excellence to develop a very high precision digital model of the Earth. 19 2.2.4. Act..."
+  },
+  {
+    "doc_id": "doc_010",
+    "filename": "EU Green Deal",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 122,
+    "chunk_start_word": 9900,
+    "chunk_text_preview": "explanatory memorandum accompanying all legislative proposals and delegated acts will include a specific section explaining how each initiative upholds this principle. 29 \u2018Have Your Say - Lighten the ..."
+  },
+  {
+    "doc_id": "doc_010",
+    "filename": "EU Green Deal",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 123,
+    "chunk_start_word": 10350,
+    "chunk_text_preview": "fully effective if the EU\u2019s immediate neighbourhood also takes effective action. Work is underway on a green agenda for the We stern Balkans. The Commission and the High Representative are also envisa..."
+  },
+  {
+    "doc_id": "doc_010",
+    "filename": "EU Green Deal",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 124,
+    "chunk_start_word": 10800,
+    "chunk_text_preview": "including in the context of the Common Security and Defence Policy. Trade policy can support the EU\u2019s ecological transition. It serves as a platform to engage with trading partners on climate and envi..."
+  },
+  {
+    "doc_id": "doc_010",
+    "filename": "EU Green Deal",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 125,
+    "chunk_start_word": 11250,
+    "chunk_text_preview": "Neighbourhood, Development and International Cooperation Instrument proposes to allocate a target of 25% of its budget to climate -related objectives. The Commission will also support the commitment m..."
+  },
+  {
+    "doc_id": "doc_010",
+    "filename": "EU Green Deal",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 126,
+    "chunk_start_word": 11700,
+    "chunk_text_preview": "urban dimension of cohesion policy will be strengthened, and the proposed European Urban Initiative will provide assistance to cities to help them make best use of opportuniti es to develop sustainabl..."
+  },
+  {
+    "doc_id": "doc_010",
+    "filename": "EU Green Deal",
+    "document_type": "strategy",
+    "year": "2019",
+    "chunk_index": 127,
+    "chunk_start_word": 12150,
+    "chunk_text_preview": "who have concerns about the legality of decisions with effects on the environment . The Commission will also take action to improve their access to justice before national courts in all Member States...."
+  },
+  {
+    "doc_id": "doc_011",
+    "filename": "EU Hydrogen Strategy",
+    "document_type": "strategy",
+    "year": "2020",
+    "chunk_index": 128,
+    "chunk_start_word": 0,
+    "chunk_text_preview": "Authors: Dr. Martin Menner and Dr. G\u00f6tz Reichert | cep | Kaiser -Joseph -Strasse 266 | 79098 Freiburg | Telephone +49 (0)761 38693 -107 | 1 EU Communication EU HYDROGEN STRATEGY cepPolicyBrief No. 202..."
+  },
+  {
+    "doc_id": "doc_011",
+    "filename": "EU Hydrogen Strategy",
+    "document_type": "strategy",
+    "year": "2020",
+    "chunk_index": 129,
+    "chunk_start_word": 450,
+    "chunk_text_preview": "[p. 3] is produced from water. In the production of H 2 by way of electricity - powered electrolysis using special facilities (\u201celec trolysers\u201d), no additional CO 2 is produced. - \u201cBiogenic\u201d hydrogen ..."
+  },
+  {
+    "doc_id": "doc_011",
+    "filename": "EU Hydrogen Strategy",
+    "document_type": "strategy",
+    "year": "2020",
+    "chunk_index": 130,
+    "chunk_start_word": 900,
+    "chunk_text_preview": "production and facilitate the use of hydrogen in industrial processes and for heavy -duty long -distance transp ort [p. 5]. - In order to ramp up production, also electricity -based \u201clow -carbon\u201d hydr..."
+  },
+  {
+    "doc_id": "doc_011",
+    "filename": "EU Hydrogen Strategy",
+    "document_type": "strategy",
+    "year": "2020",
+    "chunk_index": 131,
+    "chunk_start_word": 1350,
+    "chunk_text_preview": "demand\u201d for hydrogen, the Commission will - explore \u201cpolicie s\u201d \u201cbuilding on the provisions\u201d of the recast Renewable Energy Directive [(EU) 2018/2001; see cepInput 01/2019 ]; these include credit ing ..."
+  },
+  {
+    "doc_id": "doc_011",
+    "filename": "EU Hydrogen Strategy",
+    "document_type": "strategy",
+    "year": "2020",
+    "chunk_index": 132,
+    "chunk_start_word": 1800,
+    "chunk_text_preview": "(leading) ASSESSMENT Economic Impact Assessment The target of climate neutrality by 2050 envisaged by the EU, is a major technological and economic challenge. can be most effectively and efficiently a..."
+  },
+  {
+    "doc_id": "doc_011",
+    "filename": "EU Hydrogen Strategy",
+    "document_type": "strategy",
+    "year": "2020",
+    "chunk_index": 133,
+    "chunk_start_word": 2250,
+    "chunk_text_preview": "as airl ines or fuel manufacturers - to pay. The resulting increase in demand may then also lead to an increase in the production of \u201cclean\u201d hydrogen but with genuine economic competition between prov..."
+  },
+  {
+    "doc_id": "doc_011",
+    "filename": "EU Hydrogen Strategy",
+    "document_type": "strategy",
+    "year": "2020",
+    "chunk_index": 134,
+    "chunk_start_word": 2700,
+    "chunk_text_preview": "and also - through the inclusion of neighbouring countries - international approach, proposed by the Commission, increases cost -effectiveness as compared with national hydrogen strategies . This is b..."
+  },
+  {
+    "doc_id": "doc_012",
+    "filename": "EU_Hydrogen_Strategy.pdf",
+    "document_type": "strategy",
+    "year": "2024",
+    "chunk_index": 135,
+    "chunk_start_word": 0,
+    "chunk_text_preview": "A Hydrogen Strategy for a climate neutral Europe #EUGreenDeal The EU Hydrogen Strategy will give a boost to clean hydrogen production in Europe . Hydrogen can be used as a feedstock , a fuel or an ene..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 136,
+    "chunk_start_word": 0,
+    "chunk_text_preview": "Summary for PolicymakersSummary for PolicymakersIntroduction This Synthesis Report (SYR) of the IPCC Sixth Assessment Report (AR6) summarises the state of knowledge of climate change, its widespread i..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 137,
+    "chunk_start_word": 450,
+    "chunk_text_preview": "0-5%) are also used when appropriate. Assessed likelihood is typeset in italics, e.g., very likely . This is consistent with AR5 and the other AR6 Reports. Summary for Policymakers Summary for Policym..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 138,
+    "chunk_start_word": 900,
+    "chunk_text_preview": "fossil fuels combustion and industrial processes (CO 2-FFI) followed by methane, whereas the highest relative growth occurred in fluorinated gases (F-gases), starting from low levels in 1990. Average ..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 139,
+    "chunk_start_word": 1350,
+    "chunk_text_preview": "CO 2 emissions from land use, land-use change and forestry (CO 2-LULUCF). In 2019, around 35% of the global population live in countries emitting more than 9 tCO 2-eq per capita11 (excluding CO 2-LULU..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 140,
+    "chunk_start_word": 1800,
+    "chunk_text_preview": "globally for Indigenous Peoples, small-scale food producers and low-income households. Between 2010 and 2020, human mortality from floods, droughts and storms was 15 times higher in highly vulnerable ..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 141,
+    "chunk_start_word": 2250,
+    "chunk_text_preview": "driving displacement in Africa, Asia, North America ( high confidence ), and Central and South America ( medium confidence ), with small island states in the Caribbean and South Pacific being dispropo..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 142,
+    "chunk_start_word": 2700,
+    "chunk_text_preview": "ecosystemsOcean ecosystemsa) Observed widespread and substantial impacts and related losses and damages attributed to climate change Con\ufb01dence in attribution to climate change High or very high con\ufb01de..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 143,
+    "chunk_start_word": 3150,
+    "chunk_text_preview": "Current global financial flows for adaptation are insufficient for, and constrain implementation of, adaptation options, especially in developing countries (high confidence ). {2.2, 2.3 } A.3.1 Progre..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 144,
+    "chunk_start_word": 3600,
+    "chunk_text_preview": "the losses or enhance the benefits of natural variations in extreme weather/climate events. {2.3.2 } Summary for PolicymakersSummary for PolicymakersA.3.6 Key barriers to adaptation are limited resour..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 145,
+    "chunk_start_word": 4050,
+    "chunk_text_preview": "and WGII to assess regional climate changes, impacts and risks. In WGIII, a large number of global modelled emissions pathways were assessed, of which 1202 pathways were categorised based on their ass..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 146,
+    "chunk_start_word": 4500,
+    "chunk_text_preview": "overshoot*** C3 limit warming to 2\u00b0C (>67%) C4 limit warming to 2\u00b0C (>50%) C5 limit warming to 2.5\u00b0C (>50%) C6 limit warming to 3\u00b0C (>50%) Intermediate (SSP2-4.5) RCP 4.5 RCP 8.5C7 limit warming to 4\u00b0..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 147,
+    "chunk_start_word": 4950,
+    "chunk_text_preview": "estimated to result in 5.9 GtCO 2-eq yr-1 less emissions in 2016 than they otherwise would have been. (medium confidence ) {2.2.2 } 25 Reductions were linked to energy supply decarbonisation, energy e..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 148,
+    "chunk_start_word": 5400,
+    "chunk_text_preview": "developed ones, due in part to limited finance, technology development and transfer, and capacity ( medium confidence ). The magnitude of climate finance flows has increased over the last decade and f..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 149,
+    "chunk_start_word": 5850,
+    "chunk_text_preview": "Global warming declines back to below 1.5\u00b0C by the end of the 21st century in some scenarios and modelled pathways (see B.7). The assessed climate response to GHG emissions scenarios results in a best..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 150,
+    "chunk_start_word": 6300,
+    "chunk_text_preview": "lies in the first half of the 2030s. In the very high GHG emissions scenario, the midpoint is in the late 2020s. {3.1.1, 3.3.1, 4.3 } (Box SPM.1 ) 30 The best estimates [and very likely ranges] for th..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 151,
+    "chunk_start_word": 6750,
+    "chunk_text_preview": "Antarctic Ice Sheets, and Arctic sea ice. 35 Based on 2500-year reconstructions, eruptions with a radiative forcing more negative than -1 W m-2, related to the radiative effect of volcanic stratospher..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 152,
+    "chunk_start_word": 7200,
+    "chunk_text_preview": "long-term impacts are up to multiple times higher than currently observed (high confidence ). Risks and projected adverse impacts and related losses and damages from climate change escalate with every..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 153,
+    "chunk_start_word": 7650,
+    "chunk_text_preview": "insecurity and supply instability, for example, are projected to increase with increasing global warming, interacting with non-climatic risk drivers such as competition for land between urban expansio..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 154,
+    "chunk_start_word": 8100,
+    "chunk_text_preview": "+20 +30 +35% +10 +3 +25 +151 0 days 300 100 200 10 150 250 50 365 days0.1 0% 80 10 40 1 20 60 5 100% Areas with model disagreementExamples of impacts without additional adaptation 2.4 - 3.1\u00b0C 4.2 - 5...."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 155,
+    "chunk_start_word": 8550,
+    "chunk_text_preview": "losses as indicated by the percentage of assessed species exposed to potentially dangerous temperature conditions, as defined by conditions beyond the estimated historical (1850-2005) maximum mean ann..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 156,
+    "chunk_start_word": 9000,
+    "chunk_text_preview": "Undetectable\u2022 \u2022\u2022\u2022\u2022\u2022 \u2022\u2022\u2022\u2022Transition range \u00b0C\u00b0C Permafrost degradation\u2022\u2022\u2022 \u2022\u2022\u2022 \u2022\u2022 e.g. increase in the length of \ufb01re seasone.g. over 100 million additional people exposed0 -1 1950 2000 2015 20501234 Reso..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 157,
+    "chunk_start_word": 9450,
+    "chunk_text_preview": "level change in centimetres, relative to 1900. The historical changes (black) are observed by tide gauges before 1992 and altimeters afterwards. The future changes to 2100 (coloured lines and shading)..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 158,
+    "chunk_start_word": 9900,
+    "chunk_text_preview": "). Sea level rise is unavoidable for centuries to millennia due to continuing deep ocean warming and ice sheet melt, and sea levels will remain elevated for thousands of years (high confidence ). Howe..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 159,
+    "chunk_start_word": 10350,
+    "chunk_text_preview": "co-benefits to many sectors and systems. ( high confidence ) {3.2, 4.1, 4.2, 4.3 } B.4.1 The effectiveness of adaptation, including ecosystem-based and most water-related options, will decrease with i..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 160,
+    "chunk_start_word": 10800,
+    "chunk_text_preview": "removal (CDR) will be necessary to achieve net negative CO 2 emissions (see B.6). Net zero GHG emissions, if sustained, are projected to result in a gradual decline in global surface temperatures afte..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 161,
+    "chunk_start_word": 11250,
+    "chunk_text_preview": "limit global warming to 2\u00b0C (central estimate about 3550 GtCO 2). {3.3.1, Figure 3.5 } Mitigation Pathways B.6 All global modelled pathways that limit warming to 1.5\u00b0C (>50%) with no or limited oversh..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 162,
+    "chunk_start_word": 11700,
+    "chunk_text_preview": "reductions in gross emissions of CO 2, as well as substantial reductions of non-CO 2 GHG emissions ( high confidence ). For example, in modelled pathways that limit warming to 1.5\u00b0C (>50%) with no or ..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 163,
+    "chunk_start_word": 12150,
+    "chunk_text_preview": "critical mitigation option. The technical geological storage capacity is estimated to be on the order of 1000 GtCO 2, which is more than the CO 2 storage requirements through 2100 to limit global warm..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 164,
+    "chunk_start_word": 12600,
+    "chunk_text_preview": "development of global GHG, CO 2 and methane emissions in modelled pathways, while panel (d) shows the associated timing of when GHG and CO 2 emissions reach net zero. Coloured ranges denote the 5th to..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 165,
+    "chunk_start_word": 13050,
+    "chunk_text_preview": "wildfires, mass mortality of trees, drying of peatlands, and permafrost thawing, weakening natural land carbon sinks and increasing releases of GHGs would make the return more challenging ( medium con..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 166,
+    "chunk_start_word": 13500,
+    "chunk_text_preview": "national and international levels, with civil society and the private sector, play a crucial role in enabling and accelerating shifts in development pathways towards sustainability and climate resilie..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 167,
+    "chunk_start_word": 13950,
+    "chunk_text_preview": "reductions are delayed, the fewer effective adaptation options. { Figure 4.2, 3.1, 3.2, 3.4, 4.2, 4.4, 4.5, 4.6, 4.9 } The Benefits of Near-Term Action C.2 Deep, rapid, and sustained mitigation and ac..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 168,
+    "chunk_start_word": 14400,
+    "chunk_text_preview": "systems will reach adaptation limits. Challenges from delayed adaptation and mitigation actions include the risk of cost escalation, lock-in of infrastructure, stranded assets, and reduced feasibility..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 169,
+    "chunk_start_word": 14850,
+    "chunk_text_preview": "assessment makes reference to Latin America. Mexico is considered part of Latin America and the Caribbean for WGIII. 50 The evidence is too limited to make a similar robust conclusion for limiting war..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 170,
+    "chunk_start_word": 15300,
+    "chunk_text_preview": "FOOD HEALTH SETTLEMENTS AND INFRASTRUCTURESOCIETY, LIVELIHOOD AND ECONOMY INDUSTRY AND WASTE 20 10 020 10 0 ElectricityLand transport Buildings IndustryFood 67% 66% 29% 44% 73% reduction (before addit..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 171,
+    "chunk_start_word": 15750,
+    "chunk_text_preview": "of socio-cultural factors and infrastructure use, and changes in land-use patterns enabled by change in food demand. Demand-side measures and new ways of end-use service provision can reduce global GH..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 172,
+    "chunk_start_word": 16200,
+    "chunk_text_preview": "). There are feasible adaptation options that support infrastructure resilience, reliable power systems and efficient water use for existing and new energy generation systems (very high confidence ). ..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 173,
+    "chunk_start_word": 16650,
+    "chunk_text_preview": "low emissions sources ( high confidence ). Urban transitions that offer benefits for mitigation, adaptation, human health and well- being, ecosystem services, and vulnerability reduction for low-incom..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 174,
+    "chunk_start_word": 17100,
+    "chunk_text_preview": "and seeds, and animal-sourced food produced in resilient, sustainable and low-GHG emission systems, as described in SRCCL. Summary for Policymakers Summary for Policymakersocean ecosystems, together w..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 175,
+    "chunk_start_word": 17550,
+    "chunk_text_preview": "Synergies and trade-offs depend on context and scale of implementation. (high confidence ) {3.4, 4.2, 4.4, 4.5, 4.6, 4.9, Figure 4.5 } C.4.1 Mitigation efforts embedded within the wider development co..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 176,
+    "chunk_start_word": 18000,
+    "chunk_text_preview": "UN climate regime, notwithstanding shifts in differentiation between states over time and challenges in assessing fair shares. Ambitious mitigation pathways imply large and sometimes disruptive change..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 177,
+    "chunk_start_word": 18450,
+    "chunk_text_preview": "and worldviews, toward equitable and just outcomes. ( high confidence ) {2.1, 4.4 } Summary for Policymakers Summary for PolicymakersGovernance and Policies C.6 Effective climate action is enabled by ..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 178,
+    "chunk_start_word": 18900,
+    "chunk_text_preview": "economically vulnerable groups which, in some cases can be mitigated by measures such as redistributing revenue saved, all of which depend on national circumstances ( high confidence ). Economy-wide p..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 179,
+    "chunk_start_word": 19350,
+    "chunk_text_preview": "need for financial, technical, and human resources for adaptation ( high confidence ). {4.3, 4.8.1 } C.7.3 There is sufficient global capital and liquidity to close global investment gaps, given the s..."
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "IPCC Report",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 180,
+    "chunk_start_word": 19800,
+    "chunk_text_preview": "types). 56 These estimates rely on scenario assumptions. Summary for Policymakers Summary for Policymakerssupport training and R&D, complemented by both regulatory and market-based instruments that cr..."
+  },
+  {
+    "doc_id": "doc_014",
+    "filename": "Policies Affecting Carbon Emissions",
+    "document_type": "legislation",
+    "year": "2021",
+    "chunk_index": 181,
+    "chunk_start_word": 0,
+    "chunk_text_preview": "202 1 October 2021 Effects of Carbon Pricing and Other Climate Policies on CO 2 Emissions Emanuel Kohlscheen, Richhild Moessner, El \u0151d Tak\u00e1ts Impressum: CESifo Working Papers ISSN 2364- 1428 (electron..."
+  },
+  {
+    "doc_id": "doc_014",
+    "filename": "Policies Affecting Carbon Emissions",
+    "document_type": "legislation",
+    "year": "2021",
+    "chunk_index": 182,
+    "chunk_start_word": 450,
+    "chunk_text_preview": "2008 ). To be consistent with global emission s that limit an overshoot of the goal from the Paris agreement of 1.5\u00b0C global warming above pre -industrial levels , global net anthropogenic CO 2 emissi..."
+  },
+  {
+    "doc_id": "doc_014",
+    "filename": "Policies Affecting Carbon Emissions",
+    "document_type": "legislation",
+    "year": "2021",
+    "chunk_index": 183,
+    "chunk_start_word": 900,
+    "chunk_text_preview": "the long run . The magnitude of this effect however varies more across specifications and is statistically significant in five out of nine specifications ( with p-values below 0.05). Further, m ore st..."
+  },
+  {
+    "doc_id": "doc_014",
+    "filename": "Policies Affecting Carbon Emissions",
+    "document_type": "legislation",
+    "year": "2021",
+    "chunk_index": 184,
+    "chunk_start_word": 1350,
+    "chunk_text_preview": "that i n most cases, studies have estimated emissions reductions in the sectors covered by the carbon pricing policy, although some extrapolate to broader jurisdictional effects (eg Murray and Manilof..."
+  },
+  {
+    "doc_id": "doc_014",
+    "filename": "Policies Affecting Carbon Emissions",
+    "document_type": "legislation",
+    "year": "2021",
+    "chunk_index": 185,
+    "chunk_start_word": 1800,
+    "chunk_text_preview": "carbon price.3 The effects of macroeconomic variables on carbon emissions have been studied in Raupach et al (2007 , 2012 ), Sadorsky (2014) , Kasman and Duman (2015) , Menyah and Wolde -Rufael (2010)..."
+  },
+  {
+    "doc_id": "doc_014",
+    "filename": "Policies Affecting Carbon Emissions",
+    "document_type": "legislation",
+    "year": "2021",
+    "chunk_index": 186,
+    "chunk_start_word": 2250,
+    "chunk_text_preview": "tend to emit less (Figure 1). However, there is no definite advanced -emerging economy divide: due to fast economic development many emerging 3 See the review of Green (2021) for further references . ..."
+  },
+  {
+    "doc_id": "doc_014",
+    "filename": "Policies Affecting Carbon Emissions",
+    "document_type": "legislation",
+    "year": "2021",
+    "chunk_index": 187,
+    "chunk_start_word": 2700,
+    "chunk_text_preview": "t he national level as of 2016 Figure 2 Notes: Nominal prices as of 1 April 2016 in $/tCO 2 equivalents . Ukraine has had a carbon tax since 2011, which was above $ 0.01/tCO 2 equivalents from 2011 -2..."
+  },
+  {
+    "doc_id": "doc_014",
+    "filename": "Policies Affecting Carbon Emissions",
+    "document_type": "legislation",
+    "year": "2021",
+    "chunk_index": 188,
+    "chunk_start_word": 3150,
+    "chunk_text_preview": "of stringency of 14 environmental policy instruments, primarily related to climate and air pollution. We conduct several checks of the robustness of our baseline results . In particular, t o contr ol ..."
+  },
+  {
+    "doc_id": "doc_014",
+    "filename": "Policies Affecting Carbon Emissions",
+    "document_type": "legislation",
+    "year": "2021",
+    "chunk_index": 189,
+    "chunk_start_word": 3600,
+    "chunk_text_preview": "policies We first present baseline estimates of our dynamic panel equation (1). The estimation s for the effects of carbon taxes, prices of permits in the ETS and the EPS policy index separately are s..."
+  },
+  {
+    "doc_id": "doc_014",
+    "filename": "Policies Affecting Carbon Emissions",
+    "document_type": "legislation",
+    "year": "2021",
+    "chunk_index": 190,
+    "chunk_start_word": 4050,
+    "chunk_text_preview": "course, the high fraction of variation that is explained by the model is partly related to th is high degree of persistence in CO 2 emissions. This could be a result of strong habit persistence of con..."
+  },
+  {
+    "doc_id": "doc_014",
+    "filename": "Policies Affecting Carbon Emissions",
+    "document_type": "legislation",
+    "year": "2021",
+    "chunk_index": 191,
+    "chunk_start_word": 4500,
+    "chunk_text_preview": "0.0564 0.0592 share of electricity from coal 0.2415*** 0.2348*** 0.2334*** 0.2331*** 0.2640*** 0.0734 0.0720 0.0719 0.0642 0.0747 share of electricity from renewables -0.1836** -0.1831** -0.1589** -0...."
+  },
+  {
+    "doc_id": "doc_014",
+    "filename": "Policies Affecting Carbon Emissions",
+    "document_type": "legislation",
+    "year": "2021",
+    "chunk_index": 192,
+    "chunk_start_word": 4950,
+    "chunk_text_preview": "(II): nominal price ofETS inUSD/tCO2 equivalents; (IV): EPS index. model model with carbon tax model with ETS model with carbon tax and ETSmodel with EPS model with carbon tax, ETS and EPS Finally, we..."
+  },
+  {
+    "doc_id": "doc_014",
+    "filename": "Policies Affecting Carbon Emissions",
+    "document_type": "legislation",
+    "year": "2021",
+    "chunk_index": 193,
+    "chunk_start_word": 5400,
+    "chunk_text_preview": "to2016, annual data. Cluster-robust standard errors reported inbrackets are clustered atthecountry level. ***/**/* denote statistical significance atthe 1%/5%/10% level. (I):real price offirst carbon ..."
+  },
+  {
+    "doc_id": "doc_014",
+    "filename": "Policies Affecting Carbon Emissions",
+    "document_type": "legislation",
+    "year": "2021",
+    "chunk_index": 194,
+    "chunk_start_word": 5850,
+    "chunk_text_preview": "Publishing, Paris. Feng, K, S J Davis, L Sun and K Hubacek (2015) \u201cDrivers of the US CO2 emissions 1997 - 2013\u201d Nature Communications , vol. 6, 7714, doi : 10.1038/ncomms8714. Gonzalez -Sanchez, M and..."
+  },
+  {
+    "doc_id": "doc_014",
+    "filename": "Policies Affecting Carbon Emissions",
+    "document_type": "legislation",
+    "year": "2021",
+    "chunk_index": 195,
+    "chunk_start_word": 6300,
+    "chunk_text_preview": "policy factors \u201d Energy Econ omics , 51, 581-9 . OECD (2021) \u201c Effective Carbon Rates 2021 : Pricing Carbon Emissions through Taxes and Emissions Trading \u201d, 5 May, available at -policy/effective- carb..."
+  },
+  {
+    "doc_id": "doc_014",
+    "filename": "Policies Affecting Carbon Emissions",
+    "document_type": "legislation",
+    "year": "2021",
+    "chunk_index": 196,
+    "chunk_start_word": 6750,
+    "chunk_text_preview": "0.3320** 0.3396** 0.1661 0.1036 0.1419 0.1410 0.1424 0.1875 0.2038 share of electricity from oil 0.1547*** 0.1477*** 0.1547*** 0.1387** 0.1614** 0.0502 0.0490 0.0502 0.0564 0.0592 share of electricity..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 197,
+    "chunk_start_word": 0,
+    "chunk_text_preview": "Contents lists available at ScienceDirect Energy journal homepage: Germany\u2019s Power-to-X policy for climate-neutral transport Ali Ebadi Torkayesha,\u2217,Sandra Venghausa,b aDecision Analysis and Socio-econ..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 198,
+    "chunk_start_word": 450,
+    "chunk_text_preview": "this period, most sectors, such as industry, agriculture, and the building sector, have made progress in reducing their GHG emissions. However, efforts to reduce GHG emissions in the EU\u2019s transport se..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 199,
+    "chunk_start_word": 900,
+    "chunk_text_preview": "in utilizing PtX fuels necessitates the development of new infrastructure, onboard fuel storage, and suitable propulsion systems. In this regard, the broader acceptance and usage of PtX fuels faces ob..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 200,
+    "chunk_start_word": 1350,
+    "chunk_text_preview": "examined PtX fuels and technolo- gies in the EU and Germany [19,20], none have addressed the regu- latory and legal aspects in Germany. Therefore, this study scrutinizes both national and EU policies,..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 201,
+    "chunk_start_word": 1800,
+    "chunk_text_preview": "and common terminology. As PtX fuels emerge as renewable fuel alternatives, various definitions have been proposed for them, often leading to confusion with other sustainable fuels [20,45,51,52]. The ..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 202,
+    "chunk_start_word": 2250,
+    "chunk_text_preview": "into liquid hydrocarbons, such as PtX fuels. Methanol synthesis Methanol synthesis involves converting renewable hydrogen and carbon into methanol through a catalytic process. A mixture of hydrogen an..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 203,
+    "chunk_start_word": 2700,
+    "chunk_text_preview": "initiatives, and proposals (Table A.1). For further analysis ofindustrial projects and current developments in Germany and the EU, the search procedure was correspondingly adopted by using the offi- c..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 204,
+    "chunk_start_word": 3150,
+    "chunk_text_preview": "be conducted to facilitate network mapping of the identified codes, based on their occurrence frequency across similar policy docu- ments. Fig. 1provides a summary of the methodology employed in this ..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 205,
+    "chunk_start_word": 3600,
+    "chunk_text_preview": "one of the main reasons for the emergence of PtX fuels as potential pathways to achieving this goal. Given the ongoing discussions about accelerating efforts to combat climate challenges, the RED III ..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 206,
+    "chunk_start_word": 4050,
+    "chunk_text_preview": "in cleaner technologies and sustainable practices for producing PtX fuels, which will ultimately help to meet EU demand [67]. Recognizing the critical role of hydrogen in the development of PtX fuels,..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 207,
+    "chunk_start_word": 4500,
+    "chunk_text_preview": "and S. Venghaus Table 4 A summary of support schemes within the EU policies on PtX fuels. Policy Targets & Support Schemes References RED III - A minimum share of 42.5% of renewables in total energy c..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 208,
+    "chunk_start_word": 4950,
+    "chunk_text_preview": "waterways and short sea shipping.[62] Hydrogen and Decarbonized Gas Market Package- Proposing revisions on the regulation on natural gas transmission networks, the Directive on common rules for the in..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 209,
+    "chunk_start_word": 5400,
+    "chunk_text_preview": "Germany Germany\u2019s recognition of PtX fuels as one of potential contributions to the energy transition, known as \u2018\u2018Energiewende\u2019\u2019, dates back toEnergy 313 (2024) 134020 A.E. Torkayesh and S. Venghaus t..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 210,
+    "chunk_start_word": 5850,
+    "chunk_text_preview": "Thus, reports emphasize the central role of projects supporting PtX fuels to increase their contribution by 2030, aiming to meet 21% of the overall demand through alternative fuels. Notably, the NPM s..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 211,
+    "chunk_start_word": 6300,
+    "chunk_text_preview": "is integral to PtX, this strategy profoundly shapes PtX\u2019s future in Germany with a target of reaching a minimum capacity of 5 GW electrolysis by 2030. It aims to foster a robust, sustainable domestic ..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 212,
+    "chunk_start_word": 6750,
+    "chunk_text_preview": "for hydrogen projects. - Allocating required financial budgets to the establishment of hydrogen production and refueling facilities.[72] National Hydrogen Strategy- The electrolysis target for produci..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 213,
+    "chunk_start_word": 7200,
+    "chunk_text_preview": "to 2.6% by 2030.[73] PtL Roadmap - Defining a sustainability standard based on various criteria to ensure the sustainable production of PtL fuels. - Suggesting several sustainability criteria consider..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 214,
+    "chunk_start_word": 7650,
+    "chunk_text_preview": "visu- alizes the interrelationship between various elements in the context of policy documents, highlighting the roles of solar and wind power,Energy 313 (2024) 134020 A.E. Torkayesh and S. Venghaus F..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 215,
+    "chunk_start_word": 8100,
+    "chunk_text_preview": "hydrogen and green hydrogen can be attributed to ongoing discussions in German policies, mainly focused on the terms \u2018\u2018e-fuels\u2019\u2019 and \u2018\u2018electricity-based fuels\u2019\u2019. This focus reflects the strategic impo..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 216,
+    "chunk_start_word": 8550,
+    "chunk_text_preview": "subsidies appear to play a less significant role among mar- ket mechanisms, as validated by the content analysis in the previous section. Addressing the challenges within the PtX supply chain and fost..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 217,
+    "chunk_start_word": 9000,
+    "chunk_text_preview": "number of policies (e.g., the RED III). The second resource analyzed is renewable electricity from solar and wind power. According to the coding scheme, policies can be evaluated in different ways. Fi..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 218,
+    "chunk_start_word": 9450,
+    "chunk_text_preview": "Energy Agency) [82], Fraunhofer Institute for Solar Energy Systems (Fraun- hofer ISE) [83], and Fuel Science Center [84] have conducted extensive research into PtX fuels. The International PtX Hub is ..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 219,
+    "chunk_start_word": 9900,
+    "chunk_text_preview": "is primarily observed in hydrogen filling stations, the chemical industry, the steel industry, and ammonia production. The highest hydrogen consumption is recorded in North Rhine-Westphalia (Fig. 4(c)..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 220,
+    "chunk_start_word": 10350,
+    "chunk_text_preview": "in all states. The initial efforts regarding hydrogen initiatives emerged in May 2019 in North Rhine-Westphalia. The first comprehensive hydrogen strategy was launched jointly by the Northern German s..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 221,
+    "chunk_start_word": 10800,
+    "chunk_text_preview": "Innovation Fund, Important Projects of Common European Interest, and Funding for R&D and transport market activation. \u2022Creation of sustainable import infrastructure: Hydrogen core net- work, Hydrogen ..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 222,
+    "chunk_start_word": 11250,
+    "chunk_text_preview": "countries. Four of the most recent partnerships are the Germany-Denmark Hydrogen Network, the Germany-Namibia co- operation for green hydrogen, the Canada-Germany Energy Partnership with a specific fo..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 223,
+    "chunk_start_word": 11700,
+    "chunk_text_preview": "of their po- tential for producing PtX fuels-considering relevant production areas, potential generation volumes, socio-economic support, fuel production costs, and transportation expenses-can signifi..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 224,
+    "chunk_start_word": 12150,
+    "chunk_text_preview": "with a total capacity of 3.61 million tons of oil equivalent, followed by Spain and Portugal. However, for projects specifically dedicated to shipping, Spain and Finland emerge as the leading countrie..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 225,
+    "chunk_start_word": 12600,
+    "chunk_text_preview": "not yet economically viable. Therefore, the German government should consider the economic feasibility of DAC facilities when developing future policies on carbon capture and storage. Moreover, water ..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 226,
+    "chunk_start_word": 13050,
+    "chunk_text_preview": "targets. In Germany, prior to the PtL roadmap, binding PtL subquotas for aviation were introduced within the 37. BImSchV of the GHG reduction quota. While the PtL roadmap provides exclusive regulatory..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 227,
+    "chunk_start_word": 13500,
+    "chunk_text_preview": "frameworks. One of the key policies regulating water sources is the Water Framework Directive, which primarily focuses on protecting and improving the quality of water resources across member states [..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 228,
+    "chunk_start_word": 13950,
+    "chunk_text_preview": "carbon feedstock. Carbon capture through DAC facilities has been suggested as a sustainable method for utiliz- ing carbon in the production of PtX fuels. However, high costs and the early-stage readin..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 229,
+    "chunk_start_word": 14400,
+    "chunk_text_preview": "associated with PtX fuels is related to their production facilities, encompassing electrolyzers, DAC, storage, as well as FT, methanol, and Haber-Bosch synthesizers, providing favor- able conditions f..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 230,
+    "chunk_start_word": 14850,
+    "chunk_text_preview": "current regulatory framework and understand the dynamics influencing PtX fuels in the transport sector, several limitations were identified. The main focus of this study is the comprehensive selection..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 231,
+    "chunk_start_word": 15300,
+    "chunk_text_preview": "examine the environmental and economic impacts of PtX fuels in aviation and maritime transport under different policy scenarios. Finally, the impacts of different blend mandates can be studied to unde..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 232,
+    "chunk_start_word": 15750,
+    "chunk_text_preview": "currently favored due to their lower costs in Ger- many. However, in the long term, the existing policy framework needs to be reconsidered in order to regulate carbon capture and utilization through D..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 233,
+    "chunk_start_word": 16200,
+    "chunk_text_preview": "1 EU ETS 1 EU H2 Strategy 1 Climate Action Plan 2 ESR 1 FuelEU Maritime 1 37. BImSchv 1 EED 1 ReFuelEu Aviation 1 PtL Roadmap 1 EEG 1 Germany H2 Strategy 1 Social Climate Fund 1 ETD 1 SSMS 1 REPowerEU..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 234,
+    "chunk_start_word": 16650,
+    "chunk_text_preview": "RHYME Bavaria Burghausen 2025 20 H2, MeOH bioCONNECT Lemgo 2016 - CH4 Referenzkraftwerk Lausitz (RefLau) Phase ISpremberg 2025 10 H2 Energiepark Mainz Mainz 2015 6 H2 H2-Wyhlen Grenzach- Wyhlen2025 5 ..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 235,
+    "chunk_start_word": 17100,
+    "chunk_text_preview": "REG-Technikum Stuttgart 2011 0.3 CH4 GrinHy 2.0 Salzgitter 2022 0.7 H2 H2Herten Herten 2011 0.2 H2 Green Hydrogen HubLeuna 2022 100 H2 DemoSNG (follow-up plant, 2nd site)Karlsruhe 2011 <0.1 CH4 Energi..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 236,
+    "chunk_start_word": 17550,
+    "chunk_text_preview": "for sustainable fuels and chemicals. (2) Planning a plant for PBtL fuels. (3) Practical testing of PtL production with different renewable electricity sources. CI4C Baden- W\u00fcrttemberg(1) Collaboration..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 237,
+    "chunk_start_word": 18000,
+    "chunk_text_preview": "Locating a PtL demonstration system through involving potential stakeholders. (2) Producing 10,000 tons of kerosene per year by the FT. (3) Using carbon from biogenic sources or DAC.Center for Vertica..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 238,
+    "chunk_start_word": 18450,
+    "chunk_text_preview": "und - versuchsplatt- form ELPSachsen-Anhalt (1) Planning a pilot plant for production of green hydrogen.Raffinerie Heide Schleswig-Holstein (1) Using offshore wind power for producing 600 tons of kero..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 239,
+    "chunk_start_word": 18900,
+    "chunk_text_preview": "transport? Revising policies on electric vehicles informed by stakeholder and technical assessments. Energy Policy 2022;168:113124. [15] Bellocchi S, Manno M, Noussan M, Prina MG, Vellini M. Electrifi..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 240,
+    "chunk_start_word": 19350,
+    "chunk_text_preview": "M\u00f6rs F, Koch AM, Graf F, Bajohr S, Reimert R, Kolb T. Renewable Power-to-Gas: A technological and economic review. Renew Energy 2016;85:1371-90. [33] Thema M, Bauer F, Sterner M. Power-to-Gas: Electro..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 241,
+    "chunk_start_word": 19800,
+    "chunk_text_preview": "Transport and Environment. E-fuels for planes: with 45 projects, is the EU on track to meet its targets? 2024, projects-is-the-eu-on-track-to-meet-its-targets . [51] Ridjan I, Mathiesen BV, Connolly D..."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 242,
+    "chunk_start_word": 20250,
+    "chunk_text_preview": "European Commission. EU taxonomy for sustainable activities. 2021, https: //ec.europa.eu/commission/presscorner/detail/en/qanda_21_3662/ . [67] European Commission. Carbon border adjustment mechanism...."
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "Power - X - Energy Policy",
+    "document_type": "regulation",
+    "year": "2030",
+    "chunk_index": 243,
+    "chunk_start_word": 20700,
+    "chunk_text_preview": "Beasy K, Murphy H, Schoen M. Sustainability certi- fication for renewable hydrogen: An international survey of energy professionals. Energy Policy 2024;192:114231. [99] Frank C, Fiedler S, Crewell S. ..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 244,
+    "chunk_start_word": 0,
+    "chunk_text_preview": "ELI: 1/77DIRECTIVE (EU) 2023/2413 OF THE EUR OPEAN PARLIAMENT AND OF THE COUNCIL of 18 Oct ober 2023 amending Directiv e (EU) 2018/2001, Regulation (EU) 2018/1999 and Directiv e 98/70/EC as regards th..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 245,
+    "chunk_start_word": 450,
+    "chunk_text_preview": "local industr ies while addressing growing domestic and global demand for renewable energy technology . (1)OJ C 152, 6.4.2022, p. 127 and OJ C 443, 22.11.2022, p. 145. (2)OJ C 301, 5.8.2022, p. 184. (..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 246,
+    "chunk_start_word": 900,
+    "chunk_text_preview": "That communication provid es for the front-loading of wind and solar energy , increasing the averag e deplo yment rate of such energy as well as for additional renewable energy capacity by 2030 to acc..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 247,
+    "chunk_start_word": 1350,
+    "chunk_text_preview": ", entitled, \u2018A Framew ork Strategy for a Resilient Energy Union with a Forward-Looking Climate (6)Directive (EU) 2018/2001 of the European Parliament and of the Council of 11 December 2018 on the prom..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 248,
+    "chunk_start_word": 1800,
+    "chunk_text_preview": "bio-based solutions and a sustainable circular bioeconomy . When developing suppor t schemes for bioenergy , Member States should theref ore take into consideration the available supply of sustainable..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 249,
+    "chunk_start_word": 2250,
+    "chunk_text_preview": "the Council of 13 Sept ember 2023 on energy efficiency and amending Regulation (EU) 2023/955 (OJ L 231, 20.9.2023, p. 1). (9)Commission Recommendation (EU) 2021/1749 of 28 September 2021 on Energy Eff..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 250,
+    "chunk_start_word": 2700,
+    "chunk_text_preview": "the lack, on the part of author ities, of sufficient digital and human resources to process a growing number of permit applications. (12) When calculating the share of renewable energy in a Member Sta..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 251,
+    "chunk_start_word": 3150,
+    "chunk_text_preview": "the Union renewable energy financing mech anism established by Commission Imple menting Regulation (EU) 2020/1294 (11)would meet that oblig ation for the Member States involved. (11)Commission Impleme..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 252,
+    "chunk_start_word": 3600,
+    "chunk_text_preview": "renewables power purchase agreements should be extended to other forms of renewable energy purchas e agreements, including, where relevant, renewables heating and cooling purchase agreements. In that ..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 253,
+    "chunk_start_word": 4050,
+    "chunk_text_preview": "produced on-site or nearby as well as renewable energy taken from the grid should be set to guide and encourage Member States\u2019 efforts to exploit the poten tial of using and producing renewable energy..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 254,
+    "chunk_start_word": 4500,
+    "chunk_text_preview": "of the annual increase in renewable heating and cooling pursuant to Article 23 of Directive (EU) 2018/2001. (19) Given the large energy consum ption in residential, commercial and public buildings, ex..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 255,
+    "chunk_start_word": 4950,
+    "chunk_text_preview": "decisions to be taken by the author ities compet ent for granting permits for the renewable energy installations on the basis of a compl ete application is intended to accelerat e the deplo yment of r..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 256,
+    "chunk_start_word": 5400,
+    "chunk_text_preview": "the differ ent types of technology , the projected demand for energy , taking into account energy and system efficiency , overall and in the different regions of the Member State, and the availability..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 257,
+    "chunk_start_word": 5850,
+    "chunk_text_preview": "Member State s should facilitate changes in land and sea use where required, provided that the different uses and activities are compat ible with one another and can co-exist. (28) Directive 2001/42/E..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 258,
+    "chunk_start_word": 6300,
+    "chunk_text_preview": "environmental assessments of a sing le area, it should be possible for Member States to declare areas which have already been designat ed as suitable for an accelerat ed deplo yment of renewable energ..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 259,
+    "chunk_start_word": 6750,
+    "chunk_text_preview": "where a Member State decides to designat e renewables acceleration areas related to hydropower , with a view to ensur ing that a pote ntial adverse impact on the water body or wate r bodies concer ned..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 260,
+    "chunk_start_word": 7200,
+    "chunk_text_preview": "assessment pursuant to Council Directive 92/43/EEC (19). Member States should provide reasons for their decisions to subject projects to such assessments before those assessments are carried out. Such..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 261,
+    "chunk_start_word": 7650,
+    "chunk_text_preview": "energy plants provid es for appropr iate mitig ation measures to avoid such killing, to prevent disturbance, to assess the effectiveness of such measures through appropr iate monitoring and, in the li..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 262,
+    "chunk_start_word": 8100,
+    "chunk_text_preview": "a diffe rent impa ct on the environment than the original installation, provided that the space used is not increased in the process, and the originally required environmental mitig ation measures con..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 263,
+    "chunk_start_word": 8550,
+    "chunk_text_preview": "sources such as ambient energy or geother mal energy , as well as wast e heat from industr ial and tertiary sectors, including data centres, make s it possible to replace natural gas and other fossil ..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 264,
+    "chunk_start_word": 9000,
+    "chunk_text_preview": "bette r energy system integration, identifying specifi c areas particularly suitable for the installation of renewable energy plants, and streamlining the framewor k for author isation and permit-gran..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 265,
+    "chunk_start_word": 9450,
+    "chunk_text_preview": "on where to place them. In such areas, Member States should, under justified circumstances including where needed to accelerat e the grid expansion to suppor t the deplo yment of renewable energy to a..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 266,
+    "chunk_start_word": 9900,
+    "chunk_text_preview": "be ensured that the issue, trade, transfer and use of guarantees of origin can be carried out in a unif orm system with appropr iately standardised certificates that are mutually recognised throughout..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 267,
+    "chunk_start_word": 10350,
+    "chunk_text_preview": "Regulation (EU) 2019/943 of the European Parliament and of the Council (24)and Directive (EU) 2019/944 of the European Parliament and of the Council (25)require Member States to allow and foster the p..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 268,
+    "chunk_start_word": 10800,
+    "chunk_text_preview": "of the batt eries and the entities acting on their behalf, such as building energy system managers, mobility service provid ers and other electr icity mark et participants. It is theref ore appropr ia..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 269,
+    "chunk_start_word": 11250,
+    "chunk_text_preview": "cooling systems, ther mal energy storag e units and other relevant energy related devices. (56) Electr ic vehicle users enter ing into contractual agreements with electromobility service provid ers an..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 270,
+    "chunk_start_word": 11700,
+    "chunk_text_preview": "the further penetration of renewable electr icity , in comparison with larger, stationar y storage assets. In addition to the general provisions preventing market discr imination laid down in Regulati..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 271,
+    "chunk_start_word": 12150,
+    "chunk_text_preview": "methodologies and sustainable product initiatives. That would avoid decep tive practices and increase consumer trust. Further more, given consumer preferen ce for products that contr ibute to environm..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 272,
+    "chunk_start_word": 12600,
+    "chunk_text_preview": "y, hydrog en produced in retrofi tted production facilities based on steam methane reforming technology for which a Commission decision with a view to the award of a grant under the Inno vation Fund h..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 273,
+    "chunk_start_word": 13050,
+    "chunk_text_preview": "gross (26)Directive 2003/87/EC of the European Parliament and of the Council of 13 Octo ber 2003 establishing a system for greenhouse gas emission allowance trading within the Union and amending Counc..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 274,
+    "chunk_start_word": 13500,
+    "chunk_text_preview": "curtailed. Such balancing can be achi eved by means of the use of highly efficient electr ically driven heat and cold generat ors, such as heat pumps, especially when those heat and cold generat ors a..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 275,
+    "chunk_start_word": 13950,
+    "chunk_text_preview": "cooperation to grid investment planning and mark ets in order to better utilise the potential of distr ict heating and cooling for providing flexibility services in electr icity mark ets. Further coop..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 276,
+    "chunk_start_word": 14400,
+    "chunk_text_preview": "mar ine bunker ing, for the calculation of the transpor t targe ts, renewable fuels supplied to intern ational mar ine bunk ers should be included in the final consum ption of energy from renewable so..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 277,
+    "chunk_start_word": 14850,
+    "chunk_text_preview": "is provided solely to electr ic vehicles. While suppor ting electr icity in the transpor t sector through such credit mechani sms, it is imp ortant that Member States continue to set a high level of a..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 278,
+    "chunk_start_word": 15300,
+    "chunk_text_preview": "the greenhouse gas emissions savings of the most relevant production pathwa ys of biofuels produced from food and feed crops as well as the minimum greenhouse gas emissions savings threshold that appl..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 279,
+    "chunk_start_word": 15750,
+    "chunk_text_preview": "the transpor t sector is theref ore not required. Further more, solar -electr ic vehicles can make a crucial contr ibution to the decarbonisation of the Union\u2019s transpor t sector. (80) Since renewable..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 280,
+    "chunk_start_word": 16200,
+    "chunk_text_preview": "end-use sector s. It set out specifi c rules for biofuels, bioliquids and biomass fuels produced from forest biomass, requir ing the sustainability of harvesting operations and the accounting of land-..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 281,
+    "chunk_start_word": 16650,
+    "chunk_text_preview": "fuels in those regions to also cover bioliquids and biofuels. Any specifi c criteria should be objectively justified on the grounds of energy independence of the outermost region concer ned and of ens..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 282,
+    "chunk_start_word": 17100,
+    "chunk_text_preview": "and commercially sensitive data protection. The (30)Regulation (EU) 2018/841 of the European Parliament and of the Council of 30 May 2018 on the inclusion of greenhouse gas emissions and removals from..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 283,
+    "chunk_start_word": 17550,
+    "chunk_text_preview": "by 2030, those referen ces should be amended. Any additional planning and repor ting requirements set will not creat e a new planning and repor ting system, but should be subject to the existing plann..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 284,
+    "chunk_start_word": 18000,
+    "chunk_text_preview": "in the fleet by 2030. That should be reflected in Article 4(1), second subparagraph, of Directive 98/70/EC. (100) Transitional provisions should allow for an ordered continuation of data collection an..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 285,
+    "chunk_start_word": 18450,
+    "chunk_text_preview": "and diesel fuels (OJ L 107, 25.4.2015, p. 26). (34)OJ C 369, 17.12.2011, p. 14. (35)Judgment of the Cour t of Justice of 8 July 2019, Commission v Belgium, C-543/17, ECLI:EU:C:2019:573.OJ L, 31.10.202..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 286,
+    "chunk_start_word": 18900,
+    "chunk_text_preview": "capacity greate r than 2 kwh, whic h is suitable for installation and use in a domestic environment ; (14h) \u201celectr ic vehicle batt ery\u201d means an electr ic vehicle batte ry as defined in Article 3(1),..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 287,
+    "chunk_start_word": 19350,
+    "chunk_text_preview": "and repealing Directive 2006/66/EC (OJ L 191, 28.7.2023, p. 1).\u2019; (e) the followi ng points are inser ted: \u2018(18a) \u201cindustr y\u201d means under takings and products that fall under sections B, C, and F and ..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 288,
+    "chunk_start_word": 19800,
+    "chunk_text_preview": "by the followi ng: \u20181. Member States shall collectively ensure that the share of energy from renewable sources in the Union\u2019s gross final consump tion of energy in 2030 is at least 42,5 %. Member Stat..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 289,
+    "chunk_start_word": 20250,
+    "chunk_text_preview": "for such derogations and the geographical scale to which they apply . The Commission shall make public the notificati ons received, and may issue a public opinion with regard to any of them. 3c. Membe..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 290,
+    "chunk_start_word": 20700,
+    "chunk_text_preview": "high level of renewable electr icity supply , including those relat ed to permit-granting procedures, and to the development of the necessar y transmission, distr ibution and storag e infrastr ucture,..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 291,
+    "chunk_start_word": 21150,
+    "chunk_text_preview": "self-consumers and renewable energy communities and electr icity from renewable fuels of non-biological origin and excl uding the production of electr icity in pumped storag e units from water that ha..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 292,
+    "chunk_start_word": 21600,
+    "chunk_text_preview": "(EU) 2019/942 and (EU) 2019/943 and Directives 2009/73/EC and (EU) 2019/944, and repealing Regulation (EU) No 347/2013 (OJ L 152, 3.6.2022, p. 45). (**) Commission Implementing Regulation (EU) 2020/12..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 293,
+    "chunk_start_word": 22050,
+    "chunk_text_preview": "European Parliament and of the Council (*) and Directive 2009/125/EC of the European Parliament and of the Council (**). In their absence, other harmonised standards and European standards shall be us..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 294,
+    "chunk_start_word": 22500,
+    "chunk_text_preview": "associated with them, in particular by using credit guarantees. Member State s shall ensure that those agreements are not subject to dispropor tionate or discr iminator y procedures or charges , and t..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 295,
+    "chunk_start_word": 22950,
+    "chunk_text_preview": "and, where applicable, in their suppor t sche mes, to increase the share of electr icity and heating and cooling from renewable sources produced on-site or nearby as well as renewable energy taken fro..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 296,
+    "chunk_start_word": 23400,
+    "chunk_text_preview": "electr ified heating and cooling systems and equipment, compl emente d, where applicable, with smar t management of energy consum ption in buildings. To that end, Member States shall use all appropr i..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 297,
+    "chunk_start_word": 23850,
+    "chunk_text_preview": "relevant energy infrastr ucture, including grids, stora ge and other flexibility tools or the potential to creat e or upgrade such grid infrastr ucture and storag e. 3. Member States shall favour mult..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 298,
+    "chunk_start_word": 24300,
+    "chunk_text_preview": "European Parliament and of the Council (3)*; (b) establish appropr iate rules for the renewables acceleration areas on effective mitigation measures to be adopt ed for the installation of renewable en..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 299,
+    "chunk_start_word": 24750,
+    "chunk_text_preview": "on Natura 2000 sites, to the appropr iate assessment pursuant to Article 6(3) of Directive 92/43/EEC.OJ L, 31.10.2023 EN ELI: 34/773. Member State s shall decide the size of renewables acceleration ar..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 300,
+    "chunk_start_word": 25200,
+    "chunk_text_preview": "renewable energy into the electr icity system where such development is not expect ed to have a signif icant environmental impact , such an impact can be duly mitig ated or, where not possible, compen..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 301,
+    "chunk_start_word": 25650,
+    "chunk_text_preview": "infrastr ucture areas designated before 20 November 2023 if they were subject to an environmental assessment pursuant to Directive 2001/42/EC. Such derogations shall not apply to projects that are lik..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 302,
+    "chunk_start_word": 26100,
+    "chunk_text_preview": "chang e or extensi on compar ed to the original grid infrastr ucture. _____________ (1)* Directive 2014/89/EU of the European Parliament and of the Council of 23 July 2014 establishing a framew ork fo..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 303,
+    "chunk_start_word": 26550,
+    "chunk_text_preview": "author ity shall serve as the start of the permit-granting procedure. 3. Member States shall set up or designate one or more contact points. Those contact points shall, upon the request of the applica..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 304,
+    "chunk_start_word": 27000,
+    "chunk_text_preview": "shall assist regional and local author ities in order to facilitate the permit-granting procedure. 8. Except when it coincides with other administrative stages of the permit-granting procedure, the du..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 305,
+    "chunk_start_word": 27450,
+    "chunk_text_preview": "and 6(c), alone or in conjunction with point 13(a), to Directive 2011/92/EU, with regard to renewable energy projects, new applications for renewable energy plants, including plants combining differ e..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 306,
+    "chunk_start_word": 27900,
+    "chunk_text_preview": "author ity may request the project developer to provid e additional available information. The screening process relating to applications for new renewable energy plants shall be finalised within 45 d..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 307,
+    "chunk_start_word": 28350,
+    "chunk_text_preview": "ensure that the lack of reply by the relevant compet ent author ities within the established deadline results in the specific interm ediar y administrative steps to be considered as approved, excep t ..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 308,
+    "chunk_start_word": 28800,
+    "chunk_text_preview": "power plants, for new installations with an electr ical capacity of less than 150 kW and for co-located energy storag e, as well as for the connection of such plants, installations and storag e to the..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 309,
+    "chunk_start_word": 29250,
+    "chunk_text_preview": "that the primar y aim of such artificial structures is not solar energy production or energy storage. By way of derogation from Article 4(2) of and Annex II, points 3(a) and (b), alone or in conjuncti..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 310,
+    "chunk_start_word": 29700,
+    "chunk_text_preview": "or histor ical heritage, national defence inter ests, or safety reasons. 4. All decisions resulting from the permit-granting procedure referred to in paragraphs 1 and 2 shall be made publicly availabl..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 311,
+    "chunk_start_word": 30150,
+    "chunk_text_preview": "mes. Member States shall put in place measures to promote participation in such training programmes, in particular by small and medium-sized enterprises and the self-emplo yed. Member State s may put ..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 312,
+    "chunk_start_word": 30600,
+    "chunk_text_preview": "followi ng: \u20183. For the purposes of paragraph 1, guarant ees of origin shall be valid for transactions for 12 months after the production of the relevant energy unit. Member States shall ensure that a..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 313,
+    "chunk_start_word": 31050,
+    "chunk_text_preview": "a view to promoting the use of renewable energy generat ed by new installations. Suppliers shall use the information contained in guarant ees of origin to demonstrate compl iance with the requirements..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 314,
+    "chunk_start_word": 31500,
+    "chunk_text_preview": "ibution system operat ors shall also make available anonym ised and aggregat ed data on the demand response poten tial and the renewable electr icity generated and injected to the grid by self-consume..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 315,
+    "chunk_start_word": 31950,
+    "chunk_text_preview": "laid down in Regulation (EU) 2019/943 and Directive (EU) 2019/944, Member States shall ensure that the national regulator y framework allows small or mobile system s such as domestic batte ries and el..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 316,
+    "chunk_start_word": 32400,
+    "chunk_text_preview": "and measures shall promot e the renewable-based electr ification of industr ial processes. Those policies and measures shall endeav our to creat e conducive mark et condition for the availability of e..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 317,
+    "chunk_start_word": 32850,
+    "chunk_text_preview": "origin used in the raw mate rial acquisition and pre-processing, manuf actur ing and distr ibution stage, calculated on the basis of the methodologies laid down either in Commission Recommendation (EU..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 318,
+    "chunk_start_word": 33300,
+    "chunk_text_preview": "submitte d pursuant to Articles 3 and 14 of Regulation (EU) 2018/1999 and as part of its integrat ed national energy and climate progress repor ts submitted pursuant to Article 17 of that Regulation. ..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 319,
+    "chunk_start_word": 33750,
+    "chunk_text_preview": "States may count renewable electr icity used for heating and cooling towards the annual averag e increase set out in the first subparagraph, up to a limit of 0,4 percentage points, provi ded that the ..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 320,
+    "chunk_start_word": 34200,
+    "chunk_text_preview": "(EU) 2018/1999, and shall accompan y the compre hensive heating and cooling assessment required by Article 14(1) of Directive 2012/27/EU.\u2019 ; (b) paragraph 2 is amended as follows: (i) the introduct or..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 321,
+    "chunk_start_word": 34650,
+    "chunk_text_preview": "ning renewable heat planning, encom passing cooling; (i) the promotion of the production of biogas and its injection into the gas grid, instead of its use for electr icity production; (j) measures pro..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 322,
+    "chunk_start_word": 35100,
+    "chunk_text_preview": "used for distr ict heating and cooling in the annual averag e increase set out in the first subparagraph. Member States shall inform the Commission of their intenti on to count renewable electr icity ..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 323,
+    "chunk_start_word": 35550,
+    "chunk_text_preview": "heating or cooling system to refuse to connect and to purchase heat or cold from a third-par ty supplier in any of the follo wing situations: (a) the system lacks the necessar y capacity due to other ..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 324,
+    "chunk_start_word": 36000,
+    "chunk_text_preview": "with the operators of distr ict heating and cooling systems in their respective areas, the poten tial for distr ict heating and cooling system s to provide balancing and other system services, includi..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 325,
+    "chunk_start_word": 36450,
+    "chunk_text_preview": "to ensure that: (a) the amount of renewable fuels and renewable electr icity supplied to the transpor t sector leads to a: (i) share of renewable energy within the final consump tion of energy in the ..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 326,
+    "chunk_start_word": 36900,
+    "chunk_text_preview": "the use of renewable fuels of non- biological origin is not count ed in the calculation of the greenhouse gas emissions savings of the biofuels; (b) may take into account biogas that is injected into ..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 327,
+    "chunk_start_word": 37350,
+    "chunk_text_preview": "followi ng: \u2018Where the share of biofuels and bioliquids, as well as of biomass fuels consumed in transpor t, produced from food and feed crops in a Member State is limited to a share lower than 7 % or..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 328,
+    "chunk_start_word": 37800,
+    "chunk_text_preview": "in particular , assess whether the threshold on the maximum share of the average annual expansion of the global production area in high carbon stoc ks should be reduced on the basis of objective and s..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 329,
+    "chunk_start_word": 38250,
+    "chunk_text_preview": "for the calculation of the relevant amounts of energy , the follo wing rules shall apply: (i) in order to determine the amount of energy supplied to the transpor t sector , the values regar ding the e..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 330,
+    "chunk_start_word": 38700,
+    "chunk_text_preview": "is the amount of energy from renewable sources consumed in the transpor t sector for the purposes of Article 25(1), first subparagraph, the energy cont ent of all types of energy from renewable source..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 331,
+    "chunk_start_word": 39150,
+    "chunk_text_preview": "and used for the consump tion of the vehicle itself may be fully counted as renewable. Member States may, where justified, increase the limit referred to in the first subparagraph, point (f), of this ..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 332,
+    "chunk_start_word": 39600,
+    "chunk_text_preview": "measured two years before the year in question, shall be used to determine the share of renewable energy . Howe ver, electr icity obtained from a direct connection to an installation generating renewa..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 333,
+    "chunk_start_word": 40050,
+    "chunk_text_preview": "accordance with Article 35 to amend that methodology , provid ing the necessar y adjustments to the criteria laid down in the second and third subparagraphs of this paragraph in order to facilitate th..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 334,
+    "chunk_start_word": 40500,
+    "chunk_text_preview": "into biofuels, bioliquids and biomass fuels.\u2019; (iii) the fourth subparagraph is replaced by the following: \u2018Biomass fuels shall fulfil the sustainability and greenhouse gas emissions saving criteria l..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 335,
+    "chunk_start_word": 40950,
+    "chunk_text_preview": "threatened or endangered ecosystems or species recognised by international agreements or included in lists drawn up by inter govern mental organisations or the Intern ational Union for the Conser vati..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 336,
+    "chunk_start_word": 41400,
+    "chunk_text_preview": "(iv) are replaced by the followi ng: \u2018(iii) that areas designat ed by intern ational or national law or by the relevant compet ent author ity for nature protection purposes, including in wetlands, gra..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 337,
+    "chunk_start_word": 41850,
+    "chunk_text_preview": "and of old growth forests as defined in the countr y where the forest is located, or their convers ion into plantation forests, and harvesting on vulnerable soils, that harvesting is carried out in co..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 338,
+    "chunk_start_word": 42300,
+    "chunk_text_preview": "biomass fuels used in installations that started operating after 20 November 2023 , at least 80 %; (e) for electr icity , heating and cooling production from biomass fuels used in installations with a..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 339,
+    "chunk_start_word": 42750,
+    "chunk_text_preview": "account for the purposes referred to in paragraph 1, first subparagraph, points (a), (b) and (c), of this Article, where: (a) suppor t was granted before 20 November 2023 , in accordance with the sust..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 340,
+    "chunk_start_word": 43200,
+    "chunk_text_preview": "Article 29a(1) and (2) for renewable fuels and recy cled-carbon fuels have been fulfilled. To that end, they shall require economic operat ors to use a mass balance system whic h:\u2019; (b) paragraph 2 is..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 341,
+    "chunk_start_word": 43650,
+    "chunk_text_preview": "down in this paragraph shall apply regar dless of whether renewable fuels and recy cled carbon fuels are produced within or are imported into the Union. Information about the geographic origin and fee..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 342,
+    "chunk_start_word": 44100,
+    "chunk_text_preview": "34(3). Where the Commission decides that the national sche me compl ies with conditions laid down in this Directive, other sche mes recognised by the Commission in accordance with this Article shall n..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 343,
+    "chunk_start_word": 44550,
+    "chunk_text_preview": "in accordance with the examination procedure refer red to in Article 34(3).\u2019 ; (22) the follo wing article is inser ted: \u2018Article 31a Union database 1. By 21 Novem ber 2024 , the Commission shall ensu..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 344,
+    "chunk_start_word": 45000,
+    "chunk_text_preview": "States shall ensure that those guarantees of origin are transferred to the Union database at the moment when a consignment of renewable gas is register ed in the Union database and are cancelled after..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 345,
+    "chunk_start_word": 45450,
+    "chunk_text_preview": "database complies with the requirements laid down in the third subparagraph. If that is not the case, the Commission may require Member States to take appropr iate steps to ensure compl iance with tho..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 346,
+    "chunk_start_word": 45900,
+    "chunk_text_preview": "biofuels, bioliquids and biomass fuels.\u2019 ;OJ L, 31.10.2023 EN ELI: 66/77(24) Article 35 is amended as follows : (a) paragraph 2 is replaced by the followi ng: \u20182. The power to adop t delegat ed acts r..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 347,
+    "chunk_start_word": 46350,
+    "chunk_text_preview": "this Directive. Article 2 Amendments to Regulation (EU) 2018/1999 Regulation (EU) 2018/1999 is amended as follows : (1) Article 2 is amended as follows: (a) point (11) is replaced by the followi ng: \u2018..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 348,
+    "chunk_start_word": 46800,
+    "chunk_text_preview": "the tota l increase in the share of energy from renewable sources between that Member State\u2019s binding 2020 national target and its contr ibution to the 2030 target. By 2030, the indicative traject ory..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 349,
+    "chunk_start_word": 47250,
+    "chunk_text_preview": "in Article 2, second paragraph, point (38), of Directive (EU) 2018/2001 of the European Parliament and of the Council (*); 9. \u201cbiofuels\u201d means biofuels as defined in Article 2, second paragraph, point..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 350,
+    "chunk_start_word": 47700,
+    "chunk_text_preview": "16f of that Directive, by 1 July 2024 . They shall immediately inform the Commission of those measures. When Member States adop t those measures, they shall contain a reference to this Directive or sh..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 351,
+    "chunk_start_word": 48150,
+    "chunk_text_preview": "(**) The flexibilities of Article 23(2), points (b) and (c), where they were taken into account when calculating the top-ups and resulting shares.\u2019; (3) Annex III is replaced by the follo wing: \u2018ANNEX..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 352,
+    "chunk_start_word": 48600,
+    "chunk_text_preview": "hydrocarbon or mixture of synthetic hydrocarbons, to be used for replacement of liquefied petroleum gas46 24 DME (dimeth ylether) 28 19 Hydroge n from renewable sources 120 - ETBE (ethyl -tertio-butyl..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 353,
+    "chunk_start_word": 49050,
+    "chunk_text_preview": "the training provi der are inclusive and have continuity and regional or national coverage. The training provid er shall have adequat e technical facilities to provide practical training, including su..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 354,
+    "chunk_start_word": 49500,
+    "chunk_text_preview": "buildings and for hot wate r production based on energy consum ption, determining the capacity of the heat pump on the heat load for hot water production, on the storag e mass of the building and on i..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 355,
+    "chunk_start_word": 49950,
+    "chunk_text_preview": "lead to increased fertiliser and herbicide use (*). _____________ (*) Measurements of soil carbon can constitute such evidence, e.g. by a first measurement in advance of the cultivation and subsequent..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 356,
+    "chunk_start_word": 50400,
+    "chunk_text_preview": "B is amended as follows: (a) point 6 is replaced by the following:OJ L, 31.10.2023 EN ELI: 76/77\u20186. For the purposes of the calculation refer red to in point 1(a), greenhouse gas emissions savings fro..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 357,
+    "chunk_start_word": 50850,
+    "chunk_text_preview": "purposes of that calculation. Co-products that have a negative energy cont ent shall be considered to have an energy cont ent of zero for the purposes of the calculation. As a general rule, waste s an..."
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "Renewable Energy Directive",
+    "document_type": "regulation",
+    "year": "2023",
+    "chunk_index": 358,
+    "chunk_start_word": 51300,
+    "chunk_text_preview": "ng: \u2018(6)Other mono-alcohols and ethers with a final boiling point no higher than that stated in EN 228:2012 +A1:2017.\u2019; (2) Annex II is amended as follows: (a) in the last line of the table, \u2018FAME con..."
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "Renewable Fuels of Non-Biological Origins",
+    "document_type": "policy",
+    "year": "2025",
+    "chunk_index": 359,
+    "chunk_start_word": 0,
+    "chunk_text_preview": "1 ISCC EU 202 -6 RENEWABLE FUELS OF NON -BIOLOGICAL ORIGIN (RFNBOS) AND RECYCLED CARBON FUELS (RCFS) ISCC EU 20 2-6 Renewable Fuels of Non -Biological Origin (RFNBO s) and Recycled Carbon Fuels (RCFs)..."
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "Renewable Fuels of Non-Biological Origins",
+    "document_type": "policy",
+    "year": "2025",
+    "chunk_index": 360,
+    "chunk_start_word": 450,
+    "chunk_text_preview": "the production and promot ion of energy from renewable sources, including in the transport sector. The RED II specifies that so -called renewable liquid and gaseous transport fuels of non - biological..."
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "Renewable Fuels of Non-Biological Origins",
+    "document_type": "policy",
+    "year": "2025",
+    "chunk_index": 361,
+    "chunk_start_word": 900,
+    "chunk_text_preview": "assessing greenhouse gas emissions savings from renewable liquid and gaseous transport fuels of non -biological origin and from recycled carbon fuels .3 The specific GHG requirements determine the emi..."
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "Renewable Fuels of Non-Biological Origins",
+    "document_type": "policy",
+    "year": "2025",
+    "chunk_index": 362,
+    "chunk_start_word": 1350,
+    "chunk_text_preview": "Directive 2008/98/EC on waste and repealing certain directives Definitions of RFNBOs and RCFs RFNBOs \u00a9 ISCC System GmbH Following the definition of renewable energy in the RED II, t his means that a R..."
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "Renewable Fuels of Non-Biological Origins",
+    "document_type": "policy",
+    "year": "2025",
+    "chunk_index": 363,
+    "chunk_start_word": 1800,
+    "chunk_text_preview": "of biomass and, therefore, it does not generally compete with food or feed production. If CO 2 is used as a carbon source for ei ther RFNBO s or RCF s (e.g. to react with renewable hydrogen to a hydro..."
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "Renewable Fuels of Non-Biological Origins",
+    "document_type": "policy",
+    "year": "2025",
+    "chunk_index": 364,
+    "chunk_start_word": 2250,
+    "chunk_text_preview": "o ensure that RFNBOs contribute to a reduction in greenhouse gas emissions, the electricity used for RFNBO s production has to be of renewable origin. In line with the methodology laid out in the RED ..."
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "Renewable Fuels of Non-Biological Origins",
+    "document_type": "policy",
+    "year": "2025",
+    "chunk_index": 365,
+    "chunk_start_word": 2700,
+    "chunk_text_preview": "RED II and the Delegated Acts on RFNBOs are met. These requirements are subject of t his chapter. If these requirements are not met the renewable share of electricity in the grid can still be used for..."
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "Renewable Fuels of Non-Biological Origins",
+    "document_type": "policy",
+    "year": "2025",
+    "chunk_index": 366,
+    "chunk_start_word": 3150,
+    "chunk_text_preview": "whether the electricity is obtained via the grid. The following five scenarios for sourcing renewable electricity for the production of RFNBOs are distinguished: a) Electricity from directly connected..."
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "Renewable Fuels of Non-Biological Origins",
+    "document_type": "policy",
+    "year": "2025",
+    "chunk_index": 367,
+    "chunk_start_word": 3600,
+    "chunk_text_preview": "document indicating the date of commission ing) that the installation generating renewable electricity came into operation not earlier than 36 months before the installation producing the RFNBO. Where..."
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "Renewable Fuels of Non-Biological Origins",
+    "document_type": "policy",
+    "year": "2025",
+    "chunk_index": 368,
+    "chunk_start_word": 4050,
+    "chunk_text_preview": "energy share) . In this regard, RFNBOs produced outside of the maximum full load hours limit will be counted as non -renewable. The average share of renewable electricity shall be determined by dividi..."
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "Renewable Fuels of Non-Biological Origins",
+    "document_type": "policy",
+    "year": "2025",
+    "chunk_index": 369,
+    "chunk_start_word": 4500,
+    "chunk_text_preview": ". For this GoOs can either be purchased and cancelled by the RFNBO producer or the RFNBO producer can demonstrate to the auditor that the cancellation is taken care of by a competent body designated b..."
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "Renewable Fuels of Non-Biological Origins",
+    "document_type": "policy",
+    "year": "2025",
+    "chunk_index": 370,
+    "chunk_start_word": 4950,
+    "chunk_text_preview": "this has to be confirmed during the audit . 13 Source: entsoe.eu/data/energy -identification -codes -eic/eic -area-codes -map/ Emission intensity of electricity Continued low emission intensity Guaran..."
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "Renewable Fuels of Non-Biological Origins",
+    "document_type": "policy",
+    "year": "2025",
+    "chunk_index": 371,
+    "chunk_start_word": 5400,
+    "chunk_text_preview": "producer and the RFNBOs producer shall be maintained and demonstrated. More information on GoO and PPA can be found in Annex II of this document. 4.3 Criteria for counting electricity from grid with f..."
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "Renewable Fuels of Non-Biological Origins",
+    "document_type": "policy",
+    "year": "2025",
+    "chunk_index": 372,
+    "chunk_start_word": 5850,
+    "chunk_text_preview": "a dded capacity starts operating not later than 36 months after the initial installation came into operation, the added capacity is considered to have come into operation at the same time as the initi..."
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "Renewable Fuels of Non-Biological Origins",
+    "document_type": "policy",
+    "year": "2025",
+    "chunk_index": 373,
+    "chunk_start_word": 6300,
+    "chunk_text_preview": "installation s (see 4.2.2 and 4.2.4) the requirement for temporal correlation is considered to be met if one of the following cases applies : a) Until 31 December 2029 the temporal correlation conditi..."
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "Renewable Fuels of Non-Biological Origins",
+    "document_type": "policy",
+    "year": "2025",
+    "chunk_index": 374,
+    "chunk_start_word": 6750,
+    "chunk_text_preview": "is established in a functioning market and if the price of an allowance to emit one tonne of CO 2 equivalent is established in a functioning market. The closing price of the previous trading day for D..."
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "Renewable Fuels of Non-Biological Origins",
+    "document_type": "policy",
+    "year": "2025",
+    "chunk_index": 375,
+    "chunk_start_word": 7200,
+    "chunk_text_preview": "Member States may introduce additional criteria on geographical correlation to ensure compatibility of capacity additions with the national planning of the hydrogen and electricity grid. In this case,..."
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "Renewable Fuels of Non-Biological Origins",
+    "document_type": "policy",
+    "year": "2025",
+    "chunk_index": 376,
+    "chunk_start_word": 7650,
+    "chunk_text_preview": "process in industrial installations . To qualify an input as liquid or solid waste that is eligible as input for RCF production according to (a) the RCF producer must demonstrate to the auditor that t..."
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "Renewable Fuels of Non-Biological Origins",
+    "document_type": "policy",
+    "year": "2025",
+    "chunk_index": 377,
+    "chunk_start_word": 8100,
+    "chunk_text_preview": "the supply chain requiring individual certification is the economic operator producing hydrogen out of the renewable electricity (i.e. electrolyser certified under the scope processing unit). The trac..."
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "Renewable Fuels of Non-Biological Origins",
+    "document_type": "policy",
+    "year": "2025",
+    "chunk_index": 378,
+    "chunk_start_word": 8550,
+    "chunk_text_preview": "sustainable material > Address of dispatch/shipping point of the sustainable material (e.g. processing unit, storage facility, hydrogen terminal, hydrogen entry point) (applicable if different from th..."
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "Renewable Fuels of Non-Biological Origins",
+    "document_type": "policy",
+    "year": "2025",
+    "chunk_index": 379,
+    "chunk_start_word": 9000,
+    "chunk_text_preview": "electrolysis process not only hydrogen but also other outputs are produ ced, depending on the type of electrolysis. One example for an additional output is oxygen (O 2). For processes in which electri..."
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "Renewable Fuels of Non-Biological Origins",
+    "document_type": "policy",
+    "year": "2025",
+    "chunk_index": 380,
+    "chunk_start_word": 9450,
+    "chunk_text_preview": "a similar new installation; 6) \u2018smart metering system\u2019 means smart metering system as defined in Article 2(23) of Directive 2019/94421; 7) \u2018imbalance settlement period\u2019 means imbalance settlement peri..."
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "Renewable Fuels of Non-Biological Origins",
+    "document_type": "policy",
+    "year": "2025",
+    "chunk_index": 381,
+    "chunk_start_word": 9900,
+    "chunk_text_preview": "non -biological origin \u2019 means liquid and gaseous fuels the energy content of which is derived from renewable sources other than biomass . Annex II: Power Purchase Agreement and Guarantee s of O rigin..."
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "Renewable Fuels of Non-Biological Origins",
+    "document_type": "policy",
+    "year": "2025",
+    "chunk_index": 382,
+    "chunk_start_word": 10350,
+    "chunk_text_preview": "national support scheme, and the type of support scheme; 4. The date on which the installation became operational; 5. The date and country of issue and a unique identification number. In the case elec..."
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "Renewable Fuels of Non-Biological Origins",
+    "document_type": "policy",
+    "year": "2025",
+    "chunk_index": 383,
+    "chunk_start_word": 10800,
+    "chunk_text_preview": "largest geographical area within which market participants are able to exchange energy without capacity allocation\u201c . Further related definitions can be sourced in Article 2 of the same Regulation. As..."
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "Renewable Fuels of Non-Biological Origins",
+    "document_type": "policy",
+    "year": "2025",
+    "chunk_index": 384,
+    "chunk_start_word": 11250,
+    "chunk_text_preview": "Layout plans that include electrical connections and metering systems. Verify that relevant data pertaining to the amount of electricity that is used to produce RFNBOs are measured and documented with..."
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "Renewable Fuels of Non-Biological Origins",
+    "document_type": "policy",
+    "year": "2025",
+    "chunk_index": 385,
+    "chunk_start_word": 11700,
+    "chunk_text_preview": "metering systems). b) Verify that there is a correctly calibrated - smart metering system in place that ensures no electricity flows from the grid to the RFNBOs producing installation were counted as ..."
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "Renewable Fuels of Non-Biological Origins",
+    "document_type": "policy",
+    "year": "2025",
+    "chunk_index": 386,
+    "chunk_start_word": 12150,
+    "chunk_text_preview": "document. Verify that either the correct value for EU Member State is correctly used (up -to-date values from reliable source, e.g. the Annex of the Commission Implementing Regulation 2023/1185) or th..."
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "Renewable Fuels of Non-Biological Origins",
+    "document_type": "policy",
+    "year": "2025",
+    "chunk_index": 387,
+    "chunk_start_word": 12600,
+    "chunk_text_preview": "01 January 2038: verify that renewable electricity installations have come into operation not earlier than 36 months before the installation producing RFNBOs. Commissioning documents or operation perm..."
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "Renewable Fuels of Non-Biological Origins",
+    "document_type": "policy",
+    "year": "2025",
+    "chunk_index": 388,
+    "chunk_start_word": 13050,
+    "chunk_text_preview": "b) In case renewable electricity is drawn from a storage asset, verify that (1) the storage asset is located behind the same network connection point as the installation producing RFNBOs, (2) the stor..."
+  },
+  {
+    "doc_id": "doc_018",
+    "filename": "sustainable-aviation-fuels",
+    "document_type": "strategy",
+    "year": "2030",
+    "chunk_index": 389,
+    "chunk_start_word": 0,
+    "chunk_text_preview": "Sustainable Aviation Fuels How to travel without emitting CO2? Strategy&2,000 1,000 05001,5002,500 2030 2019MMt CO2/yr 2040 2050 2060 2070Aviation accounts for about 3 -5% of total GHG emissions, whic..."
+  },
+  {
+    "doc_id": "doc_018",
+    "filename": "sustainable-aviation-fuels",
+    "document_type": "strategy",
+    "year": "2030",
+    "chunk_index": 390,
+    "chunk_start_word": 450,
+    "chunk_text_preview": "pilot scale scale effects Strategy&The market will be driven by regulations and tax reliefs, self- commitments and certificates Market Drivers for SAF Regulations and policies Tax reliefs/ subsidies, ..."
+  },
+  {
+    "doc_id": "doc_019",
+    "filename": "The-EU-Chemical-Industry",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 391,
+    "chunk_start_word": 0,
+    "chunk_text_preview": "Transitioning the EU Chemical Sector i Contents | Transitioning the EU Chemical Sector December 2025Policy levers to support viability and increase sustainable finance EU Sectoral Briefings: #1 Discla..."
+  },
+  {
+    "doc_id": "doc_019",
+    "filename": "The-EU-Chemical-Industry",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 392,
+    "chunk_start_word": 450,
+    "chunk_text_preview": "the Sound Management of Chemicals MFF Multiannual Financial Framework PFAS Per- and polyfluoroalkyl substances (\u201cforever chemicals\u201d) PPA Power purchase agreement PPWR Packaging and Packaging Waste Reg..."
+  },
+  {
+    "doc_id": "doc_019",
+    "filename": "The-EU-Chemical-Industry",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 393,
+    "chunk_start_word": 900,
+    "chunk_text_preview": "Leveraging the EU\u2019s highly skilled workforce and strong innovation capacity is necessary to accelerate the shift towards safe, circular, and low-carbon chemical production and to deliver climate, econ..."
+  },
+  {
+    "doc_id": "doc_019",
+    "filename": "The-EU-Chemical-Industry",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 394,
+    "chunk_start_word": 1350,
+    "chunk_text_preview": "other critical sectors from agriculture and food to healthcare, energy, consumer goods, mining, and others, the EU chemical sector helps shape these sectors\u2019 environmental and human rights impacts. Re..."
+  },
+  {
+    "doc_id": "doc_019",
+    "filename": "The-EU-Chemical-Industry",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 395,
+    "chunk_start_word": 1800,
+    "chunk_text_preview": "need for coordinated solutions. Table ES2 illustrates seven levers across three topics that have been identified through this brief as having potential to increase bankability of the EU chemical secto..."
+  },
+  {
+    "doc_id": "doc_019",
+    "filename": "The-EU-Chemical-Industry",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 396,
+    "chunk_start_word": 2250,
+    "chunk_text_preview": "and identify policy levers to finance real economy transitions. Together, these resources aim to bridge the investment gap in relevant sectors and support the integration of sustainability objectives ..."
+  },
+  {
+    "doc_id": "doc_019",
+    "filename": "The-EU-Chemical-Industry",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 397,
+    "chunk_start_word": 2700,
+    "chunk_text_preview": "in a sustainable industrial transformation (Cleantech for Europe, 2025). 1.2 Sustainability footprint The chemical sector is associated with multiple sustainability topics across the Sustainable Devel..."
+  },
+  {
+    "doc_id": "doc_019",
+    "filename": "The-EU-Chemical-Industry",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 398,
+    "chunk_start_word": 3150,
+    "chunk_text_preview": "of synthetic chemicals continues to degrade soil health, with residues of banned pesticides and persistent organic pollutants still detected. \u25feMicroplastic accumulation: Between 31,000 and 42,000 tonn..."
+  },
+  {
+    "doc_id": "doc_019",
+    "filename": "The-EU-Chemical-Industry",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 399,
+    "chunk_start_word": 3600,
+    "chunk_text_preview": "is undertaking a \u201ctwin transition\u201d, both green and digital. The Commission\u2019s Transition Pathway highlights the sector\u2019s role in a circular economy, from designing safe and sustainable chemicals to adv..."
+  },
+  {
+    "doc_id": "doc_019",
+    "filename": "The-EU-Chemical-Industry",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 400,
+    "chunk_start_word": 4050,
+    "chunk_text_preview": "Mining Reagents for ore processing (e.g. flotation agents, lixiviants), explosives, dust suppressants, water treatment chemicalsChemicals are essential in mineral extraction and processing; mining sup..."
+  },
+  {
+    "doc_id": "doc_019",
+    "filename": "The-EU-Chemical-Industry",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 401,
+    "chunk_start_word": 4500,
+    "chunk_text_preview": "funding to accelerate the development of safer substitutes, Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance 7 Contents | Part 2: Policies affe..."
+  },
+  {
+    "doc_id": "doc_019",
+    "filename": "The-EU-Chemical-Industry",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 402,
+    "chunk_start_word": 4950,
+    "chunk_text_preview": "with automotive and food following. The petrochemicals sector accounts for more than 25% of the EU27 chemical sector\u2019s overall investment (Cefic, 2024a; European Commission, 2025h). Similar to most pl..."
+  },
+  {
+    "doc_id": "doc_019",
+    "filename": "The-EU-Chemical-Industry",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 403,
+    "chunk_start_word": 5400,
+    "chunk_text_preview": "small percentage of green bond issuances. Of the USD 583.9 billion (EUR ~497.3 billion) green bond issuance in 2024 (ICE, 2024), only USD 5.5 billion (EUR ~4.8 billion) was from the chemical sector (B..."
+  },
+  {
+    "doc_id": "doc_019",
+    "filename": "The-EU-Chemical-Industry",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 404,
+    "chunk_start_word": 5850,
+    "chunk_text_preview": "subordinated debt, and carbon contracts for difference (CCfDs), which provide revenue certainty by fixing carbon prices and supporting cleaner production methods (European Commission, 2025b; European ..."
+  },
+  {
+    "doc_id": "doc_019",
+    "filename": "The-EU-Chemical-Industry",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 405,
+    "chunk_start_word": 6300,
+    "chunk_text_preview": "scale up finance for circular solutions and drive systemic change. This includes dedicated financing products for circular solutions and promoting the integration of resource-efficiency considerations..."
+  },
+  {
+    "doc_id": "doc_019",
+    "filename": "The-EU-Chemical-Industry",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 406,
+    "chunk_start_word": 6750,
+    "chunk_text_preview": "a central tool for sharing critical sustainability information, the DPP will enable targeted disclosure of product data, support circular resource management, and enhance traceability of substances of..."
+  },
+  {
+    "doc_id": "doc_019",
+    "filename": "The-EU-Chemical-Industry",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 407,
+    "chunk_start_word": 7200,
+    "chunk_text_preview": "levers to support viability and increase sustainable financeThe UNEP FI Regulatory Implementation Support Programme is a related programme designed to help stakeholders understand, implement, and comp..."
+  },
+  {
+    "doc_id": "doc_019",
+    "filename": "The-EU-Chemical-Industry",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 408,
+    "chunk_start_word": 7650,
+    "chunk_text_preview": "Industrial Deal (EBF, 2025b). Sector Example Summary Material recyclingNovamont Renewable ChemistryThe EIB is providing EUR 30 million to support the rollout of innovative technologies for producing b..."
+  },
+  {
+    "doc_id": "doc_019",
+    "filename": "The-EU-Chemical-Industry",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 409,
+    "chunk_start_word": 8100,
+    "chunk_text_preview": "decarbonization and circularity of the chemical sector. Q4 2025 Q4 2025 Q2 2026 2026+ REACH RegulationIndustrial Decarbonization Accelerator ActIndustrial Decarbonization BankCircular Economy Act In t..."
+  },
+  {
+    "doc_id": "doc_019",
+    "filename": "The-EU-Chemical-Industry",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 410,
+    "chunk_start_word": 8550,
+    "chunk_text_preview": "2021 Clean Industrial Deal (CID)Aligns industrial strategy with decarbonization, resource efficiency, and competitiveness through green innovation and procurementLaunched Q1 2025 Transitioning the EU ..."
+  },
+  {
+    "doc_id": "doc_019",
+    "filename": "The-EU-Chemical-Industry",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 411,
+    "chunk_start_word": 9000,
+    "chunk_text_preview": "Plan Initiative that translates 20 key social rights principles into concrete actions aimed at creating fairer labor markets and social protection systems across Europe2025 review Quality Jobs Roadmap..."
+  },
+  {
+    "doc_id": "doc_019",
+    "filename": "The-EU-Chemical-Industry",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 412,
+    "chunk_start_word": 9450,
+    "chunk_text_preview": "in nature/biodiversity, circular economy, climate change, and clean energy; chemical-related projects include consumer information, safe and sustainable chemicals, and substitution of harmful substanc..."
+  },
+  {
+    "doc_id": "doc_019",
+    "filename": "The-EU-Chemical-Industry",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 413,
+    "chunk_start_word": 9900,
+    "chunk_text_preview": "Education and Research and Federal Ministry of Food and Agriculture. biooekonomie.de/sites/default/files/2022-05/ Biooekonomie_in_Deutschland_2022.pdf . Cefic (n.d.). Sustainability Performance . Cefi..."
+  },
+  {
+    "doc_id": "doc_019",
+    "filename": "The-EU-Chemical-Industry",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 414,
+    "chunk_start_word": 10350,
+    "chunk_text_preview": "environment.ec.europa.eu/topics/ chemicals/funding-chemicals-strategy_en. European Commission (2020). Chemicals strategy. European Commission. environment. ec.europa.eu/strategy/chemicals-strategy_en...."
+  },
+  {
+    "doc_id": "doc_019",
+    "filename": "The-EU-Chemical-Industry",
+    "document_type": "legislation",
+    "year": "unknown",
+    "chunk_index": 415,
+    "chunk_start_word": 10800,
+    "chunk_text_preview": "Global, Commodity Insights. spglobal.com/ commodity-insights/en/news-research/ latest-news/chemicals/090125-euro - pean-plastics-recycling-industry-fac - ing-collapse-pre. UNEP (2024a). Chemicals and ..."
+  },
+  {
+    "doc_id": "doc_020",
+    "filename": "WWF Hydrogen Recommendation",
+    "document_type": "policy",
+    "year": "2045",
+    "chunk_index": 416,
+    "chunk_start_word": 0,
+    "chunk_text_preview": "Recommendations for a climate -friendly hydrogen ramp -up 01 Background and WWF recommendations By ratifying the Paris Agreement, Germany has pledged to make its contribution to limiting global warmin..."
+  },
+  {
+    "doc_id": "doc_020",
+    "filename": "WWF Hydrogen Recommendation",
+    "document_type": "policy",
+    "year": "2045",
+    "chunk_index": 417,
+    "chunk_start_word": 450,
+    "chunk_text_preview": "and actually generates more emissions than grey hydrogen, which is based on the fossil fuels natural gas or coal. Only green hy drogen produced from renewable energy by means of electrolysis is virtua..."
+  },
+  {
+    "doc_id": "doc_020",
+    "filename": "WWF Hydrogen Recommendation",
+    "document_type": "policy",
+    "year": "2045",
+    "chunk_index": 418,
+    "chunk_start_word": 900,
+    "chunk_text_preview": "Energy Act, hydrog en was and is being widely discussed as an energy source for heat in buildings. In the coalition agreement, the German government set the target that every new heating system is to ..."
+  },
+  {
+    "doc_id": "doc_020",
+    "filename": "WWF Hydrogen Recommendation",
+    "document_type": "policy",
+    "year": "2045",
+    "chunk_index": 419,
+    "chunk_start_word": 1350,
+    "chunk_text_preview": "synth etischer Brennstoffe; Die zuk\u00fcnftigen Kosten strombasierter synthetischer Brennstoffe (agora - energiewende.de) Recommendations for a climate -friendly hydrogen ramp -up 04 alternatives to the i..."
+  },
+  {
+    "doc_id": "doc_020",
+    "filename": "WWF Hydrogen Recommendation",
+    "document_type": "policy",
+    "year": "2045",
+    "chunk_index": 420,
+    "chunk_start_word": 1800,
+    "chunk_text_preview": "-wwf/Publikationen - PDF/WWF_Klimaschutz_in_der_Beton -_und_Zementindustrie_WEB.pdf. Recommendations for a climate -friendly hydrogen ramp -up 05 clinker. It thus consumes significant amounts of fuel ..."
+  },
+  {
+    "doc_id": "doc_020",
+    "filename": "WWF Hydrogen Recommendation",
+    "document_type": "policy",
+    "year": "2045",
+    "chunk_index": 421,
+    "chunk_start_word": 2250,
+    "chunk_text_preview": "WWF (2018): Wie klimaneutral ist CO2 als Rohstoff | WWF 12 Florian Ausfelder, Hanna Dura (2019): 2. Roadmap des Kopernikus -Projekts \u201dPower -to-X\u201d: Flexible Nutzung erneuerbarer Ressourcen (P2X). Opti..."
+  },
+  {
+    "doc_id": "doc_020",
+    "filename": "WWF Hydrogen Recommendation",
+    "document_type": "policy",
+    "year": "2045",
+    "chunk_index": 422,
+    "chunk_start_word": 2700,
+    "chunk_text_preview": "EU wide. One milestone is the long -negotiated Renewables Directive II (RED II) on RFNBOs (Renewable Fuels of Non -Biological Origin, i.e. renewable hydrogen and its derivatives), which establishes su..."
+  },
+  {
+    "doc_id": "doc_020",
+    "filename": "WWF Hydrogen Recommendation",
+    "document_type": "policy",
+    "year": "2045",
+    "chunk_index": 423,
+    "chunk_start_word": 3150,
+    "chunk_text_preview": "into necessary sustainability criteria: The following aspects of sustainability are crucial for i nternational trade in hydrogen and its derivatives from WWF\u2019s perspective: Climate change mitigation \u2022..."
+  },
+  {
+    "doc_id": "doc_020",
+    "filename": "WWF Hydrogen Recommendation",
+    "document_type": "policy",
+    "year": "2045",
+    "chunk_index": 424,
+    "chunk_start_word": 3600,
+    "chunk_text_preview": "a large amount of land, as areas are needed for the expansion of renewable energy, the transport of electricity, w ater and hydrogen, the installation of electrolysers and the additional infrastructur..."
+  },
+  {
+    "doc_id": "doc_020",
+    "filename": "WWF Hydrogen Recommendation",
+    "document_type": "policy",
+    "year": "2045",
+    "chunk_index": 425,
+    "chunk_start_word": 4050,
+    "chunk_text_preview": "can be used internationally. The involvement of local stakeholders is key. Many of these factors, as well as certifica tion projects, are currently being discussed in some places, but comprehensive ce..."
+  },
+  {
+    "doc_id": "doc_020",
+    "filename": "WWF Hydrogen Recommendation",
+    "document_type": "policy",
+    "year": "2045",
+    "chunk_index": 426,
+    "chunk_start_word": 4500,
+    "chunk_text_preview": "ion and creates infrastructure that is no longer needed in a climate -neutral energy system. The National Hydrogen Strategy, which has already been announced several times, should contain a dedicated ..."
+  },
+  {
+    "doc_id": "doc_020",
+    "filename": "WWF Hydrogen Recommendation",
+    "document_type": "policy",
+    "year": "2045",
+    "chunk_index": 427,
+    "chunk_start_word": 4950,
+    "chunk_text_preview": "retrofitting, for the retrofitting costs and an actual and controllable roadmap for retrofitting, including the phase -out for fossil energy sources. The term \u201cH2 readiness\u201d needs to be defined swiftl..."
+  },
+  {
+    "doc_id": "doc_020",
+    "filename": "WWF Hydrogen Recommendation",
+    "document_type": "policy",
+    "year": "2045",
+    "chunk_index": 428,
+    "chunk_start_word": 5400,
+    "chunk_text_preview": "criteria must be comprehensively applied when awarding public construction contracts so that green public procurement is rigorously implemented. Recommendation 7: Grid and infrastructure planning must..."
+  }
+]

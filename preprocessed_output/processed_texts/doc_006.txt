@@ -1,0 +1,458 @@
+Climate Policies: A Burden or a Gain? 
+
+Thierry Bréchet 
+Henry Tulkens 
+
+CES IFO WORKING PAPER NO. 4147 
+CATEGORY 9: RESOURCE AND ENVIRONMENT ECONOMICS 
+MARCH 2013 
+
+An electronic version of the paper may be downloaded 
+• from the SSRN website:  
+• from the RePEc website:  
+• from the CESifo website: T -group.org/wp T 
+CESifo Working Paper No. 4147 
+
+Climate Policies: A Burden or a Gain? 
+ 
+Abstract 
+ 
+That climate policies are costly is evident and therefore often creates majo r fears. But the 
+alternative (no action) also has a cost. Mitigation costs and damages incurred depend on what 
+the climate policies are; moreover, they are substitutes. This brings climate policies naturally in the realm of benefit- cost analysis. In this paper we illustrate the “direct” cost components 
+of various policies, and then confront them with the benefits generated, that is, the damage cost avoided. However, the sheer benefit -cost criterion is not a sufficient incentive to induce 
+cooperation among c ountries, a necessary condition for an effective global climate policy. 
+Thus, we also explore how to use this criterion in the context of international climate cooperation. 
+JEL-Code: Q540, H870, D610, D900, F420, Q200 . 
+Keywords: climate policy, integrated assessment, cost- benefit analysis, climate cooperation . 
+
+Thierry Bréchet 
+CORE & Louvain School of Management 
+(LSM) / Catholic University of Louvain 
+Voie du Roman Pays 34 
+Belgium - 1348 L ouvain- la-Neuve 
+thierry. brechet @uclouvain.be Henry Tulkens 
+CORE / Catholic University of Louvain 
+Voie du Roman Pays 34 
+Belgium - 1348 L ouvain- la-Neuve 
+henry.  
+ January 17, 2013 
+This paper originates in a presentation made by the authors at the 31st MIT Forum on Climate 
+Change hosted in Brussels by CORE (the Center for Operations Research and Econometrics 
+at Université catholique de Louvain) in October 2010. The present version was written while Bréchet was a visiting research fellow at the Grant ham Institute for Climate Change, Imperial 
+College London as well as a visiting professor at the European University in St Petersburg, Russia, while Tulkens was a visiting professor at University Cà Foscari di Venezia, Italy and a visiting researcher at FE EM, the Fondazione ENI Enrico Mattei. The authors are grateful to 
+Vincent Vandernoot for computational assistance, to participants of the MIT Global Change Forum for many insightful comments, and to the institutions mentioned above for their hospitality an d support . 
+ 
+1. Introduction and plan of the paper 
+That climate policies are costly is evident and therefore often creates major fears 
+in industry. Understandably so: actions of mitigation of GHG emissions that most policies 
+consist of require considerable resources, hence entail high costs. Actors of industrial life 
+consider this as a burden for our economies. Is it a bearable one? 
+To app reciate that, consider the alternative, i.e. no action, and its cost: no action 
+means our economies incurring damages, possibly considerable (see IPCC (2007) , which 
+will also be a burden. Notice that the two categories of costs , mitigation costs and 
+damage s incurred, do add up . However, the amounts of each of the two terms in the sum 
+vary depending upon what the policies are. In fact, they are substitutes: indeed, the more mitigation and adaptation actions, the less damages will be incurred, and the less of the 
+former, the more of the latter. The reverse also holds: severe adverse climate impacts provide strong incentives for emission abatement. This naturally follows from realizing 
+that policies aim at avoiding damages . In that perspective, avoiding damages appears to 
+be the benefit that accompanies climate policies. And if that benefit appears to be larger 
+than the mitigation and adaptation cost (the “direct” cost, for short), such policies can be deemed economically sound. Actually, costs and benefits are the two sides of the same 
+coin. 
+This reasoning brings climate policies naturally in the realm o f benefit- cost 
+analysis, a well -established instrument of decision- making in the public sector. In this 
+paper, we wish first to simply illustrate the “direct” cost com ponents of various policies 
+(Section 2), then to confront them with the benefits generated , that is, the d amage cost 
+avoided (Section 3) and draw preliminary conclusions on their respective justification. The purpose here is mostly to offer the reader information on the orders of magnitude as 
+provided by published advanced models, thereby avoiding him to enter into the details of 
+these. 
+ In climate affairs, there is however an additional dimension to the benefit side just 
+identified. In the way it is invoked above, the benefit- cost criterion makes no reference to 
+the multi -national component of the issue. When the problem that requires action is of 
+exclusively national nature, benefits as well as costs are those that accrue to the country 
+and these onl y determine the decision. Transposing benefit- cost analysis to enlighten 
+decision- making on issues with international impacts cannot simply consist in an 
+addition of national benefits and costs of domestically chosen strategies. In a multi-
+national context, there is often - and certainly in the climate change case - a superadditive 
+aspect to the possible joint actions by the countries, in the sense that together they can (i ) 
+do more that the sum of their alternative individualistic policies, and ( ii) generate a larger 
+joint benefit than the sum of their benefits when acting individualistically. 
+ Therefore, the sheer benefit- cost criterion is not a sufficient incentive to induce 
+the synergies whereby cooperative behavior s can achieve efficiency at the world l evel. 
+Additional and specific motivations of some sort for adopting non individualistic policies 
+are called for. What can they consist of? In Section 5 of this paper we explore why and go 
+beyond the standard framework of benefit- cost analysis. 
+
+2. What is the cost of a climate policy? 
+2.1 The pol icy’s direct cost as a burden for the economy 
+ A comprehensive and interesting synthesis of the direct cost approach is provided 
+in the survey by E denhofer et. al . (2010) . This survey covers four major numerical 
+simulation models that are widely used in policy discussions, namely: MERGE (Kypreos 
+and Bahn, 2003) , REMIND -R (Leimbach et al. , 2010) , POLES -ETSAP (European 
+Commission, 1996) and TIMER (Bouw man et al. 2006) . All models project how the 
+economy may evolve spontaneously in the future ( about a century ), and then examine 
+how a couple of discretionary climate policies a ffects the estimated evolution of the GDP s, 
+both national and at the world level . The policies considered are expressed in terms of 
+global caps either on emission levels, or on carbon concentration in the atmosphere, or 
+still on average temperature increase. These caps are introduced as exogenous 
+constraints in the models , which for t he rest are optimal growth models . 
+ As to how the burden is measured, in the MERGE and REMIND models the cost is 
+measured as discounted cumulative GDP losses up to 2100 relative to some baseline, and 
+it is expressed in percent of the baseline GDP over the same period. The POLES and TIMER models report instead the increase in abatement costs relative to the baseline , 
+also expressed in percent of GDP. For all models the discount rate is 3 percent a year and net present values are calculated with 2000 as the base year. The results are reported in figure 7 in Edenhofer et. al . (2010, ) . 
+ Edenhofer et al. (2010) focus on three policies. All of them are expressed in terms 
+of alternative caps on global GHG concentration in 2100, respectively of 400, 450 and 550 
+ppm CO
+2-eq. Two key conclusions emerge from this model compariso n. First, the direct 
+costs of the policies considered are small: the 550 ppm cap entails a 0.8% loss of 
+cumulated loss world GDP in 2100, the 400 ppm cap a 2.5% loss. Second, despite differences in the orders of magnitude, all models agree on the qualitative message that 
+policy costs are limited.
+
+2.2 The policy’s genuine cost 
+ In case of “no policy”, wh at is the burden? Is there at all a cost for the economy ? To 
+be sure, what we have described above as “ direct” costs are absent, since no action 
+entailing them - mitigation or adaptation - is taken in that case. Unfortunately, this is 
+only one side of the coin, as other costs are invol ved. Indeed, global warming has 
+powerful physical impacts on earth such as storms, coastal erosion, sea level rise and 
+droughts. These in turn entail damage s that are materialized in losses of economic goods, 
+properties and assets, let alone human lives. T hese damages are sheer destructions of 
+parts of the economy, and they are maximal in case of no action. Clearly there is a cost of 
+doing nothing . 
+3 It can be noticed that, in this model comparison, the choice of the policy instruments that woul d be able to 
+implement the policy within and among the countries is not discussed. This boils down to assume that these 
+instruments are cost -effective, like a global carbon tax. In other words, the global effectiveness of the scenarios is 
+analyzed disregar ding the issue of their national implementation. See Bosetti and Victor (2011) for a discussion 
+on that point. 
+
+ But policies, if rational, aim at reducing damages. Therefore, the true cost to society 
+of any climate policy is to be thought of in numbers which are net of the damage costs the 
+policy allows one to avoid - in other words, the numbers obtained by subtracting the 
+value of the avoided damages from the “burden” cost described above. If negative, the 
+result of the s ubtraction means that the policy is justified according to the standards of 
+benefit- cost analysis. Indeed, the “benefit” of the avoided damage thanks to the action 
+then compensates for the “burden” entailed by this action. 
+ It is important to note at this point that for any country both the benefits and the 
+costs are not to be considered in isolation: their magnitude depends also on the policies 
+implemented abroad, be they the result of international agreements or not. This 
+extension of the reasoning will b e the topic of Section 5 . 
+3. Evaluating two policies in terms of both benefits and costs 
+The most striking example of a statement on climate change made recently in the 
+spirit of benefit- cost analysis is the Stern Review (Stern, 2007). Using an integrated 
+assessment model of the world economy, namely PAGE, the Review estimates that , for the 
+policy it defines , benefits in terms of value of damages avoided would range between 5 
+and 20 % of world GDP every year and for ever, whereas mitigation costs to achieve this 
+damage avoidance would amount to about 1 to 2 % of world GDP, every year and for 
+ever. We propose to apply the same reasoning to two policy choices, namely the 650 and 
+550 ppm caps , to see whether or not they pass the benefit- cost criterion. We do this by 
+using our own integrated assessment model , namely CWS ,4 so as t o see whether the Stern 
+result can be confirmed by means of this alternative measurement tool .5 
+The integrated assessment model we employ, CWS (for CLIMNEG World 
+Simulation model), is close the original RICE model by Nordhaus and Yang (1996) or its 
+variations as in Eyckmans and Tulkens (2003), Bréchet et al. (2012), and Yang (2008). In the model, the worl d is split into 18 regions or countries. An essential characteristic of an 
+IAM is the endogenous feedback between the economy and the climate. Decision variables are capital accumulation (to sustain economic growth) and GHGs emission abatement (to control climate change). CWS can also be seen as a general equilibrium 
+model in the sense where all the dimensions of the economy are endogenous, in 
+particular capital accumulation. The model is solved as an optimal control problem in 
+which investment rate in phys ical capital and abatement efforts are the control variables. 
+The objective function to be maximized is the intertemporal welfare expressed as the discounted green consumption ( Z), i.e. gross output (Y , driven by capital accumulation 
+and population growth) net of investment in capital ( I), emission abatement costs ( C) and 
+climate damages ( D, driven by GHGs concentration and temperature increase), so that we 
+have Z = Y - I - C - D for all countries and at all time periods. 
+4 A full description of the CWS model can be found in Bréchet et al . (2011) for the 6 -region version, and in 
+Bréchet et al . (2012) for the 18 -region version (which is, by the way, also stochastic). 
+5 See Kolstad and Toman (2005) for an introduction and overview of integrated assessment climate -
+economy models and Bréchet and Luterbacher (2013) for a discussion on their usefulness for policy 
+suppor t. 
+
+3.1 A Benefit -cost analysis of the 650 and 550 ppm cap policies 
+Let us consider the following two global policies: 
+• “cap-650” : a policy of global emissions abatement which ensures optimal growth of 
+the economy by ( i) maximizing present and future green consumption, that is, net of 
+both the abatement and damage costs entailed by the policy, and (ii) constraining 
+abatements to the condition that the concentrations they entail in the atmosphere 
+never exceed 650 ppm CO 2-eq over the period 2000- 2100. 
+• “cap-550”: a similar policy with the only difference that the global concentration is 
+constrained never to exceed the tighter bound of 550 ppm CO 2-eq.6 
+We wish to compare these two policies with two benchmark scenarios that are 
+common in the literature: 
+• “BAU” : Business -a-usual, which means no discretionary abatement policy and thus no 
+abatement costs; d amage costs are as they result from the laissez faire emissions that 
+accompany the natural growth of the economy and no constr aint applies to CO 2 
+concentration. 
+• “COOP ”: Optimal abatement policy at the world level, i.e. the one that maximizes 
+present and future green consumption without binding constraint on CO 2 
+concentration. 
+In other words, the “BAU” scenario is the pure case o f “no action” in the framework of 
+a world market economy , whereas “COOP ” describes the best global outcome that can be 
+achieved in combining economic growth and environmental protection, with no 
+institutional framework being specified for its achievement and no redistributive effects 
+among countries being taken into account either . 
+To sum up, we thus consider two policies and two scenarios in this section. The first 
+two ( “cap-650” and “cap-550” ) are well defined programs of global action ( i.e. action at 
+the world level), where as the other two (“BAU ” and “COOP ”) are only benchmarks 
+provided for the sake of comparison of which the former describes an environmentally 
+“worst” case in a growth context, and the latter an environmentally “best” case 
+compatible with growth. 
+Figure 1 displays the time profiles of GHGs emissions implied by the two policies and 
+the two benchmark scenarios. Thus for example , optimal economic growth under the 
+“cap-550” policy implies to let global emission s increase up to 9.7 GtC per ye ar in 2060 
+and then to let them decrease down to 5.0 GtC per year in 2100. As for the “cap-650” 
+policy , the maximum yearly emissions are higher (14.1 GtC) and this maximum is reached 
+only later, in 2080. 
+It is interesting to see that these two policies generate emission levels far below those 
+of the worst case: thus , the cap -550 policy require s in 2100 global emissions to be 
+reduced by 76 percent with respect to those of the “BAU” scenario . This policy also 
+succeeds in bringing emissions back to their lev el of the year 2000. It is also interesting to 
+notice that in both policies emissions are below those of the “best” scenario , as calculated 
+6 The 400 ppm cap in 2100 is not a feasible solution for the CWS model, as it is for many other models 
+mention ed in Edenhofer et al. 2010. Thus, for most climate -economy models reviewed here , this cap cannot 
+be reached. A view shared by many climatolog ists, actually. This is the reason why we consider only 550 
+and 650 ppm caps in this paper. 
+
+by the CWS model . Note in particular that emissions under the cap -650 policy are close to 
+those of the COOP scenario for a major part of the time period cover ed. 
+Figure 1. World GHG emissions in the two policies and two scenarios 
+ 
+ Let us now consider the respective benefits and costs of these policies and 
+scenarios. We do this analysis with the same kind of calculatio ns and graphs as used by 
+Edenhofer et al . (2010). 
+ As far costs are concerned, w e calculate the cumulated yearly losses in GDP up to 
+2100, discounted at a 2 -percent yearly discount rate, and compare these magnitudes with 
+what they amount to in the BAU (no-policy) scenario . Benefits ( i.e. avoided climate 
+damages) are evaluated exactly in the same way. Figure 2 is a bar chart showing both 
+costs and benefits, as well as the difference between the two (costs minus benefits). 
+The Figure reveals that the policies ’ costs as reported by the CWS model are a 1.1 
+percent loss in cumulated GDP for the “cap -550” policy, and a 0.4 percent loss for the 
+“cap -650” policy (green bars). These cost numbers are of an order of magnitude similar to 
+those provided by Edenhofer et a l. (2010) and reported above. The interesting thing now 
+is the comparison of these costs with the environmental benefits. The cumulated benefits 
+in these two scenarios are (see the purple bars) respectively of 0.4 percent of GDP and 0.3 
+percent. Thus, they do not outweigh the cumulated costs. But the appealing result is that 
+netted out of the benefits , the “true cost ” becomes only 0.6 percent and even 0.1 percent of 
+world GDP, respectively. In other words, the “cost” the policy is overestimated by 67% for cap-550 and by 258% for cap -650 with respect to what we have called above the “true 
+cost”. Such difference is so large that it cannot be ignored in the political debate. 
+
+Figure 2. Costs , Benefits , and True Costs in comparison with BAU 
+ for the “cap -550”, “cap -650” policies and the “ COOP ” scenario, 
+ (all measured by means of the CWS model 
+in % of world GDP , cumulated over the period 2000 -2100 ) 
+ . 
+ 
+ When we compute the “ COOP ” scenario with the CWS model , we obtain that 
+benefits outweigh the costs . This appears on the Figure by the true cost being negative - 
+and this implies that a policy implementing this scenario is socially profitable . By the 
+definition of the COOP scenario it is also optimal, i.e. maximizing social welfare. By 
+contrast, the two pol icies with their tight constraints of 550 ppm and 650 ppm, 
+respectively, are both too stringent: they overshoot. 
+It must be emphasized that huge uncertainties prevail in the calibration of the 
+models underlying such calculations. They affect all aspects o f the costs entailed by 
+climate change, but criticism s often concentrate on the fact that damage costs are very 
+crude ly estimated. Before being able to propose a more reliable calibration of the 
+functions that are currently available for making these estim ates (which is not within the 
+scope of this paper) , one way to obviate the difficulty is to carry out sensitivity analyses 
+on the parameters of these functions so as to have an idea of how they impact the results . 
+
+3.2 A s ensitivity analysis 
+ Given our concern with the benefits we provide here a sensitivity analysis bearing 
+on the damage cost function used in the CWS model. This increasing function is of the 
+exponential form, with the exponent assumed to be 2.0 in all countries in the previous 
+calculations . In this section we change this parameter to 2.7, making the common damage 
+function much steeper. 
+ The computational results are first disp layed in Figure 3 for world GHG emissions. 
+By definition, the emissio n profile is strictly the same for the “BAU” scenario. But two 
+very interesting and innovative results come out from this figure. 
+ The first one is about the time profile of GHG emissions in the cap-550 and cap -
+650 scenarios, which differ from Fig. 1. Rem ember that the constraints are to not 
+outreac h the stated cap on GHG concentration. The model thus determines the optimal 
+growth i.e. the one that maximizes intertemporal green consumption if the economy 
+operates under these constraints . Because climate damages are now evaluated to be 
+heavier, their impact on welfare is also stro nger, which pushes up the countries to devote 
+more reso urces to abatement of emissions. This is illustrated in Fig. 3 for the cap -550 
+policy case: the maximum emission level is now 9.0 GtC, while it was 10.0 GtC previously 
+(both reached in 2070) . Eventually this increase in abatement translates into a smaller 
+green consumption level (not shown on the Figure though ). 
+ The second appealing result is that the “cap -650” policy now coincides with the 
+“COOP ” scenario over the whole simulation period. Thus, this policy brings the world on a 
+green consumption path virtually identical to the one that maximizes world welfare 
+(under our parameter value s). This reveals that the world optimal sol ution (“ COOP ”) is 
+far from being completely unrealistic from a policy standpoint and should not be 
+considered as purely theoretical. Sometimes the best can be achieved. In other words, and in the reverse perspective, prescriptive policies discussed today in the political area 
+(here, “cap -650”) may meet the normative analysis (here, “ COOP ”). 
+ Although environmentally more stringent, and therefore perhaps politically more 
+attractive to some, the “cap-550” policy is not better welfarewise because it restricts 
+green consumption too much: it is actually too stringent. 
+Let us now turn back to the comparison between costs and benefits by using the 
+same presentation as in Section 3.1. The fact that the countries are more sensitive to 
+temperature increases translates into our two given policies entailing larger abatement efforts than before (for the “cap -550”policy: 1.2% against 1.1% previously; for “cap -650”: 
+0.9% against 0.4% previously) as well as larger benefits. This appears from comparing Fig. 4 with Fig. 2). 
+What is the new balance between costs and benefits? Fig. 4 shows that the “cap -
+550” policy entails higher costs than benefits, this resulting in a 0.05% net GDP cumulated loss over the century. The policy is thus not socially profitable. By contrast, the 
+balance is positive for the “cap -650” policy (a cumulated gain of 0.30%). The “cap -650” 
+policy thus passes the cost- benefit criterion, just lik e the scenario it is identical to. 
+
+Figure 3. World GHG s emissions with s teeper damage functions in the two policies and 
+two scenarios . 
+ 
+Figure 4. Sensitivity analysis for costs versus benefits for “ cap-550”, “cap -650” and 
+“COOP ”, with steeper damages functions 
+
+4. Regional acceptability: a necessary condition for reaching an international 
+agreement 
+ The previous analysis confirms that t he genuine cost s of the two policies discussed 
+are, after all, quite small. They can even be negative, that is, they may have positive 
+impacts : if the modeling is correct, the “cap -650” policy is not costly but beneficial to the 
+world as a whole. Then, why is it so hard for the world to agree on such a policy ? A major 
+obstacle lies in the fact that the respective levels of costs and of benefits differ widely 
+among countries . Indeed, a global policy which is good for all, considered as an aggregate, 
+may not be good for everyone, considered individually. We illustrate that with numbers 
+provided by the CWS model for the “cap -650” policy . Fig. 5 shows benefits and costs 
+
+geographically broken down as they occur in the 18 regions distinguished in the CWS 
+model. Costs are displayed on the vertical axis, benefits on the horizontal one. Both are 
+expressed as previously in percent of cumulated GDP until 2100 . 
+ With this diagram the acceptability of a policy by each country can be characterized 
+in three ways . First, in terms of the respective importance of the domestic benefits and 
+costs each country incurs under the policy: if a country is loca ted above the 45° line it 
+experiences benefits larger than costs , which shows the policy to be domestically 
+profitable. T he country is likely to support that policy . By contrast, for a country located 
+below the 45° line the policy is not domestically profi table, which makes the country 
+likely to be against it. In either case, the larger the distance to the 45° line, the stronger 
+the incentive to support or to reject the policy . The diagram thus shows distinct winners 
+and losers. 
+ Second, while a policy entailing benefits equal to costs for all countries would put 
+them all on the 45° line , a globally beneficial policy with benefits larger than costs for all 
+countries would put them all above the 45° line. By the same token, for any globally 
+beneficial polic y but not so for all of them , the points in the diagram would be scattered in 
+such a way that the set of countries lying above the line enjoy profitability for a total 
+amount larger than the total amount of the losses incurred by those lying below . This 
+observation suggests that in such cases, transfers of commodities from the former to the 
+latter can be envisaged, so as to b ring the latter to the line while keeping the former 
+above, albeit closer to it. On the diagram, a transfer would be represented by an 
+horizontal shift of the point that represents the country: to the right if the country pays 
+out the transfer, and to the left if the country receives a transfer. 
+ Third , the radial distance of any point to the origin can be seen as an overall 
+measure of how much is at stake macroeconomically for a country adopting the climate 
+policy under consideration. Indeed, that distance expresses, in percentage points of the 
+country’s gross domestic product, the two cost components that we deal with in this 
+paper, nam ely the direct cost on the abscissa and the benefit of avoided damage cost on 
+the ordinate. 
+ For countries whose point is located close to the origin, both benefits and costs are 
+only a minor proportion of their GDP, so that not much is at stake with the policy under 
+consideration and the risk of wasting resources by erroneously supporting it is therefore 
+not very high. Things are different for countries located far from the origin: costs and/or 
+benefits in that case are a large proportion of their GDP , and the consequences of making 
+mistakes in the estimation of the policy’s components, or in its implementation, 
+constitute a much larger risk . 
+ In view of the important uncertainties attached to the empirical assessments of the 
+costs and benefits of climate change, be they large or small, one may invoke risk aversion 
+to explain that the more a country is located away from the origin on this chart, the more 
+likely it is to be reluctant to adopt the policy. 
+ Finally, Fig. 5 suggests a classification of countr ies in three distinct clusters: 
+• Cluster 1 , composed of developed countries ( e.g. USA, EU, JPN, CAN...): with moderate 
+benefits as well as moderate abatement costs , they have positive but weak incentives 
+to support the “ cap-650” policy ; 
+
+• Cluster 2 , composed of less-developed countries ( e.g. AFR, Mediterraneans, RAS...): 
+they bear high abatement costs but also high benefits: they have positive incentives 
+for supporting the “cap -650” policy; 
+• Cluster 3 , composed of intermediate emerging countries ( e.g. CHN, Mid dle East 
+Asia, ...): they face high abatement costs but limited benefits , so they are likely to be 
+strongly against the “cap-650” policy , unless transfers are offered to them by the 
+group of winning countries . 
+ 
+Figure 5. Costs versus benefits at the regional level for the “cap -650” policy 
+
+5. Summary and conclusion 
+ The message of this paper is a simple one. That preventive actions against the 
+effects of climate change are costly is widely argued; that their benefits are even more 
+considerable is less advertised. Yet, these are two equally inescapable components of the 
+problem. While t he huge complexity of both the physical and the economic aspects of the 
+problem justifies the recourse to highly sop histicated modeling techniques, benefit- cost 
+analysis is also necessary to provide justification of action, because it is a simple and 
+basic tool of economic reasoning, as well as a powerful instrument to convince the public 
+at large. 
+CHN MEA 
+AUZ IND 
+EU 
+CAN USA AFR 
+JPN OEU MED 
+LAO RAS 
+LAM 
+
+ In this paper, we propose to evaluate cl imate policies by combining the two 
+approaches of modeling and benefit- cost analysis. That combination is possible if the 
+economic modeling is complete, that is, if it covers what we have called the genuine cost 
+of policies and not only their direct costs. We conclude in terms that are precise enough 
+for decision taking, excluding some policies (e.g. the one aiming at the concentration 
+objective of 550 ppm), and supporting other ones ( e.g. 650 ppm). For sure, the model we 
+used is a stylized one and its parameter values are quite uncertain. Yet the gist of our 
+conclusion is less in the absolute numbers t hemselves than in the virtues of the two -fold 
+methodology that allowed to formulate them. 
+ In that spirit we have replicated with our own model the previous and path 
+breaking approach of Stern ( 2006) . Contrary to what some might call a repetition, such 
+replication is an essential component of modeling methodology, as is well known in 
+physical sciences. Given the utmost economic importance of the policy decisio ns to be 
+made, it would be foolish to satisfy ourselves with just one estimate. Only repeated studies, if reasonably converging in their conclusions, can provide a credible basis for action on climate change. 
+ By breaking it down in its multi- country or re gional dimensions, our benefit- cost 
+analysis further points out, by means of a simple diagram, what is probably the hardest 
+obstacle to international cooperation in climate affairs, namely the economic fact that benefits and costs differ widely across countries , and across policies. For some, benefits 
+do not reach the level of the direct costs they will endur e even under an optimal policy: 
+hence they resist the formation of cooperative international agreements that would 
+require them to reduce their emissio ns. In the others , the benefits do outweigh the direct 
+costs of mitigation, since this is the case in the aggregate. Thus there is room for the latter 
+to comp ensate the former in some way. But p ayment of such compensations also triggers 
+resistance. While an economic analysis such as the one above does show that such a 
+scheme is feasible, its implementation requires in addition considerable diplomatic skills 
+to overcome the said resistances, as experienced by the long and patient negotiation 
+process of the U NFCCC. 
+7. References 
+Barker, T., Scrieciu, S. (2010). “Modeling low climate stabilization with E3MG: towards a 
+‘New Economics’ approach to simulating energy -environment- economy system 
+dynamics. ” The Energy Journal 31(1) : 137- 164. 
+Bosetti, V., Carraro, C. , Galeotti, M., Masetti, E., and Tavoni, M. (2009). “ WITCH: A world 
+induced technical change hybrid model. ” The Energy Journal (Special issue) 27(2): 13 -
+38. 
+Bosetti V., Victor D.G. (2011). “ Politics and economics of second -best regulation of 
+greenhouse gas es : the importance of regulatory credibility. ” The Energy Journal 32(1): 
+1-24. 
+Bouwman, A. F., Kram, T. and Klein Goldewijk, K. eds., (2006), Integrated modelling of 
+global environmental change. An overview of IMAGE 2.4 ., Netherlands Environmental 
+Assessment Agency (MNP). 
+Bréchet, T., Eyckmans, J., Gerard, F., Marbaix, P., Tulkens, H. and van Ypersele, J. -P. (2010), 
+“The impact of the unilateral EU commitment on the stability of international climate agreements.” Climate Policy 10: 148- 166. 
+
+Bréchet, T. , Gerard, F. and Tulkens, H. (2011). “Efficiency vs. stability of climate coalitions: 
+a conceptual and computational appraisal. ” The Energy Journal 32(1) : 49- 76. 
+Bréchet Th. and U. Luterbacher (2013). " Computational models for policy support in 
+climate iss ues'', in : U. Luterbacher and D.F. Sprinz (eds) , The Evolving Climate 
+Change Regime , MIT Press, forthcoming . 
+Bréchet, Th., Thénié, J., Zeimes, Th. and Zuber, S. (2012). “ The benefits of cooperation 
+under uncertainty : the case of climate change. ” Environme ntal Modeling and 
+Assessment 17(1- 2): 149- 162. 
+Chander, P., Tulkens, H., van Ypersele, J -P. and Willems, S. (2002). “The Kyoto Protocol: 
+An Economic and Game Theoretic Interpretation”, chapter 6 (pp. 98 -117) in Kriström, 
+B., Dasgupta P. and Löfgren K. -G. (eds), Economic Theory for the Environment : Essays in 
+Honor of Karl- Göran Mäler, Edward Elgar, Cheltenham. 
+Edenhofer, O., Knopf, B., Barker T., Baumstark, L. Bellevrat, E., Château, B., Criqui, P., Isaac, 
+M., Kitous, S., Leimbach, M., Lessman, K., Magné, B., Scrieciu, S., Turton, H. and van 
+Vuuren, D. (2010). “ The economics of low stabilization: Model comparison of 
+mitigation strategies and costs. ” The Energy Journal 31(1) : 11- 48. 
+European Commission (1996). POLES 2.2. European Commission DG XII. EUR 1735 8 EN. 
+Eyckmans, J. and Tulkens, H. (2003). “Simulating coalitionally stable burden sharing 
+agreements for the climate change problem.” Resource and Energy Economics 25: 299 -
+327. 
+Kypreos, S., and Bahn, O. (2003). “A MERGE model with endogenous technological 
+progress.” Environmental Modeling and Assessment 8: 249- 259. 
+Leimbach, M., Bauer, N. Baumstark, L. and Edenhofer, O. (2010), “Mitigation costs in a 
+globalized world: climate policy analysis with REMIND -R.” Environmental Modeling 
+and Assessment 15(3): 155- 173. 
+Nordhaus, W.D. (1994). Managing the Global Commons: The Economics of Climate Change, 
+MIT Press, Cambridge, MA. 
+Nordhaus, W.D. (2007). A question of balance , Yale University Press. 
+Nordhaus, W.D. and Yang, Z. (1996). “A Regional Dynamic General Equilibrium Model of 
+Alternative Climate Change Strategies.” American Economic Review 86(4): 741- 765. 
+Nordhaus, W.D. and Boyer, J. (2000). Warming the world: Economic models of global 
+warming, The MIT Press. 
+Nordhaus, W.D. (2007). A question of balance , Yale University Press. 
+Stern, N. (2007). The economics of climate change: The Stern review, Cambridge University 
+Press. 
+Yang Z. (2008). Strategic Bargaining and Cooperation in Greenhouse Gas Mitigations - An 
+Integrated assessment Modeling Approach . MIT Press.

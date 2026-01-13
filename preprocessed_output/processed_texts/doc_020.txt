@@ -1,0 +1,592 @@
+Recommendations for a climate -friendly hydrogen ramp -up 
+ 01 Background and WWF recommendations 
+ 
+By ratifying the Paris Agreement, Germany has pledged to make its contribution to 
+limiting global warming to 1.5°C if possible - and to becoming climate neutral by 2045 
+at the latest. Decarbonisation of industry is one of the key tasks in this process. 
+Central to these efforts is establishing a green hydrogen economy. How much 
+hydrogen will contribute to achieving climate neutrality in the coming decades will be 
+determined by the decisions and course set in this decade. The production, import and 
+use of hyd rogen as a source of energy are currently the subject of highly political 
+debate. 
+From WWF’s point of view, the following principles are essential if the structure of the 
+hydrogen economy is to benefit the climate and the natural environment: 
+ 
+• Recommend ation 1: Only green hydrogen is truly climate -friendly in the long 
+run. Green hydrogen must be ramped up now - with the highest priority being the 
+expansion of renewable forms of energy . 
+• Recommendation 2: Hydrogen may only be used for applications where no 
+reasonable alternatives (e.g. direct electrification) exist and where there is 
+significant potential for reducing GHG emissions. The rule of thumb is: efficiency 
+first . 
+• Recommendation 3: In addition to economic criteria, comprehensive climate, 
+environmental and social sustainability criteria must also be applied to the 
+production of hydrogen. 
+• Recommendation 4: Hydrogen purchase agreements should be introduced 
+at national, European and in ternational level to ensure long -term supply and price 
+stability. 
+• Recommendation 5: Public funds may not be channelled into subsidising blue 
+hydrogen , as otherwise lock -in effects could arise until well beyond 2030. 
+• Recommendation 6: Comprehensive clim ate criteria in green public 
+procurement should be introduced to increase the demand for green hydrogen. 
+• Recommendation 7: Grid and infrastructure planning must be geared towards 
+climate -friendly investments in infrastructure and preventing stranded 
+asse ts. Background paper 
+Recommendations for a climate -
+friendly hydrogen ramp -up 
+Publication subtitle 
+ 
+Recommendations for a climate -friendly hydrogen ramp -up 
+ 02 Recommendation 1: Only green hydrogen is truly climate -friendly in the long 
+run. Green hydrogen must be ramped up now - with the highest priority being 
+the expansion of renewable forms of energy. 
+ 
+The production of green hydrogen is based on a chemica l process called electrolysis 
+which uses electricity from renewable energy and water. With the current German 
+electricity mix, hydrogen in this process has a carbon intensity of 16t CO 2/tH 2. 
+“Sustainable” hydrogen is defined in current European legislation as having a 
+maximum intensity of 3t CO 2/tH 2.1 Hydrogen produced from today’s electricity mix is 
+therefore not climate -friendly and actually generates more emissions than grey 
+hydrogen, which is based on the fossil fuels natural gas or coal. Only green hy drogen 
+produced from renewable energy by means of electrolysis is virtually CO 2-free and 
+therefore the only form that is truly climate - and environmentally friendly in the long 
+term. If 100% renewable electricity were used, the carbon intensity would be 0t 
+CO 2/tH 2 (not including upstream emissions). 
+This is why, in the long term, only green hydrogen should be produced, supported and 
+used, and the ramp -up of green hydrogen should be the focus of the German 
+government’s hydrogen policy. At the same time, the availability of hydrogen for 
+potential applications in industry must be guaranteed. Industry needs reliable 
+planning to guide investments as it shifts its processes to the use of hydrogen. 
+The rapid and systematic expansion of renewable energy is a basic 
+prerequisite for the ramp -up of green hydrogen. Not only does the electricity 
+sector need to be fully decarbonised through renewables, the additional demand for 
+renewable electricity also ne eds to be met through the hydrogen economy. 
+By way of comparison: According to the study “Klimaneutrales Deutschland bis 2045” 
+(Towards a Climate -Neutral Germany by 2045) conducted by Agora Energiewende, 
+approx. 265 TWh of hydrogen will be needed in 2045. Assuming that this is 
+electrolysis -based green hydrogen with an efficiency loss of approx. 30%, this 
+translates into demand for electricity from renewable energy of approx. 345 TWh. This 
+stands in contrast to total electricity production from renewable en ergy of 244 TWh in 
+Germany in 2022.2 Hydrogen demand will therefore be met by both domestic 
+production and imports. 
+Without the expansion of renewable electricity generation domestically and globally, 
+the hydrogen economy will therefore not be able to gai n momentum. The massive 
+expansion of renewable energy must be implemented quickly to ensure a 
+successful and climate -friendly ramp -up of the hydrogen economy. 
+
+1  -lex.europa.eu/legal -content/EN/TXT/?uri=PI_COM:C(2021)2800 / 
+ -Assessment -of-
+REDII -Delegated -Act-on-Electrolytic -Hydrogen -CO2 -Intensity.pdf. 
+2 Fraunhofer ISE (2023): Öffentliche Nettostromerzeugung in Deutschland im Jahr 2022; 
+Stromerzeugung_2022.pdf 
+ 
+Recommendations for a climate -friendly hydrogen ramp -up 
+ 03 Recommendation 2: Hydrogen may only be used for applications where no 
+reasonable alternatives (e .g. direct electrification) exist and where there is 
+significant potential for reducing GHG emissions. The rule of thumb is: 
+efficiency first. 
+ 
+Hydrogen is and will continue to be a scarce resource. For this reason, its 
+availability must be prioritised for applications that have significant potential to 
+reduce CO 2 emissions and cannot be directly electrified. It should only be used to a 
+very limited extent in the building sector or in road transport. 
+As part of the reform of the Buildings Energy Act, hydrog en was and is being widely 
+discussed as an energy source for heat in buildings. In the coalition agreement, the 
+German government set the target that every new heating system is to be operated on 
+the basis of at least 65% renewable energy by 1 January 2025 . As a result of the 
+Russian war of aggression on Ukraine and the ensuing fossil energy crisis, this target 
+was moved forward by one year and will already take effect from 1 January 2024. 
+Hydrogen and other “green” gases are expected to be considered a bas ic option for 
+meeting the 65% requirement once the Buildings Energy Act is passed. We are clearly 
+opposed to this.3 For reasons of efficiency, lack of availability and other conflicts of 
+use, hydrogen should be used in the coming years in peak load power plants and other 
+areas where electrification is not possible. Particularly in the building sector, the use 
+of hydrogen and its derivatives would become a very expensive option as it is. The use 
+of hydrogen in the building sector is a financial trap, not on ly from the point of view of 
+climate change mitigation, but also from the point of view of consumer protection. In 
+the medium and long term, hydrogen will be about twice as expensive as buying and 
+using heat pumps in combination with solar technology, for example.4 
+Not only in the building sector, but also in the transport sector, the use of hydrogen 
+competes directly with electricity solutions. For example, the efficiency of battery -
+powered e -mobility is significantly higher (69% overall, compared to 26% for fuel cells 
+and 13% for internal combustion engines with e -fuels).5 This is why comparatively 
+speaking the most environmentally responsible and economical approach for the 
+building and transport sector is the direct use of electricity (efficiency first /electricity 
+first), e.g. through heat pumps for heating buildings or electric vehicles for transport. 
+In addition, green hydrogen is not yet available on a scale that would be sufficient to 
+convert all sectors from fossil fuels to green hydrogen, especial ly since the limited 
+capacity of renewable electricity will remain a scarce resource in the future. Hydrogen 
+should therefore be available for applications that can only make their processes more 
+climate -friendly as a result. 
+Wherever possible, priority mu st be given to direct electrification. In some 
+areas of application, however, this is not (yet) technically possible, which is why 
+ 
+3 WWF and others (2023): Wasserstoff und grüne Gase im Gebäudesektor?; 
+ /fm-wwf/Publikationen -PDF/Klima/wasserstoff -und-gruene -
+gase -im-gebaeudesektor.pdf 
+4 WWF, BUND, DUH (2023): “H2 -ready: Die Kostenfalle im Gebäude; 
+ -wwf/Publikationen -PDF/Klima/h -2-ready -die-kostenfalle -
+im-gebaeude.pdf 
+5 Agora Verkehrswende (2018): Die zukünftigen Kosten strombasierter synth etischer 
+Brennstoffe; Die zukünftigen Kosten strombasierter synthetischer Brennstoffe (agora -
+energiewende.de) 
+ 
+Recommendations for a climate -friendly hydrogen ramp -up 
+ 04 alternatives to the indirect use of renewable energy must be resorted to. This is where 
+hydrogen and its derivatives come int o play. 
+The use of hydrogen should only be incentivised where more energy -
+efficient electricity solutions or alternatives are not available in the long 
+term. 
+ 
+Deep dive into the use of hydrogen: 
+Many industries are dependent on hydrogen -based derivatives to replace oil and 
+gas and their products, in other words, on synthetic basic materials and fuels made 
+with green hydrogen. Methane, methanol, ammonia and other products are 
+important components i n the future chemical and fuel industries. 
+Today, these sectors are still fully or largely dependent on the use of fossil sources: 
+83% of all processes in steel production are based on fossil sources, 71% in cement 
+production, 87% in chemical production a nd 99.9% in aviation and shipping.6 7 The 
+use of hydrogen is necessary for decarbonisation and defossilisation in the 
+following sectors: 
+Steel production 
+The steel industry can drastically reduce its harmful emissions by saying goodbye 
+to the coal -based blast furnace process. The new direct reduction process can be 
+operated with natural gas; during the blast furnace process, the reducing gases are 
+released when coke is heated to high temperatures. This alone would lower 
+emissions by 60%. 
+If hydrogen is used for the direct reduction process in the blast furnace, no more 
+CO 2 emissions are produced. Hydrogen is used in the blast furnace process as a 
+reducing a gent for the iron ore. The hydrogen reacts in the process with iron oxides 
+to form water vapour. The product is sponge iron which is processed to become 
+crude steel in what is called an electric arc furnace. The by -product is water, which 
+can be used in tu rn for other processes, enabling a GHG saving of approx. 90%. 
+Cement production 
+Conventional cement production is one of the most energy -intensive industrial 
+processes. 35% of the total emissions from cement production are released during 
+the combustion pr ocess and 49% from calcination of the clinker.8 The raw material 
+limestone is heated up to very high temperatures (1,450°C to form (cement) 
+ 
+6 Federal Ministry for Economic Affairs and Climate Action (BMWK) (2019): Energiewende in 
+der Industrie. Potenziale und Wechselwirkungen mit dem Energiesektor; 
+ -in-der-industrie -ap2a -
+branchensteckbrief -zement.pdf?__blob= publicationFile&v=4. 
+7 International PtX Hub/PtX Training (2021), based on IEA (2020): Iron and Steel; 
+ -and-steel ; IEA (2020): International shipping ; 
+ -shipping ; dena (2019): Feedstocks for the chemical 
+industry; 
+
+cal_industry.pdf 
+8 WWF (2018): Klimaschutz in der Beton - und Zementindustrie - Hintergrund und 
+Handlungsoptionen, p. 13;  -wwf/Publikationen -
+PDF/WWF_Klimaschutz_in_der_Beton -_und_Zementindustrie_WEB.pdf. 
+ 
+Recommendations for a climate -friendly hydrogen ramp -up 
+ 05 clinker. It thus consumes significant amounts of fuel which leads to the high 
+energy -related emissions. The chemica l reaction when heating the limestone 
+results in the release of CO 2 (calcination). As a result of the high temperatures, 
+hydrogen alone cannot be used to completely heat the clinker kilns - but a mixture 
+of, e.g. 70% biomass and 20% hydrogen - which would largely eliminate the fossil 
+fuels.9 
+Emissions are also released as a result of the electricity used for grinding and the 
+transport of the raw materials and end products. Overall, there is an average GHG 
+potential of 587 kg CO 2-equivalents per tonne of ce ment in Germany.10 Since it has 
+not been possible to date to avoid process emissions (in other words, the CO 2 
+generated during calcination), carbon capture and storage (CCS) are particularly 
+relevant here.11 
+In addition, alternative measures for cement p roduction should be used, for 
+example, the use of eco -friendly materials such as wood for building, lowering the 
+cement content in concrete, the use of renewable energy, recycling, reducing 
+transport distances and ambitious climate criteria for awarding pu blic construction 
+contracts that lower emissions. 
+Chemical industry 
+Hydrocarbons are the foundation of the (organic) chemical industry. 74% of the 
+raw material basis of the organic chemical industry is based on naphta and other 
+petroleum derivatives, 11% o n natural gas, 2% on coal and only 13% on regenerative 
+raw materials.12 This means we cannot completely ban hydrocarbons from the 
+chemical industry. 
+But the chemical industry can break its dependency on petroleum by using 
+hydrogen and its derivatives. Tod ay, large molecules present in petroleum are 
+broken down in a process called “cracking” in systems known as “crackers”. The 
+small units produced in the process are called ethylene and are for all intents and 
+purposes the legos of the chemical industry. The wide range of products in the 
+chemical industry is gradually formed from ethylene and its modifications. 
+Cracking is a very emissions -intensive process and is responsible for more than half 
+of emissions harmful to the climate that stem from the chemical i ndustry. It is, 
+however, possible, to introduce a new basic component not dependent on 
+petroleum, for example, methanol. This can be made from hydrogen and CO 2 and 
+would be a more sustainable solution, especially in combination with durability of 
+the final products and recycling. 
+Aviation and shipping 
+ 
+9 Austrian Ministry for Climate Action, Environment, Energy, Mobility, Innovation and 
+Technology (BMK); 
+https:// nachhaltigwirtschaften.at/resources/nw_pdf/schriftenreihe/steckbrief_wasserstoff -
+zementindustrie_bf.pdf . 
+10 WWF (2018): Klimaschutz in der Beton - und Zementindustrie - Hintergrund und 
+Handlungsoptionen, p.7;  -wwf/Publikationen -
+PDF/WWF_Klimaschutz_in_der_Beton -_und_Zementindustrie_WEB.pdf. 
+11 WWF (2018): Wie klimaneutral ist CO2 als Rohstoff | WWF 
+12 Florian Ausfelder, Hanna Dura (2019): 2. Roadmap des Kopernikus -Projekts ”Power -to-X”: 
+Flexible Nutzung erneuerbarer Ressourcen (P2X). Optionen für ein nachhaltiges 
+Energiesystem mit Power -to-X Technologien, p. 36;  -
+projekte.de/lw_resource/datapool/systemfiles/elements/files/B0ECE55235C57831E0537E69
+5E860A05/live/document /Power -to-X_Roadmap_2.0.pdf 
+ 
+Recommendations for a climate -friendly hydrogen ramp -up 
+ 06 The transport sector currently uses mainly fuels based on petroleum products 
+(94%). Biofuels account for around 4% of the energy needed in the transport sector 
+and electricity (mainly through rail transport a nd growing as a result of e -mobility) 
+for about 2%. 
+When using hydrogen and its derivatives in the transport sector, a fundamental 
+distinction can be made between the direct combustion of hydrogen in a fuel cell 
+and the combustion of hydrocarbon -based, syn thetic fuels. To date, most advances 
+have been made in synthetic fuels in the context of Power -to-X and CCU 
+technologies. Assuming CO 2-neutral production with electricity from renewable 
+energy, Power -to-Gas/Power -to-Liquid technologies can reduce dependenc e on 
+fossil energy sources and thus contribute to climate change mitigation in the 
+transport sector. However, these processes are subject to high electricity intensity, 
+and the CO 2 does not remain sequestered in the product, but is released again when 
+comb usted in an engine.13 
+By using direct air capture as a sustainable carbon source, the carbon cycle can be 
+closed in the production and combustion of synthetic fuels known as e -fuels. Here, 
+too, use should be limited to sectors with no alternatives, i.e. a viation and shipping 
+as well as parts of the heavy goods transport sector. 
+
+13 WWF (2018): Wie Klimaneutral ist CO 2 als Rohstoff wirklich: Carbon Capture and 
+Utilization;  -projekte/klima -energie/klimaschutz -und-
+energiewende -in-deutschland/wie -klimaneutral -ist-co2-als-rohstoff/ 
+
+Recommendations for a climate -friendly hydrogen ramp -up 
+ 07 Recommendation 3: In addition to economic criteria, comprehensive climate, 
+environmental and social sustainability criteria must also be applied to the 
+production of hydrogen. 
+ 
+Germany is and will continue to be an energy -importing country. In the future, a 
+significant share of PtX demand will have to be met by imports. International trade in 
+PtX products plays a key role in the decarbonisation and defossilisation of various 
+sectors in industry and transport and is therefore highly relevant for reaching the 
+climate targets and making the energy transition a success. Standardisation of the 
+production of hydrogen and its derivatives, e.g. in the form of certification, is the basis 
+for ensuring the quality of the hydrogen that is produced, imported or used. It is 
+therefore crucial for the success of the hydrogen economy in terms of climate policy to 
+establish a definition of green hydrogen that is as internationally accepted as possib le, 
+or at least EU wide. 
+One milestone is the long -negotiated Renewables Directive II (RED II) on RFNBOs 
+(Renewable Fuels of Non -Biological Origin, i.e. renewable hydrogen and its 
+derivatives), which establishes sustainability criteria for the transport s ector to meet 
+the targets for renewable fuels.14 Under RED II, the European Commission officially 
+recognises certification schemes to prove compliance with the targets (known as 
+voluntary schemes). The revision of RED II also extends the requirements to other 
+sectors. It contains the criteria for electr icity procurement and GHG emissions in two 
+delegated acts:15 
+• Renewable electricity criteria for RFNBOs (Delegated Act on Art. 27 RED II): 
+This is where the criteria for electricity from renewable energy sources for 
+RFNBOs are stipulated. 
+• Methodology for ca lculating GHG emissions from RFNBOs (Delegated Act on 
+Art. 28 RED II): This delegated act sets out the methodology for calculating 
+GHG emission reductions for RFNBOs. It also defines the eligible carbon 
+sources for hydrogen derivatives. 
+The delegated acts establish important basic guidelines for the additionality of 
+renewables for procuring electricity for the production of hydrogen. These guidelines 
+now need to be transposed into national law. 
+However, RED II does not regulate sustainability criteria above and beyond this. 
+Especially for hydrogen imports, in addition to economic criteria, comprehensive 
+climate, environmental and social sustainability criteria must also be applied. 
+Sustainability criteria are crucial for the ramp -up of the green PtX and hydr ogen 
+economy, as hydrogen will only be a viable long -term alternative to fossil fuels if it is 
+produced and used in a way that takes environmental, social and governance aspects 
+into account. 
+National and international hydrogen projects, particularly in co untries of the Global 
+South, must have a positive impact on local development and on the following 
+Sustainable Development Goals (SDGs) from the United Nations’ 2030 Agenda: these 
+include SDG 6 (Clean Water), SDG 7 (Affordable and Clean Energy), SDG 8 (Dec ent 
+Work and Economic Growth; this also includes education goals), SDG 9 (Industry, 
+ 
+14 EUR -Lex - 52021PC0557 - EN - EUR -Lex (europa.eu) 
+15 A detailed assessment of RED II is not the subject of this paper. 
+ 
+Recommendations for a climate -friendly hydrogen ramp -up 
+ 08 Innovation and Infrastructure), SDG 12 (Responsible Consumption and Production), 
+SDG 13 (Climate Action) and SDG 14 (Life Below Water). 
+Particularly in international cooper ation, it is therefore necessary to look beyond the 
+definition of electricity procurement and GHG reduction. WWF calls for the 
+development and enforcement of comprehensive sustainability criteria 
+for trade in hydrogen products. These should be codified in particular in the 
+import strategy of the German government, which has yet to be developed, and in the 
+voluntary schemes of the European Commission. 
+ 
+Deep dive into necessary sustainability criteria: 
+The following aspects of sustainability are crucial for i nternational trade in 
+hydrogen and its derivatives from WWF’s perspective: 
+Climate change mitigation 
+• Use of renewable energy/power procurement: The hydrogen economy also 
+necessarily means transforming the energy mix (energy transition) - away from 
+fossil f uels towards renewable energy. To ensure this shift, the use of renewable 
+energy sources, i.e. the origin of the electricity, is crucial. In addition, the 
+criteria of location, simultaneity and additionality are relevant for hydrogen 
+production to ensure s ystem security and grid stability and compensate for, 
+rather than encourage, bottlenecks in the grid. 
+• Preserving and expanding national climate action strategies: The 
+development of the international hydrogen economy also represents a major 
+opportunity for all partner countries, as they can increase their share of 
+renewable energy as well as hydrogen. However, this presupposes that no 
+negative effects arise in the process, for example the use of renewable electricity 
+to export hydrogen, which is removed fro m the country’s own electricity mix. 
+Renewable energy must be additionally developed or surplus electricity used. 
+• Meeting local energy needs and local hydrogen demand: Hydrogen projects 
+must demonstrate that they contribute to meeting local demand and local 
+decarbonisation, either with the aim of grid stability in the electricity sector or 
+for use in other industrial and transport applications. The development of the 
+hydrogen economy must go hand in hand with meeting local energy needs as 
+well as local hydrogen demand. 
+• Use of a sustainable CO 2 source: The CO 2 required for the production of 
+hydrogen derivatives such as e -fuels should be captured exclusively from the air 
+or from waste gas streams generated by the use of sustainable biomass. The 
+CO 2 cycle must ultimately be closed so that no additional emissions are 
+produced. 
+
+Recommendations for a climate -friendly hydrogen ramp -up 
+
+Environment 
+• Water availability: Many of the countries or regions predestined for hydrogen 
+production are very sunny and often also experience water shortages. Although 
+electrolysis does not require a very large amount of water (approx. 9 l per kg of 
+H2), water resources that would have to be available to the public for other 
+purposes, e.g. as drinking water, for households, other industry and agriculture, 
+may not be used. Additional water resources are also needed in cooling and 
+other processes. Electrolysis today is based on the use of highly purified 
+freshwater.16 Desalination of seawater is also an option. However, strict 
+environmental regulations must be met, as harmful chemicals are also used in 
+the desalination process and brine c an be deposited in the sea, which in turn 
+negatively impacts ecosystems. 
+• Land requirements: The development of hydrogen projects will require a large 
+amount of land, as areas are needed for the expansion of renewable energy, the 
+transport of electricity, w ater and hydrogen, the installation of electrolysers and 
+the additional infrastructure required (digital and mobility). These areas may 
+compete with other uses, e.g. buildings for local residents, land for agriculture 
+or other economic purposes or protecte d ecosystems. The development of 
+capacities for the hydrogen economy must not have a negative impact on the 
+needs of the population or ecosystems. Areas subject to nature conservation 
+should be excluded. Land rights must not be violated. 
+• Preserving biodive rsity: The expansion of renewable capacities as well as the 
+construction of additional infrastructure and power plants can negatively 
+impact ecosystems. Projects and plants must be planned and built with nature 
+conservation in mind. Proof must be provided that the land use has no 
+significant residual impacts on biodiversity and agricultural land. 
+Social aspects 
+• Human rights and fair working conditions Top priority must be given to the 
+socially responsible design of hydrogen projects, i.e. respect for human rights 
+and fair working conditions. This includes health aspects, fair wages, safety and 
+respect for human rights. It is essential that the UN Charter on Human Rights 
+is respected. 
+• Participation and local value creation To foster acceptance of hydrogen 
+projects in society, transparent communication and participation of the local 
+community are necessary. In addition to adequate feedback mechanisms on the 
+consequences for the local community, involving local residents can also 
+contribute to capacity -building . The expansion of infrastructure must not only 
+ 
+16 National Hydrogen C ouncil (2021): Nachhaltigkeitskriterien für Importprojekte von 
+erneuerbarem Wasserstoff und PtX -Produkten, p. 5; 
+ .wasserstoffrat.de/fileadmin/wasserstoffrat/media/Dokumente/NWR_Positions
+papier_Nachhaltigkeitskriterien.pdf. 
+
+Recommendations for a climate -friendly hydrogen ramp -up 
+ 10 be in the interest of the project, it also has to be in the interest of the local 
+community, e.g. by creating jobs and providing better access to electricity. 
+• Indigenous tribes and resettlement: As described above, a lot of land is 
+required for the production of renewable energy and the allocation of 
+electrolysers. In most cases, land is used that is sparsely populated, often by 
+indigenous tribes. The development of hydrogen projects must involve the local 
+com munity throughout the entire process (keyword Free, Prior and Informed 
+Consent) and must not result in involuntary resettlement. In the case of 
+voluntary resettlement, fair compensation and improvement of living 
+conditions must be guaranteed. 
+Governance is also crucial for implementation. Sustainable projects and regulations 
+must be based on structures and procedures that are independent and enable 
+transparency and participation and prevent corruption. Access to information is 
+particularly important. 
+Based on these factors, suitable instruments should be developed by various 
+stakeholders (policymakers, academia, business, civil society) that can be used 
+internationally. The involvement of local stakeholders is key. Many of these factors, as 
+well as certifica tion projects, are currently being discussed in some places, but 
+comprehensive certification and a practical roadmap for implementation are still 
+lacking. 
+ 
+Recommendation 4: Hydrogen purchase agreements should be introduced at 
+national, European and international level to ensure long -term supply and 
+price stability. 
+ 
+Long -term power purchase agreements (PPAs) are becoming increasingly popular in 
+the renewable energy sector as a means of long -term financing and risk minimisation 
+for both plant operators and large industrial consumers. These long -term contracts - 
+called hydrogen purchase agreements (HPAs) - are just as suitable for the hydrogen 
+economy. They guarantee plant operators the advantage of securing long -term 
+financing of the investment through a guaranteed purchase quantity over a long 
+period of time (more than 10 years). This is particularly relevant in the ramp -up of 
+hydrogen and the transformation phase of industry. For the industrial customer, the 
+advantage is that the long -term supply of green hydrogen is ensured on the one hand 
+and protected against price fluctuations in the market on the other. 
+The H2Global project has been offering hydrogen power agreements since 2022 with a 
+funding volume of 900 million euros and compensates the difference between the 
+supply and purchase prices with subsidies (double au ction model). The project aims to 
+promote the market launch of renewable hydrogen.17 Currently, H2Global only 
+promotes hydrogen production in third countries outside the EU. The European 
+Commission is currently developing more auctions based on the H2Globa l model. To 
+also harness the hydrogen potential in Germany and Europe and minimise transport 
+ 
+17 H2Global Foundation (2023): Objective of the H2Global instrument; The H2Global 
+Instrument (h2 -global.de) 
+ 
+Recommendations for a climate -friendly hydrogen ramp -up 
+ 11 routes, a proposal should also be made that goes beyond this. Hydrogen purchase 
+agreements should also be introduced for national and European 
+production with the aim of a rapid and climate -friendly hydrogen ramp -
+up. In this context, support must be limited to the import of green hydrogen. 
+ 
+Recommendation 5: Public funds may not be channelled into subsidising fossil 
+structures and blue hydrogen, as otherwise lock -in effects could arise until well 
+beyond 2030. 
+ 
+Germany issued a joint declaration with Norway on 16 March 2022, stating that it 
+would import blue hydrogen from Norway for a transitional period, the duration of 
+which is not further defined. Promoting imports of blue hydrogen jeopardises the 
+achievement of the Paris climate targets in the long term. Public funding of blue 
+hydrogen is a misallocation of financial resources that poses the danger of a fossil 
+lock -in, because it encourages more natural gas product ion and creates infrastructure 
+that is no longer needed in a climate -neutral energy system. The National Hydrogen 
+Strategy, which has already been announced several times, should contain a dedicated 
+roadmap to accelerate the development of a green hydrogen economy that ensures the 
+achievement of climate targets. 
+Importing or even promoting blue hydrogen hinders this ramp -up, because scarce 
+resources are channelled into supporting fossil technologies. Only green hydrogen 
+produced with additional or otherwis e derived renewable energy makes the necessary 
+contribution to climate change mitigation. Since, like green hydrogen, blue hydrogen 
+would only be available in relevant quantities in a few years’ time, it cannot function 
+as a transitional solution, but woul d instead intensify fossil lock -in effects. 
+Carbon Contracts for Difference must also not promote blue hydrogen in 
+the long term, as this can lead to longer -term lock -in effects. 
+The Federal Ministry for Economic Affairs and Climate Action has adopted t he 
+funding guideline on Carbon Contracts for Difference (CCfDs). Interested companies 
+can already submit their requirements. CCfDs provide industry with the necessary 
+investment and planning security and support basic industries in decarbonising their 
+very energy - and emission -intensive processes and procedures and in boosting 
+investments in climate -friendly technologies. In this case, CCfDs ensure that climate -
+friendly technologies can compete with conventional technologies. The transformation 
+will require significant investments in the coming years. To avoid an investment 
+backlog, industry must start investing now. There is momentum for action, because 
+the need for modernisation in the industry is very high: industry has a reinvestment 
+need of approx. 50% of industrial plants by 2030.18 
+Currently, the funding programme still includes a subsidy for blue hydrogen. In the 
+long term, however, Carbon Contracts for Difference may only be used for 
+the promotion of green hydrogen, as only this will pay for signific ant 
+ 
+18 Agora Verkehrswende (2021): Klimaneutrales Deutschla nd 2045. Wie Deutschland seine 
+Klimaziele schon vor 2050 erreichen kann, p.12;  -
+energiewende.de/veroeffentlichungen/klimaneutrales -deutschlan d-2045. 
+ 
+Recommendations for a climate -friendly hydrogen ramp -up 
+ 12 emission reductions. Technologies that are based on fossil fuels should not be 
+financed from public funds. 
+Furthermore, the widely used term “H2 readiness” for gas -fired power plants, import 
+terminals, pipelines and other infrastructure must be precise ly defined. This term is 
+mentioned in the National Hydrogen Strategy, the coalition agreement, the LNG 
+Acceleration Act, the EU taxonomy and in state aid legislation, among others, but is 
+not clearly stipulated anywhere. It can make sense to build H2 -ready infrastructure 
+and power plants, provided that no better alternatives are available and they 
+contribute to the climate targets. However, this requires specifications and guidelines 
+with regard to the technical requirements for subsequent retrofitting, for the 
+retrofitting costs and an actual and controllable roadmap for retrofitting, including the 
+phase -out for fossil energy sources. The term “H2 readiness” needs to be 
+defined swiftly and unambiguously so that the right course can be set for 
+climate change mitigation. 
+ 
+Recommendation 6: Comprehensive climate criteria in green public 
+procurement should be introduced to increase the demand for green 
+hydrogen. 
+ 
+A sustainable transformation of public procurement can provide powerful leverage for 
+climate change mitigation and support the creation of green lead markets. Public 
+procurement in Germany alone has an annual investment volume of 500 billion 
+euros.19 So far, however, the criterion of cost -effectiveness is still the primary factor 
+when awarding contracts, and decisions are not made based on climate benefits. This 
+needs to change. 
+The introduction of clear requirements in public procurement (green public 
+procurement - GPP), as well as the introduction of quotas and standards, can 
+stimulate demand for low -emission products like green steel. The design of GPP can 
+take different forms. For example, governments can impose minimum requirements 
+or preferential purchasing requirements for zero -emission steel that is subject to a 
+certain greenhouse gas (GHG) emissio ns benchmark. A CO 2 limit could be introduced 
+as a requirement or standard for certain products or materials that may be used for 
+public procurement. Another possible model would be the introduction of mandatory 
+CO 2 life cycle criteria to assess new projec ts. It would be conceivable to apply these 
+criteria at national and European level. Combining both instruments would certainly 
+be advisable. 
+Under the general administrative regulation (Allgemeine Verwaltungsvorschrift, AVV) 
+on the procurement of climate -friendly services (AVV Klima), which came into force 
+on 1 January 2022, a step in the right direction has already been taken at federal level: 
+among other things, a “negative list” of services not to be procured was integrated, 
+which covers particularly cl imate -relevant products. In addition, the German 
+government has announced that it will introduce minimum quotas for climate -
+friendly products for public procurement. 
+ 
+19 Fischer, Andreas/Küper, Malte (2021): Green Public Procurement. Potenziale einer 
+nachhaltigen Beschaffung, IW -Policy Paper, No. 23; 
+ -
+Policy -Paper_2021 -Green -Public -Procurement.pdf. 
+ 
+Recommendations for a climate -friendly hydrogen ramp -up 
+ 13 This means that the legal framework is in place. However, rigorous implementation is 
+yet to come and must now follow. WWF advocates for the introduction of quotas as 
+well as criteria in public procurement with the aim of making public procurement 
+demand more sustainable. This is intended to create market incentives for CO 2-free 
+materials with a view to establishing a market for green products in the long term. The 
+government must play a pioneering role in these efforts. Climate criteria must be 
+comprehensively applied when awarding public construction contracts so 
+that green public procurement is rigorously implemented. 
+ 
+Recommendation 7: Grid and infrastructure planning must be geared towards 
+climate -friendly investments in infrastructure and preventing stranded assets. 
+ 
+Hydrogen and its derivatives can be transported in different ways: as gas via pipelines, 
+as liquid hydrogen (under very high pressure) in tanks by trucks or ships, with liquid 
+hydrogen organic carriers (LOHC) or also as ammonia or other hydrocarbons (e.g. 
+methanol or other synthetic fuels). 
+Each form of transport has advantages and disadvantages. Pipelines are the lowest -
+cost option, but are only suitable up to a length of a few thousand kilometres due to 
+diffusion and costs.20 In addition, it must be taken into account whether, for example, 
+the electrolyser for offshore plants is situated near the plants or on land. Liqui d 
+hydrogen can be transported over longer distances, but storage is cost -intensive due to 
+high pressure and very low temperatures.21 LOHC, i.e. organic compounds that can 
+absorb and release hydrogen through chemical reaction with a catalyst, are promising, 
+but still in development and relatively cost -intensive as a result. 
+Investments in infrastructure must always be aligned with the goal of climate 
+neutrality. Stranded assets, i.e. assets that lose value before the end of their (planned) 
+useful life or lea d to new liabilities, must be prevented. For example, pipeline 
+infrastructure that will probably no longer be useful in 20 -30 years must not be built 
+today to avoid creating misguided incentives or sunk costs, i.e. irreversible costs. 
+Infrastructure must b e considered in terms of the goal, not the status quo. 
+To coordinate infrastructure development, planning for decades of investment is 
+essential. Structured national and European hydrogen network planning is still in its 
+early stages. Electricity, natural gas and hydrogen infrastructure must be planned in 
+tandem. It is important that the planning process is transparent and easy to 
+understand, and that it is designed, implemented and monitored by an independent 
+body in order to avoid any special interests a nd to take climate targets fully into 
+account in the planning process. 
+Integrated and independent planning of the electricity and gas grid 
+infrastructure must be implemented in such a way that the hydrogen 
+infrastructure is aligned with the actual needs o f producers and 
+consumers. 
+ 
+20 European Hydrogen Backbone (2021): Analysing future demand, supply and transport; 
+EHB#2_report_part1_21061 4.indd (gasforclimate2050.eu) 
+21 E3G (2021): E3G Hydrogen Factsheet Infrastructure;  -
+wpengine.netdna -ssl.com/wp -content/uploads/E3G_2021_Hydrogen -
+Factsheet_Infrastructure.pdf. 
+ 
+Recommendations for a climate -friendly hydrogen ramp -up 
+
+Publisher © WWF Germany, July 2023 
+Authors Ulrike Hinz, Lisa -Maria Okken (WWF Germany) 
+Collaborators Viviane Raddatz, Sebastian Breer (WWF Germany) 
+Contact  ,  
+Lobbying Register No. R001579

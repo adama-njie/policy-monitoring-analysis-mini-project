@@ -1,0 +1,62 @@
+{
+  "query": "renewable energy subsidies and incentives",
+  "timestamp": "2026-01-09T18:40:32.334178",
+  "num_results": 5,
+  "results": [
+    {
+      "rank": 1,
+      "similarity_score": 0.5073703527450562,
+      "distance": 0.9709469079971313,
+      "doc_id": "doc_006",
+      "filename": "Cost-Benefits of Climate Change",
+      "document_type": "legislation",
+      "year": "2013",
+      "chunk_index": 45,
+      "text_preview": "Climate Policies: A Burden or a Gain? Thierry Br\u00e9chet Henry Tulkens CES IFO WORKING PAPER NO. 4147 CATEGORY 9: RESOURCE AND ENVIRONMENT ECONOMICS MARCH 2013 An electronic version of the paper may be d..."
+    },
+    {
+      "rank": 2,
+      "similarity_score": 0.5036742091178894,
+      "distance": 0.9854104518890381,
+      "doc_id": "doc_006",
+      "filename": "Cost-Benefits of Climate Change",
+      "document_type": "legislation",
+      "year": "2013",
+      "chunk_index": 53,
+      "text_preview": "reveals that the world optimal sol ution (\u201c COOP \u201d) is far from being completely unrealistic from a policy standpoint and should not be considered as purely theoretical. Sometimes the best can be achi..."
+    },
+    {
+      "rank": 3,
+      "similarity_score": 0.4923613369464874,
+      "distance": 1.0310286283493042,
+      "doc_id": "doc_009",
+      "filename": "Energy Transitions in China and Germany",
+      "document_type": "strategy",
+      "year": "2019",
+      "chunk_index": 98,
+      "text_preview": "tosteerinvestmentsintherightdirectionandtriggerachange inconsumerbehaviorinbothcountries.Legislating,taxationand feed-intariff,arewidelyconsideredasdrivingforcesbymany countriesasimportantapproachesto..."
+    },
+    {
+      "rank": 4,
+      "similarity_score": 0.49051642417907715,
+      "distance": 1.0386676788330078,
+      "doc_id": "doc_016",
+      "filename": "Renewable Energy Directive",
+      "document_type": "regulation",
+      "year": "2023",
+      "chunk_index": 246,
+      "text_preview": "That communication provid es for the front-loading of wind and solar energy , increasing the averag e deplo yment rate of such energy as well as for additional renewable energy capacity by 2030 to acc..."
+    },
+    {
+      "rank": 5,
+      "similarity_score": 0.48937922716140747,
+      "distance": 1.0434049367904663,
+      "doc_id": "doc_016",
+      "filename": "Renewable Energy Directive",
+      "document_type": "regulation",
+      "year": "2023",
+      "chunk_index": 292,
+      "text_preview": "(EU) 2019/942 and (EU) 2019/943 and Directives 2009/73/EC and (EU) 2019/944, and repealing Regulation (EU) No 347/2013 (OJ L 152, 3.6.2022, p. 45). (**) Commission Implementing Regulation (EU) 2020/12..."
+    }
+  ]
+}

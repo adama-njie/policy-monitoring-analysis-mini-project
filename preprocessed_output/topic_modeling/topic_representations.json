@@ -1,0 +1,274 @@
+{
+  "0": {
+    "topic_words": [
+      [
+        "energy",
+        0.04429460494603574
+      ],
+      [
+        "climate",
+        0.03776705082949668
+      ],
+      [
+        "eu",
+        0.03537095975600232
+      ],
+      [
+        "renewable",
+        0.031528097762296335
+      ],
+      [
+        "fuels",
+        0.02982968603686708
+      ],
+      [
+        "emissions",
+        0.029026774911994888
+      ],
+      [
+        "member",
+        0.02555551284229456
+      ],
+      [
+        "shall",
+        0.02431611217074116
+      ],
+      [
+        "policy",
+        0.02379601667459697
+      ],
+      [
+        "carbon",
+        0.023463245150072892
+      ]
+    ],
+    "representative_documents": [
+      {
+        "doc_id": "doc_004",
+        "filename": "Climate Adaptation and Mitigation",
+        "doc_type": "guideline",
+        "year": "unknown",
+        "probability": 0.09920695186560897,
+        "text_preview": "Mitigation and adaptation performance \nmeasurement frameworks \n\nThis document is as adopt ed by the Board and contained in annex VIII to \ndecision B. 08/07, paragraph (a). \n\nMitigation and adaptation performance measurement frameworks \n\n 1. The mitigation and adaptation performance measurement frameworks (PMFs) have \nbeen designed to measure the results of the Fund and, where appropriate, to serve as the basis \nfor results -based payments, in accordance with any further guidance from the Board. "
+      },
+      {
+        "doc_id": "doc_015",
+        "filename": "Power - X - Energy Policy",
+        "doc_type": "regulation",
+        "year": "2030",
+        "probability": 0.09698605054395557,
+        "text_preview": "Contents lists available at ScienceDirect\nEnergy\njournal homepage: \nGermany\u2019s Power-to-X policy for climate-neutral transport\nAli Ebadi Torkayesha,\u2217,Sandra Venghausa,b\naDecision Analysis and Socio-economic Assessment, School of Business and Economics, RWTH Aachen University, 52072 Aachen, Germany\nbInstitute of Energy and Climate Research - Systems Analysis and Technology Evaluation (IEK-STE), Forschungszentrum J\u00fclich,\nWilhelm-Johnen-Stra\u00dfe, 52428 J\u00fclich, Germany\nA R T I C L E I N F O\nKeywords:\nP"
+      },
+      {
+        "doc_id": "doc_006",
+        "filename": "Cost-Benefits of Climate Change",
+        "doc_type": "legislation",
+        "year": "2013",
+        "probability": 0.08912879746459874,
+        "text_preview": "Climate Policies: A Burden or a Gain? \n\nThierry Br\u00e9chet \nHenry Tulkens \n\nCES IFO WORKING PAPER NO. 4147 \nCATEGORY 9: RESOURCE AND ENVIRONMENT ECONOMICS \nMARCH 2013 \n\nAn electronic version of the paper may be downloaded \n\u2022 from the SSRN website:  \n\u2022 from the RePEc website:  \n\u2022 from the CESifo website: T -group.org/wp T \nCESifo Working Paper No. 4147 \n\nClimate Policies: A Burden or a Gain? \n \nAbstract \n \nThat climate policies are costly is evident and therefore often creates majo r fears. But the "
+      }
+    ]
+  },
+  "1": {
+    "topic_words": [
+      [
+        "electricity",
+        0.1783332991437432
+      ],
+      [
+        "renewable",
+        0.1134061390828347
+      ],
+      [
+        "renewable electricity",
+        0.08830456129994782
+      ],
+      [
+        "rfnbos",
+        0.08332693719732973
+      ],
+      [
+        "installation",
+        0.06872853321188313
+      ],
+      [
+        "rfnbo",
+        0.06170758489165649
+      ],
+      [
+        "energy",
+        0.06030355887381177
+      ],
+      [
+        "iscc",
+        0.0557628861754479
+      ],
+      [
+        "installations",
+        0.049271371948594676
+      ],
+      [
+        "grid",
+        0.04679389580407415
+      ]
+    ],
+    "representative_documents": [
+      {
+        "doc_id": "doc_009",
+        "filename": "Energy Transitions in China and Germany",
+        "doc_type": "strategy",
+        "year": "2019",
+        "probability": 0.05273142704448635,
+        "text_preview": "EnergyReports5(2019)1249-1260\nContents lists available at ScienceDirect\nEnergyReports\njournal homepage: \nReviewarticle\nComparingtheenergytransitionsinGermanyandChina:Synergies\nandrecommendations\nChengChena,BingXueb,\u2217,GuotianCaic,HeikoThomasb,StefanSt\u00fcckradb\naLeibniz-CentreforAgriculturalLandscapeResearch,M\u00fcnchebergD15374,Germany\nbInstituteforAdvancedSustainabilityStudiese.V.,Potsdam14467,Germany\ncGuangzhouInstituteofEnergyConversion,ChineseAcademyofSciences,510640Guangzhou,China\na r t i c l e i "
+      },
+      {
+        "doc_id": "doc_003",
+        "filename": "Carbon Capture in Industry - Policy Brief",
+        "doc_type": "legislation",
+        "year": "2025",
+        "probability": 4.685699249570097e-309,
+        "text_preview": "1 Carbon Capture and Storage (CCS): A Key Solution for Achieving Net-Zero Emissions Tobias Orthen, Franz Josef Radermacher April 4, 2025 Preliminary Remarks: Franz Josef Radermacher and Tobias Orthen (both GES und FAW/n) are working with the Council of Engineers for the Energy Transition (CEET). This article summarizes the key findings of the CEET\u2019s Policy Brief on Carbon Capture and Usage/Storage which will officially be released soon. First findings were already presented in a panel discussion"
+      },
+      {
+        "doc_id": "doc_017",
+        "filename": "Renewable Fuels of Non-Biological Origins",
+        "doc_type": "policy",
+        "year": "2025",
+        "probability": 4.41195715648928e-309,
+        "text_preview": "1 ISCC EU 202 -6 RENEWABLE FUELS OF NON -BIOLOGICAL ORIGIN (RFNBOS) \nAND RECYCLED CARBON FUELS (RCFS) \nISCC EU 20 2-6 \nRenewable Fuels of Non -Biological \nOrigin (RFNBO s) and Recycled Carbon \nFuels (RCFs) \n\n\u00a9 ISCC System GmbH \n\nDocument Title: ISCC EU 202 -6 RENEWABLE FUELS OF NON -BIOLOGICAL ORIGIN \n(RFNBOs) AND RECYCLED CARBON FUELS (RCFs) \nVersion 1.4 \nValid from: 02 January 2025 \n\n Copyright notice \n\u00a9 202 4 ISCC System GmbH \nThis ISCC document is protected by copyright. It is freely availab"
+      }
+    ]
+  },
+  "2": {
+    "topic_words": [
+      [
+        "hydrogen",
+        0.2501569376884181
+      ],
+      [
+        "production",
+        0.06512832807294573
+      ],
+      [
+        "climate",
+        0.06272814404982185
+      ],
+      [
+        "clean",
+        0.05213861465052127
+      ],
+      [
+        "friendly",
+        0.050015482507409406
+      ],
+      [
+        "clean hydrogen",
+        0.049082489364644766
+      ],
+      [
+        "energy",
+        0.04869838120740618
+      ],
+      [
+        "climate friendly",
+        0.048409443229274936
+      ],
+      [
+        "electricity",
+        0.04686838736552853
+      ],
+      [
+        "renewable",
+        0.04550248383508013
+      ]
+    ],
+    "representative_documents": [
+      {
+        "doc_id": "doc_020",
+        "filename": "WWF Hydrogen Recommendation",
+        "doc_type": "policy",
+        "year": "2045",
+        "probability": 0.10942305727769532,
+        "text_preview": "Recommendations for a climate -friendly hydrogen ramp -up \n 01 Background and WWF recommendations \n \nBy ratifying the Paris Agreement, Germany has pledged to make its contribution to \nlimiting global warming to 1.5\u00b0C if possible - and to becoming climate neutral by 2045 \nat the latest. Decarbonisation of industry is one of the key tasks in this process. \nCentral to these efforts is establishing a green hydrogen economy. How much \nhydrogen will contribute to achieving climate neutrality in the co"
+      },
+      {
+        "doc_id": "doc_011",
+        "filename": "EU Hydrogen Strategy",
+        "doc_type": "strategy",
+        "year": "2020",
+        "probability": 1.7746334771633895e-308,
+        "text_preview": "Authors: Dr. Martin Menner and Dr. G\u00f6tz Reichert |  \ncep | Kaiser -Joseph -Strasse 266 | 79098 Freiburg | Telephone +49 (0)761 38693 -107 |  1 EU Communication \nEU HYDROGEN STRATEGY \ncepPolicyBrief No. 2020 -14 \n\nThe most important passages in the text are indicated by a line in the margin. \n \nCONTENT \nTitle \nCommunication COM(2020) 301 of 8 July 2020: A hydrogen strategy for a climate -neutral Europe \n \nBrief Summary \n\u25ba\n \n- By 2050, the EU wants emissions and removals of greenhouse gases (GHG) "
+      },
+      {
+        "doc_id": "doc_012",
+        "filename": "EU_Hydrogen_Strategy.pdf",
+        "doc_type": "strategy",
+        "year": "2024",
+        "probability": 1.436343629485064e-308,
+        "text_preview": "A Hydrogen Strategy \nfor a climate neutral Europe \n#EUGreenDeal\nThe EU Hydrogen Strategy will give a boost to clean hydrogen production \nin Europe . Hydrogen can be used as a feedstock , a fuel or an energy \ncarrier and storage , and has many possible applications which would re -\nduce greenhouse gas emissions across industry, transport, power and buil -\ndings sectors. The Commission\u2019s economic recovery plan \u2018Next Generation EU\u2019 \nhighlights hydrogen as an investment priority to boost economic gr"
+      }
+    ]
+  },
+  "3": {
+    "topic_words": [
+      [
+        "ammonia",
+        0.28322288272571566
+      ],
+      [
+        "man",
+        0.14962245471771432
+      ],
+      [
+        "solutions",
+        0.14093597820073112
+      ],
+      [
+        "energy solutions",
+        0.13893631062895706
+      ],
+      [
+        "man energy",
+        0.13739653574793756
+      ],
+      [
+        "man energy solutions",
+        0.1354588999993165
+      ],
+      [
+        "energy",
+        0.11921619777273636
+      ],
+      [
+        "fuel",
+        0.09675883609827879
+      ],
+      [
+        "air",
+        0.07783167265845646
+      ],
+      [
+        "production",
+        0.06887533553470632
+      ]
+    ],
+    "representative_documents": [
+      {
+        "doc_id": "doc_001",
+        "filename": "Ammonia White Paper",
+        "doc_type": "white_paper",
+        "year": "unknown",
+        "probability": 3.0250928971301966e-308,
+        "text_preview": "Innovations in blue \nand green ammonia \nproductionAmmonia - \nfuel for net-zero\n\nMAN Energy Solutions\nAmmonia - fuel for net-zero\nList of technical abbreviations\nATR Autothermal reforming\navg. Average\nBAT Best available techniques\nCCS Carbon capture and storage\nCCUS Carbon capture, utilization and storage\nCH 3OH Methanol\nCH 4 Methane\nCO 2 Carbon dioxide\nCO 2e Carbon dioxide equivalent\nHFO Heavy fuel oil\nEJ Exajoule = 1018 joules\nFS Flow switch\nFSS Fuel supply system\nFVT Fuel valve train\nGHG Green"
+      },
+      {
+        "doc_id": "doc_018",
+        "filename": "sustainable-aviation-fuels",
+        "doc_type": "strategy",
+        "year": "2030",
+        "probability": 2.9297058206231553e-308,
+        "text_preview": "Sustainable \nAviation Fuels \nHow to travel without emitting CO2?\nStrategy&2,000\n1,000\n05001,5002,500\n2030 2019MMt CO2/yr\n2040 2050 2060 2070Aviation accounts for about 3 -5% of total GHG emissions, \nwhich could be significantly reduced exploiting different levers\nPotential decarbonization effects of different levers\nGHG: Greenhouse Gas Emissions \nSource: IEA (2020): Energy Technology Perspectives, Strategy& Analysis\u2022CO2emissions from air travel ongoingly \nincreased over the last decade accountin"
+      }
+    ]
+  }
+}

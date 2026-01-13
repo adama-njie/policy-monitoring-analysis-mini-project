@@ -1,0 +1,1395 @@
+{
+  "total_entities": 6335,
+  "entities_removed": 9937,
+  "removal_percentage": 61.06809242871189,
+  "entity_types": {
+    "ORG": 1669,
+    "DATE": 995,
+    "CARDINAL": 991,
+    "PERSON": 901,
+    "GPE": 509,
+    "PERCENT": 320,
+    "LAW": 256,
+    "PRODUCT": 146,
+    "NORP": 104,
+    "QUANTITY": 91,
+    "WORK_OF_ART": 85,
+    "LOC": 74,
+    "MONEY": 70,
+    "ORDINAL": 64,
+    "EVENT": 27,
+    "FAC": 19,
+    "TIME": 13,
+    "LANGUAGE": 1
+  },
+  "unique_entities_by_type": {
+    "CARDINAL": 780,
+    "DATE": 720,
+    "EVENT": 18,
+    "FAC": 19,
+    "GPE": 381,
+    "LANGUAGE": 1,
+    "LAW": 232,
+    "LOC": 42,
+    "MONEY": 70,
+    "NORP": 82,
+    "ORDINAL": 23,
+    "ORG": 1525,
+    "PERCENT": 266,
+    "PERSON": 875,
+    "PRODUCT": 128,
+    "QUANTITY": 91,
+    "TIME": 10,
+    "WORK_OF_ART": 85
+  },
+  "top_entities_by_type": {
+    "CARDINAL": [
+      [
+        "zero",
+        14
+      ],
+      [
+        "one",
+        13
+      ],
+      [
+        "two",
+        13
+      ],
+      [
+        "three",
+        11
+      ],
+      [
+        "four",
+        10
+      ],
+      [
+        "2.1",
+        9
+      ],
+      [
+        "3.2",
+        8
+      ],
+      [
+        "five",
+        8
+      ],
+      [
+        "3.1",
+        7
+      ],
+      [
+        "One",
+        6
+      ],
+      [
+        "1.5",
+        6
+      ],
+      [
+        "4.1",
+        5
+      ],
+      [
+        "5.2",
+        5
+      ],
+      [
+        "2.2",
+        5
+      ],
+      [
+        "net-zero",
+        5
+      ],
+      [
+        "Four",
+        5
+      ],
+      [
+        "2020",
+        5
+      ],
+      [
+        "1.2",
+        5
+      ],
+      [
+        "4.3",
+        4
+      ],
+      [
+        "4.2",
+        4
+      ]
+    ],
+    "ORG": [
+      [
+        "European Union",
+        14
+      ],
+      [
+        "Greenhouse Gas",
+        14
+      ],
+      [
+        "European Commission",
+        11
+      ],
+      [
+        "CO 2",
+        8
+      ],
+      [
+        "EUR",
+        5
+      ],
+      [
+        "IEA",
+        5
+      ],
+      [
+        "State",
+        4
+      ],
+      [
+        "the European Union",
+        4
+      ],
+      [
+        "European Parliament",
+        4
+      ],
+      [
+        "European Council",
+        4
+      ],
+      [
+        "the European Green Deal",
+        3
+      ],
+      [
+        "G20",
+        3
+      ],
+      [
+        "Wang",
+        3
+      ],
+      [
+        "Energy",
+        3
+      ],
+      [
+        "UNFCCC",
+        3
+      ],
+      [
+        "Community",
+        3
+      ],
+      [
+        "OECD",
+        3
+      ],
+      [
+        "United Nations",
+        3
+      ],
+      [
+        "Carbon Capture and Storage",
+        3
+      ],
+      [
+        "IPCC",
+        3
+      ]
+    ],
+    "PRODUCT": [
+      [
+        "CO 2",
+        10
+      ],
+      [
+        "CO2",
+        8
+      ],
+      [
+        "the CO 2",
+        3
+      ],
+      [
+        "HFO Heavy",
+        1
+      ],
+      [
+        "HP High",
+        1
+      ],
+      [
+        "3 Ammonia\nPEM Proton",
+        1
+      ],
+      [
+        "Raucci",
+        1
+      ],
+      [
+        "CCUS Carbon",
+        1
+      ],
+      [
+        "CO 2e",
+        1
+      ],
+      [
+        "diagram13",
+        1
+      ],
+      [
+        "3.93",
+        1
+      ],
+      [
+        "3 1.8",
+        1
+      ],
+      [
+        "2European Green Deal",
+        1
+      ],
+      [
+        "ClubGlobal",
+        1
+      ],
+      [
+        "Table 1: Mitigation",
+        1
+      ],
+      [
+        "CO 2e Carbon",
+        1
+      ],
+      [
+        "Greenhouse Gas",
+        1
+      ],
+      [
+        "Table 2",
+        1
+      ],
+      [
+        "8.0 Strengthened",
+        1
+      ],
+      [
+        "4.5 Green",
+        1
+      ]
+    ],
+    "WORK_OF_ART": [
+      [
+        "LH 2 Liquid",
+        1
+      ],
+      [
+        "List of Implementing and Delegated Acts",
+        1
+      ],
+      [
+        "Nature of National Framework Climate Legislation",
+        1
+      ],
+      [
+        "Gabon Ordinance",
+        1
+      ],
+      [
+        "Minimum Budgets for Adaptation and Mitigation to Global Climate Change",
+        1
+      ],
+      [
+        "Montenegro Law on Protection",
+        1
+      ],
+      [
+        "BAU",
+        1
+      ],
+      [
+        "Assessing Zero -Emissions Energy Transitions: A Systemic View",
+        1
+      ],
+      [
+        "Meeting Climate Targets: How Far have Leading Countries Progressed",
+        1
+      ],
+      [
+        "Pizer",
+        1
+      ],
+      [
+        "Summary for Policymakers",
+        1
+      ],
+      [
+        "F.J.",
+        1
+      ],
+      [
+        "The European Green Deal",
+        1
+      ],
+      [
+        "The Green Deal",
+        1
+      ],
+      [
+        "Regulation",
+        1
+      ],
+      [
+        "the Future We Want: The International \nResource Panel",
+        1
+      ],
+      [
+        "The Intergovernmental Science -\nPolicy Platform on Biodiversity and Ecosystem Services",
+        1
+      ],
+      [
+        "The Conference of the Parties",
+        1
+      ],
+      [
+        "the European Green Deal",
+        1
+      ],
+      [
+        "The Conference of Parties",
+        1
+      ]
+    ],
+    "FAC": [
+      [
+        "PV Photovoltaic",
+        1
+      ],
+      [
+        "Heat pump15\nHydrogen",
+        1
+      ],
+      [
+        "Klima -Allianz Deutschland",
+        1
+      ],
+      [
+        "Chile Framework Law",
+        1
+      ],
+      [
+        "the Bertelsmann Stiftung",
+        1
+      ],
+      [
+        "Probit",
+        1
+      ],
+      [
+        "the Eurace@ Unibi Model",
+        1
+      ],
+      [
+        "GtCO 2-eq",
+        1
+      ],
+      [
+        "\u2022\u2022\u2022\u2022 \u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022\u2022",
+        1
+      ],
+      [
+        "electro-methanol",
+        1
+      ],
+      [
+        "Lower Saxony",
+        1
+      ],
+      [
+        "PtL Shell North Rhine-Westphalia",
+        1
+      ],
+      [
+        "a)(vi",
+        1
+      ],
+      [
+        "GoO",
+        1
+      ],
+      [
+        "the RED \nII",
+        1
+      ],
+      [
+        "the Single-Use Plastics \nDirective",
+        1
+      ],
+      [
+        "Europe Cleantech",
+        1
+      ],
+      [
+        "Finan-",
+        1
+      ],
+      [
+        "Background",
+        1
+      ]
+    ],
+    "NORP": [
+      [
+        "European",
+        11
+      ],
+      [
+        "German",
+        7
+      ],
+      [
+        "Russian",
+        3
+      ],
+      [
+        "Expected",
+        2
+      ],
+      [
+        "Optimal",
+        2
+      ],
+      [
+        "Chinese",
+        2
+      ],
+      [
+        "german",
+        2
+      ],
+      [
+        "Selective",
+        1
+      ],
+      [
+        "LNG)Heavy",
+        1
+      ],
+      [
+        "Hydraulic",
+        1
+      ],
+      [
+        "Finnish",
+        1
+      ],
+      [
+        "Portuguese",
+        1
+      ],
+      [
+        "Irish",
+        1
+      ],
+      [
+        "Danish",
+        1
+      ],
+      [
+        "\uf0a7EU",
+        1
+      ],
+      [
+        "Complex",
+        1
+      ],
+      [
+        "CO\u2082",
+        1
+      ],
+      [
+        "Hungarian",
+        1
+      ],
+      [
+        "Regular",
+        1
+      ],
+      [
+        "Greek",
+        1
+      ]
+    ],
+    "PERSON": [
+      [
+        "Fig",
+        5
+      ],
+      [
+        "Annex",
+        3
+      ],
+      [
+        "Glasgow",
+        2
+      ],
+      [
+        "Haber-Bosch",
+        2
+      ],
+      [
+        "https",
+        2
+      ],
+      [
+        "Environ",
+        2
+      ],
+      [
+        "Yuan",
+        2
+      ],
+      [
+        "al.",
+        2
+      ],
+      [
+        "Background",
+        2
+      ],
+      [
+        "Liu",
+        2
+      ],
+      [
+        "Art",
+        2
+      ],
+      [
+        "Wiley",
+        2
+      ],
+      [
+        "The Haber-Bosch",
+        2
+      ],
+      [
+        "Zhou",
+        2
+      ],
+      [
+        "Innov",
+        2
+      ],
+      [
+        "COVID-19",
+        2
+      ],
+      [
+        "Edward Elgar",
+        2
+      ],
+      [
+        "Power-to-X",
+        2
+      ],
+      [
+        "Klima",
+        2
+      ],
+      [
+        "Kerosene",
+        2
+      ]
+    ],
+    "GPE": [
+      [
+        "France",
+        11
+      ],
+      [
+        "Germany",
+        10
+      ],
+      [
+        "United Kingdom",
+        7
+      ],
+      [
+        "Italy",
+        6
+      ],
+      [
+        "Switzerland",
+        6
+      ],
+      [
+        "Netherlands",
+        6
+      ],
+      [
+        "Norway",
+        6
+      ],
+      [
+        "China",
+        6
+      ],
+      [
+        "Denmark",
+        5
+      ],
+      [
+        "Belgium",
+        5
+      ],
+      [
+        "Sweden",
+        4
+      ],
+      [
+        "Ukraine",
+        4
+      ],
+      [
+        "Geneva",
+        4
+      ],
+      [
+        "Russia",
+        4
+      ],
+      [
+        "Finland",
+        4
+      ],
+      [
+        "Portugal",
+        4
+      ],
+      [
+        "Spain",
+        4
+      ],
+      [
+        "Japan",
+        4
+      ],
+      [
+        "India",
+        4
+      ],
+      [
+        "the United Kingdom",
+        3
+      ]
+    ],
+    "DATE": [
+      [
+        "2050",
+        14
+      ],
+      [
+        "2020",
+        13
+      ],
+      [
+        "2030",
+        13
+      ],
+      [
+        "annual",
+        12
+      ],
+      [
+        "2019",
+        12
+      ],
+      [
+        "2021",
+        11
+      ],
+      [
+        "2022",
+        11
+      ],
+      [
+        "2018",
+        10
+      ],
+      [
+        "2025",
+        10
+      ],
+      [
+        "2023",
+        9
+      ],
+      [
+        "2024",
+        8
+      ],
+      [
+        "2015",
+        8
+      ],
+      [
+        "1990",
+        7
+      ],
+      [
+        "2040",
+        7
+      ],
+      [
+        "2011",
+        6
+      ],
+      [
+        "2008",
+        6
+      ],
+      [
+        "2013",
+        6
+      ],
+      [
+        "2016",
+        6
+      ],
+      [
+        "2012",
+        6
+      ],
+      [
+        "2010",
+        6
+      ]
+    ],
+    "PERCENT": [
+      [
+        "70%",
+        7
+      ],
+      [
+        "10%",
+        6
+      ],
+      [
+        "30%",
+        5
+      ],
+      [
+        "90%",
+        5
+      ],
+      [
+        "55%",
+        4
+      ],
+      [
+        "20%",
+        4
+      ],
+      [
+        "60%",
+        4
+      ],
+      [
+        "100%",
+        4
+      ],
+      [
+        "25%",
+        3
+      ],
+      [
+        "35%",
+        3
+      ],
+      [
+        "50%",
+        3
+      ],
+      [
+        "65%",
+        3
+      ],
+      [
+        "80%",
+        3
+      ],
+      [
+        "2.5%",
+        3
+      ],
+      [
+        "67%",
+        2
+      ],
+      [
+        "1.2%",
+        2
+      ],
+      [
+        "1.1%",
+        2
+      ],
+      [
+        "15%",
+        2
+      ],
+      [
+        "1.3%",
+        2
+      ],
+      [
+        "20 %",
+        2
+      ]
+    ],
+    "QUANTITY": [
+      [
+        "approximately 183 million metric \ntons",
+        1
+      ],
+      [
+        "about 200 \nmillion tons",
+        1
+      ],
+      [
+        "30 bar < 10",
+        1
+      ],
+      [
+        "approximately 190 million metric tons",
+        1
+      ],
+      [
+        "2.4 tons",
+        1
+      ],
+      [
+        "1.7 tons",
+        1
+      ],
+      [
+        "about 0.6 tons",
+        1
+      ],
+      [
+        "0.6 tons",
+        1
+      ],
+      [
+        "0.2 tons",
+        1
+      ],
+      [
+        "400 bar",
+        1
+      ],
+      [
+        "35 bar",
+        1
+      ],
+      [
+        "1500 ton",
+        1
+      ],
+      [
+        "21 25.8",
+        1
+      ],
+      [
+        "less than 2 degrees",
+        1
+      ],
+      [
+        "266 |",
+        1
+      ],
+      [
+        "1 million tonnes",
+        1
+      ],
+      [
+        "9 1.5 1.5",
+        1
+      ],
+      [
+        "up to 1 million tonnes",
+        1
+      ],
+      [
+        "10 million tonnes",
+        1
+      ],
+      [
+        "2.0\u00b0C8",
+        1
+      ]
+    ],
+    "ORDINAL": [
+      [
+        "first",
+        14
+      ],
+      [
+        "second",
+        8
+      ],
+      [
+        "First",
+        7
+      ],
+      [
+        "third",
+        7
+      ],
+      [
+        "Second",
+        5
+      ],
+      [
+        "Third",
+        3
+      ],
+      [
+        "fourth",
+        3
+      ],
+      [
+        "2nd",
+        2
+      ],
+      [
+        "Fourth",
+        1
+      ],
+      [
+        "29th",
+        1
+      ],
+      [
+        "Firstly",
+        1
+      ],
+      [
+        "6th",
+        1
+      ],
+      [
+        "13th",
+        1
+      ],
+      [
+        "Secondly",
+        1
+      ],
+      [
+        "31st",
+        1
+      ],
+      [
+        "5th",
+        1
+      ],
+      [
+        "Sixth",
+        1
+      ],
+      [
+        "37th",
+        1
+      ],
+      [
+        "95th",
+        1
+      ],
+      [
+        "tertiary",
+        1
+      ]
+    ],
+    "LOC": [
+      [
+        "Europe",
+        13
+      ],
+      [
+        "Africa",
+        8
+      ],
+      [
+        "Asia",
+        5
+      ],
+      [
+        "North America",
+        3
+      ],
+      [
+        "Latin America",
+        3
+      ],
+      [
+        "Caribbean",
+        3
+      ],
+      [
+        "Arctic",
+        2
+      ],
+      [
+        "Horizon Europe",
+        2
+      ],
+      [
+        "Earth",
+        2
+      ],
+      [
+        "Syngas",
+        1
+      ],
+      [
+        "the Green Deal",
+        1
+      ],
+      [
+        "Secretariat",
+        1
+      ],
+      [
+        "l east",
+        1
+      ],
+      [
+        "Tarpey",
+        1
+      ],
+      [
+        "Balkans",
+        1
+      ],
+      [
+        "Pacific",
+        1
+      ],
+      [
+        "\u2022 Europe",
+        1
+      ],
+      [
+        "the Eastern Partnership",
+        1
+      ],
+      [
+        "Central and South America",
+        1
+      ],
+      [
+        "Small Islands",
+        1
+      ]
+    ],
+    "MONEY": [
+      [
+        "0.025 0.025 0.028",
+        1
+      ],
+      [
+        "$50 to $100",
+        1
+      ],
+      [
+        "1.044",
+        1
+      ],
+      [
+        "10.1016/j.respol.2011.10.014.",
+        1
+      ],
+      [
+        "\u20ac260 billion",
+        1
+      ],
+      [
+        "\u20ac 11 billion",
+        1
+      ],
+      [
+        "\u20ac 65 billion",
+        1
+      ],
+      [
+        "USD 100 billion",
+        1
+      ],
+      [
+        "less than USD 20",
+        1
+      ],
+      [
+        "$10",
+        1
+      ],
+      [
+        "$/tCO 2",
+        1
+      ],
+      [
+        "above $ 0.01/",
+        1
+      ],
+      [
+        "0.0003 0.0003 0.0002\nETS",
+        1
+      ],
+      [
+        "0.0432 0.04",
+        1
+      ],
+      [
+        "0.0616",
+        1
+      ],
+      [
+        "0.1875",
+        1
+      ],
+      [
+        "0.1571",
+        1
+      ],
+      [
+        "0.0396 0.0392",
+        1
+      ],
+      [
+        "0.0396",
+        1
+      ],
+      [
+        "0.0720",
+        1
+      ]
+    ],
+    "LAW": [
+      [
+        "Section 2",
+        4
+      ],
+      [
+        "Carbon Border Adjustment Mechanism",
+        3
+      ],
+      [
+        "Emissions Trading System",
+        3
+      ],
+      [
+        "Section 4",
+        3
+      ],
+      [
+        "Section 5",
+        3
+      ],
+      [
+        "Section 3",
+        3
+      ],
+      [
+        "Table 3",
+        3
+      ],
+      [
+        "Table 2",
+        2
+      ],
+      [
+        "Section 6",
+        2
+      ],
+      [
+        "the European Climate Law",
+        2
+      ],
+      [
+        "Article 4(1",
+        2
+      ],
+      [
+        "Article 4",
+        2
+      ],
+      [
+        "Article 2",
+        2
+      ],
+      [
+        "Article 3(1",
+        2
+      ],
+      [
+        "the RED II",
+        2
+      ],
+      [
+        "Article 28",
+        2
+      ],
+      [
+        "the Principal Act",
+        1
+      ],
+      [
+        "Article L100",
+        1
+      ],
+      [
+        "Section 4.4",
+        1
+      ],
+      [
+        "Article 6 of the Paris Agreement",
+        1
+      ]
+    ],
+    "EVENT": [
+      [
+        "the Paris Agreement",
+        4
+      ],
+      [
+        "Annex II",
+        3
+      ],
+      [
+        "RED II",
+        3
+      ],
+      [
+        "the RED II",
+        2
+      ],
+      [
+        "The Paris Agreement",
+        2
+      ],
+      [
+        "Table 1",
+        1
+      ],
+      [
+        "GtC per year",
+        1
+      ],
+      [
+        "Table 5shows",
+        1
+      ],
+      [
+        "Title Year of last revision",
+        1
+      ],
+      [
+        "Table 4",
+        1
+      ],
+      [
+        "Consumption Revolution Strategy",
+        1
+      ],
+      [
+        "Working Hours",
+        1
+      ],
+      [
+        "the International Platform on Sustainable Finance",
+        1
+      ],
+      [
+        "H28 July 2020",
+        1
+      ],
+      [
+        "0.0861 0.0858",
+        1
+      ],
+      [
+        "0.0438 0.0432 0.0440",
+        1
+      ],
+      [
+        "The International PtX Hub",
+        1
+      ],
+      [
+        "L 124, 17.5.2005",
+        1
+      ]
+    ],
+    "TIME": [
+      [
+        "hours",
+        3
+      ],
+      [
+        "hourly",
+        2
+      ],
+      [
+        "26.1.2010",
+        1
+      ],
+      [
+        "as many hours",
+        1
+      ],
+      [
+        "the remaining hours",
+        1
+      ],
+      [
+        "one-hour",
+        1
+      ],
+      [
+        "each hour",
+        1
+      ],
+      [
+        "Hourly",
+        1
+      ],
+      [
+        "one -\nhour",
+        1
+      ],
+      [
+        "daytime",
+        1
+      ]
+    ],
+    "LANGUAGE": [
+      [
+        "to2016",
+        1
+      ]
+    ]
+  }
+}

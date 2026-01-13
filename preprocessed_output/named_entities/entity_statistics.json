@@ -1,0 +1,789 @@
+{
+  "total_entities": 16272,
+  "entity_types": {
+    "CARDINAL": 3982,
+    "ORG": 4237,
+    "PRODUCT": 259,
+    "DATE": 2693,
+    "WORK_OF_ART": 96,
+    "FAC": 22,
+    "NORP": 350,
+    "PERSON": 1707,
+    "GPE": 1206,
+    "PERCENT": 466,
+    "QUANTITY": 111,
+    "ORDINAL": 298,
+    "LOC": 215,
+    "MONEY": 90,
+    "LAW": 467,
+    "EVENT": 43,
+    "TIME": 26,
+    "LANGUAGE": 4
+  },
+  "unique_entities_by_type": {
+    "CARDINAL": 1043,
+    "ORG": 1559,
+    "PRODUCT": 132,
+    "DATE": 805,
+    "WORK_OF_ART": 84,
+    "FAC": 19,
+    "NORP": 91,
+    "PERSON": 904,
+    "GPE": 412,
+    "PERCENT": 272,
+    "QUANTITY": 91,
+    "ORDINAL": 19,
+    "LOC": 43,
+    "MONEY": 77,
+    "LAW": 221,
+    "EVENT": 17,
+    "TIME": 10,
+    "LANGUAGE": 1
+  },
+  "top_entities_by_type": {
+    "CARDINAL": [
+      [
+        "1",
+        297
+      ],
+      [
+        "2",
+        265
+      ],
+      [
+        "3",
+        144
+      ],
+      [
+        "4",
+        97
+      ],
+      [
+        "5",
+        83
+      ],
+      [
+        "zero",
+        73
+      ],
+      [
+        "two",
+        71
+      ],
+      [
+        "6",
+        58
+      ],
+      [
+        "one",
+        58
+      ],
+      [
+        "1.5",
+        57
+      ]
+    ],
+    "ORG": [
+      [
+        "EU",
+        720
+      ],
+      [
+        "Commission",
+        201
+      ],
+      [
+        "GHG",
+        162
+      ],
+      [
+        "the European Parliament",
+        105
+      ],
+      [
+        "EC",
+        91
+      ],
+      [
+        "Council",
+        59
+      ],
+      [
+        "Union",
+        54
+      ],
+      [
+        "CBAM",
+        49
+      ],
+      [
+        "European Commission",
+        43
+      ],
+      [
+        "PtL",
+        38
+      ]
+    ],
+    "PRODUCT": [
+      [
+        "CO 2",
+        55
+      ],
+      [
+        "CO2",
+        18
+      ],
+      [
+        "PtL",
+        9
+      ],
+      [
+        "Table 3.1",
+        8
+      ],
+      [
+        "Annex III",
+        7
+      ],
+      [
+        "RED II",
+        6
+      ],
+      [
+        "CH4",
+        5
+      ],
+      [
+        "SSP1-2.6",
+        4
+      ],
+      [
+        "the CO 2",
+        4
+      ],
+      [
+        "CO 2e",
+        3
+      ]
+    ],
+    "DATE": [
+      [
+        "2030",
+        163
+      ],
+      [
+        "2020",
+        112
+      ],
+      [
+        "2050",
+        100
+      ],
+      [
+        "2021",
+        98
+      ],
+      [
+        "annual",
+        83
+      ],
+      [
+        "2023",
+        75
+      ],
+      [
+        "2025",
+        72
+      ],
+      [
+        "2018",
+        63
+      ],
+      [
+        "2019",
+        57
+      ],
+      [
+        "2024",
+        51
+      ]
+    ],
+    "WORK_OF_ART": [
+      [
+        "The RED II",
+        3
+      ],
+      [
+        "Traceability and Chain of Custody",
+        3
+      ],
+      [
+        "Accenture",
+        3
+      ],
+      [
+        "3881 3881 3881",
+        2
+      ],
+      [
+        "Nature",
+        2
+      ],
+      [
+        "Waste and Residues",
+        2
+      ],
+      [
+        "Geographical \nCorrelation",
+        2
+      ],
+      [
+        "Clean Industrial \nDeal",
+        2
+      ],
+      [
+        "LH 2 Liquid",
+        1
+      ],
+      [
+        "List of Implementing and Delegated Acts",
+        1
+      ]
+    ],
+    "FAC": [
+      [
+        "a)(vi",
+        3
+      ],
+      [
+        "the Bertelsmann Stiftung",
+        2
+      ],
+      [
+        "PV Photovoltaic",
+        1
+      ],
+      [
+        "Heat pump15\nHydrogen",
+        1
+      ],
+      [
+        "Klima -Allianz Deutschland",
+        1
+      ],
+      [
+        "Chile Framework Law",
+        1
+      ],
+      [
+        "Probit",
+        1
+      ],
+      [
+        "the Eurace@ Unibi Model",
+        1
+      ],
+      [
+        "GtCO 2-eq",
+        1
+      ],
+      [
+        "\u2022\u2022\u2022\u2022 \u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022\u2022",
+        1
+      ]
+    ],
+    "NORP": [
+      [
+        "European",
+        97
+      ],
+      [
+        "German",
+        60
+      ],
+      [
+        "D.",
+        28
+      ],
+      [
+        "R.",
+        20
+      ],
+      [
+        "K.",
+        12
+      ],
+      [
+        "Expected",
+        8
+      ],
+      [
+        "C.",
+        5
+      ],
+      [
+        "Hungarian",
+        4
+      ],
+      [
+        "Russian",
+        4
+      ],
+      [
+        "Hydraulic",
+        3
+      ]
+    ],
+    "PERSON": [
+      [
+        "PtX",
+        166
+      ],
+      [
+        "Fig",
+        54
+      ],
+      [
+        "necessar",
+        42
+      ],
+      [
+        "locat ed",
+        22
+      ],
+      [
+        "Articles 3",
+        22
+      ],
+      [
+        "provid ed",
+        20
+      ],
+      [
+        "achi eve",
+        15
+      ],
+      [
+        "al",
+        14
+      ],
+      [
+        "al.",
+        14
+      ],
+      [
+        "G.",
+        12
+      ]
+    ],
+    "GPE": [
+      [
+        "Germany",
+        173
+      ],
+      [
+        "Member States",
+        57
+      ],
+      [
+        "China",
+        36
+      ],
+      [
+        "France",
+        30
+      ],
+      [
+        "Norway",
+        22
+      ],
+      [
+        "Denmark",
+        22
+      ],
+      [
+        "Spain",
+        22
+      ],
+      [
+        "Portugal",
+        21
+      ],
+      [
+        "UK",
+        19
+      ],
+      [
+        "Paris",
+        17
+      ]
+    ],
+    "PERCENT": [
+      [
+        "50%",
+        31
+      ],
+      [
+        "90%",
+        19
+      ],
+      [
+        "67%",
+        15
+      ],
+      [
+        "70%",
+        8
+      ],
+      [
+        "30%",
+        7
+      ],
+      [
+        "10%",
+        6
+      ],
+      [
+        "100%",
+        6
+      ],
+      [
+        "20%",
+        6
+      ],
+      [
+        "5%",
+        5
+      ],
+      [
+        "65%",
+        5
+      ]
+    ],
+    "QUANTITY": [
+      [
+        "100,000 tons",
+        4
+      ],
+      [
+        "200,000 tons",
+        4
+      ],
+      [
+        "1500 ton",
+        3
+      ],
+      [
+        "one tonne",
+        3
+      ],
+      [
+        "less than 2 degrees",
+        2
+      ],
+      [
+        "266 |",
+        2
+      ],
+      [
+        "10 million tons",
+        2
+      ],
+      [
+        "50,000 tons",
+        2
+      ],
+      [
+        "3500 tons",
+        2
+      ],
+      [
+        "750 kg",
+        2
+      ]
+    ],
+    "ORDINAL": [
+      [
+        "first",
+        141
+      ],
+      [
+        "second",
+        48
+      ],
+      [
+        "third",
+        36
+      ],
+      [
+        "fourth",
+        17
+      ],
+      [
+        "First",
+        12
+      ],
+      [
+        "fifth",
+        9
+      ],
+      [
+        "Second",
+        7
+      ],
+      [
+        "tertiary",
+        7
+      ],
+      [
+        "Third",
+        4
+      ],
+      [
+        "13th",
+        2
+      ]
+    ],
+    "LOC": [
+      [
+        "Europe",
+        107
+      ],
+      [
+        "Africa",
+        14
+      ],
+      [
+        "Union",
+        10
+      ],
+      [
+        "Arctic",
+        8
+      ],
+      [
+        "Asia",
+        7
+      ],
+      [
+        "the Green Deal",
+        6
+      ],
+      [
+        "RED III",
+        6
+      ],
+      [
+        "Horizon Europe",
+        5
+      ],
+      [
+        "Earth",
+        5
+      ],
+      [
+        "Latin America",
+        4
+      ]
+    ],
+    "MONEY": [
+      [
+        "10",
+        4
+      ],
+      [
+        "$10",
+        3
+      ],
+      [
+        "0.0003 0.0003 0.0002\nETS",
+        3
+      ],
+      [
+        "0.0616",
+        2
+      ],
+      [
+        "0.1875",
+        2
+      ],
+      [
+        "0.1571",
+        2
+      ],
+      [
+        "0.0852",
+        2
+      ],
+      [
+        "0.822 0.822 0.822",
+        2
+      ],
+      [
+        "EUR 35 billion",
+        2
+      ],
+      [
+        "0.025 0.025 0.028",
+        1
+      ]
+    ],
+    "LAW": [
+      [
+        "Article 2",
+        22
+      ],
+      [
+        "Article 3(1",
+        19
+      ],
+      [
+        "Article 25(1",
+        16
+      ],
+      [
+        "the RED II",
+        11
+      ],
+      [
+        "Article 35",
+        9
+      ],
+      [
+        "Article 17",
+        8
+      ],
+      [
+        "Article 4",
+        7
+      ],
+      [
+        "Article 29(2",
+        7
+      ],
+      [
+        "the Delegated Act",
+        7
+      ],
+      [
+        "Article 4(1",
+        6
+      ]
+    ],
+    "EVENT": [
+      [
+        "Annex II",
+        8
+      ],
+      [
+        "the Paris Agreement",
+        8
+      ],
+      [
+        "RED II",
+        6
+      ],
+      [
+        "the RED II",
+        6
+      ],
+      [
+        "The Paris Agreement",
+        2
+      ],
+      [
+        "Table 1",
+        1
+      ],
+      [
+        "Table 4",
+        1
+      ],
+      [
+        "Title Year of last revision",
+        1
+      ],
+      [
+        "GtC per year",
+        1
+      ],
+      [
+        "Table 5shows",
+        1
+      ]
+    ],
+    "TIME": [
+      [
+        "hourly",
+        10
+      ],
+      [
+        "hours",
+        6
+      ],
+      [
+        "26.1.2010",
+        2
+      ],
+      [
+        "%",
+        1
+      ],
+      [
+        "as many hours",
+        1
+      ],
+      [
+        "the remaining hours",
+        1
+      ],
+      [
+        "one-hour",
+        1
+      ],
+      [
+        "each hour",
+        1
+      ],
+      [
+        "Hourly",
+        1
+      ],
+      [
+        "one -\nhour",
+        1
+      ]
+    ],
+    "LANGUAGE": [
+      [
+        "to2016",
+        4
+      ]
+    ]
+  },
+  "entities_per_document": {
+    "doc_001": 501,
+    "doc_002": 184,
+    "doc_003": 129,
+    "doc_004": 222,
+    "doc_005": 955,
+    "doc_006": 477,
+    "doc_007": 102,
+    "doc_008": 1587,
+    "doc_009": 562,
+    "doc_010": 724,
+    "doc_011": 212,
+    "doc_012": 30,
+    "doc_013": 1641,
+    "doc_014": 800,
+    "doc_015": 2482,
+    "doc_016": 3407,
+    "doc_017": 687,
+    "doc_018": 105,
+    "doc_019": 1148,
+    "doc_020": 317
+  },
+  "avg_entities_per_doc": 813.6,
+  "documents_processed": 20
+}

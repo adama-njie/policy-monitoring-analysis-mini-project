@@ -1,0 +1,1606 @@
+Transitioning the EU Chemical Sector i
+Contents | 
+Transitioning the 
+EU Chemical Sector
+December 2025Policy levers to support viability and 
+increase sustainable finance
+EU Sectoral Briefings: 
+#1
+Disclaimer 
+The designations employed and the presentation of material in this publication do not 
+imply the expression of any opinion whatsoever on the part of the Secretariat of the 
+United Nations or the European Banking Federation concerning the legal status of any 
+country, territory, city, or area or of its authorities, or concerning the delimitation of its 
+frontiers or boundaries.
+Mention of a commercial company or product in this document does not imply 
+endorsement by the United Nations Environment Programme, the European Banking 
+Federation, or the authors. The use of information from this document for publicity or 
+advertising is not permitted. Trademark names and symbols are used in an editorial 
+fashion with no intention of infringement of trademark or copyright laws.
+The views expressed in this publication are those of the authors and do not necessarily 
+reflect the views of the United Nations Environment Programme or the European Banking 
+Federation. We regret any errors or omissions that may have been unwittingly made.
+© Maps, photos and illustrations as specified.
+Suggested citation: United Nations Environment Programme Finance Initiative (2025): 
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase 
+sustainable finance. Geneva.
+Cover image: unsplash.com/photos/white-and-blue-factory-under-blue-sky-during-
+daytime
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance iii
+Contents | AcknowledgementsAcknowledgements
+Authors
+Rocio Falcones (UNEP FI) 
+Mia Brinkmann (UNEP FI) 
+Lilly Bidenharn (UNEP FI) 
+Elodie Feller (UNEP FI) 
+Denisa Avermaete (EBF) 
+Janis Priekulis (EBF) 
+Gwen Yu
+The following UNEP FI reviewers have contributed by providing valuable written feedback 
+(in alphabetical order): Careen Abb, Ana Bachurova, Daniel Bouzas, Guilherme Cassaro, 
+Emily Dahl, Johanna Dichtl, Peggy Lefort, Simon Messenger, Joana Pedro, Jan Raes, 
+Benjamin Warr.
+We would also like to acknowledge Jacqueline Alvarez and the UNEP Chemicals branch 
+for their insights that helped shape the scope of this paper.
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance iv
+Contents | Acronyms and abbreviationsAcronyms and abbreviations
+APIs Active pharmaceutical ingredients
+BRS Basel, Rotterdam and Stockholm Conventions
+CBAM Carbon Border Adjustment Mechanism
+CCUS Carbon capture, utilization, and storage
+CCfDs Carbon contracts for difference
+CEA Circular Economy Act
+CEAP Circular Economy Action Plan
+cGMP Current Good Manufacturing Practice
+CID Clean Industrial Deal
+CISAF Clean Industrial Deal State Aid Framework
+CSRD Corporate Sustainability Reporting Directive
+EBF European Banking Federation
+ECHA European Chemical Agency
+EIB European Investment Bank
+ETS2 Emissions Trading System 2
+GBF Kunming-Montreal Global Biodiversity Framework
+GFC Global Framework on Chemicals
+ICT Information and communications technology
+IDB Industrial Decarbonization Bank
+IEA International Energy Agency
+IOMC Inter-Organization Programme for the Sound Management of Chemicals
+MFF Multiannual Financial Framework
+PFAS Per- and polyfluoroalkyl substances (“forever chemicals”)
+PPA Power purchase agreement
+PPWR Packaging and Packaging Waste Regulation
+REACH Registration, Evaluation, Authorisation and Restriction of Chemicals (Law)
+SUPD Single-Use Plastics Directive
+UNEP United Nations Environment Programme
+UNEP FI United Nations Environment Programme Finance Initiative
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance v
+ContentsContents
+Acknowledgements ..................................................................................................... iii
+Acronyms and abbreviations ....................................................................................... iv
+Executive summary ...................................................................................................... vi
+Part 1: The EU chemical sector’s role in the sustainability transition ........................ 1
+1.1 Market overview ................................................................................................................ 1
+1.2 Sustainability footprint .................................................................................................... 2
+1.3 Mitigation potential and EU objectives ........................................................................ 3
+1.4 Interdependence with other industries ........................................................................ 4
+Part 2: Policies affecting the EU chemical sector ...................................................... 6
+Part 3: Policy levers to support viability and increase sustainable finance ............... 8
+De-risking; enhancing bankability and investment viability .................................. 10
+3.1 Innovating funding mechanisms, initiatives, & tools to enhance bankability ....10
+3.2 Scaling circular and resource-efficient models to enhance 
+investment viability ......................................................................................................... 11
+Enabling environment for the chemical sector ....................................................... 12
+3.3 Enhancing data transparency and standardization for informed 
+investment decisions .................................................................................................... 12
+3.4 Reducing administrative burden across the value chain, especially for SMEs ... 12
+Ensuring a coherent and horizontal policy approach ............................................. 13
+3.5 Integrating policy frameworks for a sustainable and competitive transition ....13
+3.6 Ensuring long-term policy stability to drive sustainable transformation ............ 14
+3.7 Encouraging banks to engage with policymakers and clients to 
+support a transition that upholds environmental safeguards .............................. 14
+Part 4: Examples from interdependent sectors ......................................................... 15
+Part 5: Next steps ...................................................................................................... 16
+Annex 1: UNEP FI Impact Radar and Sectors Mapping ............................................ 17
+Annex 2: EU and global policies and initiatives affecting the chemical sector ....... 19
+Annex 3: EU funding mechanisms to help reach the objectives that are part of 
+the EU’s Chemicals Strategy for Sustainability ........................................ 23
+Annex 4: Stakeholders of the EU chemical sector .................................................. 24
+References ................................................................................................................ 25
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance vi
+Contents | Executive summaryExecutive summary 
+The European Union’s chemical sector is the second-largest globally (Cefic, 2024a), 
+making up the bloc’s fourth-largest manufacturing industry, underpinning critical value 
+chains across sectors, and employing over a million people (European Commission, 
+2025g). However, the EU chemical sector faces declining global market share, high 
+energy costs, and rising sustainability pressures that limit its bankability. The sector’s 
+heavy reliance on toxic substances and fossil-based feedstocks make it a major source 
+of pollution and contribute 5% of EU total net greenhouse gas emissions (EEA, 2025c). 
+Its transformation is essential to help address the triple planetary crisis of climate 
+change, pollution, and biodiversity loss. Leveraging the EU’s highly skilled workforce 
+and strong innovation capacity is necessary to accelerate the shift towards safe, 
+circular, and low-carbon chemical production and to deliver climate, economic, and 
+social gains, which in turn can enhance sustainability and strengthen competitiveness. 
+This brief presents a landscape analysis of the sector and current and forthcoming 
+policies that are relevant to its transformation. Its primary focus is to help financial 
+institutions and other stakeholders understand how Europe’s chemical sector is 
+developing within the sustainable transformation, including key policies affecting it. 
+It also identifies practical policy levers that can help banks strengthen their role in 
+financing the chemical transition. 
+Three areas of focus
+ ◾Part 1: The EU chemical sector: overview and role in the sustainability transition:
+A market overview of the sector and its economic value, sustainability footprint, 
+mitigation potential, and related EU objectives for its transformation.
+ ◾Part 2: Policies affecting the EU chemical sector: 
+International and regional policies including the Global Framework on Chemicals, 
+the 2025 EU Chemicals Industry Package, and related policies such as the EU Clean 
+Industrial Deal and Industrial Decarbonization Bank. 
+ ◾Part 3: Policy levers to support viability and increase sustainable finance:
+1) De-risking; enhancing bankability and investment viability; 2) Enabling environment 
+for the chemical sector; and 3) Ensuring a coherent and horizontal policy approach.
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance vii
+Contents | Executive summaryMain takeaways
+The main takeaways by focus area are highlighted in Tables ES1 and ES2 .
+Table ES1: Main takeaways by focus area
+The EU chemical sector: Overview and role in the sustainability transition
+ ◾EU chemical industry overview: The chemical sector is central to Europe’s industrial 
+competitiveness as the EU is the second-largest chemical producer globally, with a share of 
+12.6% global sales in 2023 (Cefic, 2024a). It is also the fourth-largest manufacturing industry in 
+the EU (European Commission, 2025g).
+ ◾Sustainability footprint: At the EU level, the chemical sector remains a notable source of 
+hazardous emissions despite ongoing efforts to reduce the output of pollutants, including 
+water and groundwater contamination, soil degradation, microplastic accumulation, and GHG 
+emissions (EEA, 2025b; Cefic, n.d.). The chemical sector in the EU will need to reduce GHG 
+emissions by approximately 164 million tons from 2019 levels to reach the EU’s 2050 net-zero 
+goals (Accenture, 2022).
+ ◾Sustainable transformation for workforce and sector resilience: The sector employs 
+~1.2 million people across roughly 29,000 companies through direct jobs and supporting 
+19 million jobs across supply chains in Europe (European Commission, 2025g). Ensuring a 
+sustainable transformation of the sector is therefore vital to preserve and enhance its social 
+and economic contributions while aligning with environmental and social objectives.
+ ◾Interconnected benefits of sector transformation: Supplying materials across other critical 
+sectors from agriculture and food to healthcare, energy, consumer goods, mining, and others, 
+the EU chemical sector helps shape these sectors’ environmental and human rights impacts. 
+Reduction of pollution and GHG emissions can lead to economic benefits related to safety and 
+health, stronger biodiversity and ecosystem services, and greater resilience to climate change 
+impacts (WHO, 2025; WHO, 2017; EEA, 2022). 
+Policies affecting the EU chemical sector
+ ◾The Global Framework on Chemicals: Adopted under UNEP in September 2023, the Global 
+Framework on Chemicals sets out five strategic objectives and 28 targets for the sound 
+management of chemicals and waste and provides a shared vision for a safe, healthy, and 
+sustainable future (UNEP , 2024b). It also reflects a shift in perspective towards a sector-based 
+approach, while at the same time addressing the critical interdependencies between sectors 
+on a systemic level. 
+ ◾The Chemicals Industry Package: At the EU level, the European Commission presented 
+the Chemicals Industry Package as part of its 2025 Work Program (European Commission, 
+2025g). Key initiatives will include a revision of the Registration, Evaluation, Authorization 
+and Restriction of Chemicals (REACH) regulation; establishment of a new European 
+Chemicals Agency (ECHA) Basic Regulation; establishment of a Critical Chemicals Alliance; 
+implementation of policies to promote clean energy affordability and circular economy 
+solutions; proposed science-based restrictions on PFAS; and integration with the EU Omnibus 
+Simplification Package, among other relevant EU policies. 
+ ◾Other policies affecting the EU chemical sector: The EU’s broader climate and industrial 
+policy framework is set to reshape the chemicals sector by covering emissions targets, driving 
+decarbonization, and advancing circularity. Key examples are the European Climate Law (2021), 
+the Clean Industrial Deal (2025)-integrating measures such as the Industrial Decarbonization 
+Accelerator Act (2025) and the Industrial Decarbonization Bank (2026)-the Circular Economy 
+Act (2026), the Packaging and Packaging Waste Regulation (2025) and the The European Pillar 
+of Social Rights Action Plan (2025 review) (European Commission).
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance viii
+Contents | Executive summaryPolicy levers to support viability and increase sustainable finance
+ ◾Chemical sector leads EU manufacturing investments: The chemical sector leads in EU27 
+manufacturing investments, with nearly 18% of the total investment-and 25% of chemical 
+sector investment in petrochemicals (European Commission, 2025h; Cefic, 2024a). 
+ ◾Financing gaps and market challenges: Varying estimates show annual financing gaps on 
+the order of tens of billions of euros (European Commission, 2025h; Accenture, 2022), in part 
+attributable to structural barriers including higher cost base, weak demand, and competitive 
+pressure. Inclusion of the sector in relevant indices, sustainable funds, and green bond 
+issuances remains relatively low, as further explored in part 3.
+ ◾Potential policy levers: The sector’s sustainability pressures, regulatory shifts, and investment 
+constraints underscore the need for coordinated solutions. Table ES2 illustrates seven levers 
+across three topics that have been identified through this brief as having potential to increase 
+bankability of the EU chemical sector. These policy levers have the potential to unlock new 
+market opportunities, strengthen risk management, and accelerate capital deployment into 
+low-carbon and circular solutions. 
+Table ES2: Potential policy levers to support viability and increase sustainable finance
+Topic Policy levers
+De-risking mechanisms to 
+improve the bankability and 
+investment viability of the 
+EU chemical sector1. Innovating funding mechanisms, initiatives, and 
+tools to enhance bankability.
+2. Scaling circular and resource-efficient models to 
+enhance investment viability.
+Enhancing the enabling 
+environment for the 
+chemical sector to transition3. Enhancing data transparency and standardization 
+for informed investment decisions. 
+4. Reducing administrative burden across the value 
+chain, especially for SMEs.
+Ensuring a coherent and 
+horizontal policy approach 
+to the chemical sector 
+transition and financing5. Integrating policy frameworks for a sustainable and 
+competitive transition.
+6. Ensuring long-term policy stability to drive 
+sustainable transformation.
+7. Encouraging banks to engage with policymakers 
+and clients to support a transition that upholds 
+environmental safeguards.
+Examples and next steps
+The brief includes four examples from interdependent sectors of materials recycling, 
+energy, transport, and agriculture, illustrating how targeted financing instruments, 
+guarantees, and blended finance structures can de-risk investments, mobilize private 
+capital, and accelerate clean technologies.
+The following timeline highlights some relevant upcoming EU policies that will 
+influence the competitiveness, decarbonization and circularity of the chemical sector.
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance ix
+Contents | Executive summary
+Q4 2025 Q4 2025 Q2 2026 2026+
+REACH 
+RegulationIndustrial 
+Decarbonization 
+Accelerator ActIndustrial 
+Decarbonization 
+BankCircular 
+Economy Act
+In the coming months, stakeholders should prepare for new consultations and funding 
+calls tied to upcoming initiatives. The Chemicals Industry Package is expected to link 
+closely with the Clean Industrial Deal and Industrial Decarbonization Bank, opening 
+up opportunities for blended finance, guarantees, and de-risking tools to accelerate 
+investment in low-carbon and circular chemistry. Monitoring these initiatives will be 
+essential to anticipate regulatory impacts, align transition strategies, and engage early 
+with the Commission’s implementation process.
+About this policy brief series
+This policy brief is the first in a series on EU sectoral policy, developed by UNEP 
+Finance Initiative (UNEP FI) and the European Banking Federation (EBF) to strengthen 
+the connection between financial institutions, policymakers, and the real economy. 
+This series complements additional UNEP FI related work-such as the United Nations 
+Principles for Responsible Banking (PRB) Guidance Series on Sectoral and Client 
+Engagement, PRB Target Setting on Financial Health and Inclusion, Sectors Mapping , 
+Impact Radar , and the Regulatory Implementation Support Programme (RISP)-by 
+providing a policy-focused counterpart that helps banks understand the evolving 
+EU policy landscape and identify policy levers to finance real economy transitions. 
+Together, these resources aim to bridge the investment gap in relevant sectors 
+and support the integration of sustainability objectives into banking strategies and 
+portfolios. 
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance 1
+Contents | Part 1: The EU chemical sector’s role in the sustainability transitionPart 1: The EU chemical sector’s 
+role in the sustainability transition
+1.1 Market overview 
+The chemical sector is central to Europe’s industrial competitiveness as the EU is the 
+second-largest chemical producer globally with a share of 12.6% global sales in 2023 
+(Cefic, 2024a). 
+Overview of the EU chemical sector
+Major manufacturing sector 
+4th largest manufacturing 
+industry in the EU.
+Top producing countires 
+Germany, France, Italy and the 
+Netherlands make up two thirds 
+of EU chemical sales.
+Strong employment 
+1.2 million people employed 
+in 2020.
+Trade impact 
+Chemical represents 9.3% of 
+exports and 9.9% of imports (2023).
+Key supplier 
+Over 50% of output supports 
+critical sectors.
+Industry structure 
+While 96% are SMEs, large firms (4%) 
+generate 70% of sales.
+Figure 1: Overview of the EU chemical sector
+Despite being the EU’s fourth-largest manufacturing industry, the EU chemical sector 
+has seen its global market share decline over the past decade (European Commission, 
+2025g; Cefic, 2024a; Lorbeer and Ezekoye, 2024), with structural barriers impacting the 
+sector’s ambitions around its transformation and sustainability efforts: 
+ ◾Sinking profit margins due to higher feedstock costs, destocking post-Covid-19 and 
+weaker demand are pushing production towards lower cost regions outside of Europe 
+with less stringent environmental standards (Cefic, 2025a). 
+ ◾Recent tariffs, potential trade wars, and supply chain risks create uncertainty.
+ ◾Energy costs are rising, while energy return on investment is declining, due to a 
+variety of factors including international conflicts.
+ ◾Lack of adequate regulatory pressure, for example due to challenges in attribution 
+of harm of low dose chemical cocktails, may result in lock in of hazardous processes 
+(Blumenthal et.al., 2022; Kortenkamp, 2014).
+ ◾Innovative approaches to circular value chains are struggling to compete with 
+low-cost imports, undermining business viability and leading to market exits such as 
+the closure of recycling facilities (EuRIC, 2025; S&P Global, 2025).
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance 2
+Contents | Part 1: The EU chemical sector’s role in the sustainability transitionInnovation and investment are consequently becoming more critical to sustain the 
+sector’s resilience and accelerate its sustainable transition.
+With a highly skilled workforce and strong innovation capacity, the EU leads in early-
+stage green technologies, including sustainable chemical processes. The challenge is to 
+translate this innovation into scalable, competitive production. If successful, the sector 
+can help demonstrate that clean, high-value manufacturing is viable, reinforcing the EU’s 
+leadership in a sustainable industrial transformation (Cleantech for Europe, 2025).
+1.2 Sustainability footprint 
+The chemical sector is associated with multiple sustainability topics across the 
+Sustainable Development Goals (SDGs), affecting all three interlinked issues of the triple 
+planetary crisis-climate change, pollution and biodiversity loss (UNEP , 2024a)-as well 
+as social sustainability. Some of the main topics are explored in further detail below.
+The chemical sector is the major global source of pollution across air, water, and soil in 
+the form of hazardous introduced chemicals and residual chemical emissions. It also 
+accounts for 5% of total net GHG emissions. Figure 2 illustrates the different stages of 
+the chemical value chain where hazardous chemicals originate, highlighting the need 
+for deep transformation that addresses pollution holistically. The sector’s high energy 
+intensity is driven largely by its reliance on fossil-based feedstocks, with about 50% of 
+total energy input used as feedstock. Combined with the significant energy needed for 
+processing, production, and supply chain logistics, this reliance makes decarbonization 
+particularly challenging (IEA, 2023).
+Figure 2: The chemical value chain (EEA, 2023)
+Environmental impacts of the chemical sector affect human health through direct 
+exposure of communities and workers on production sites; through contaminated air, 
+water, and soil affecting downstream consumers; and through diminishing ecosystem 
+services that are central to human health. Failure to ensure occupational safety and 
+health exposes workers to hazardous conditions while weakening productivity and 
+economic competitiveness (WHO, 2017). Consumers’ exposure to harmful chemicals is 
+linked to cancer, reproductive harm, and endocrine disruption (EEA, 2022). Ecosystems 
+provide crucial services like air purification or disease control; their degradation 
+reduces these benefits (WHO, 2025). Combatting the sector’s contribution to pollution 
+additionally has the potential to safe direct and indirect economic costs, for example 
+caused by reduced crop yields, loss of tourism revenue, or reduced labor productivity 
+(UNEP FI, 2024c). Detailed information on the UNEP FI Impact Radar showing areas and 
+topics across the pillars of sustainable development as well as an extraction of the UNEP 
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance 3
+Contents | Part 1: The EU chemical sector’s role in the sustainability transitionFI Sectors Mappings showing the positive and negative sector-impact associations 
+contained within the chemicals sector can be found in Annex 1 .
+At the EU level, the chemical sector remains a notable source of hazardous emissions 
+despite ongoing efforts to reduce the output of pollutants (Cefic, n.d.; EEA, 2025b):
+ ◾Water contamination: Only 29% of EU surface waters achieved good chemical status 
+(2016-2021), mainly due to persistent pollutants like mercury and brominated flame 
+retardants.
+ ◾Groundwater contamination: 77% of groundwater areas met good chemical 
+standards (2016-2021), leaving 23% in poor condition due to ongoing contamination.
+ ◾Soil degradation: Use of synthetic chemicals continues to degrade soil health, with 
+residues of banned pesticides and persistent organic pollutants still detected.
+ ◾Microplastic accumulation: Between 31,000 and 42,000 tonnes of microplastics 
+accumulate annually in EU farmland soils, largely through sewage sludge application.
+ ◾GHG emissions: Despite recent decoupling trends, the chemical sector accounts for 
+5% of the EU’s GHG emissions. 
+Ensuring a sustainable transformation of the sector is vital to preserve and enhance 
+its social and economic contributions while aligning with environmental and social 
+objectives. 
+1.3 Mitigation potential and EU objectives
+Transforming chemical production in response to the sector’s environmental and 
+health challenges offers interconnected benefits. For example, the removal of toxic 
+chemicals from plastics has been estimated to also result in economic benefits of 
+around USD 2.0 trillion by avoiding associated deaths (Cropper et.al., 2024). Cleaner and 
+circular production further protects biodiversity and ecosystem services, strengthening 
+resilience to climate change and contributing to long-term food and water security. 
+Renewable energy can lower costs and enhance energy security by facilitating 
+independence from geopolitical conflicts, which can help boost the competitiveness of 
+the EU chemical sector. 
+The sector is enhancing product, process, and ecosystem innovation to alleviate 
+some of the associated challenges, with a particular emphasis on feedstock sourcing 
+and advances in circularity (Yankovitz et al., 2024). Examples of innovation include 
+developing products based on renewable feedstocks, making production processes 
+cleaner through more advanced technologies, and helping minimize harm to ecosystems 
+by implementing improved recycling practices. The chemical sector in the EU will need 
+to reduce GHG emissions by approximately 164 million tons from 2019 levels to reach 
+the EU’s 2050 net-zero goals (Accenture, 2022). Some initial progress in decoupling 
+emissions from increased output has been demonstrated, keeping emissions at a 
+relatively stable level since 2015 (Cefic, 2024a; EEA, 2025c). Carbon capture, utilization, 
+and storage (CCUS) offers one opportunity to mitigate hard-to-abate CO2 emissions 
+in the future. However, the technology faces some limitations and uncertainties in its 
+commercial readiness, scalability, infrastructure, and long-term viability (Cefic, 2024b). 
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance 4
+Contents | Part 1: The EU chemical sector’s role in the sustainability transitionSystemic interventions-such as circularity strategies, material substitution, demand 
+reduction, and increased product-use efficiency-are most essential to drive the 
+chemical sector’s sustainable transformation.
+The EU has set specific objectives for different parts of the chemical sector to guide 
+its transition. Situated within the EU Green Deal, the EU Chemicals Strategy for 
+Sustainability sets out a dual objective to 1) better protect citizens and the environment 
+from the impacts of the chemical sector and 2) boost innovation for safe and 
+sustainable chemicals to enhance the EU’s competitiveness (European Commission, 
+2020). In parallel, the sector is undertaking a “twin transition”, both green and digital. 
+The Commission’s Transition Pathway highlights the sector’s role in a circular economy, 
+from designing safe and sustainable chemicals to advancing recyclable material cycles 
+and recycling infrastructure (European Commission, 2023b). Digitalization, through tools 
+like product passports and shared data platforms, is understood as key to transparency, 
+traceability, and efficiency. In addition, the EU’s new Climate Law-aligned sectoral 
+decarbonization pathways offer quantitative guidance for aligning industry strategies 
+with the EU’s 2050 climate-neutrality objective, including three pathways directly 
+addressing chemical subsectors and several pathways addressing interdependent 
+subsectors (European Commission, 2025f).
+1.4 Interdependence with other industries 
+The EU chemical sector supplies essential materials and products across other critical 
+sectors, shaping these industries’ environmental impacts. Strong interdependencies also 
+have an effect on the protection of human rights within the chemical sector and its value 
+chains. While there are duties to respect environmental protection and human rights 
+throughout a company’s value chain, interdependencies with other sectors complicate 
+the ability to identify, prevent, and address risks, making it essential to understand 
+these mutual reliances (see Table 1 for a consolidated overview of key sectoral 
+interdependencies). 
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance 5
+Contents | Part 1: The EU chemical sector’s role in the sustainability transitionTable 1: Key interdependencies between the chemical sector and other critical sectors
+SectorChemical sector 
+contributionsKey interdependencies
+Agriculture 
+& foodFertilizers, pesticides, crop 
+protection products, food 
+preservatives, packaging, 
+plasticsIn conventional agricultural practices, 
+agrochemicals are heavily used, aiming for 
+increased yields, food security, and pest control; 
+precision agri-inputs, bio stimulants, circular 
+and regenerative practices and regenerative 
+practices enable more sustainable farming.
+Healthcare & 
+pharmaceuticalsMedicines, vaccines, 
+diagnostics, medical devices, 
+hospital supplies, plastic 
+packagingSector is dependent on active pharmaceutical 
+ingredients (APIs), solvents, 
+and excipients from chemicals; joint R&D in 
+advanced drug delivery; strict Current Good 
+Manufacturing Practice (cGMP) and 
+regulatory standards.
+Energy Refining oil/gas, production 
+of hydrogen, batteries, 
+wind turbine resins, 
+ solar photovoltaics 
+(PV), hydropower Clean energy technologies rely on chemical 
+processes and materials; collaboration drives 
+carbon capture and next-generation solutions.
+Construction 
+& infrastructureCement additives, insulation, 
+plastics, coatings, adhesives, 
+compositesChemicals enable energy efficiency and 
+durability in buildings; innovations like carbon-
+negative cement and bio-based insulation 
+support green standards.
+Transport 
+& automotiveFuels, lubricants, 
+composites, plastics, 
+adhesives, EV batteriesAdvanced materials underpin EV safety, 
+performance, and recyclability; recycling systems 
+reduce reliance on critical raw materials.
+Textiles & 
+consumer goodsSynthetic fibres, dyes, 
+plastics, detergents, 
+cosmetics, cleaning 
+productsSector relies on polymers and fibres; shift 
+underway toward biomaterials, recyclables, and 
+more sustainable consumer products.
+Electronics & ICT Semiconductors (heavy 
+input of water and silicon), 
+circuit boards, displays, 
+plastics, specialty chemicals 
+for chip production Specialty chemicals are essential for 
+semiconductors and electronics; innovation 
+targets recyclable and sustainable materials.
+Mining Reagents for ore processing 
+(e.g. flotation agents, 
+lixiviants), explosives, 
+dust suppressants, water 
+treatment chemicalsChemicals are essential in mineral extraction 
+and processing; mining supplies critical raw 
+materials (e.g. lithium, cobalt, rare earths) to the 
+chemical sector; mutual reliance on innovation 
+for circularity and sustainability.
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance 6
+Contents | Part 2: Policies affecting the EU chemical sectorPart 2: Policies affecting the EU 
+chemical sector
+The chemical sector is influenced by international frameworks and a wide range of 
+EU policies. These policies entail chemicals-specific regulations, as well as broader, 
+cross-sectoral initiatives that indirectly impact the sector by setting sustainability and 
+competitiveness goals. In addition, it is affected by social and just transition initiatives. 
+Internationally, the Global Framework on Chemicals, adopted under UNEP in September 
+2023, sets out five strategic objectives and 28 targets for the sound management of 
+chemicals and waste and provides a shared vision for a safe, healthy, and sustainable 
+future (UNEP , 2024b). It also reflects a shift in perspective towards a sector-based 
+approach, while at the same time addressing the critical interdependencies between 
+sectors on a systemic level. Shifting to a sector-based approach can enable more 
+strategic collaboration with key stakeholders and implementation of comprehensive 
+solutions.
+At the EU level, the European Commission presented the Chemicals Industry Package 
+as part of its 2025 Work Program, to strengthen the competitiveness, sustainability, and 
+modernization of the sector (European Commission, 2025g). Key initiatives will include:
+ ◾A revision of the Registration, Evaluation, Authorisation and Restriction of 
+Chemicals (REACH) Regulation, to simplify rules for the chemicals industry without 
+compromising on safety or environmental protection.
+ ◾A new European Chemicals Agency (ECHA) Basic Regulation that will establish an 
+autonomous legal framework to enhance the Agency’s operational efficiency and 
+regulatory clarity. It will streamline scientific opinion delivery, unify budgets, and 
+transfer governance provisions currently embedded in the REACH Regulation into 
+the new standalone framework.
+ ◾The establishment of a Critical Chemicals Alliance of member states and 
+stakeholders to address the risks of capacity closures and ensure fair competition. 
+It will coordinate investment priorities, provide policy support to strategic production 
+sites, and reinforce trade defence and import monitoring.
+ ◾The swift implementation of the Affordable Energy Action Plan to lower energy 
+and feedstock costs. The plan includes launching tripartite contracts that connect 
+governments, clean energy producers, and industrial consumers to stabilize energy 
+prices, boost investment in offshore wind and storage, and help deliver up to 88 
+GW of offshore renewables and 200 GW of storage capacity by 2030 (European 
+Commission, 2025d).
+ ◾The promotion of circular economy solutions by creating Innovation and Substitution 
+Hubs and providing fiscal incentives to stimulate demand for clean chemicals, 
+mobilizing Horizon Europe funding to accelerate the development of safer substitutes, 
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance 7
+Contents | Part 2: Policies affecting the EU chemical sectorand leveraging the Circular Economy Act to unlock secondary material markets and 
+boosting recycling and bio-based inputs (European Commission, 2025e). 
+ ◾A proposition of a science-based restriction on PFAS emissions, allowing their use 
+only in critical applications. Promotion of remediation based on the polluter pays 
+principle, and prioritization of the development of safer alternatives.
+ ◾An integration with the Omnibus Simplification Package, expected to save EUR 363 
+million annually by streamlining labelling, cosmetics rules, and fertilizer registration. 
+Table 2 summarizes other key EU policies, and their main objectives. A table containing 
+a broader, yet non-exhaustive, range of relevant policies can be found in Annex 2 . 
+Table 2: Other key EU policies and objectives
+Policy/initiative Description Key dates
+Clean Industrial 
+Deal (CID)Aligns industrial strategy with decarbonization, resource 
+efficiency, and competitiveness through green innovation 
+and procurementLaunched 
+Q1 2025
+Industrial 
+Decarbonization 
+Accelerator Act*Accelerates permitting for decarbonization and 
+infrastructure, introduces clean product criteria, and 
+low-carbon labellingExpected 
+Q4 2025
+Circular economy 
+action plan (CEAP) & 
+the Circular Economy 
+Act (CEA)*The second circular economy action plan (CEAP) aims to 
+reduce waste and enhance sustainability, while the Circular 
+Economy Act, under the CID, will establish a Single Market 
+for secondary raw materials to boost supply and demand 
+for high-quality recycled inputsCEAP: 
+Adopted Q1 
+2020; CEA 
+expected 
+
+Packaging and 
+Packaging Waste 
+Regulation (PPWR)*Sets new EU-wide rules to reduce packaging waste, 
+promote reuse and recycling, and limit harmful substancesLaunched 
+Q1 2025
+Industrial 
+Decarbonization BankMobilizes EUR 100 billion to fund green industrial transition 
+through grants, guarantees, and contracts for differenceExpected 
+Q2 2026 
+Clean Industrial Deal 
+State Aid Framework* 
+as part of CIDSimplifies state aid rules to support clean tech, reduce 
+industrial energy costs, and de-risk private investmentsLaunched 
+Q2 2025
+PPA Pilot (EIB) EUR 500 million program to de-risk clean energy for 
+energy-intensive firms via counter-guaranteesProposed 
+
+Occupational Safety 
+and Health Framework 
+(EU Adoption)*Strengthens workplace safety and supports modernization 
+in chemical facilitiesOutlined for 
+the years 
+2021-2027
+Just Transition Fund Financial support to help carbon-intensive regions diversify, 
+reskill workers, and modernize facilitiesDuration 
+2021-2027 
+Agenda Vision for 
+Agriculture and FoodTightens pesticide rules and aligns trade standards, 
+influencing chemical demandPresented 
+
+* These policies currently have or will have partial or full legally binding components
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance 8
+Contents | Part 3: Policy levers to support viability and increase sustainable financePart 3: Policy levers to 
+support viability and increase 
+sustainable finance 
+From an investment perspective, chemicals (including pharmaceuticals, rubber, 
+and plastics) take the lead in EU27 manufacturing, constituting 17.7% of the total 
+investment, with automotive and food following. The petrochemicals sector accounts 
+for more than 25% of the EU27 chemical sector’s overall investment (Cefic, 2024a; 
+European Commission, 2025h). Similar to most players in the real economy, the 
+chemical sector obtains capital through internal financing, loans, and public and private 
+equity and debt markets.
+Estimating investment requirements for the chemicals sector is very challenging and 
+may vary significantly. The European Commission estimates that, out of the total 
+estimated annual investment need of EUR 35 billion for industry between 2030 and 
+2050 to meet climate targets, the chemicals sector accounts for 37%, representing an 
+estimated annual need of EUR 12.95 billion (European Commission, 2025h). However, 
+another estimate shows that funding net-zero initiatives in the chemical sector alone-
+one of the hardest-to-abate sectors-would require EUR 35 billion yearly based on a 2022 
+report, with a financing gap estimated at EUR 12.6 billion (Accenture, 2022).
+Some of the structural barriers explored in Chapter 1.1 translate into factors causing 
+unfavorable financing and investment conditions in the sector, including sustainable 
+funds, that also show limited exposure to chemical companies: 1) higher feedstock and 
+energy cost, including two to five times those of the U.S and China; 2) end consumer 
+demand for the sector has flattened, for example in consumer goods among others; 
+and 3) excess supply from lower cost markets. Given a higher cost base, weak demand, 
+and competitive pressure, bond and loan market pricing are reflecting these negative 
+pressures, including lower earnings results leading to decreasing stock prices and 
+ratings downgrades for companies in the sector (Pitchbook, 2025).
+As a proxy for investor sentiment in the sector, inclusion of this sector in relevant 
+indices remains low, in Europe and beyond. For example, under the MSCI ACWI index, 
+the chemical sector is classified under Materials among other sectors like construction 
+and metals and mining (MSCI, 2024). Materials make up 3.44% of the index’s sector 
+weighting, so the chemicals subsector inevitably weighs less (MSCI, 2025). For the 
+STOXX Europe 600 Index, chemicals as a super-sector make up 3.61% of its sector 
+weighting. Sector categories may vary across data providers in indices and may not be 
+completely comparable (STOXX, n.d.).
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance 9
+Contents | Part 3: Policy levers to support viability and increase sustainable financeBased on the top 10 sustainable funds over five years according to Morningstar, only a 
+few include chemical companies (Morningstar, 2024). Some of the factors contributing 
+to this include recent performance decline. According to a McKinsey study, since 2024 
+the chemical sector has not outperformed the market compared to the MSCI World 
+Index (Lorbeer & Ezekoye, 2024).
+The chemical sector has had a relatively small percentage of green bond issuances. Of 
+the USD 583.9 billion (EUR ~497.3 billion) green bond issuance in 2024 (ICE, 2024), only 
+USD 5.5 billion (EUR ~4.8 billion) was from the chemical sector (Bloomberg terminal, 
+August 25, 2025). From 2024 to July 2025, there were 22 green bond issuances totalling 
+USD 6.76 billion (EUR ~5.8 billion) in the sector (Bloomberg terminal, August 25, 2025). 
+Use of proceeds examples include recycling and upcycling of waste, reduction of GHG 
+from production processes, energy-efficient systems, and innovative R&D projects, 
+among others. However, green bond issuance within the EU has declined in recent years 
+due to ESG backlash, inflation, higher interest rates, and market uncertainty. 
+The transition of Europe’s chemical sector presents both significant challenges and 
+opportunities for financing.1 Key potential policy levers can be summarized in Table 3 .
+Table 3: Potential policy levers to support viability and increase sustainable finance
+Topic Policy levers
+De-risking mechanisms to 
+improve the bankability and 
+investment viability of the 
+EU chemical sector1. Innovating funding mechanisms, initiatives, and tools 
+to enhance bankability.
+2. Scaling circular and resource-efficient models to 
+enhance investment viability.
+Enhancing the enabling 
+environment for the 
+chemical sector 
+to transition3. Enhancing data transparency and standardization for 
+informed investment decisions. 
+4. Reducing administrative burden across the value 
+chain, especially for SMEs.
+Ensuring a coherent and 
+horizontal policy approach 
+to the chemical sector 
+transition and financing5. Integrating policy frameworks for a sustainable and 
+competitive transition.
+6. Ensuring long-term policy stability to drive 
+sustainable transformation.
+7. Encouraging banks to engage with policymakers 
+and clients to support a transition that upholds 
+environmental safeguards.
+1 Some of these challenges and opportunities were raised during 2025 Clean Industrial Deal discussions 
+co-hosted by UNEP FI and the EBF. Policymakers, banks, and industry representatives highlighted the need for 
+stronger alignment between policy ambition and financing realities.
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance 10
+Contents | Part 3: Policy levers to support viability and increase sustainable finance
+De-risking; enhancing bankability 
+and investment viability
+3.1 Innovating funding mechanisms, initiatives, and tools to 
+enhance bankability
+Many projects will struggle to progress beyond demonstration phase without more risk-
+sharing instruments. This gap is especially acute in the chemical sector, where projects 
+at higher technology readiness levels moving from pilot to commercial scale face steep 
+capital needs and high risks but lack blended finance tools to de-risk investment (Cefic, 
+2025b).
+Tools such as guarantees, blended finance, and carbon contracts for difference can 
+reduce the risk premium of early-stage or low-carbon projects, helping banks finance 
+new technologies with clearer long-term returns.
+ ◾The Industrial Decarbonization Bank (IDB) aims to mobilize more than EUR 100 
+billion to de-risk large-scale decarbonization projects through grants, guarantees, 
+subordinated debt, and  carbon contracts for difference (CCfDs), which provide 
+revenue certainty by fixing carbon prices and supporting cleaner production methods 
+(European Commission, 2025b; European Commission, n.d (a)). 
+ ◾The Clean Industrial Deal State Aid Framework (CISAF) will also allow direct grants, 
+tax advantages (such as accelerated depreciation), guarantees and other forms of 
+aid, subject to compatibility conditions including competitive bidding processes and 
+funding-gap assessments (European Commission, 2025c).
+ ◾The Multiannual Financial Framework (MFF) for 2028-2034, amounting to nearly 
+EUR 2 trillion, will expand long-term EU investment capacity with a focus on 
+competitiveness, research, and the clean transition. This budgetary framework could 
+unlock additional funding streams and create synergies with sector-specific initiatives, 
+reinforcing blended finance opportunities for capital-intensive industries such as 
+chemicals (European Commission, 2024). 
+ ◾The European Commission has developed a broad set of funding mechanisms 
+to help reach the objectives that are part of the chemicals strategy, including the 
+Recovery and Resilience Facility, InvestEU Program, Cohesion Policy Funds, LIFE 
+Program, Horizon Europe, Just Transition Fund, and Digital Europe Program, which 
+are further described in Annex 2 (European Commission, n.d.(b)).
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance 11
+Contents | Part 3: Policy levers to support viability and increase sustainable financeTo make these instruments more accessible and effective for financial institutions, 
+policymakers should ensure that the Industrial Decarbonization Bank, CISAF, and the 
+next MFF are designed with clear eligibility criteria and strong risk-sharing mechanisms 
+that could benefit most material industrial sectors such as Chemicals. In parallel, banks 
+can start engaging with EU institutions, multilaterals, and industry to co-design and pilot 
+blended-finance structures, to ensure their practicability and scalability.
+3.2 Scaling circular and resource-efficient models to enhance 
+investment viability
+Transitioning from linear production to circular, resource-efficient models-focused on 
+reuse, recycling, and material substitution-creates more stable and recurring value 
+streams that improves project profitability, enhancing the attractiveness of chemical-
+related investments for banks. 
+ ◾EU policy initiatives could strengthen the economic viability of circular business 
+models. This includes explicitly and systematically integrating circular principles 
+(durability, repairability, and recyclability) into the eligibility criteria for EU public 
+financing instruments. This includes explicitly and systematically integrating circular 
+principles of durability, repairability, and recyclability into the eligibility criteria for EU 
+public financing instruments. Initiatives such as the EU's Hydrogen Bank or Industrial 
+Decarbonization Bank could be replicated for circularity. Such a "Bank of Circularity" 
+could offer off-take guarantees for recycled inputs in industry sectors or for new 
+technologies, which, combined with other forms of de-risking and deployment of 
+public-private financing schemes, could also enhance the bankability of circular 
+business models, projects, or activities (EBF 2025a). 
+ ◾In parallel, banks and investors should consider integrating circular principles into 
+their strategies and business practices, to scale up finance for circular solutions 
+and drive systemic change. This includes dedicated financing products for circular 
+solutions and promoting the integration of resource-efficiency considerations into 
+their risk-return financial models. In this regard, UNEP FI's Circular Economy as an 
+Enabler for Responsible Banking (2024) series of resources helps banks around the 
+world operationalize the interlinkages between the circular economy and climate, 
+nature, pollution, and healthy and inclusive economies. 
+ ◾Financing the circular and resource-efficient transition is not a new concept; there 
+are several projects in place that can serve as examples for future financial schemes 
+(EIB, 2020). 
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance 12
+Contents | Part 3: Policy levers to support viability and increase sustainable finance
+Enabling environment for 
+the chemical sector
+3.3 Enhancing data transparency and standardization for 
+informed investment decisions
+Limited availability of reliable, standardized data on emissions, resource use, and 
+technology performance significantly constrains investment decisions in the chemical 
+sector. Standardized environmental and transition data, harmonized under EU standards 
+like the CSRD and Taxonomy, can lower due-diligence costs and reduce uncertainty for 
+banks and investors, enabling more efficient capital allocation. 
+ ◾To effectively track progress toward a clean industry, financial institutions require 
+coherent, trustworthy, and forward-looking information on how companies source 
+materials and integrate circular design principles. Standardization and credibility of 
+data reported under the European Sustainability Reporting Standards (ESRS) remains 
+essential. Complementary instruments, such as the Digital Product Passport (DPP), 
+can strengthen transparency and build investor confidence by providing reliable data. 
+As President Ursula von der Leyen underlined in her 2025 State of the Union: “Only 
+what gets measured, gets done” (European Commission, 2025a).
+The UN Principles for Responsible Banking (PRB) Client Engagement workstreams, 
+Sectors Mapping, Impact Radar , and Human Rights toolkits are good examples of tools 
+and resources to navigate these complexities by structuring industries’ positive and 
+negative impacts across environmental, social, and economic dimensions and thereby 
+enhance impact assessment, inform portfolio strategy, and strengthen the alignment 
+of financing with sustainability objectives. Complementing these tools, PRB’s Transition 
+Plan Guidance helps banks assess the credibility of clients’ transition plans and further 
+highlights sector-level transition levers that banks can draw on to finance the real-
+economy transition (UNEP FI, 2025).
+3.4 Reducing administrative burden across 
+the value chain, especially for SMEs
+The EU chemical sector’s vast network of small and medium-sized enterprizes (SMEs) 
+faces high compliance costs, complex administrative requirements, and limited access 
+to finance. Simplified regulatory frameworks, stronger guarantee mechanisms, and 
+SME-focused financial products-such as aggregated project financing platforms-are 
+essential to help smaller firms integrate into cleaner, more competitive value chains.
+ ◾One key enabler is the Digital Product Passport (DPP), to be implemented in 
+phases through 2029. As a central tool for sharing critical sustainability information, 
+the DPP will enable targeted disclosure of product data, support circular resource 
+management, and enhance traceability of substances of concern that hinder 
+recycling-ensuring compatibility across recycling technologies (Cefic, 2025c). Further 
+streamlining permitting and procurement processes, while improving access to public 
+incentives, can shorten project timelines and lower financing costs-particularly for 
+SMEs developing sustainable chemical solutions. 
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance 13
+Contents | Part 3: Policy levers to support viability and increase sustainable finance ◾Developing a digital one-stop-shop platform and fast-track procedures for projects 
+meeting predefined sustainability benchmarks could simplify access to standardized 
+blended finance instruments at the EU level. This would make it easier for SMEs-who 
+represent more than 96% of the sector (European Commission, 2023b)-to identify 
+relevant subsidies and accelerate project deployment.
+To support SMEs, platforms like the PRB Clients and Customers SME Engagement 
+workstreams focus on providing toolkits, compendia of good practices and lessons 
+learned and case studies for SMEs, and the PRB target setting on Financial Health and 
+Inclusion, and on Gender Equality and Women’s Empowerment, specifically provides 
+concrete related actions applicable to SMEs (UNEP FI, 2024b; UNEP FI, 2024a). Banks 
+can make use of these tools and streamline onboarding and credit processes for 
+SMEs, using more accessible documentation, digital platforms and easing their client 
+processes.
+Ensuring a coherent and 
+horizontal policy approach
+3.5 Integrating policy frameworks for a sustainable and 
+competitive transition
+Coordinating environmental, industrial, circular and energy policies is critical to ensure 
+consistent and effective incentives. Policy coherence can strengthen competitiveness 
+while accelerating the green transition.
+ ◾Energy policies are crucial for the European chemical industry, as natural gas prices 
+are three times higher than in the US and reliance on imported feedstocks have already 
+led to plant closures and deterred new investment (OPIS, 2025). Linking CID 
+measures with the Action Plan on Affordable Energy, the European Grids Package, 
+and the Renewable Energy Directive can help restore competitiveness. This is 
+especially relevant for the chemical sector as high energy costs have already forced 
+cracker closures across Europe.
+ ◾Other complementary initiatives include:
+ ◽The Circular Economy Action Plan 2.0 and upcoming Circular Economy Act aim 
+to reduce material dependency and boost secondary raw materials markets. 
+ ◽The Packaging and Packaging Waste Regulation and the Single-Use Plastics 
+Directive further restrict virgin materials, single-use plastics, and PFAS in 
+packaging. 
+ ◾The European Climate Law-aligned sectoral decarbonization pathways offer a 
+coherent, science-based framework that helps align industrial and climate policies 
+across sectors, including chemicals, thereby supporting more consistent financing 
+and transition planning European Commisssion, 2025f).
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance 14
+Contents | Part 3: Policy levers to support viability and increase sustainable financeThe UNEP FI Regulatory Implementation Support Programme is a related programme 
+designed to help stakeholders understand, implement, and comply with sustainable 
+finance policies, regulations and reporting requirements. Understanding these policy 
+developments can help banks align their strategies and policies, increasing de-risking 
+products and incentivizing the sector through targeted investments. Similarly, the C-ESG 
+Risk Roundtable provides useful resources to facilitate banks with integration of ESG 
+factors into their risk management in compliance with the EU regulation.
+3.6 Ensuring long-term policy stability to drive sustainable 
+transformation
+Maintaining alignment with the EU Green Deal, Climate Law and broader environmental 
+and social targets will ensure the sector’s transformation addresses the economic 
+challenges related to climate, nature, human rights, and health and inclusivity, while 
+giving investors long-term policy certainty. For chemicals, long-term predictability 
+is essential, as stable and transparent policies enable investors to plan large-scale 
+transformation projects with confidence. This implies:
+ ◾Consistent policy signals-anchored in the European Climate Law’s 2030, 2040 and 
+2050 targets and broader environmental targets, reinforced by the CID and Industrial 
+Decarbonization Bank-can restore confidence and mobilize private capital at scale.
+ ◾Coherence across regulatory, fiscal, and industrial policies. For banks, such 
+predictability is essential to integrate transition risks into their business plans and 
+lending strategies and develop long-term financing instruments. 
+A stable and credible policy environment not only lowers the cost of capital but also 
+can help position the financial sector as a key enabler of Europe’s sustainable industrial 
+transformation.
+3.7 Encouraging banks to engage with policymakers and clients 
+to support a transition that upholds environmental safeguards
+Close collaboration among banks, policymakers, and industry clients is vital to ensure 
+that the chemical sector’s transition remains both competitive and environmentally 
+sound. Financial institutions can bridge policy ambition and market reality-helping 
+shape enabling frameworks, mobilize capital for sustainable solutions, and align 
+transition pathways with the EU’s climate, pollution, and circular economy objectives. 
+They can contribute by:
+ ◾Supporting clients with targeted products and advisory services-such as 
+sustainability-linked loans and finance solutions-that encourage substitution of 
+hazardous substances and investment in circular business models.
+ ◾Engaging in structured policy dialogue to share financing insights that inform the 
+design of de-risking tools and transition incentives under the Clean Industrial Deal, the 
+Chemicals Package and other related initiatives.
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance 15
+Contents | Part 4: Examples from interdependent sectorsPart 4: Examples from 
+interdependent sectors
+Building on these levers, the following selected examples demonstrate how targeted 
+financing instruments, guarantees, and blended finance structures can de-risk 
+investments, mobilize private capital, and accelerate clean technologies. Additional 
+examples can be found in the EBF’s report on increasing the bankability of transition 
+projects under the Clean Industrial Deal (EBF, 2025b). 
+Sector Example Summary 
+Material 
+recyclingNovamont 
+Renewable 
+ChemistryThe EIB is providing EUR 30 million to support the rollout 
+of innovative technologies for producing bioplastics and 
+bio-chemicals, intended for use in both industrial (e.g. 
+plasticisers, biodegradable lubricants) and consumer (e.g. 
+cosmetics, packaging, carrier bags) applications.
+Energy
+(part of the 
+EBF report) H2 Green Steel: 
+Decarbonizing 
+SteelH2 Green Steel is a Swedish industrial project developing 
+large-scale fossil-free steel production by replacing coal with 
+renewable hydrogen. The initiative addresses one of Europe’s 
+hardest-to-abate sectors, aiming for up to 95% lower CO₂ 
+emissions compared to blast furnaces. Its EUR 4 billion+ 
+financing package combined public support with private debt 
+(EU Innovation Fund, Riksgälden, Euler Hermes, InvestEU, 
+EIB, NIB), showing how guarantees and grants can de-risk 
+major decarbonization projects. The chemical sector supplies 
+electrolysis materials, and process chemicals that are essential 
+for green hydrogen production. 
+Transport 
+(part of the 
+EBF report)Modernization 
+of Palermo-
+Catania 
+Railway LineA EUR 3.4 billion financing package enabled the upgrade of 
+Italy’s Palermo-Catania railway, with contributions from the EIB, 
+Intesa Sanpaolo Imi Corporate & Investment Banking Division, 
+and the CDP . The structure combined loans, counter-guarantees, 
+and intermediated financing, providing a model for scaling 
+strategic green infrastructure. The chemical sector supports 
+such projects through adhesives, coatings, and composites that 
+improve resilience and durability.
+Agriculture Bioeconomy 
+on Marine Sites 
+Association, 
+GermanyA EUR 20 million public investment by Germany’s BMBF funds 
+BaMS, a blue bioeconomy initiative supporting both academic 
+research and industrial innovation to integrate material and 
+energy flows across sectors, such as nutrient cycling and 
+bio-based fertilizers (BMBF and BMEL, 2022).
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance 16
+Contents | Part 5: Next stepsPart 5: Next steps
+The European Commission's Chemicals Industry Package will mark major policy 
+milestones to boost the sector’s competitiveness, sustainability, and resilience. It will 
+include an Action Plan for the Chemicals Industry and a Simplification Package to 
+modernize EU chemical rules, reduce administrative burdens, and streamline REACH and 
+ECHA procedures. Key measures will establish a Critical Chemicals Alliance to address 
+the risks of capacity closures in the sector and applying trade defence measures to 
+ensure fair competition; lower energy and feedstock costs through the Affordable 
+Energy Action Plan; and provide stronger incentives for innovation, circularity, and 
+clean technology adoption. A science-based restriction on PFAS and clearer fiscal and 
+regulatory frameworks are also expected to support safer, more sustainable production.
+Leading up to the first Global Framework on Chemicals International Conference 
+(November 2026), a finance workstream will work to mobilize the finance sector under 
+the Global Framework on Chemicals Implementation Programs supported by IOMC. 
+The following timeline highlights other major upcoming EU policies that will influence the 
+competitiveness, decarbonization and circularity of the chemical sector.
+Q4 2025 Q4 2025 Q2 2026 2026+
+REACH 
+RegulationIndustrial 
+Decarbonization 
+Accelerator ActIndustrial 
+Decarbonization 
+BankCircular 
+Economy Act
+In the coming months, stakeholders should prepare for new consultations and funding 
+calls tied to upcoming initiatives. The Chemicals Industry Package is expected to link 
+closely with the Clean Industrial Deal and Industrial Decarbonization Bank, opening 
+up opportunities for blended finance, guarantees, and de-risking tools to accelerate 
+investment in low-carbon and circular chemistry. Monitoring these initiatives will be 
+essential to anticipate regulatory impacts, align transition strategies, and engage early 
+with the Commission’s implementation process. 
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance 17
+Contents | Annex 1: UNEP FI Impact Radar and Sectors MappingAnnex 1: UNEP FI Impact Radar 
+and Sectors Mapping
+The below figure shows the UNEP FI Impact Radar which is a compilation of Impact 
+Areas and Topics across the three pillars of sustainable development (Social, Socio-
+economic, Natural Environment).
+
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance 18
+Contents | Annex 1: UNEP FI Impact Radar and Sectors MappingAn extraction of the UNEP FI Sectors Mappings shows the positive and negative sector-
+impact associations contained within the chemicals sector (bold indicates it is a key 
+sector-impact association) using the impact areas/topics of the Impact Radar.
+Chemical sector impact types Impact areas
+Positive sector-impact associations on: Employment
+Wages
+Negative sector-impact associations on: Health and safety
+Wages
+Social protection
+Climate stability
+Waterbodies
+Air
+Soil
+Species
+Habitat
+Resource intensity
+Waste
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance 19
+Contents | Annex 2: EU and global policies and initiatives affecting the chemical sector (non-exhaustive list)Annex 2: EU and global 
+policies and initiatives 
+affecting the chemical sector 
+(non-exhaustive list)
+Classification Policy Description Key dates
+Chemicals-
+Specific 
+policiesChemicals 
+Industry Package*Comprehensive package to 
+strengthen competitiveness, simplify 
+chemical regulation, revise REACH, and 
+modernize ECHARevision 
+of REACH 
+expected 
+Q4 2025 
+Global Framework 
+on ChemicalsThe Global Framework on Chemicals 
+(GFC), provides a comprehensive 
+plan to guide countries and stakeholders 
+in jointly addressing the lifecycle 
+of chemicalsAdopted in 
+2023, First 
+International 
+Conference 
+to be held in 
+November 2026
+BRS (Basel, 
+Rotterdam and 
+Stockholm) 
+ConventionsThree international legal instruments 
+addressing transboundary movements 
+of hazardous wastes and their disposal 
+(Basel), the prior informed consent 
+procedure for certain hazardous 
+chemicals and pesticides in international 
+trade (Rotterdam) and persistent organic 
+pollutants (Stockholm)Integration 
+of all three 
+conventions 
+in a single 
+secretariat 
+in 2013
+Minimata Convention 
+on MercuryDesigned to protect human health and 
+the environment from mercury pollution.Adopted in 2013, 
+entered into 
+force 2017
+Other 
+policies 
+affecting the 
+chemical 
+sectorEuropean 
+Climate Law*Sets binding climate neutrality by 2050 
+and 55% GHG reduction by 2030Launched 2021
+Clean Industrial 
+Deal (CID)Aligns industrial strategy with 
+decarbonization, resource efficiency, 
+and competitiveness through green 
+innovation and procurementLaunched 
+Q1 2025
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance 20
+Contents | Annex 2: EU and global policies and initiatives affecting the chemical sector (non-exhaustive list)Classification Policy Description Key dates
+Other 
+policies 
+affecting the 
+chemical 
+sectorIndustrial 
+Decarbonization 
+Accelerator Act*Accelerates permitting for 
+decarbonization and infrastructure, 
+introduces clean product criteria, and 
+low-carbon labellingExpected 
+Q4 2025
+Packaging and 
+Packaging Waste 
+Regulation (PPWR)*Sets new EU-wide rules to reduce 
+packaging waste, promote reuse and 
+recycling, and limit harmful substancesLaunched 
+Q1 2025
+Single-Use Plastics 
+Directive (SUPD)*Targets the most common single-use 
+plastics by banking specific items and 
+setting recycling targetsLaunched 2019; 
+Updated 2023
+Global Plastic 
+Treaty currently being 
+negotiatedThe current negotiation of a Global 
+Plastic Treaty with the aim to end 
+plastic pollution includes discussions on 
+chemicals of concern in plastic productsNegotiation 
+launched 
+2022; Under 
+negotiation 
+
+Agenda Vision for 
+Agriculture and FoodRoadmap to create a resilient, future-
+proof agri-food system with fair 
+income, climate alignment, and rural 
+developmentLaunched 
+Q1 2025
+Revision of 
+CBAM (Carbon 
+Border Adjustment 
+Mechanism) Revision aims to simplify and strengthen 
+CBAM to prevent carbon leakage 
+effectively while minimizing burdens 
+particularly on SMEsWill apply as of 
+January 2026
+Circular Economy 
+Action Plan (CEAP)European Commission’s strategic 
+framework that aims to promote 
+sustainability and resource efficiency 
+by boosting innovation, recycling, and 
+circular use of materialsAdopted in 2015
+Circular Economy 
+Act (CEA)*Proposed EU regulation setting 
+mandatory requirements to improve 
+transparency, recyclability, and 
+secondary raw material use across 
+sectorsExpected 2027
+Omnibus 
+Simplification 
+PackageSet of targeted changes to multiple EU 
+chemical-related regulations, aimed 
+at streamlining compliance, reducing 
+administrative burdens, and modernizing 
+procedures in the chemical sector. The 
+main areas affected are chemical 
+classification/labelling/packaging (CLP), 
+cosmetics, and fertilizersExpected 
+to be fully 
+implemented by 
+the end of 2025
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance 21
+Contents | Annex 2: EU and global policies and initiatives affecting the chemical sector (non-exhaustive list)Classification Policy Description Key dates
+Social 
+and Just 
+Transition- 
+related 
+initiativesPromoting Social 
+Fairness in the 
+Modern EconomyPromotes social cohesion through 
+housing, job quality, and social rights to 
+address growing inequalitiesLaunched 2017; 
+Updated 
+Q1 2025
+Just Transition 
+Mechanism 
+including the Just 
+Transition FundTool aiming to enhance equity of the 
+transition; Provides financial support to 
+regions and workers most affected by 
+the EU’s shift to climate neutrality Launched 2021; 
+Reviewed 2025 
+Social Climate Fund * Will provide funds until 2032 to help EU 
+Member States mitigate social impacts 
+of Emissions Trading System 2 (ETS2) Expected 2026
+Occupational 
+Safety and Health 
+Framework (EU 
+Adoption)*Strengthens workplace safety and 
+supports modernization in chemical 
+facilitiesOutlined for 
+the years 
+2021-2027
+European Pillar 
+of Social Rights 
+Action Plan Initiative that translates 20 key 
+social rights principles into concrete 
+actions aimed at creating fairer labor 
+markets and social protection systems 
+across Europe2025 review
+Quality 
+Jobs RoadmapInitiative aimed at promoting high-quality, 
+sustainable employment across all 
+sectors. It is developed in consultation 
+with social partners and seeks to 
+support collective bargaining, fair wages, 
+good working conditions, training, and 
+just job transitionsExpected for the 
+end of 2025
+EU Anti- 
+Poverty StrategyEU-wide plan aimed at eradicating 
+poverty by 2050. It focuses on 
+addressing the root causes of poverty, 
+emphasizing a rights-based, inclusive 
+approach that tackles structural and 
+systemic inequalities.Expected to 
+be formally 
+presented 
+in 2026
+Union of Skills plan Strategy to strengthen Europe’s 
+competitiveness by supporting 
+workforce adaptability to the digital and 
+green transitionsLaunched in 
+March 2025
+Joint Pact 
+for European 
+Social DialogueFormal agreement between the 
+European Commission and European 
+cross-industry social partners, aiming to 
+strengthen social dialogue by enhancing 
+the role of social partners in shaping 
+labor market, employment, and social 
+policies. Promoting fair and sustainable 
+economic development, quality jobs, and 
+social dialogue to manage change linked 
+to digital and green transitions.Signed in 
+March 2025
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance 22
+Contents | Annex 2: EU and global policies and initiatives affecting the chemical sector (non-exhaustive list)Classification Policy Description Key dates
+Financing 
+and 
+investment-
+related 
+initiativesIndustrial 
+Decarbonization 
+BankMobilizes 100 billion EUR to fund green 
+industrial transition through grants, 
+guarantees, and contracts for differenceExpected 
+Q2 2026 
+Clean Industrial Deal 
+State Aid Framework*Simplifies state aid rules to support 
+clean tech, reduce industrial energy 
+costs, and de-risk private investmentsLaunched 
+Q2 2025
+PPA Pilot (EIB) 500 million EUR program to de-risk clean 
+energy for energy-intensive firms via 
+counter-guaranteesProposed 2025
+* These policies currently have or will have partial or full legally binding components.
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance 23
+Contents | Annex 3: EU funding mechanisms to help reach the objectives that are part of the EU’s Chemicals Strategy for SustainabilityAnnex 3: EU funding mechanisms 
+to help reach the objectives that 
+are part of the EU’s Chemicals 
+Strategy for Sustainability 
+Programme Description
+Recovery and 
+Resilience FacilitySupports Member State reforms and investments post-COVID; several 
+already include funding for a safe and sustainable chemical sector, plus 
+generic programmes on electrification, green skills, decontamination and 
+resource-efficiency
+InvestEU 
+ProgrammeBoosts investment in sustainable infrastructure, SMEs, research/ 
+innovation/digitization, and social investment/skills; chemical projects 
+funded include identifying toxic chemicals in wastewater and producing 
+biochemicals from algae
+Cohesion Policy 
+FundsERDF : invests in research & innovation, Digital Agenda, SMEs, low-carbon 
+economy; ESF+ : funds education, skills adaptation, labor mobility, social 
+inclusion; CF: supports transport and environmental projects in lower-income 
+Member States
+LIFE Programme Finances projects in nature/biodiversity, circular economy, climate change, and 
+clean energy; chemical-related projects include consumer information, safe 
+and sustainable chemicals, and substitution of harmful substances
+Horizon Europe EU R&I programme (2021-2027); funds development of innovative solutions 
+for persistent and mobile chemicals and combined exposures to industrial 
+chemicals and pharmaceuticals
+Just 
+Transition FundSupports regions and people in climate transition; finances projects linked 
+to phasing out coal/lignite, and innovation in sustainable technologies, 
+digitalization, and up/reskilling of vulnerable groups
+Digital Europe 
+ProgrammeProvides funding in five areas: high-performance computing, AI, cybersecurity, 
+advanced digital skills, and digital technology use across economy and society
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance 24
+Contents | Annex 4: Stakeholders of the EU chemical sector (non-exhaustive list)Annex 4: Stakeholders of 
+the EU chemical sector 
+(non-exhaustive list)
+Main associations in the European chemicals sector include: 
+Association Description
+Leading trade association for Europe’s chemical companies (around 13% 
+of global production), providing regulatory expertise, policy advocacy, and 
+support for a sustainable and competitive industry
+A Cefic group representing fine chemical manufacturers, focusing on APIs, 
+excipients, agrochemicals, and intermediates, while promoting safety and 
+sustainability standards
+Umbrella organization for 130,000 chemists in 50 member societies, 
+fostering scientific exchange, hosting conferences, and providing evidence-
+based policy input
+EU body implementing chemicals legislation (REACH, CLP , BPR, PIC), 
+evaluating substances, proposing risk management, and promoting 
+chemical safety
+EU initiative advancing next-generation risk assessment aligned with the 
+Chemicals Strategy and Green Deal, developing data, methods, and tools 
+for regulators
+Platform of 11 associations from sectors using chemical mixtures 
+(cosmetics, paints, detergents, construction), supporting REACH/CLP 
+implementation and ensuring user needs are reflected in EU policy
+Other stakeholders of the European chemicals sector include:
+Association Description
+Europe’s largest network of environmental NGOs, advocating stronger 
+EU chemicals laws (notably REACH), faster substitution of hazardous 
+substances, and prevention of toxic chemicals in products, the environment, 
+and the circular economy
+Charity protecting people and wildlife from harmful chemicals like PFAS and 
+hormone disruptors by advancing science, advocating stronger regulation, 
+and informing the public about health and biodiversity risks
+Non-profit network of 70+ groups promoting health-based evidence to 
+policymakers, aiming to reduce and eliminate hazardous chemical exposure 
+through strong protective laws
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance 25
+Contents | ReferencesReferences
+Accenture (2022). The chemical indus-
+try’s road to net zero: Costs and oppor-
+tunities of the EU Green Deal. Accenture. 
+accenture.com/content/dam/accenture/
+final/a-com-migration/r3-3/pdf/pdf-174/
+accenture-chemicals-costs-opportuni-
+ties-eu-green-deal.pdf 
+Blumenthal, J., Diamond, M., Hoffmann, 
+M., Wang, Y. (2022). Time to Break the ‘Lock-
+In’ Impediments to Chemicals Management . 
+Environmental Science and Technology . pubs.
+acs.org/doi/10.1021/acs.est.1c06615 . 
+BMBF and BMEL (2022). Bioökonomie in 
+Deutschland-Chancen für eine biobasierte 
+und nachhaltige Zukunft. German Federal 
+Ministry of Education and Research and 
+Federal Ministry of Food and Agriculture. 
+biooekonomie.de/sites/default/files/2022-05/
+Biooekonomie_in_Deutschland_2022.pdf .
+Cefic (n.d.). Sustainability Performance . 
+Cefic. cefic.org/sustainability-performance/
+environment/ .
+Cefic (2024a). 2024 Facts and Figures. 
+Cefic. cefic.org/facts-and-figures-of-the-euro-
+pean-chemical-industry/.
+Cefic (2024b). Chemical Industry access 
+to Carbon Capture and Storage (CCS) . Cefic. 
+cefic.org/resources/chemical-industry-ac -
+cess-to-carbon-capture-and-storage-ccs-re-
+search-paper/ .
+Cefic (2025a). Chemical trends report . 
+Cefic. cefic.org/app/uploads/2025/05/
+Cefic-Chemical-Trends-Report-Q1-2025.pdf .
+Cefic (2025b). Improving the EU 
+R&I funding landscape: Addressing 
+current challenges. Cefic. cefic.org/app/
+uploads/2025/03/Cefic-position-improv-
+ing-EU-RI-Funding-Landscape.pdf.Cefic (2025c). Policy Requirements for 
+a Circular, Competitive and more Autono -
+mous EU Chemical Industry-The role of 
+the chemical sector in a circular economy . 
+Cefic. cefic.org// app/uploads/2025/07/
+Policy-Requirements-for-a-Circular-Competi -
+tive-and-More-Autonomous-EU-Chemical-In -
+dustry.pdf .
+Cleantech for Europe (2025). Cleantech 
+Reality Check-Revitalising manufacturing in 
+Europe Cleantech for Europe. cleantechfo -
+reurope.com/publications/cleantech-reali -
+ty-check/crc-series-3 .
+Cropper, M., Dunlop, S., Hinshawa H., 
+Landrigane, P ., Park, Y. , Symeonides, C. 
+(2024). “The benefits of removing toxic 
+chemicals from plastics”. Proceedings of the 
+National Academy of Sciences of the United 
+States of America. pdfs.semanticscholar.
+org/92a5/10a2337d90b02c4181d0d2d722c -
+c38e5f8a5.pdf
+EBF (2025a). EBF submits recommenda -
+tions to create robust business cases and 
+unlock private financing for the EU Circular 
+Economy. ebf.eu/ebf-media-centre/updates/
+ebf-submits-recommendations-to-create-ro -
+bust-business-cases-and-unlock-private-fi -
+nancing-for-the-eu-circular-economy/ .
+EBF (2025b). Increasing Bankability 
+of Transition & the Clean Industrial Deal. 
+European Banking Federation. ebf.eu/wp-con -
+tent/uploads/2025/09/Increasing-bankabili -
+ty-of-transition-the-Clean-Industrial-Deal.pdf .
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance 26
+Contents | ReferencesECB (2025). Opinion of the European 
+Central Bank of 8 May 2025 on proposals 
+for amendments to corporate sustain -
+ability reporting and due diligence require-
+ments (CON/2025/10). European Central 
+Bank. ecb.europa.eu/pub/pdf/legal/ecb.
+leg_con_2025_10.en.pdf?330cb335ad9426c -
+d4a64dbe4021597f1
+EEA (2022). Chemicals and Health 
+European Environment Agency. eea.europa.
+eu/en/analysis/publications/zero-pollution/
+health/chemicals-and-health .
+EEA (2023). Managing the systemic use of 
+chemicals in Europe European Environment 
+Agency. eea.europa.eu/en/analysis/publica -
+tions/managing-the-systemic-use-of-chemi -
+cals.
+EEA (2025a). EEA greenhouse gases-data 
+viewer. European Environmental Agency. eea.
+europa.eu/en/analysis/maps-and-charts/
+greenhouse-gases-viewer-data-viewers .
+EEA (2025b). Zero pollution monitoring and 
+outlook 2025. European Environment Agency. 
+eea.europa.eu/en/analysis/publications/
+zero-pollution-monitoring-and-outlook-report.
+EEA (2025c). Total greenhouse gas 
+emissions in the chemical industry. European 
+Environment Agency. eea.europa.eu/en/
+european-zero-pollution-dashboards/indica -
+tors/total-greenhouse-gas-emissions-in-the-
+chemical-industry .
+EIB (2020). The EIB Circular Economy 
+Guide Supporting the circular transition. 
+European Investment Bank. eib.org/files/
+publications/thematic/circular_economy_
+guide_en.pdf .
+EIB (2025). EIB Group increases 2025 
+financing ceiling to record EUR 100 billion to 
+step up investments in security and defence, 
+energy grids and Europe’s tech leadership . 
+European Investment Bank. eib.org/en/press/
+all/2025-247-eib-group-increases-2025-fi -
+nancing-ceiling-to-record-eur100-billion-to-
+step-up-investments-in-security-and-defence-
+energy-grids-and-europe-s-tech-leadership .EuRIC (2025). Joint open letter: Europe’s 
+plastics recycling & post-consumer textiles 
+industries need urgent support . Recycling 
+Europe. euric.org/resource-hub/letters/
+joint-open-letter-europes-plastics-re-
+cycling-post-consumer-textiles-indus -
+tries-need-urgent-support.
+European Commission (n.d. (a)). Compet -
+itive bidding. European Commission. climate.
+ec.europa.eu/eu-action/eu-funding-cli -
+mate-action/innovation-fund/competitive-bid -
+ding_en .
+European Commission (n.d. (b)). Funding 
+for the chemicals strategy. European Commis -
+sion. environment.ec.europa.eu/topics/
+chemicals/funding-chemicals-strategy_en.
+European Commission (2020). Chemicals 
+strategy. European Commission. environment.
+ec.europa.eu/strategy/chemicals-strategy_en. 
+European Commission (2023a). Packaging 
+& Packaging Waste Regulation . European 
+Commission. environment.ec.europa.eu/
+topics/waste-and-recycling/packaging-waste/
+packaging-packaging-waste-regulation_en .
+European Commission (2023b). Transition 
+pathway for the chemical industry. European 
+Commission. ec.europa.eu/docsroom/
+documents/54595 .
+European Commission (2024). EU 
+budget 2028-2034 . European Commission. 
+commission.europa.eu/strategy-and-policy/
+eu-budget/long-term-eu-budget/
+eu-budget-2028-2034_en .
+European Commission (2025a). 2025 
+State of the Union Address by President von 
+der Leyen (Speech) . European Commission. 
+ec.europa.eu/commission/presscorner/
+detail/ov/SPEECH_25_2053 .
+European Commission (2025b). Clean 
+Industrial Deal. European Commission. 
+commission.europa.eu/topics/eu-competi -
+tiveness/clean-industrial-deal_en .
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance 27
+Contents | ReferencesEuropean Commission (2025c). Clean 
+Industrial Deal State Aid Framework 
+(CISAF). European Commission. competi -
+tion-policy.ec.europa.eu/about/contribu -
+tion-clean-just-and-competitive-transition/
+clean-industrial-deal-state-aid-framework-
+cisaf_en .
+European Commission (2025d). Commis-
+sioner Jørgensen announces first 2 sectorial 
+tripartite contracts European Commission. 
+energy.ec.europa.eu/news/commissioner-jor -
+gensen-announces-first-2-sectorial-tripar -
+tite-contracts-2025-09-05_en .
+European Commission (2025e). 
+Commission strengthens Europe’s chemical 
+industry European Commission . ec.europa.
+eu/commission/presscorner/detail/en/
+ip_25_1755
+European Commission (2025f). Making 
+finance flows consistent with climate 
+goals-European Climate Law-aligned EU 
+sectoral decarbonisation pathways. European 
+Commission. climate.ec.europa.eu/eu-action/
+eu-funding-climate-action/making-finance-
+flows-consistent-climate-goals_en#europe -
+an-climate-law-aligned-eu-sectoral-decarboni -
+sation-pathways .
+European Commission (2025g). Plan for 
+stronger EU chemical industry. European 
+Commission. commission.europa.eu/
+news-and-media/news/plan-stron -
+ger-eu-chemical-industry-2025-07-08_en .
+European Commission (2025h). Platform 
+on Sustainable Finance report: Monitoring 
+capital flows to sustainable investments. 
+European Commission. finance.ec.europa.eu/
+publications/platform-sustainable-finance-re-
+port-monitoring-capital-flows-sustainable-in -
+vestments_en .
+ICE (2024). Sustainable Bond Analysis 
+2024. ICE. ice.com/insights/sustain -
+able-bond-report-2024 .
+IEA (2023). Chemicals. International 
+Energy Agency. iea.org/energy-system/
+industry/chemicals .IISD (2019). Global Chemicals Outlook 
+II Chapter Highlight: Overview of the Global 
+Chemical Industry. International Institute for 
+Sustainable Development. sdg.iisd.org/news/
+global-chemicals-outlook-ii-chapter-highlight-
+overview-of-the-global-chemical-industry/.
+Kortenkamp, A. (2014). Low dose mixture 
+effects of endocrine disrupters and their impli-
+cations for regulatory thresholds in chemical 
+risk assessment . Curr Opin Pharmacol. 
+pubmed.ncbi.nlm.nih.gov/25244397/ .
+Lorbeer, C. and Ezekoye, O. (2024). The 
+state of the chemicals industry: Time for bold 
+action and innovation. McKinsey & Company. 
+mckinsey.com/industries/chemicals/our-in -
+sights/the-state-of-the-chemicals-industry-
+time-for-bold-action-and-innovation .
+MSCI (2024). Global Industry Classifica-
+tion Standard (GICS®) Methodology-Guiding 
+Principles and Methodology for GICS. MSCI. 
+msci.com/indexes/documents/method -
+ology/1_MSCI_Global_Industry_Classification_
+Standard_GICS_Methodology_20240801.pdf .
+MSCI (2025). MSCI ACWI 
+Index (USD). MSCI. msci.com/
+documents/10199/8d97d244-4685-4200-
+a24c-3e2942e3adeb .
+Morningstar (2024). Best Performing 
+Sustainable Funds in 2024. Morningstar, 
+Inc. global.morningstar.com/en-gb/funds/
+best-performing-sustainable-funds-in-2024 .
+OPIS (2025). No Sign of Recovery 
+for Europe Chemical Industry Amid 
+High Energy Prices, Tax. OPIS, A Dow 
+Jones Company. opis.com/resources/
+energy-market-news-from-opis/
+no-sign-of-recovery-for-europe-chemical-in -
+dustry-amid-high-energy-prices-tax/ .
+Pitchbook (2025). European chemicals 
+sector’s prolonged slump unsettles investors. 
+Jean-Marc Poilpré, Pitchbook. pitchbook.
+com/news/articles/european-chemicals-sec -
+tors-prolonged-slump-unsettles-investors .
+Stoxx (n.d.). STOXX® EUROPE 600 INDEX, 
+based on the last periodic review imple -
+mentation. STOXX. stoxx.com/document/
+Bookmarks/CurrentComponents/SXXGV.pdf .
+Transitioning the EU Chemical Sector: Policy levers to support viability and increase sustainable finance 28
+Contents | ReferencesS&P Global (2025). European plastics 
+recycling industry facing collapse: PRE . S&P 
+Global, Commodity Insights. spglobal.com/
+commodity-insights/en/news-research/
+latest-news/chemicals/090125-euro -
+pean-plastics-recycling-industry-fac -
+ing-collapse-pre.
+UNEP (2024a). Chemicals and Waste 
+Issues of Concern: A Summary Analysis of 
+Stakeholders’ Views. UNEP-UN Environment 
+Programme. unep.org/resources/report/
+chemicals-and-waste-issues-concern-sum -
+mary-analysis-stakeholders-views .
+UNEP (2024b). Global Framework on 
+Chemicals-For a Planet Free of Harm from 
+Chemicals and Waste. UNEP-UN Environ -
+ment Programme. unep.org/resources/
+global-framework-chemicals-planet-free-
+harm-chemicals-and-waste .
+UNEP FI (2024a). Advancing Gender 
+Equality and Women’s Empowerment: Target 
+Setting Guidance for Banks. UNEP FI. unepfi.
+org/industries/banking/gender-equality-guid -
+ance/.UNEP FI (2024b). Driving Impact on Finan-
+cial Health and Inclusion of Individuals and 
+Businesses: From Setting Targets to Imple -
+mentation. UNEP FI. unepfi.org/industries/
+banking/financial-health-inclusion-guidance/ .
+UNEP FI (2024c). Navigating Pollution: 
+A Blueprint for the Banking Sector. UNEP 
+FI. unepfi.org/wordpress/wp-content/
+uploads/2024/12/White-Paper-on-Pollution-
+UNEP-FI-Nov-2024-D8.pdf .
+UNEP FI (2025). A Guide to Transition Plans 
+for Banks-The path from targets to imple -
+mentation. UNEP FI. unepfi.org/wordpress/
+wp-content/uploads/2025/11/47-A-guide-to-
+transition-plans-for-banks.pdf .
+WHO (2017). Protecting workers’ health . 
+World Health Organization. who.int/
+news-room/fact-sheets/detail/protect -
+ing-workers.
+WHO (2025). Biodiversity . World 
+Health Organization. who.int/news-room/
+fact-sheets/detail/biodiversity
+Yankovitz, D., Hardin, K., Kumpf, R. and 
+Christian, A. (2024). 2025 Chemical Industry 
+Outlook. Deloitte Insights. deloitte.com/us/
+en/insights/industry/chemicals-and-special -
+ty-materials/chemical-industry-outlook.html .
+Transitioning the EU Chemical Sector 29
+Contents | Contents
+unepfi.org
+
+UN Environment Programme Finance Initiative
+UNEP Finance Initiative (UNEP FI) brings together 
+a large network of banks, insurers and investors 
+that catalyses action across the financial system 
+to deliver more sustainable global economies.
+For more than 30 years the Initiative has been 
+connecting the UN with financial institutions 
+from around the world to shape the sustainable 
+finance agenda establishing the world’s foremost 
+sustainability frameworks that help the finance 
+industry address global environmental, social and 
+governance challenges.
+Convened by a Geneva, Switzerland-based 
+secretariat, more than 500 banks and insurers are 
+individually implementing UNEP FI’s Principles 
+for Responsible Banking and Principles for Sustainable Insurance. Financial institutions 
+work with UNEP FI on a voluntary basis to 
+apply the sustainability frameworks within their 
+industries using practical guidance and tools to 
+position their businesses for the transition to a 
+sustainable and inclusive economy.
+Founded in 1992, UNEP FI was the first initiative 
+to engage the finance sector on sustainability. 
+Today, the Initiative cultivates leadership and 
+advances sustainable market practice while 
+supporting the implementation of global 
+programmes at a regional level across Africa 
+& the Middle East, Asia Pacific, Europe, Latin 
+America & the Caribbean and North America.
+unepfi.org
+unepfi.org

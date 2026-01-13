@@ -1,0 +1,104 @@
+================================================================================
+ENTITY CLEANING REPORT
+================================================================================
+
+CLEANING SUMMARY
+--------------------------------------------------------------------------------
+Original entities: 16,272
+After cleaning: 14,823
+Removed: 1,449 (8.9%)
+
+CHANGES BY ENTITY TYPE
+--------------------------------------------------------------------------------
+  CARDINAL: 3,982 → 2,931 (Δ +1,051)
+  DATE: 2,693 → 2,689 (Δ +4)
+  GPE: 1,206 → 1,147 (Δ +59)
+  LAW: 467 → 523 (Δ -56)
+  ORG: 4,237 → 3,862 (Δ +375)
+  PERSON: 1,707 → 1,694 (Δ +13)
+  PRODUCT: 259 → 257 (Δ +2)
+  TIME: 26 → 25 (Δ +1)
+
+TOP 15 ORGANIZATIONS (AFTER CLEANING)
+--------------------------------------------------------------------------------
+  European Union: 797
+    → Political and economic union of European countries
+  European Commission: 335
+    → Executive branch of the European Union
+  European Parliament: 112
+    → Legislative body of the European Union
+  European Council: 59
+    → Institution defining EU political direction and priorities
+  Power-to-Liquid: 38
+    → Organization mentioned in policy documents
+  CO 2: 30
+    → Organization mentioned in policy documents
+  A.E. Torkayesh: 26
+    → Organization mentioned in policy documents
+  Sustainable Aviation Fuel: 24
+    → Organization mentioned in policy documents
+  EPS: 23
+    → Organization mentioned in policy documents
+  OECD: 19
+    → Organisation for Economic Co-operation and Development
+  PolicymakersSummary: 16
+    → Organization mentioned in policy documents
+  MAN Energy Solutions: 16
+    → Organization mentioned in policy documents
+  UNEP FI: 16
+    → Organization mentioned in policy documents
+  Cross-Section Box.2: 14
+    → Organization mentioned in policy documents
+  GoOs: 14
+    → Organization mentioned in policy documents
+
+TOP 10 LOCATIONS (AFTER CLEANING)
+--------------------------------------------------------------------------------
+  Germany: 182
+    → EU Member State, major player in energy policy
+  Member States: 57
+    → Countries that are members of the European Union
+  France: 47
+    → EU Member State, major player in energy policy
+  China: 36
+    → Major global economy and energy consumer
+  Denmark: 22
+    → Geographic location referenced in policy context
+  Spain: 22
+    → EU Member State, major player in energy policy
+  Norway: 22
+    → Geographic location referenced in policy context
+  Portugal: 21
+    → Geographic location referenced in policy context
+  UK: 19
+    → Geographic location referenced in policy context
+  Sweden: 16
+    → Geographic location referenced in policy context
+
+KEY TECHNICAL TERMS
+--------------------------------------------------------------------------------
+  Greenhouse Gas (GHG): 1
+    → Gases that trap heat in the atmosphere (CO2, CH4, etc.)
+  Carbon Capture and Storage (CCS): 2
+    → Technology to capture CO2 emissions and store them
+  Carbon Border Adjustment Mechanism (CBAM): 50
+    → EU policy to prevent carbon leakage
+  Sustainable Aviation Fuel (SAF): 24
+    → Alternative fuel for aviation with lower emissions
+  Power-to-Liquid (PtL): 47
+    → Technology converting electricity to liquid fuels
+  Power-to-X (PtX): 167
+    → Technologies converting electricity to other energy carriers
+  Carbon Capture Utilization and Storage (CCUS): 2
+    → Technical term in energy/climate policy
+  Emissions Trading System (ETS): 7
+    → Market-based approach to controlling emissions
+
+CLEANING RULES APPLIED
+--------------------------------------------------------------------------------
+  1. Geographic consolidation: 20 city→country mappings
+  2. Organization normalization: 10 variants standardized
+  3. Acronym expansion: 11 acronyms expanded
+  4. False positive removal: 42 patterns
+  5. Entity reclassification: 6 entities reclassified
+  6. Person name fixes: 3 known persons

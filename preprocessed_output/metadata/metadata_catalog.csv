@@ -1,0 +1,21 @@
+doc_id,filename,file_extension,year,document_type,issuing_authority,word_count,char_count,sentence_count,avg_words_per_sentence,processing_date,extraction_quality
+doc_001,Ammonia White Paper,.pdf,unknown,white_paper,unknown,5867,34603,243,24.14,2026-01-08 22:05:33,good
+doc_002,Carbon Border Adjustment Mechanism,.pdf,2023,regulation,unknown,2337,14342,53,44.09,2026-01-08 22:05:34,good
+doc_003,Carbon Capture in Industry - Policy Brief,.pdf,2025,legislation,unknown,1603,9273,74,21.66,2026-01-08 22:05:34,good
+doc_004,Climate Adaptation and Mitigation,.pdf,unknown,guideline,unknown,4092,25846,150,27.28,2026-01-08 22:05:36,good
+doc_005,Climate Framework Laws in Europe,.pdf,2023,legislation,unknown,8806,48822,309,28.5,2026-01-08 22:05:37,good
+doc_006,Cost-Benefits of Climate Change,.pdf,2013,legislation,unknown,6785,34797,303,22.39,2026-01-08 22:05:38,good
+doc_007,Countries Leading Energy Transition,.pdf,2024,legislation,unknown,1367,7860,48,28.48,2026-01-08 22:05:39,good
+doc_008,Economics of Transition Pathways,.pdf,unknown,legislation,IPCC,18832,109624,1213,15.53,2026-01-08 22:05:41,good
+doc_009,Energy Transitions in China and Germany,.pdf,2019,strategy,unknown,5172,62256,261,19.82,2026-01-08 22:05:42,good
+doc_010,EU Green Deal,.pdf,2019,strategy,unknown,13545,80417,521,26.0,2026-01-08 22:05:44,good
+doc_011,EU Hydrogen Strategy,.pdf,2020,strategy,unknown,3617,18945,92,39.32,2026-01-08 22:05:45,good
+doc_012,EU_Hydrogen_Strategy.pdf,.pdf,2024,strategy,unknown,508,2994,17,29.88,2026-01-08 22:05:45,good
+doc_013,IPCC Report,.pdf,unknown,legislation,IPCC,23326,139950,644,36.22,2026-01-08 22:05:53,good
+doc_014,Policies Affecting Carbon Emissions,.pdf,2021,legislation,unknown,8545,42974,270,31.65,2026-01-08 22:05:59,good
+doc_015,Power - X - Energy Policy,.pdf,2030,regulation,unknown,24843,144099,1056,23.53,2026-01-08 22:06:04,good
+doc_016,Renewable Energy Directive,.pdf,2023,regulation,European Commission,58534,314000,946,61.88,2026-01-08 22:06:09,good
+doc_017,Renewable Fuels of Non-Biological Origins,.pdf,2025,policy,Copyright notice,14783,87649,424,34.87,2026-01-08 22:06:12,good
+doc_018,sustainable-aviation-fuels,.pdf,2030,strategy,unknown,1007,6299,15,67.13,2026-01-08 22:06:13,good
+doc_019,The-EU-Chemical-Industry,.pdf,unknown,legislation,unknown,13261,88762,508,26.1,2026-01-08 22:06:15,good
+doc_020,WWF Hydrogen Recommendation,.pdf,2045,policy,WWF,6644,39275,253,26.26,2026-01-08 22:06:16,good

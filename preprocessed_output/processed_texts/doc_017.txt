@@ -1,0 +1,1718 @@
+1 ISCC EU 202 -6 RENEWABLE FUELS OF NON -BIOLOGICAL ORIGIN (RFNBOS) 
+AND RECYCLED CARBON FUELS (RCFS) 
+ISCC EU 20 2-6 
+Renewable Fuels of Non -Biological 
+Origin (RFNBO s) and Recycled Carbon 
+Fuels (RCFs) 
+
+© ISCC System GmbH 
+
+Document Title: ISCC EU 202 -6 RENEWABLE FUELS OF NON -BIOLOGICAL ORIGIN 
+(RFNBOs) AND RECYCLED CARBON FUELS (RCFs) 
+Version 1.4 
+Valid from: 02 January 2025 
+
+ Copyright notice 
+© 202 4 ISCC System GmbH 
+This ISCC document is protected by copyright. It is freely available from the ISCC website 
+or upon request . 
+No part of this copyrighted document might be changed or amended. The document might 
+not be duplicated or copied in any form or by any means for commercial purpose without 
+permission of ISCC . 
+ 
+© ISCC System GmbH Content 
+1 Introduction ................................ ................................ ................................ ....................... 5 
+2 Scope and Normative References ................................ ................................ ................... 5 
+3 Basics for the certification of RFNBOs and RCFs ................................ ........................... 6 
+4 Rules for Counting Electricity as (Fully) Renewable ................................ ........................ 9 
+4.1 Electricity from directly connected installations ................................ .................... 12 
+4.2 Electricity from the grid ................................ ................................ .......................... 13 
+4.2.1 Electricity from a grid with renewable energy share exceeding 90% ......... 14 
+4.2.2 Electricity via a grid with an emission intensity lower than 18 gCO 2eq/MJ 
+with further requirements ................................ ................................ ...................... 16 
+4.2.3 Electricity from the grid avoiding or reducing the need of downward 
+redispatching of installations generating renewable electricity ............................ 17 
+4.2.4 Electricity via the grid with further requirements ................................ ......... 17 
+4.3 Criteria for counting electricity from grid with further requirements ...................... 18 
+4.3.1 Additionality ................................ ................................ ................................ .. 18 
+4.3.2 Temporal correlation ................................ ................................ .................... 19 
+4.3.3 Geographical correlation ................................ ................................ .............. 21 
+4.4 Documentation of renewable electricity and RFNBO production ......................... 22 
+5 Rules for eligible inputs for RCFs ................................ ................................ ................... 23 
+6 Traceability and Chain of Custody ................................ ................................ ................. 23 
+Annex I: Definitions ................................ ................................ ................................ .................. 27 
+Annex II: Power Purchase Agreement and Guarantees of Origin (GoO) ............................... 28 
+Annex III: Implementation of bidding zone concept and curtailment in non -EU countries ..... 30 
+Annex IV: Requirements to verify eligible electricity sourcing ................................ ................. 32 
+
+© ISCC System GmbH 
+ 
+ 1 Introduction 
+E-fuels - energy carriers derived from renewable electricity - are expected to 
+play an essential role in moving towards a fully renewable energ y system . E-
+fuels will be particularly important for decarbonizing sectors that are exp ected 
+to rely on liquid fuels in the long term , such as maritime and aviation, in that 
+they complement direct electrification as drop -in alternatives to fossil fuels. 
+The Renewable Energy Directive (EU) 2018/2001 ( recast) (hereafter RED II) 
+establishes the overall framework for the production and promot ion of energy 
+from renewable sources, including in the transport sector. The RED II 
+specifies that so -called renewable liquid and gaseous transport fuels of non -
+biological origin (hereafter RFNBOs) can be used to contribute to the overall 
+target of 14% for the share of renewable energy in the transport sector in EU 
+Member States. The amendment of the RED II1 (additionally sets an industry 
+sub-target for hydrogen meeting RFNBO criteria used for energy and non -
+energy purposes . 
+Further , the RED II defines the fuel category ‘ Recycled Carbon Fuels’ 
+(hereafter RCFs) which in their nature are not made from renewable re sources 
+and, thus, do not contribute to the main target of the renewable energy share 
+of the gross final energy consumption in the Union. However, Member States 
+may decide to allow the accounting of RCFs towards the quota of renewable 
+energy in the transport sector . This reflects the benefit that RCF s, although 
+not renewable , can contribute to reduce GHG emissions by add ing a nother 
+lifecycle to the carbon that would otherwise end up in the atmosphere directly. 
+To ensure that RFNBOs and RCFs contribute to a reduction in greenhouse 
+gas emissions, the RED II requires them to achieve at least a 70% GHG 
+emissions saving threshold (via avoided emissions) in compari son to the RED 
+II fossil reference . 
+The RED II also specifies that the electricity used for RFNBO production must 
+be from renewable sources , e.g. wind, solar or water but not from biomass . 
+2 Scope and Normative References 
+This document specifies the certification requirements to produce RFNBOs 
+and RCFs under the ISCC EU system . It is valid in addition to the other ISCC 
+EU system documents. 
+In the Delegated Act based on Art. 27(3) RED II (Commission Delegated 
+Regula tion EU 2023/ 1184 ) on the rules for the production of renewable liquid 
+and gaseous transport fuels of non -biological origin (hereafter Delegated Act 
+ 
+1 Directive (EU) 2023/2413 amending Directive (EU) 2018/2001, Regulation (EU) 2018/1999 and Directive 
+98/70/EC as regards to the promotion of energy from renewable sources, and repealing Council Directive 
+(EU) 2015/652 (hereafter referred to as “revised RED II". The revised RED II is also known as RED III).) E-fuels as 
+alternative to 
+fossil fuels 
+The RED II /RED 
+III and RFNBOs 
+The RED II and 
+RCFs 
+GHG emissions 
+savings 
+Renewable 
+electricity 
+Delegated Acts 
+
+© ISCC System GmbH 
+
+on RFNBOs)2, the EU Commission lays out rules and guidelines intend ing to 
+ensure that the electricity used to produce the RFNBOs can be considered 
+fully renewable. 
+The Delegated Act based on Article 28 (5) RED II specifies a methodology for 
+assessing greenhouse gas emissions savings from renewable liquid and 
+gaseous transport fuels of non -biological origin and from recycled carbon 
+fuels .3 The specific GHG requirements determine the emissions for RFNBOs 
+and RCFs are laid down in ISCC EU Document 205-1 “Renewable Fuels of 
+Non-Biological Origin and Recycled Carbon Fuels - Greenhouse Gas 
+Emissions”. Additionally , guidance published by the European Commission in 
+the “Q&A for the certification of RFNBOs and RCF”4 was also considered for 
+the development of this System Document. 
+In the revised RED II, RFNBOs are defined as: “ renewable fuels of non -
+biological origin” means liquid and gaseous fuels the energy content of which 
+is derived from renewable sources other than biomass .5 
+RCFs6 are defined as liquid and gaseous fuels that are produced from liquid 
+or solid waste streams of non -renewable origin which are not suitable for 
+material recovery in accordance with Article 4 of Directive 2008/98/EC7, or 
+from waste processing gas and exhaust gas of non -renewable origin which 
+are produced as an unavoidable and unintentional consequence of the 
+production process in industrial installations. 
+The Annex in this document contains further particular relevant definitions of 
+the RED II and the Delegated Act on RFNBOs. 
+3 Basics for the certification of RFNBOs and RCFs 
+The RED II defines RFNBOs as “liquid or gaseous fuels which are used in the 
+transport sector other than biofuels or biogas , the energy content of which is 
+derived from renewable sources other than biomass ”. 
+ 
+2 Commission Delegated Regulation supplementing Directive (EU) 2018/2001 of the European Parliament 
+and of the Council by establishing a Union methodology setting out detailed rules for the production of 
+renewable liquid and gaseous transport fuels of non -biological origin . The delegated regulat ion was 
+adopted on 10 February 2023. The document has been published on the Official Journal of the European 
+Union on 20 June 2023 (Volume 66). 
+3 Commission Delegated Regulation (EU) supplementing Directive (EU) 2018/2001 of the European 
+Parliament and of the Council by establishing a minimum threshold for greenhouse gas emissions savings 
+of recycled carbon fuels and by specifying a methodology for assessing greenhouse gas emissions 
+savings from renewable liquid and gaseous transport fuels of non -biological origin and from recycled 
+carbon fuels. The delegated regulation was adopted on 13 February 2023. The publicat ion in the Official 
+Journal of the European Union was pending at the time the ISCC EU Document 202 -6 was created 
+4 Q&A for the certification of RFNBOs and RCF, published on March 14th 2024, in the Voluntary Schemes 
+webpage:  -energy/bioenergy/voluntary -schemes_en , In the 
+following referred to as Q&A RFNBOs 
+5 Art. 1(1g) revised RED II 
+6 Art. 2(35) RED II 
+7 Directive 2008/98/EC on waste and repealing certain directives Definitions of 
+RFNBOs and 
+RCFs 
+RFNBOs 
+
+© ISCC System GmbH 
+
+Following the definition of renewable energy in the RED II, t his means that a 
+RFNBO is produced using primarily electricity from wind, solar (solar thermal 
+and solar photovoltaic) and geothermal energy, ambient energy, tide, wave 
+and other ocean energy , and hydropower . By contrast, according to the 
+definition of ‘installation generating renewable electricity’ (see Annex I ) given 
+in the DA on RFNBOs, RFNBOs fully renewable electricity cannot be sourced 
+from installations using energy derived from biogenic sources suc h as 
+biomass, landfill gas, sewage treatment plant gas or biogas. 
+As the production of RFNBOs is not associated with the cultivation of biomass , 
+it does not generally compete with food or feed production. 
+A prominent example for a RFNBO is renewable hydrogen, derived from 
+renewable electricity using electrolysis . The Delegated Act on RFNBOs 
+explicitly states that, in practice, the energy content of nearly all RFNBOs is 
+based on renewable hydrogen produced via electrolysis. 
+Figure 1 provides an overview over an exemplary supply chain for RFNBO 
+production and their potential markets and end -uses. 
+ 
+Figure 1: An exemplary supply chain for RFNBO production . Hydrogen may be used 
+directly as fuel or serve as an intermediate for other RFNBOs . 
+Renewable 
+energy sources 
+No competition 
+with food or feed 
+Renewable 
+hydrogen 
+Exemplary 
+supply chain 
+
+© ISCC System GmbH 
+
+The first element is generally an installation generating renewable electricity, 
+followed by an electrolyser producing renewable hydrogen from that 
+electricity. The renewable hydrogen can then either be used directly (e.g. the 
+mobility, industrial or building sectors ) or used as an intermediate, by reacting 
+it with other raw materials such as carbon dioxide (CO 2) (e.g. renewable 
+hydrogen and CO 2 reacting to methane), other carbon sources like carbon 
+monoxide (CO), or nitrogen ( N2) (e.g. renewable hydrogen and N 2 reacting to 
+ammonia) into hydrogen derivat ives. 
+RCFs are defined in the RED II as liquid and gaseous fuels that are produced 
+from liquid or solid waste streams of non -renewable origin which are not 
+suitable for material recovery in accordance with Article 4 of 
+Directive 2008/98/EC, or from waste processing gas and exhaust gas of non -
+renewable origin which are produced as an unavoidable and unintentional 
+consequence of the production process in industrial installations . As described 
+in the Annex of the Delegated Act on the GHG calculation methodology for 
+RFNBOs and RCFs, the amount of RCFs that is created in a process is 
+determined by the energy input s that comply with the definition above. 
+Equal to RFNBOs, t he production of RCFs does not involve cultivation of 
+biomass and, therefore, it does not generally compete with food or feed 
+production. 
+If CO 2 is used as a carbon source for ei ther RFNBO s or RCF s (e.g. to react 
+with renewable hydrogen to a hydrocarbon RFNBO ), three different CO 2 types 
+of origin can be distinguished . The CO 2 can come from waste fossil sources 
+(for instance waste flue gases from industrial production and combustion 
+processes), from biological sources (for instance alcohol fermentation or 
+anaerobic digestion) or from atmospheric or naturally - occurring/geothermal 
+sources. 
+In any case, t he CO 2 must not be deliberately produced for the purpose of 
+introducing it into an RFNBO or RCF production process . A fuel would be 
+considered as a fossil fuel if the CO 2 was generated from fossil energy sources 
+exclusively for the purpose of using it as input to produce a transport fuel. 
+Similarly, the fuel would be considered as a biofuel, and not an RFNBO or 
+RCF, if the CO 2 was generated from biomass specifically for the purpose of 
+using it as input to produce a transport fuel . 
+The ISCC EU system document s lay down the general rules regarding the 
+basic audit and certification processes, risk management procedures as well 
+as requirements for traceability and chain of custody and greenhouse gas 
+(GHG) emissions calculation and verification under the ISCC EU system . The 
+specific GHG calculation requirements for RFNBOs and RCFs are laid down 
+in ISCC EU Document 20 5-1 “Renewable Fuels of Non -Biological Origin and 
+Recycled Carbon Fuels - Greenhouse Gas Emissions ”. 
+ RFNBO 
+production steps 
+RCFs 
+No competition 
+with food or feed 
+CO 2 sources 
+No deliberate 
+production of 
+CO 2 
+Fundamentals of 
+the ISCC system 
+
+© ISCC System GmbH 
+
+Under ISCC, as a basic principle, all economic operators that handle 
+sustainable material8 (e.g. produce or generate, collect, process, store or 
+trade) must be covered by an ISCC certification. The electrolyser and all 
+subsequent elements in the downstream supply chain therefore must be 
+certified individually. 
+While the installation generating the renewable electricity does not have to be 
+certified individually, the RFNBO producer needs to demonstrate to the auditor 
+that the renewable electricity sourced from that installation fulfils the 
+requirements for counting sourced electricity as fully renewable as laid out in 
+chapter 4. 
+Figure 2 describes how different elements in a simplified RFNBO supply chain 
+are cover ed by ISCC certification . Requirements regarding traceability and 
+chain of custody are covered in detail in chapter 5. 
+
+Figure 2: Simplified example of how a RFNBO supply chain would be covered by 
+ISCC certification. 
+4 Rules for Counting Electricity as (Fully ) 
+Renewable 
+The RED II requires that t o ensure that RFNBOs contribute to a reduction in 
+greenhouse gas emissions, the electricity used for RFNBO s production has to 
+be of renewable origin. In line with the methodology laid out in the RED II and 
+the Delegated Act on RFNBOs , this chapter provides the rules for counting 
+the electricity used for the production of RFNBOs as renewable. 
+As a general rule, electricity sourced from installations generating renewable 
+electricity for the production of RFNBOs may be counted as renewable only if 
+it is generated from wind, solar (solar thermal and solar photovoltaic) and 
+geothermal energy, ambient energy, tide, wave and other ocean energy, and 
+hydropower . This is in line with the RED II definition of renewable energy, 
+excluding energy from biogenic sources . According to the Delegated Act on 
+ 
+8 In the RFNBOs context, sustainable material may also refer to (fully) renewable electricity. 
+Obligati on for 
+certification 
+Coverage of RE 
+installations 
+Supply chain 
+certification 
+coverage 
+Renewable 
+electricity 
+Eligible 
+renewable 
+energy sources 
+
+© ISCC System GmbH 
+
+RFNBOs, storage units cannot be considered as installations generating 
+renewable electricity . Electricity is sourced from installation generating 
+renewable electricity when the approaches described in chapter 4.1, 4.2.2, 
+4.2.3 and 4.2.4 are used. In contrast , if the grid mix determines the share of 
+renewable electricity, as described below9 and in chapter 4.2.1, biogenic 
+energy is included following the definition in the D elegated Act on RFNBOs 
+Article 4(1) subparagraph 2. 
+In this chapter, following the terminology employed in the RED II and the 
+Delegated Act on RFNBOs , terms such as ‘bidding zone’, ‘imbalance 
+settlement period’ or ‘downward redispatching’ are used. Definitions of these 
+terms can be found in the Annex of this document. As a basic principle, in 
+scenarios where these exact terms do not exist or do not apply (e.g. 
+production in non -EU countries) , equivalent concepts should be used. These 
+equivalent terms should reflect the nature of the electricity system in th e given 
+scenario or country (e.g. an equivalent term for ‘bidding zone’ should take into 
+account the respective electricity market design , such as a nodal instead of a 
+zonal design). Wherever guarantees of origin ( hereafter GoO s) are mentioned 
+in the following also equivalent documents (such as renewable energy 
+guarantees of origin in the UK or renewable energy certificates in the US, 
+Canada, Australia, and other countries) can be used . For further guidance on 
+Power Purchase Agreements and guarantees of origin please see Annex II 
+and for further guidance on bidding zone equivalents and implementation of 
+rules on curtailment please see Annex III. 
+Electricity u sed to produce RFNBO can be considered fully renewable if the 
+respective require ments set by the RED II and the Delegated Acts on 
+RFNBOs are met. These requirements are subject of t his chapter. If these 
+requirements are not met the renewable share of electricity in the grid can still 
+be used for RFNBO production . Provided sourcing of renewable electricity 
+according to each option (see chapter 4.4) is duly documented , RFNBOs 
+producers may combine those options. While fully renewable electricity can 
+be accounted with zero emissions , electricity sourced from the grid without 
+meeting the r equirements for fully renewable electricity will not be accounted 
+with zero emissions . This is further described in the ISCC EU System 
+Document 205 -1. 
+If electricity is sourced from the grid and the RFNBO producer wants to claim 
+a share of this electricity as renewable based on the share of renewable 
+electricity in the grid , they shall demonstrate to the auditor the average share 
+of electricity from renewable sources in the country where the installation 
+producing RFNBOs is located , as measured two years before the year in 
+question (the year in which the production of RFNBOs takes place) . This shall 
+be done using data from official sources (e.g. via statistics provided by 
+Eurostat SHARES, or by the respective country’s energy office ) which are 
+calculated by dividing the gross final consumption of electricity from renewable 
+ 
+9 See paragraph “Average share of renewable electricity” . Use of 
+equivalent 
+concepts 
+Average share of 
+renewable 
+electricity 
+Proof of average 
+RE share 
+
+© ISCC System GmbH 
+
+sources in the country , calculated by analogy to the rules set out in Article 7(2) 
+of the RED II , by the gross electricity production from all energy sources as 
+defined in Annex B to Regulation (EC) 1099/2008, except from water 
+previously pumped uphill (excluded from both the numerator and the 
+denominator), plus imports minus exports of electricity t o the count ry. 
+In countries where GoOs are available the RFNBO producer shall 
+demonstrate to the auditor that GoOs equivalent to the amount of electricity 
+sourced as renewable according to this option are cancelled. This GoOs can 
+either be purchased and cancelled by the RFNBO producer or the RFNBO 
+producer can demonstrate to the auditor that the cancellation is taken care of 
+by a competent body designated by the Member State . 
+Electricity is considered as being fully renewable if the renewable properties 
+can be demonstrated according to the rules set out in the RED II and the 
+Delegated Act on RFNBOs. 
+The rules under which electricity can be considered fully renewable differ for 
+different electricity sourcing scenarios. A basic distinction is made as to 
+whether the electricity is obtained via a direct connection to an installation 
+generating renewable electricity or whether the electricity is obtained via the 
+grid. The following five scenarios for sourcing renewable electricity for the 
+production of RFNBOs are distinguished: 
+a) Electricity from directly connected installations 
+b) Electricity from a grid with a renewable energy share exceeding 90% 
+c) Electricity via a grid with a n emission intensity lower than 18 
+gCO 2eq/MJ with further requirements 
+d) Electricit y from the grid avoiding or reducing the need of downward 
+redispatching of installations generating renewable electricity 
+e) Electricity via the grid with further requirements 
+Figure 3 depicts the different scenarios covered by the RED II and the 
+Delegated Act on RFNBOs. Cancellation of 
+Guarantees of 
+Origin 
+Fully renewable 
+electricity 
+Different 
+sourcing 
+scenarios 
+
+© ISCC System GmbH 
+
+Figure 3 : Overview of the requirements depending on the type of electricity 
+connection . 
+Depending on the sourcing option, different requirements exist for counting 
+the obtained electricity as fully renewable, as laid out in the following 
+subchapters. RFNBO producers are allowed to source renewable (grid share 
+option - see fourth paragraph of this chapter ) and fully renewable electricity 
+at the same time. Also sourcing of fully renewable electricity via different 
+options is possible . In all case s, the respective requirements apply, and the 
+amounts of electricity sourced via each option need to be documented 
+separately (see chapter 4.4). 
+4.1 Electricity from directly connected installations 
+To count electricity that is obtained via a direct connection to an installation 
+generating renewable electricity as fully renewable , the RFNBO producer shall 
+provide evidence on the following: 
+a) The electricity is supplied 
+> by an installation generating renewable electricity via a direct 
+line, or 
+> by an installation generating renewable electricity within the 
+installation (site) that is producing RFNBO s; 
+b) The installation generating renewable electricity 
+> came into operation not earlier than 36 months before the 
+installation producing RFNBO s, and 
+> where additional production capacity is added to an existing 
+installation producing RFNBO s, the added capacity shall be 
+Different 
+requirements 
+
+© ISCC System GmbH 
+
+considered to be part of the existing installation, provided that 
+the capacity is added at the same site and the addition takes 
+place no later than 36 months after the initial installation came 
+into operation ; 
+c) The installation generating renewable electricity 
+> is not connected to the grid, or 
+> is connected to the grid but a smart metering system that 
+measures all electricity flows from the grid shows that no 
+electricity has been taken from the grid to produce RFNBO s. 
+During the audit, auditors must check the existence of a direct line between 
+the installation generating renewable electricity and the installation producing 
+the RFNBO. 
+The RFNBO producer shall demonstrate through appropriate documentation 
+(e.g. document indicating the date of commission ing) that the installation 
+generating renewable electricity came into operation not earlier than 36 
+months before the installation producing the RFNBO. Where additional 
+production capacity is added to an existing installation producing RFNBOs, 
+the RFNBO producer shall provide appropriate documentation that the added 
+capacity came into operation no later than 36 months after the in itial operation. 
+Where a smart metering system as described above is used, the audit or shall 
+verify that the system is correctly calibrated, measures all electricity flows and 
+that no electricity has been taken from the grid to produce the RFNBOs. 
+Where available, the electricity supplied via a direct connection should come 
+with GoO to reduce the risk that any given unit of renewable electricity is not 
+counted more than once. 
+If GoO are issued for electricity generated in the directly connected installation 
+it must be ensured that all GoO connected to the amounts of electr icity 
+consumed in the installation producing RFNBOs are cancel led. Appropriate 
+documentation on the cancellation of GoO must be made available to the 
+auditor. 
+If no GoO were issued for the electricity in the directly connected installation, 
+this has to be confirmed during the audit. 
+More information on GoO and PPA can be found in Annex II of this document. 
+ 
+4.2 Electricity from the grid 
+In many cases, an installation producing RFNBO s will obtain the required 
+electricity from or via the grid. Four different scenarios of receiving electricity 
+from or via the grid that may qualify as fully renewable can be distinguished: Existence of 
+direct line 
+Proof of start of 
+operation 
+Check of smart 
+metering system 
+Guarantees of 
+origin or 
+equivalent 
+Cancellation of 
+guarantees of 
+origin 
+Electricity via 
+grid 
+
+© ISCC System GmbH 
+
+1. Electricity from a grid with a renewable energy share exceeding 90% 
+(chapter 4.2.1) 
+2. Electricity from a grid with an emission intensity lower than 18 
+gCO 2eq/MJ with further requirements (chapter 4.2.2) 
+3. Electricity from the grid avoiding or reducing the need of downward 
+redispatching of installations generating renewable electricit y 
+(chapter 4.2.3) 
+4. Electricity from the grid with further requirements (chapter 4.2.4) 
+4.2.1 Electricity from a grid with renewable energy share exceeding 
+90% 
+The RFNBO producer may count electricity taken from the grid as fully 
+renewable if 
+a) the installation producing RFNBO s is located in a bidding zone where 
+the average proportion of renewable electricity exceeded 90% in the 
+previous calendar year , and 
+b) the number of full load hours of RFNBOs production is limited to the 
+share of renewable electricity in the bidding zone (i.e. the installation 
+producing RFNBOs can be operated for as many hours per year as 
+corresponds to the respective renewable energy share) . In this regard, 
+RFNBOs produced outside of the maximum full load hours limit will be 
+counted as non -renewable. 
+The average share of renewable electricity shall be determined by dividing the 
+gross final consumption of electricity from renewable sources in the bidding 
+zone10 by the gross electricity production from all energy sources11, except 
+from water previously pumped uphill (i.e. pumped storage) , plus imports minus 
+exports of electricity to the bidding zone. To identify the bidding zone , 
+information on the location of the RFNBO producing installation from official 
+sources shall be used. Figure 4 may be considered approximate guidance . 
+Once the average share of renewable electricity exceeds 90% in a calendar 
+year, it shall be considered to be higher than 90% for the subsequent five 
+calendar years. 
+The RFNBO producer shall demonstrate to the auditor that the average 
+proportion of renewable electricity in the bidding zone where the installation 
+producing RFNBOs is located exceeded 90% in at least one year of the last 
+six preceding calendar year s. In the case bidding zones are equivalent to the 
+country, statistic data provided by Eurostat (Eurostat SHARES12) shall be 
+used . Where bidding zones are not identical to countries, data from official 
+ 
+10 Calculated by analogy to the rules set out in Article 7(2) of RED II 
+11 Energy sources as defined in Annex B to Regulation (EC) 1099/2008 Regulation of the European 
+Parliament and of the Council of 22 October 2008 on energy statistics 
+12  Grid with high 
+RE share 
+Calculation of 
+average RE 
+share 
+Continuation of 
+high RE share 
+Proof of high RE 
+share 
+
+© ISCC System GmbH 
+
+national statistics have to be used that have been derived in line with the 
+methodology applied for determining the RES -E share in the SHARES tool. In 
+the case of non -EU countries, data published by IEA (International Energy 
+Agency) shall be used. In the case IEA data are not available, data from 
+national statistical institutes may be used. Figure 4 shows a recent bidding 
+zone configu ration in Europe . 
+To demonstrate to the auditor that the permissible annual operating hours 
+have not been exceeded , the mandatory documentation on the produced 
+amounts of RFNBO (see 4. 4) can be used . If electricity is sourced from the 
+grid during the remaining hours , without demonstrating that this electricity can 
+count as fully renewable according to the options described in chapters 4.2.2, 
+4.2.3 or 4.2.4, this electricity shall be considered non -renewable . 
+In countries w here GoO s are available RFNBO producer shall demonstrate to 
+the auditor that GoOs equivalent to the amount of electricity sourced as fully 
+renewable according to this option are cancelled . For this GoOs can either be 
+purchased and cancelled by the RFNBO producer or the RFNBO producer 
+can demonstrate to the auditor that the cancellation is taken care of by a 
+competent body designated by the Member State . 
+ 
+Documentation 
+of operating 
+hours 
+Cancellation of 
+guarantees of 
+origin 
+
+© ISCC System GmbH 
+
+Figure 1 Overview of the b idding zone configuration in Europe in 2022. A more 
+detailed version can for example be found on the website of ENTSO -E.13 
+4.2.2 Electricity via a grid with an emission intensity lower than 18 
+gCO 2eq/MJ with further requirements 
+Fuel producers may count electricity sourced via the grid as fully renewable if 
+the installation producing RFNBO is located in a bidding zone where the 
+emission intensity of electricity is lower than 18 gCO 2eq/MJ, provided that the 
+following criteria are met: 
+a) the fuel producers have concluded directly, or via intermediaries, one 
+or more renewables power purchase agreements (PPA s) with 
+economic operators producing renewable electricity in one or more 
+installations generating renewable electricity for an amount that is at 
+least equivalent to the amount of electricity that is claimed as fully 
+renewable, and the electricity claimed is effectively produced in this or 
+these installations; 
+b) the conditions on temporal and geographical correlation in accordance 
+with chapters 4.3.3 and 4. 3.4 are met . 
+The emission intensity of electricity shall be determined following the 
+approach for calculating the average carbon intensity of grid electricity in the 
+methodology for determining GHG savings based on latest available data (as 
+laid down in Annex II of ISCC EU System Document 205-1). 
+Once the emission intensity of electricity is lower than 18 gCO 2eq/MJ in a 
+calendar year, the average emission intensity of electricity shall be continued 
+to be considered lower than 18 gCO 2eq/MJ for the subsequent five calendar 
+years. 
+The RFNBO producer shall demonstrate to the auditor that the emission 
+intensity of the electricity in the bidding zone where the installation producing 
+RFNBOs is located has been lower than 18 gCO 2eq/MJ in at least one 
+calendar year of the last six preceding calendar years. 
+Where available, the electricity supplied under the PPA(s) should come with 
+GoO to reduce the risk that any given unit of renewable electricity is counted 
+more than once . 
+If GoO s are issued for electricity generated in the installation (s) covered by 
+the PPA(s) it must be ensured that all GoO s connected to the amounts of 
+electricity consumed in the installation producing RFNBOs are cancelled. 
+Appropriate documentation on the cancellation of GoO must be made 
+available to the auditor. 
+If no GoO s were issued for the electricity in the installation (s) covered by PPA , 
+this has to be confirmed during the audit . 
+ 
+13 Source: entsoe.eu/data/energy -identification -codes -eic/eic -area-codes -map/ Emission 
+intensity of 
+electricity 
+Continued low 
+emission 
+intensity 
+Guarantees of 
+origin or 
+equivalent 
+Cancellation of 
+guarantees of 
+origin 
+
+© ISCC System GmbH 
+
+Intermediaries between the RFNBOs producer and the renewable electricity 
+producer may be contracting parties (e.g. intermediaries can represent the 
+renewable electricity producer). However, a direct relation between the 
+renewable electricity producer and t he RFNBOs producer shall be maintained 
+and demonstrated, e.g. the contract between the RFNBOs and the 
+intermediary shall mention the same installation(s) producing renewable 
+electricity reported in the contract(s) between the intermediary and the 
+renewable electricity producer. 
+More information on GoO and PPA can be found in Annex II of this document. 
+4.2.3 Electricity from the grid avoiding or reducing the need of 
+downward redispatching of installations generating renewable 
+electricity 
+Electricity taken from the grid that is used to produce RFNBOs may also be 
+counted as fully renewable if the electricity is consumed during an imbalance 
+settlement period during which the fuel producer can demonstrate, based on 
+evidence from the national transmission system operator, that: 
+a) power -generating installations using renewable energy sources were 
+redispatched downwards in accordance with Article 13 of Regulation 
+(EU) 2019/943 (Internal market for electricity ), and 
+b) the electricity consumed for the production of RFNBOs reduced the 
+need for redispatching by a corresponding amount. 
+The evidence from the national transmission system operator , demonstrating 
+the compliance with the two crit eria above must be made available to the 
+auditor for all amounts of electricity claimed as fully renewable in accordance 
+with this chapter . This evid ence must include a confirmation from the national 
+transmission system operator that the amount of electricity is not claimed by 
+any other party . 
+Where GoOs are available RFNBO producer shall demonstrate to the auditor 
+that GoOs equivalent to the amount of electricity sourced as fully renewable 
+according to this option are cancelled. For this GoOs can either be purchased 
+and cancelled by the RFNBO producer or the RFNBO producer can 
+demonstrated to the auditor that the cancellation is taken care of by a 
+competent body designated by the Member State . 
+4.2.4 Electricity via the grid with further requirements 
+Where the conditions in chapters 4.2.1 , 4.2.2 and 4.2.3 are not met, RFNBOs 
+producers may count electricity taken from the grid as fully renewable if it 
+complies with the conditions on additionalit y (4.3.1), geographical correlation 
+(4.3.2) and temporal correlation (4.3.3). 
+ 
+Electricity via PPA can be directly sourced from the RES producer or via 
+intermediaries. In the latter case, a direct relation between the renewable Evidence 
+Cancellation of 
+guarantees of 
+origin 
+
+© ISCC System GmbH 
+
+electricity producer and the RFNBOs producer shall be maintained and 
+demonstrated. 
+More information on GoO and PPA can be found in Annex II of this document. 
+ 
+4.3 Criteria for counting electricity from grid with further 
+requirements 
+When the conditions laid down in chapters 4.2.1, 4.2.2 and 4.2.3 are not met, 
+RFNBOs producers may count electricity as fully renewable if it complies with 
+the conditions on additionality, geographical correlation and temporal 
+correlation. 
+4.3.1 Additionality 
+The RED II requires an element of additionality, i.e. that the RFNBO producer 
+is adding to the renewable deployment or to the financing of renewable 
+energy. 
+The additionality condition shall be considered complied if the fuel producers 
+produce an amount of renewable electricity in their own installation that is at 
+least equivalent to the amount of electricity claimed as fully renewable, or have 
+concluded (directly or via intermediaries) one or more power purchase 
+agreements (PPAs) with one or more installations for an amount or renewable 
+electricity that is at least equivalent to the amount of electricity that is claimed 
+as fully renewable and the electricity claim ed is effectively produced in the 
+installation (s). 
+Furthermore, the following criteria must be met: 
+a) the installation generating renewable electricity came into operation 
+not earlier than 36 months before the installation producing RFNBO . 
+b) The installation generating renewable electricity has not received 
+support in the form of operating aid or investment aid, excluding 
+support received by installations before their repowering, financial 
+support for land or for grid connections, support that does not 
+constitute net support, such as support that is fully repaid and support 
+for installations generating renewable electricity that are supplying 
+installations producing RFNBOs used for research, testing and 
+demonstration. 
+The RFNBO producer shall demonstrate through appropriate documentation 
+(e.g. document s indicating the date s of commissioning , GoO issued for 
+electricity generated in the installation in question ) that the installation 
+generating renewable electricity came into operation not earlier than 36 
+months before the installation producing the RFNBO. 
+Where an installation generating renewable electricity complied with the 
+requirements set out in (a) of this paragraph under a renewables PPA with a 
+fuel producer that has ended, it shall be considered to have come into RED II requires 
+additionality 
+Proof of recent 
+start of operation 
+Ending of PPA 
+
+© ISCC System GmbH 
+
+operation at the same time as the installation producing the RFNBO under a 
+new renewables PPA. In this case, the RFNBO producer shall provide 
+evidence to the auditor that the respective PPA has ended and has complied 
+with the requirements set out in (a) before it ended . 
+In case additional production capacity is added to an existing installation 
+producing RFNBOs at the same site and the a dded capacity starts operating 
+not later than 36 months after the initial installation came into operation, the 
+added capacity is considered to have come into operation at the same time 
+as the initial installation. The RFNBO producer shall demonstrate to the 
+auditor the date on which the additional production capacity at the site came 
+into operation. 
+For installations producing RFNBOs that are not used for research, testing 
+and demonstration purposes compliance with the requirement under (b) of this 
+paragraph shall be demonstrated to the auditor via appropriate 
+documentation , e.g. via a statement included in GoO . 
+However, if the installation producing RFNBOs is used for research, testing 
+and demonstration , the PPA(s) may also cover installations producing 
+renewable electricity that have received support in the form of operating aid 
+or investment aid . Evidence that the installa tion producing RFNBO s is used 
+for research, testing , and demonstration purpose s has to be provided to the 
+auditor . 
+Where available, the electricity supplied from own installations or installations 
+under PPA (s) should come with GoO to reduce the risk that any given unit of 
+renewable electricity is counted more than once . 
+If GoO is issued for electricity generated in own installation or in installations 
+under PPA(s) it must be ensured that all GoO connected to the amounts of 
+electricity consumed in the installation producing RFNBOs are cancelled. 
+Appropriate documentation on the cancellation of GoO must be made 
+available to the auditor. 
+If no GoO was issued for the electricity sourced from the grid with further 
+requirements, this has to be confirmed during the audit. 
+The criteria on additionality under (a) and (b) do not apply until 01 January 
+2038 to installations producing RFNBOs that come into operation before 01 
+January 2028. This exemption does not apply to capacity added to existing 
+RFNBO production installations after 01 January 2028 . 
+More information on GoO and PPA can be found in Annex II of this document. 
+ 
+4.3.2 Temporal correlation 
+The RED II requires a temporal correlation between the generation of 
+electricity that is claimed as fully renewable and the use of it for RFNBO Additional 
+production 
+capacity 
+Support for RE 
+installations 
+Research, 
+testing and 
+demonstration 
+Guarantees of 
+origin or 
+equivalent 
+Cancellation of 
+guarantees of 
+origin 
+Transition phase 
+RED II requires 
+temporal 
+correlation 
+
+© ISCC System GmbH 
+
+produc tion. For electricity supplied with a direct connection , for electricity 
+taken from a grid with a share of renewable electricity exceeding 90% (see 
+4.2.1), and for electricity taken from the grid avoiding or reducing the need of 
+downward redispatching of installations generating renewable electricity (see 
+4.2.3) temporal correlation is considered to be met . For electricity sourced 
+from indirectly connected installation s (see 4.2.2 and 4.2.4) the requirement 
+for temporal correlation is considered to be met if one of the following cases 
+applies : 
+a) Until 31 December 2029 the temporal correlation condition shall be 
+considered complied with if the RFNBO is produced during the same 
+calendar month as the renewable electricity produced in own 
+installations or in installations under renewable PPA(s) or from 
+renewable electricity from a new storage14 asset that is located behind 
+the same network connection point as the electrolyser or the 
+installation generating renewable electricity, that has been charged 
+during the same calendar month in which the electricity has been 
+produced in own installations or in installations under renewable s 
+PPA(s). 
+b) From 1 January 203015, the temporal correlation condition shall be 
+considered complied with if the RFNBO is produced during the same 
+one-hour period as the renewable electricity produced in own 
+installations or in installations under renewable PPA(s) or from 
+renewable electricity from a new storage asset13 that is located behind 
+the same network connection point as the electrolyser or the 
+installation generating renewable electricity, that has been charged 
+during the same one -hour period in which the electricity has been 
+produced in own installations or in installations under renewables 
+PPA(s) . 
+c) The temporal correlation condition shall always be considered 
+complied with if the RFNBO is produced during a one -hour period 
+where the clearing price of electricity resulting from single day -ahead 
+market coupling in the bidding zone, as referred to in Article 39 (2), 
+point (a) of Regulation (EU) 2015/122216, is lower or equal to EUR 20 
+per MWh or lower than 0 ,36 times the price of an allowance to emit 
+one tonne of CO 2 equivalent during the relevant period for the purpose 
+of meeting the requirements for an emission trading scheme of 
+Directive 2003/87/EC17. This rule concerning the clearing price can be 
+ 
+14 Storage assets are storage assets that came into operation not earlier than 36 months before the 
+installation producing RFNBOs . 
+15 According to Art. 6, 2nd paragraph of DA on RFNBOs , Member States may apply the rules set out in this 
+paragraph from 1 July 2027 for RFNBO produced in their territory . In this case, compliance with the 
+national law will be verified during the audit . 
+16 Commission Regulation (EU) 2015/1222 of 24 July 2015 establishing a guideline on capacity allocation 
+and congestion management 
+17 Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establishing a 
+scheme for greenhouse gas emission allowance trading within the Community and amending Council 
+Directive 96/61/EC Before 31 
+December 
+
+From 01 
+January 
+
+© ISCC System GmbH 
+
+applied only if the price for electricity is established in a functioning 
+market and if the price of an allowance to emit one tonne of CO 2 
+equivalent is established in a functioning market. The closing price of 
+the previous trading day for December for the ongoing year (Source: 
+ICE Index or EEX) should be applied for the implementation of this 
+provision. 
+Thus, t he documentation of generated and consumed electricity for the 
+production of RFNBOs needs to be available on an hourly basis where 
+relevant - even before 01 January 2030 . Chapter 4.4 goes into further detail 
+on the data that will need to be documented . 
+4.3.3 Geographical correlation 
+The RED II also requires a geographical correlation between generation of 
+electricity that is claimed as fully renewable and the use of it for RFNBO 
+production. For electricity supplied with a direct connection (see 4.1), for 
+electricity taken from a grid with a share of renewable electricity exceeding 
+90% (see 4.2 .1), and for electricity taken from the grid avoiding or reducing 
+the need of downward redispatching of installations generating renewable 
+electricity (see 4.2.3) geographical correlation is consi dered to be met. For 
+electricity sourced from indirectly connected installations (see 4.2.2 and 4.2.4) 
+the geographical correlation condition is considered compiled with if at least 
+one of the following criteria related to the location of the RFNBO installation is 
+met: 
+a) the own installation generating renewable electricity or the installation 
+generating renewable electricity under a renewables PPA is located, 
+or was located at the time when it came into operation, in the same 
+bidding zone as the electrolyser; 
+b) the own installation generating renewable electricity or the installation 
+generating renewable electricity under a renewables PPA is located in 
+an interconnected bidding zone, including in another Member State, 
+and electricity prices in the relevant time period on the day -ahead 
+market referred to in chapter 4.3.2 in the interconnected bidding zone 
+is equal or higher than in the bidding zone where the RFNBO is 
+produced; 
+c) the own installation generating renewable electricity or the installation 
+generating renewable electricity under the r enewable PPA is located 
+in an offshore bidding zone that is interconnected with the bidding zone 
+where the electrolyser is located. 
+The RFNBO producer shall demonstrate the compliance with the geographical 
+correlation condition to the auditor through appropriate documentation of the 
+location (s) of the renewable electricity generating installation(s) and t he 
+location of the installation producing RFNBOs. Where geographical 
+correlation is claimed to be complied with by means of subparagraph (b) the Documentation 
+of electricity 
+RED II requires 
+geographical 
+correlation 
+
+© ISCC System GmbH 
+
+day-ahead prices at the relevant times of the involved bidding zones must be 
+demonstr ated to the auditor through appropriate documentation. 
+Member States may introduce additional criteria on geographical correlation 
+to ensure compatibility of capacity additions with the national planning of the 
+hydrogen and electricity grid. In this case, compliance with the national law 
+will be verified during the audit . 
+More information on GoO and PPA can be found in Annex II of this document. 
+ 
+4.4 Documentation of renewable electricity and RFNBO production 
+The RFNBO producer must document the following information for each hour , 
+where relevant : 
+a) The amount of electricity used to produce RFNBOs. This information 
+must be further detailed as follows: 
+i. the amount of electricity sourced from the grid that does not 
+count as fully renewable as well as the proportion of renewable 
+electricity ; 
+ii. the amount of electricity that counts as fully renewable because 
+it has been obtained from a direct connection to an installation 
+generating renewable electricity as set out in chapter 4.1; 
+iii. the amount of electricity sourced from the grid that counts as 
+fully renewable as the renewable energy share is exceeding 
+90% (see chapter 4.2.1 ); 
+iv. the amount of electricity that counts as fully renewable in 
+accordance with the criteria for a grid with an emission intensity 
+lower than 18 gCO 2eq/MJ (see chapter 4.2.2); 
+v. the amount of electricity that counts as fully renewable in 
+accordance with the criteria set out in chapter 4.2.3 for 
+electricity from the grid avoiding or reducing the need of 
+downward redispatching of installations generating renewable 
+electricity ; 
+vi. the amount of electricity that counts as fully renewable in 
+accordance with the criteria set out in chapter 4.2.4 (further 
+requirements for electricity taken from the grid) . 
+b) The amount of renewable electricity generated by all directly or 
+indirectly connected installations (including on -site) regardless of 
+whether the renewable electricity is used to produce RFNBOs or for 
+other purposes . 
+c) The amounts of produced RFNBOs and the amounts of any other 
+products produced that do not qualify as RFNBOs . Hourly 
+documentation 
+
+© ISCC System GmbH 
+
+Annex IV provides an overview on the requirements to source eligible 
+electricity for RFNBOs production. 
+5 Rules for eligible inputs for RCFs 
+Inputs to a fuel production process that would qua lify a share or all of the 
+output as RCFs need to comply with criteria that can be derived from the 
+definition of RCFs. Two distinct input categories are named in the RED II: 
+a) liquid or solid waste streams of non -renewable origin which are not 
+suitable for material recovery in accordance with Article 4 of 
+Directive 2008/98/EC , or 
+b) waste processing gas and exhaust gas of non -renewable origin which 
+are produced as an unavoidable and unintentional consequence of the 
+production process in industrial installations . 
+To qualify an input as liquid or solid waste that is eligible as input for RCF 
+production according to (a) the RCF producer must demonstrate to the auditor 
+that the material is a waste and not suitable for material recovery. To verify 
+that the material can be considered a waste the requirements laid down in 
+ISCC EU System Document 202-5 “Waste and Residues” shall be applied . In 
+particular, Chapter 3 reports the definition of waste and waste hierarchy and 
+according to Directive 2008/98/EC (Article 3(1) and Article 4, respectively ). 
+The document additionally provides information about the verification process 
+(Chapter 5) . The RCF producer must demonstrate, through appropriate 
+documentation, that the waste cannot be used for material recovery (e.g. 
+recent peer reviewed research showing that material recovery is not done on 
+a commercial level for the input in question) . 
+To qualify an input as waste processing gas and/or exhaust gas that is eligible 
+as input for RCF production according to (b) the RCF producer must 
+demonstrate to the auditor that the gas is either a waste (according to the 
+ISCC EU System Document 202-5 “Waste and Residues” ) or would otherwise 
+be exhausted into the atmosphere, is not produced intentionally, and cannot 
+be avoided in the production process it stems from. 
+6 Traceability and Chain of Custody 
+The traceability of RFNBOs starts at the producer of the renewable electricity 
+and covers the entire downstream supply chain. Traceability is achieved by 
+applying an appropriate chain of custody method (e.g. mass balance or 
+physical segregation) as well as relevant documentation. This includes Self -
+declarations and Sustainability Declarations, assuring that all relevant 
+information, such as the country of origin (i.e. the country where the renewable 
+electricity was generated), the amount and the respective GHG emissions of 
+a material can be clearly identified at each level of the supply chain. 
+Specifically for self -declaration : In the case of electricity sourced via direct Two input 
+categ ories 
+Traceability in 
+RFNBO s supply 
+chains 
+
+© ISCC System GmbH 
+
+connection or via PPA, the auditor must verify that the information reported in 
+the issued self -declaration(s) is correct and in line with the information 
+reported in the PPA. Additionally, the auditor will verify that the issued GoOs 
+are cancelled. In the case a self -declaration is issued by a point of origin for 
+carbon sources that can be considered as waste or residues, requirements 
+laid down in the ISCC EU System Document ISCC EU 20 3 “Traceability and 
+Chain of Custody ” for self -declarations and points o f origin apply . 
+The entire supply chain of RFNBOs must be covered by certification. The first 
+element of the supply chain requiring individual certification is the economic 
+operator producing hydrogen out of the renewable electricity (i.e. electrolyser 
+certified under the scope processing unit). 
+The traceability of RCFs starts at the economic operator at which the waste is 
+generated and covers the entire downstream supply chain. This includes Self -
+declarations and Sustainability Declarations, assuring that all relevant 
+information, such as the amount and nature (liquid or solid waste streams , 
+waste processing gas and exhaust gas ) and the respective GHG emissions 
+of a material can be clearly identified at each level of the supply chain . In the 
+case a self -declaration is issued from a point of origin for input(s) that can be 
+considered waste or residues, requirements laid down in the ISCC EU System 
+Document 203 “Traceability and Chain of Custody ” apply. 
+The entire supply chain of RCFs must be covered by certification. The first 
+element of the supply chain requiring individual certification is the economic 
+operator collecting the RCFs feedstock from the point of origin and becoming 
+the owner of the material. This economic operator is called “collecting point”. 
+The general definitions of supply chain elements are specified in ISCC EU 
+System Document 201 “System Basics” . The general requirements for 
+traceability and chain of custody as well as general and specific audit 
+requirements for the individual supply chain elements are specified in ISCC 
+EU System Document 203 “Traceability and Chain of Custody”. 
+The obligation for certification according to this standard starts with the 
+economic operator producing hydrogen (processing unit) out of the renewable 
+electricity or the collecting point of the RCFs feedstock . The producer of the 
+renewable electricity shall provide a signed self -declaration to the certified 
+hydrogen producer. The point of origin of the RCFs feedstock shall provide a 
+signed self -declaration to the collecting point . All further certified elements of 
+RFNBO s and RCFs supply chain issue sustainability declarations when they 
+forward the sustainable material through the supply chain. Under ISCC, the 
+identification and tracking of the origin, processing history distribution and 
+location of materials can be done “step -by-step” through the entire supply 
+chain. 
+The following general and product related information must be available on 
+Sustainability Declarations for all incoming sustainable material as well as on RFNBOs 
+Certification 
+covers entire 
+supply chain 
+Traceability in 
+RCFs supply 
+chains 
+RCFs 
+Certification 
+covers entire 
+supply chain 
+General 
+defin itions 
+Forwarding of 
+sustainability 
+information 
+Information on 
+Sustainability 
+Declarations 
+
+© ISCC System GmbH 
+
+the Sustainability Declarations issued by the certified party for all sustainable 
+output material. 
+General information 
+> Name and address of the supplier 
+> Name and address of the recipient 
+> Related contract number 
+> Date of dispatch of the sustainable material 
+> Address of dispatch/shipping point of the sustainable material (e.g. 
+processing unit, storage facility, hydrogen terminal, hydrogen entry 
+point) (applicable if different from the address of the supplier) 
+> Address of receipt/receiving point of the sustainable material ( e.g. 
+processing unit, storage facility, hydrogen terminal , hydrogen exit point) 
+(applicable if different from the address of the recipient) 
+> Name of the certification system and certificate number of the supplier 
+> Date of the issuance of the Sustainability Declaration 
+> Unique number of the Sustainability D eclaration 
+Product related information: 
+> Type of product (e.g. hydrogen, methane, methanol, ammonia, etc); the 
+product group has to be reflected 
+> Raw material: Renewable electricity 
+> Country of origin of the renewable electricity: Country where renewable 
+electricity was produced 
+> Scope of certification of the renewable electricity : 
+o Statement: “The renewability of the electricity was verified 
+according to Art. 3 and 4 of the Delegated Act on RFNBOs 
+> Quantity of delivered sustainable product in MWh (based on LHV ), 
+metric tons or m³ at 15°C 
+> Statement(s) “ISCC Compliant” and/or “EU RED Compliant” (if 
+applicable, please see ISCC Document 203 for further information) 
+GHG emission information Please see ISCC EU System Document s 205 
+“Greenhouse Gas Emissions ” and 205 -1 “Renewable Fuels of non -biological 
+Origin (RFNBO) and Recycled Carbon Fuels: Greenhouse Gas Emissions” for 
+further information.18 
+ 
+18 In general, the application of default and disaggregated default values is possible under ISCC EU . Should 
+such values become available for RFNBOs they could be applied under this standard 
+
+© ISCC System GmbH 
+
+> Statement of an actual value in kg CO 2eq per unit of product. For e td 
+(transport and distribution) the means of transport and the 
+transportation distance from the supplier to the recipient have to be 
+included on the Sustainability Declaration 
+The following calculation formula elements have to be reported separately: 
+o ei: Emissions from the supply of inputs (i.e. production of 
+renewable electricity) 
+o ep: Emissions from processing 
+o etd: Emissions from transport and distribution 
+o eccs: Emission savings from carbon capture and geological 
+storage 
+If the processing unit produces final RFNBO the following information has to 
+be added to the Sustainability D eclaration (i.e. Proof of Sustainability/PoS) : 
+> GHG emissions of the RFNBO in g CO 2eq/MJ 
+> The relevant fossil fuel comparator in g CO 2eq/MJ 
+> GHG emission savings (in per cent) compared to the relevant fossil 
+fuel 
+> eu: Emissions from combusting the fuel in its end -use the fuel in use 
+For RFNBOs the mass balance approach is applicable along the entire supply 
+chain. Renewable hydrogen is produced through the electrolysis process by 
+using renewable electricity. In the electrolysis process not only hydrogen but 
+also other outputs are produ ced, depending on the type of electrolysis. One 
+example for an additional output is oxygen (O 2). 
+For processes in which electricity enables chemical reactions and is used to 
+produce one or several products, the allocation of sustainability and GHG 
+emission saving characteristics is limited to a “proportional approach” or 
+“stoichiometric approach”. This means that the sustainable share must be 
+attributed to all process products in the same ra tio in which these products are 
+generated per unit of consumed electricity. A re -attribution or shift of the 
+attributed sustainable share from one product of the process to another is not 
+allowed. For example, in case of a water electrolysis processing uni t in which 
+renewable electricity and water are used to produce hydrogen as the main 
+product, the process yields equivalent amounts of hydrogen and oxygen (for 
+every two moles of hydrogen produced, one mole of oxygen is also produced). 
+In this case it is no t allowed to attribute or transfer sustainable characteristics 
+from e.g. oxygen to hydrogen or vice versa. Please see ISCC EU System 
+Document 203 “Traceability and Chain of Custody” for the general mass 
+balance requirements. 
+ Mass balance 
+applicable 
+Proportional 
+allocation of 
+sustainability 
+characteristics 
+
+© ISCC System GmbH 
+
+Annex I: Definitions 
+For the purposes of this document the definitions of the Delegated Act on 
+RFNBOs and the RED II apply . This Annex contains a list of particularly 
+relevant definitions. See the Delegated Act on RFNBOs and the RED II for a 
+complete list of definitions. 
+Relevant d efinitions of Art. 2 of the Delegated Act 
+1) ‘bidding zone’ means bidding zone as defined in Article 2, point (65), 
+of Regulation (EU) 2019/943 of the European Parliament and of the 
+Council19 for Member States, or an equivalent concept for third 
+countries ; 
+2) ‘direct line’ means direct line as defined in Article 2, point (41), of 
+Directive 2019/944 of the European Parliament and of the Council20 
+3) ‘installation generating renewable electricity’ means individual units, or 
+groups of units, producing electricity in one or several locations from 
+the same or from different renewable sources, as defined in Article 2 
+(1) of RED II , excluding units producing electricity from biomass and 
+storage units; 
+4) ‘fuel producer’ means an economic operator that produces renewable 
+liquid and gaseous transport fuel of non -biological origi n; 
+5) ‘come into operation’ means starting production of renewable liquid 
+and gaseous transport fuels of non -biological origin or renewable 
+electricity for the first time or following a repowering as defined under 
+Article 2, point (10) of RED II requiring investments exceeding 30% of 
+the investment that would be needed to build a similar new installation; 
+6) ‘smart metering system’ means smart metering system as defined in 
+Article 2(23) of Directive 2019/94421; 
+7) ‘imbalance settlement period’ means imbalance settlement period as 
+defined in Article 2, point (15), of Regulation (EU) 2019/94322 within 
+the Union, or an equivalent concept for third countries 
+
+19 Art. 2(65) of Regulation (EU) 2019/943 of the internal market for electricity : ‘bidding zone’ means the 
+largest geographical area within which market participants are able to exchange energy without capacity 
+allocation 
+20 Art. 2(41) of Directive 2019/944 on common rules for the internal market for electricity and amending 
+Directive 2012/27/EU : ‘direct line’ means either an electricity line linking an isolated generation site with 
+an isolated customer or an electricity line linking a producer and an electricity supply undertaking to supply 
+directly their own premises, subsidiaries and customers 
+21 Art. 2(23) of Directive 2019/944: ‘smart metering system’ means an electronic system that is capable of 
+measuring electricity fed into the grid or electricity consumed from the grid, providing more information 
+than a conventional meter, and that is capable of transmitting and receiving data for information, 
+monitoring and control purposes, using a form of electronic communication 
+22 Art. 2(15) of Directive 2019/ 944: ‘imbalance settlement period’ means the time unit for which the 
+imbalance of the balance responsible parties is calculated Relevant 
+definitions 
+
+© ISCC System GmbH 
+
+Relevant d efinitions of Art. 2 of the RED II /RED III 
+1) ‘energy from renewable sources’ or ‘renewable energy’ means energy 
+from renewable non -fossil sources, namely wind, solar (solar thermal 
+and solar photovoltaic) and geothermal energy, ambient energy, tide, 
+wave and other ocean energy, hydropower, biomass, l andfill gas, 
+sewage treatment plant gas, and biogas; 
+10) ‘repowering’ means renewing power plants that produce renewable 
+energy, including the full or partial replacement of installations or 
+operation systems and equipment for the purposes of replacing 
+capacity or increasing the efficiency or capacity of the ins tallation; 
+12) ‘guarantee of origin’ means an electronic document which has the sole 
+function of providing evidence to a final customer that a given share or 
+quantity of energy was produced from renewable sources; 
+17) ‘renewables power purchase agreement’ means a contract under 
+which a natural or legal person agrees to purchase renewable 
+electricity directly from an electricity producer; 
+35) ‘recycled carbon fuels’ means liquid and gaseous fuels that are 
+produced from liquid or solid waste streams of non -renewable origin 
+which are not suitable for material recovery in accordance with Article 
+4 of Directive 2008/98/EC, or from waste processing gas and exhaust 
+gas of non -renewable origin which are produced as an unavoidable 
+and unintentional consequence of the production process in industrial 
+installations; 
+36) ‘renewable fuels of non -biological origin ’ means liquid and gaseous 
+fuels the energy content of which is derived from renewable sources 
+other than biomass . 
+ 
+Annex II: Power Purchase Agreement and 
+Guarantee s of O rigin (GoO) 
+In the context of RFNBOs a PPA provide s a clear link between a RFNBO 
+producer and one or more installations generating renewable electricity if the 
+link is not otherwise given ( e.g., direct connection ). The basis for the minimum 
+requirements for a PPA derives from the PPA definition laid down in the RED 
+II (Article 2(17), and Annex I this document). Intermediaries between the 
+RFNBOs producer and the renewable electric ity producer may be contracting 
+parties (e.g. intermediaries can represent the renewable electricity producer). 
+However, a direct relation between the renewable electricity producer and the 
+RFNBOs producer shall be maintained and demonstrated , e.g. the contract 
+between the RFNBOs and the inter mediary shall mention the same 
+installation (s) producing renewable electricity reported in the contract(s) 
+between the intermediary and the renewable electricity producer . 
+
+© ISCC System GmbH 
+
+Guarantee of Origin (GoO) is defined as in Article 2(12) of the RED II and 
+represent a tool that is applied within the territories of the European Union . 
+Issued GoO must meet the requirements laid down in Article 19 RED II (this 
+Article applies only in the EU territories) and furthermore carry the same 
+attributes as the physical installation producing the electricity , including, inter 
+alia, the location of the installation, the age of the installation, and the time of 
+the production. GoOs must have issued f or the installations covered by PPAs . 
+The renewable electricity producers not allowed to sell or transfer the 
+associated G oOs to any other entity than the operator of the electrolyser under 
+the PPA.23 As already pointed out in the document, to avoid double counting, 
+if GoO are issued for renewable electricity sourced by the RFNBO producer it 
+must be ensured that all GoO connected to the amounts of electricity 
+consumed in the installation producing RFNBOs are cancelled. The 
+cancellation can be performed , for instance, by competent authorities 
+designated by the Member State or by the RFNBOs producer. 
+ 
+A GoO shall be of the standard size of 1 MWh and be valid for 12 months after 
+the production of the relevant energy unit. 
+ 
+A GoO shall specify at least: 
+1. The energy source from which the energy was produced and the start 
+and end dates of production; 
+2. The identity, location, type and capacity of the installation where the 
+energy was produced; 
+3. Whether the installation has benefited from investment support and 
+whether the unit of energy has benefited in any other way from a 
+national support scheme, and the type of support scheme; 
+4. The date on which the installation became operational; 
+5. The date and country of issue and a unique identification number. 
+In the case electricity production occurs outside of the European Union 
+territories and thus GoGs are not available , alternative Energy Attribute 
+Certificates (EAC s) can be used . Here, relevant examples include Renewable 
+Energy Certificates (REC s) in North America , Renewable Energy Guarantees 
+of Origin (REGO) in the UK, International RECs (I-RECs) and Tradable 
+Instruments for Global Renewables (TIGRs) across in many other countries 
+in the World (Latin America, Africa, Asia) . Any other EACs shall ensure the 
+same degree of robustness. 
+The EACs shall report the same minimum amount of information provided for 
+GoOs (Article 19 RED II) . 
+In the case neither GoOs nor EACs are available , the RFNBOs producer shall 
+be in the position to demonstrate : 
+ 
+23 To enforce this, the Member State may decide to immediately cancel the associated electricity G oOs. 
+
+© ISCC System GmbH 
+
+1. The energy source from which the energy was produced and the start 
+and end dates of production; 
+2. The identity, location, type and capacity of the installation where the 
+energy was produced; 
+3. Whether the installation has benefited from investment support and 
+whether the unit of energy has benefited in any other way from a 
+national support scheme, and the type of support scheme; 
+4. The date on which the installation became operational; 
+5. The amount of electricity delivered to the RFNBOs production plant ; 
+6. The date when the electricity has been delivered to the RFNBOs 
+production plant; 
+7. The date when the electricity has been used by the RFNBOs 
+production plant. 
+The requirements on GoOs also apply in cases where the conclusion of a 
+renewables PPA is not required. 
+ 
+Annex III: Implementation of bidding zone concept 
+and curtailment in non -EU countries 
+The provisions implemented in this document and based on the Commission 
+Delegated Regulations 2023/1184 and 2023/1185 (RFNBOs Delegated Acts) 
+refer to concepts and definitions set out in the European Union electricity 
+market. However, given the fact that those provisions apply regardless of 
+whether RFNBOs are produced inside or outside the territory of the European 
+Union, ISCC provides guidelines on how to implement and apply key -concepts 
+in non -EU countries. 
+Implementation of the bidding zone concept 
+ 
+As described, the RED II employs the term “bidding zone” to outline specific 
+requirements with respect to electricity requirements and RFNBOs production 
+(see chapters 4.2.1, 4.2.2, 4.3.2, and 4.3.3). The term “bidding zone” is 
+defined in the Article 2(41) of Regulation (EU) 2019/943 of the European 
+Parliament and of the Council Member States as “the largest geographical 
+area within which market participants are able to exchange energy without 
+capacity allocation“ . Further related definitions can be sourced in Article 2 of 
+the same Regulation. As a basic principle, in scenarios where these exact 
+terms do not exist or do not apply (e.g. non -EU countries), equivalent and 
+most similar concepts should be used . 
+ 
+In order to assess whether a certain geographical zone should be considered 
+a bidding zone equivalent, an approach following the criteria and rationale laid 
+down in the Regulation (EU) 2019/943 should be followed. At first, if rules 
+requiring the establishment of hourly price for electricity grid within a 
+geographical area are in place, the above area can be considered a bidding 
+zone equivalent. In the case those rules are not present, the physic al 
+
+© ISCC System GmbH 
+
+characteristics of the network shall be considered, namely if the electricity 
+network is integrated or several separated networks are present. If there 
+several networks are present , each network should be considered as a 
+bidding zone for the purpose of the implementation of the methodology. 
+If the electricity network of the country is integrated and there are no 
+geographically differentiated electricity prices, the whole country may be 
+considered as one bidding zone for the purpose of the implementation of the 
+RFNBO delegated act . 
+
+Figure 5 Guidance tree for bidding zone equivalent concept in non -EU countries 
+Please note that the result of the guidance tree does not represent an official 
+classification of bidding zone equivalent in non -EU countries. On the base of 
+the provided data and info by the system user, the auditor shall take the 
+decision whether a certa in geographical zone should be considered a bidding 
+zone equivalent or not. 
+ 
+Implementation of rules on curtailment 
+ 
+Chapter 4.2.3 lays down the requiremen ts for system users to source fully 
+renewable electricity through avoiding or reducing the need of downward 
+redispatching of installations generating renewable electricity . Implementation 
+of those requirements in third countries will require that: 
+(1) a national or regional entity with the equivalent tasks of a National 
+Transmission Operator is in place ( Directive (EU) 2019/944 of the European 
+Parliament and of the Council ); 
+(2) requirements and rules for redispatching downwards are equivalent to the 
+ones defined in Article 13 of Regulation (EU) 2019/943 . 
+
+© ISCC System GmbH 
+
+Annex IV: Requirements to verify eligible electricity 
+sourcing 
+ 
+Please note that the following table does not replace the ISCC Audit 
+Procedure: auditor are indeed required to use ISCC Audit Procedures during 
+audit. 
+ 
+Requirement Verification guidance (examples) 
+GENERAL REQUIREMENTS 
+Proof that the electricity used to produce 
+RFNBOs is measured independently 
+from any amount of electricity used for 
+different purposes. Layout plans that include electrical 
+connections and metering systems. 
+Verify that relevant data pertaining to 
+the amount of electricity that is used to 
+produce RFNBOs are measured and 
+documented with (at least) hourly 
+resolution. In particular, the following: 
+▪ amount sourced from the grid that 
+does not count as fully renewable as 
+well as the proportion of renewable 
+electricity in the grid; 
+▪ amount sourced as fully renewable via 
+eligible direct connections or from 
+eligible on -site electricity generating 
+installations; 
+▪ amount sourced as fully renewable 
+because the criteria for electricity from 
+grids with a renewable energy share 
+exceeding 90%; 
+▪ amount sourced as fully renewable 
+because the criteria for electricity from 
+grids with emission intensities lower 
+than 18 gCO 2eq/MJ; 
+▪ amount sourced as fully renewable 
+because the criteria on additionality, 
+temporal correlation and geographical 
+correlation; 
+▪ amount of renewable electricity 
+generated by the installations 
+generating renewable electricity, 
+regardless of whether they are directly 
+connected to an electrolyser and 
+regardless of whether the renewable 
+electricity is used for the production of 
+RFNBO or for other purposes. Electricity metering system, internal 
+company documentation system. 
+Verify that the relevant data referred to: 
+▪ amount of renewable electricity 
+generated by all directly connected 
+installations (including on -site), Electricity metering system, internal 
+company documentation system. 
+
+© ISCC System GmbH 
+
+▪ amount of electricity generated by all 
+installations that are covered by 
+PPA(s) concluded by the RFNBO 
+producer, 
+▪ amount of electricity generated by 
+installations owned by the RFNBO 
+producer regardless of whether the 
+renewable electricity is used to 
+produce RFNBOs or for other 
+purposes, 
+are measured and documented with (at 
+least) hourly resolution. 
+Verify that the relevant data referred to: 
+▪ the amount of RFNBOs produced , 
+and 
+▪ the amount of any other products 
+produced that do not qualify as 
+RFNBOs 
+are measured and documented with (at 
+least) hourly resolution . Internal company documentation 
+system. 
+PARTIALLY RENEWABLE ELECTRICITY 
+Evidence showing the average share of 
+electricity from renewable sources in the 
+country the RFNBO producing 
+installation is located in, as measured 
+two years before the year in question. Statistics about the share of renewable 
+electricity in the grid drawn from reliable 
+sources (e.g., country’s energy office, 
+grid operator, Eurostat SHARES). 
+FULLY RENEWABLE ELECTRICITY 
+1. DIRECT CONNECTION 
+Verify that a direct line/connection 
+between the RES producer and the 
+RFNBOs production plant is in place. On-site audit, layout plans showing 
+electrical connections. 
+a) Ensure that the electricity producing 
+installation not connected to the grid 
+ 
+or 
+ 
+b) ensure that no electricity from the grid 
+is counted as if it were coming from the 
+direct connection. a) Verify that no connection with the grid 
+is in place (via on -site audit, layout plans 
+showing electrical connections and 
+metering systems). 
+ 
+b) Verify that there is a correctly 
+calibrated - smart metering system in 
+place that ensures no electricity flows 
+from the grid to the RFNBOs producing 
+installation were counted as having 
+come via the direct line (via on -site 
+audit, layout plans showing el ectrical 
+connections and metering systems). 
+
+© ISCC System GmbH 
+
+Ensure that the energy source used to 
+produce electricity is renewable, not of 
+biological origin, and not from a storage 
+unit. On-site visit, satellite imagery (e.g. 
+remote sensing), GoOs or similar 
+(EACs) if available. 
+Ensure that the installation generating 
+electricity came into operation not 
+earlier than 36 months before the 
+installation producing RFNBOs. Commissioning documents or operation 
+permits for installation(s) generating 
+electricity. 
+In case additional production capacity 
+was added to an existing installation 
+producing RFNBOs: Ensured that the 
+additional production capacity was 
+added a at the same site and took place 
+no later than 36 months after the initial 
+installation came into operation. Commissioning documents or operation 
+permits for installation(s) producing 
+RFNBOs. 
+2. ELECTRICITY FROM A GRID WITH RENEWABLE 
+ENERGY SHARE EXCEEDING 90% 
+Ensure that the RFNBOs production 
+plant is located in a bidding zone where 
+the proportion of renewable electricity 
+exceeds 90% in the previous calendar 
+year. Statistics about the share of renewable 
+electricity in the bidding zone drawn 
+from reliable sources (e.g. ENTSO -E 
+website, Eurostat SHARES, official 
+national statistics). 
+In the case the concept of bidding zone 
+equivalent (outiside of the EU territories) 
+is used, ensure that the methodology is 
+properly followed. Electricity data from the relevant grid 
+operator (establishment of an hourly 
+price for electricity in the selected 
+geographical area, physical 
+characteristics of the network). 
+Ensure that the number of full load 
+hours of RFNBOs production is limited 
+to the share of renewable electricity in 
+the bidding zone. Statistics about the share of renewable 
+electricity in the bidding zone drawn 
+from reliable sources (e.g. ENTSO -E 
+website). Internal documentation about 
+use of the eligible electricity for RFNBOs 
+production (e.g. via metering system), 
+amounts of produced RFNBOs and the 
+amounts of any other products produced 
+that do not qualify as RFNBOs 
+(documentation of operating hou rs). 
+Ensure that if GoOs are used, those are 
+in line with the related requirements and 
+canceled once the electricity claimed in 
+those has been used. Proof of cancellation (either from the 
+electricity producer of from the 
+competent body deisgnated by the 
+Member State). 
+3. ELECTRICITY VIA A GRID WITH AN EMISSION 
+INTENSITY LOWER THAN 18 gCO 2EQ/MJ 
+Ensure that the RFNBOs production 
+plant is located in a bidding zone where 
+where the emission intensity of 
+electricity is lower than 18 gCO 2eq/MJ in 
+at least one calendar year of the last six 
+preceding calendar years. GoOs document. Verify that either the 
+correct value for EU Member State is 
+correctly used (up -to-date values from 
+reliable source, e.g. the Annex of the 
+Commission Implementing Regulation 
+2023/1185) or the calculation 
+emthodology has been correctly 
+perform ed. 
+
+© ISCC System GmbH 
+
+Ensure that the sourced electricity is 
+substantiated by PPAs. Verify if PPAs 
+with renewable electricity installations 
+cover at least the amount of electricity 
+counted as fully renewable and that 
+these are valid for the period during 
+which the respective amount of 
+electricity is sourced. PPAs, internal documentation. 
+Verify that the criteria on geographical 
+correlation have been met. See the section “Geographical 
+Correlation”. 
+Verify that the criteria on temporal 
+correlation have been met. See the section “Temporal Correlation”. 
+Ensure that if GoOs are used, those are 
+in line with the related requirements and 
+canceled once the electricity claimed in 
+those has been used. GoOs documents and their Proof of 
+cancellation (either from the electricity 
+producer of from the competent body 
+deisgnated by the Member State). 
+4. ELECTRICITY FROM THE GRID AVOIDING OR REDUCING 
+THE NEED OF DOWNWARD REDISPATCHING OF 
+INSTALLATIONS GENERATING RENEWABLE ELECTRICITY 
+Ensure that power -generating 
+installations using renewable energy 
+sources were redispatched downwards. Evidence from the national transmission 
+system operator. 
+Verify that the electricity consumed for 
+the production of RFNBOs reduced the 
+need for redispatching by a 
+corresponding amount. Evidence from the national transmission 
+system operator. 
+5. ELECTRICITY VIA THE GRID WITH FURTHER 
+REQUIREMENTS 
+Verify that the criteria on geographical 
+correlation have been met. See the section “ Geographical 
+Correlation ”. 
+Verify that the criteria on temporal 
+correlation have been met. See the section “ Temporal Correlation ”. 
+Verify that the criteria on additionality 
+have been met. See the section “ Additionality ”. 
+ADDITIONALITY 
+Verify that the electricity sourced is 
+substantiated by PPAs. PPAs, company metering systems. 
+ 
+Check if PPAs with renewable electricity 
+installations covering at least the 
+amount of electricity counted as fully 
+renewable are concluded and that these 
+are valid for the period during which the 
+respective amount of electricity is 
+sourced. 
+Verify that the electricity is 
+a) produced from eligible sources , GoOs or similar, PPAs, Self -
+Declaration. 
+
+© ISCC System GmbH 
+
+b) effectively produced in the 
+installations stated in the PPAs. 
+Verify if and when capacity has been 
+added to the initial installation producing 
+RFNBOs. Capacity that was added at 
+the same site and not later than 36 
+months after the initial installation came 
+into operation shall be counted as if it 
+came into operation at the same time as 
+the initial capacity. Commissioning documents or operation 
+permits for installation(s) producing 
+RFNBOs. 
+For installations producing RFNBOs 
+that came into operation on or after 01 
+January 2028 or for any RFNBO 
+production after 01 January 2038: 
+verify that renewable electricity 
+installations have come into operation 
+not earlier than 36 months before the 
+installation producing RFNBOs. Commissioning documents or operation 
+permits for installation(s) generating 
+electricity, PPAs, GOs or similar. 
+For installations producing RFNBOs 
+that came into operation on or after 01 
+January 2028 or for any RFNBO 
+production after 01 January 2038 : verify 
+that the renewable electricity 
+installations under PPA(s) have not 
+received support in the form of operating 
+aid or investment aid, excluding support 
+received by installations before the 
+repowering and support that does not 
+constitute net support, such as support 
+that is fully repaid. Verify that the renewable electricity 
+installations under the PPAs have not 
+received support in the form of operating 
+aid or investment aid (e.g. via statement 
+of competent authority), excluding 
+support received by installations before 
+a repowering ( e.g. via document 
+regarding the commissioning or 
+operation permit after the repowering ) 
+which required an investment exceeding 
+30% of the investment that would be 
+needed to build a similar new installation 
+(e.g. via financial assessment report) 
+and support that does not constitute net 
+support, such as support that is fully 
+repaid (e.g. via statement of competent 
+authority). 
+GEOGRAPHICAL CORRELATION 
+Verify if documents are provided that 
+show the location of the installations 
+producing renewable electricity under 
+the PPAs . PPAs. 
+Verify if the installation producing 
+renewable electricity is located : 
+a) in the same bidding zone as the 
+installation producing RFNBOs, or 
+b) in an interconnected onshore bidding 
+zone c) in an offshore bidding zone 
+interconnected to the installation 
+producing RFNBOs. GoOs or similar (e.g. EACs), PPAs, 
+appropriate documentation of the 
+location(s) of the renewable electricity 
+generating installation(s) and the 
+location of the installation producing 
+RFNBOs. 
+Verify if electricity produced in those 
+installations falling under b) is only Transparent and region -specific source 
+for electricity prices. 
+
+© ISCC System GmbH 
+
+claimed as fully renewable during time 
+periods for which the price for electricity 
+on the day -ahead market is equal or 
+higher in the pricing zone of the 
+electricity producing installation. 
+In the case the concept of bidding zone 
+equivalent (outiside of the EU territories) 
+is used, ensure that the proposed 
+methodology is properly followed. Electricity data from the relevant grid 
+operator (establishment of an hourly 
+price for electricity in the selected 
+geographical area, physical 
+characteristics of the network). 
+If additional criteria on geographical 
+correlation are mandated from the EU 
+Member State where the RFNBOs 
+producer is located, those must be met 
+accordingly. Verify compliance with the national law. 
+TEMPORAL CORRELATION 
+Until 31 December 2029: 
+a) verify that RFNBO is produced during 
+the same calendar month as the 
+renewable electricity produced in own 
+installations or in installations under 
+renewable PPA(s). 
+b) In case renewable electricity is drawn 
+from a storage asset, verify that (1) the 
+storage asset is located behind the 
+same network connection point as the 
+installation producing RFNBOs, (2) the 
+storage asset has been charged during 
+the same calendar month in w hich the 
+electricity under the PPA has been 
+produced. On-site audit, site layout plans showing 
+electrical connections, metering 
+systems as well as location and 
+connection points of storage asset, GOs 
+or similar, plant production reports, 
+transparent and understandable (online) 
+smart metering tool, company int ernal 
+documentation system. 
+From 1 January 2030: 
+a) verify that RFNBO is produced during 
+the same one -hour period as the 
+renewable electricity produced in own 
+installations or in installations under 
+renewable PPA(s). 
+b) In case renewable electricity is drawn 
+from a storage asset, verify that (1) the 
+storage asset is located behind the 
+same network connection point as the 
+installation producing RFNBOs, (2) the 
+storage asset has been charged during 
+the same one -hour peri od in which the 
+electricity under the PPA has been 
+produced. On-site audit, site layout plans showing 
+electrical connections, metering 
+systems as well as location and 
+connection points of storage asset, GOs 
+or similar, plant production reports, 
+transparent and understandable (online) 
+smart metering tool, company int ernal 
+documentation system. 
+If RFNBOs is produced during a one -
+hour period where the clearing price of 
+electricity resulting from single day -
+ahead market coupling in the bidding 
+zone is lower or equal to EUR 20 per Reliable source of day ahead electricity 
+prices in the bidding zone (e.g. ENTSO -
+E) and price of an allowance to emit one 
+tonne of CO 2 equivalent. 
+
+© ISCC System GmbH 
+
+MWh or lower than 0,36 times the price 
+of an allowance to emit one tonne of 
+CO 2 equivalent during the relevant 
+period, temporal correlation is always 
+met. 
+Verify if the EU M ember State where the 
+RFNBOs production plant is located has 
+implemented hourly correlation already 
+after 1 July 2027. Verify compliance with the national law.
