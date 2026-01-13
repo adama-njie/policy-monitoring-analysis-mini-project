@@ -1,0 +1,35 @@
+# Core NLP Libraries
+nltk==3.8.1
+spacy==3.7.2
+
+# Document Processing
+PyPDF2==3.0.1
+python-docx==1.1.0
+
+# Data Processing & Analysis
+pandas==2.1.4
+numpy==1.26.2
+
+# Embeddings & Semantic Search (for Phase 1+)
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+chromadb==0.4.18
+
+# Topic Modeling (for Phase 4)
+bertopic==0.16.0
+umap-learn==0.5.5
+hdbscan==0.8.33
+
+# Visualization
+plotly==5.18.0
+matplotlib==3.8.2
+seaborn==0.13.0
+wordcloud==1.9.3
+
+# Dashboard (for Phase 5)
+streamlit==1.29.0
+streamlit-aggrid==0.3.4.post3
+
+# Utilities
+tqdm==4.66.1
+python-dateutil==2.8.2
