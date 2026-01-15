@@ -236,4 +236,4 @@ For questions or collaboration opportunities, please open an issue or contact vi
 
 ---
 
-**Note:** This project analyzes a sample corpus of 20 (I used small document size because I am running it on my local machine) EU energy policy documents. To use with your own documents, place them in the `raw_documents/` folder and run the pipeline.
+**Note:** This project analyzes a sample corpus of 20 (I used small corpus size because I am running it on my local machine) EU energy policy documents. To use with your own documents, place them in the `raw_documents/` folder and run the pipeline.
