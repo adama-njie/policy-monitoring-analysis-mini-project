@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io)
 
-An end-to-end NLP pipeline for analyzing policy documents using semantic search, named entity recognition, topic modeling, and interactive visualization.
+An end-to-end NLP pipeline for analyzing policy documents using semantic search, named entity recognition, topic modeling, and interactive visualization (Take it as a proof-of-concept).
 
 ## Overview
 
