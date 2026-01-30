@@ -36,8 +36,8 @@ class PolicySemanticSearch:
         
         self.documents = []
         self.metadata = []
-        self.embeddings = None
-        self.index = None
+        self.embeddings = None # Document embeddings
+        self.index = None # FAISS index
         
         # Load processed documents
         self._load_documents()
@@ -155,9 +155,9 @@ class PolicySemanticSearch:
         
         dimension = self.embeddings.shape[1]
         
-        if index_type == 'flat':
+        if index_type == 'flat': 
             # Exact search - slower but accurate
-            self.index = faiss.IndexFlatL2(dimension)
+            self.index = faiss.IndexFlatL2(dimension) 
         elif index_type == 'ivf':
             # Approximate search - faster for large datasets
             nlist = min(100, len(self.embeddings) // 10)  # Number of clusters
@@ -339,7 +339,7 @@ class PolicySemanticSearch:
         print(f"✓ Results saved to {output_path}")
 
 
-def main():
+if __name__ == "__main__":
     """Main execution function."""
     # Initialize search engine
     search_engine = PolicySemanticSearch(
@@ -425,6 +425,3 @@ def main():
     print("  ✓ Similar document finding")
     print("\nNext: Phase 2 - Document Comparison")
 
-
-if __name__ == "__main__":
-    main()

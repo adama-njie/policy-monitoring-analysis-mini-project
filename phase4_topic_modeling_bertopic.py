@@ -95,24 +95,24 @@ class PolicyTopicModeler:
         print("\nInitializing embedding model...")
         sentence_model = SentenceTransformer(embedding_model)
         
-        # Initialize UMAP for dimensionality reduction
+        # Initialize UMAP for dimensionality reduction, redduced from 384 to 5
         print("Configuring UMAP...")
         umap_model = UMAP(
             n_neighbors=3,  # Small corpus, small neighbors
-            n_components=5,
-            min_dist=0.0,
-            metric='cosine',
-            random_state=42
+            n_components=5, # Reduced dimensions for better clustering
+            min_dist=0.0, # Tight packing
+            metric='cosine', # Cosine distance for text embeddings
+            random_state=42 # For reproducibility
         )
         
         # Initialize HDBSCAN for clustering
         print("Configuring HDBSCAN...")
         hdbscan_model = HDBSCAN(
             min_cluster_size=min_topic_size,
-            min_samples=1,
-            metric='euclidean',
-            cluster_selection_method='eom',
-            prediction_data=True
+            min_samples=1, # Allow small clusters
+            metric='euclidean', # Euclidean distance in UMAP space
+            cluster_selection_method='eom', # Excess of mass method
+            prediction_data=True # Enable prediction of new data points
         )
         
         # Initialize CountVectorizer for topic representation
@@ -129,7 +129,7 @@ class PolicyTopicModeler:
             umap_model=umap_model,
             hdbscan_model=hdbscan_model,
             vectorizer_model=vectorizer_model,
-            top_n_words=10,
+            top_n_words=10, # Top words per topic
             n_gram_range=(1, 3),
             calculate_probabilities=True,
             verbose=True

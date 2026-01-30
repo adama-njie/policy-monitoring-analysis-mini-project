@@ -374,7 +374,8 @@ class DocumentComparisonAnalyzer:
         sns.heatmap(
             similarity_df,
             mask=mask,
-            annot=False,
+            annot=True,
+            fmt=".2f",
             cmap='RdYlGn',
             vmin=0,
             vmax=1,

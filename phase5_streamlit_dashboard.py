@@ -12,6 +12,27 @@ from pathlib import Path
 import plotly.express as px
 import plotly.graph_objects as go
 
+#---------------------------------------------------------------------------
+# Added this code because I want to use the dashboard in Streamlit Cloud,
+# which requires all imports to be at the top level.
+#---------------------------------------------------------------------------
+""" 
+import subprocess
+import sys
+
+# Download spaCy model if not present
+def download_spacy_model():
+    try:
+        import spacy
+        spacy.load("en_core_web_sm")
+    except OSError:
+        subprocess.check_call([sys.executable, "-m", "spacy", "download", "en_core_web_sm"])
+
+# Run on startup
+download_spacy_model()
+"""
+#---------------------------------------------------------------------------
+
 # Page configuration
 st.set_page_config(
     page_title="Policy Analysis Dashboard",
