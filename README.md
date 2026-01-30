@@ -17,6 +17,8 @@ This project demonstrates automated policy analysis using modern NLP techniques.
 - **Document Similarity Analysis** - Identify coherent and divergent policies
 - **Named Entity Recognition** - Extract organizations, locations, and policy instruments
 - **Topic Modeling** - Discover latent themes using BERTopic
+- **Automatic Summarisation** - Summarise long text (Extractive, Abstractive, Hybrid)
+- **Discourse Analytics** - Analyze policy discourse patterns, framing, and rhetorical strategies
 - **Interactive Dashboard** - Explore results through Streamlit web interface
 
 ## Results Summary
@@ -71,6 +73,8 @@ python phase3_1_ner.py
 python phase3_2_ultimate_cleaning.py
 python phase3_3_regenerate_visuals.py
 python phase4_topic_modeling_bertopic.py
+python phase6_automatic_summarisation.py
+python phase7_discourse_analysis.py
 
 # Launch dashboard
 streamlit run phase5_streamlit_dashboard.py
